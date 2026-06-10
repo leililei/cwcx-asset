@@ -1,0 +1,19 @@
+-- Code Auto Create Begin
+local M = Class('Huiguirenwu_UI', UIBase)
+function M:ctor()
+    M.super.ctor(self)
+    self.Uid = UID.Huiguirenwu_UI
+    self.PathPrefab = 'ABOriginal/Prefab/Form/Form[Huiguirenwu_UI].prefab'
+    self.Name = 'Form[Huiguirenwu_UI]'
+    self.Layer = UILayerLv.Normal
+    self.Depth = 1
+    -- 没有使用组建缓存列表
+    self.CC = {
+        -- Image 列表
+        {'Background','Ani/Background',2},{'bg','Ani/bg',2},{'title','Ani/title',2},{'icon_jieduanjiangli','Ani/icon_jieduanjiangli',2},{'icon','Ani/icon_jieduanjiangli/icon',2},{'btn_lingqu','Ani/icon_jieduanjiangli/btn_lingqu',2},{'yeqian_xuanzhong','Ani/yeqianPanel/yeqianPrefab/yeqian_xuanzhong',2},{'icon_yeqian','Ani/yeqianPanel/yeqianPrefab/icon_yeqian',2},{'mask_yeqian','Ani/yeqianPanel/yeqianPrefab/mask_yeqian',2},{'img_suo','Ani/yeqianPanel/yeqianPrefab/mask_yeqian/img_suo',2},{'img_gou','Ani/yeqianPanel/yeqianPrefab/mask_yeqian/img_gou',2},{'Scroll','Ani/Scroll',2},{'renwuItem','Ani/Scroll/renwuItem',2},{'img_wancheng_mask','Ani/Scroll/renwuItem/img_wancheng_mask',2},{'btn_qianwang','Ani/Scroll/renwuItem/btn_qianwang',2},{'btn_lingqu01','Ani/Scroll/renwuItem/btn_lingqu',2},{'RewardPanel','Ani/Scroll/renwuItem/RewardPanel',2},{'RewardItem','Ani/Scroll/renwuItem/RewardPanel/RewardItem',2},{'RewardRankImg','Ani/Scroll/renwuItem/RewardPanel/RewardItem/RewardRankImg',2},{'RewardIconImg','Ani/Scroll/renwuItem/RewardPanel/RewardItem/RewardIconImg',2},{'Img_ItemCountBg','Ani/Scroll/renwuItem/RewardPanel/RewardItem/Img_ItemCountBg',2},{'StarPanel','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel',2},{'EmptyStarRoot','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot',2},{'EmptyStar','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'EmptyStar01','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'EmptyStar02','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'EmptyStar03','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'EmptyStar04','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'EmptyStar05','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/EmptyStarRoot/EmptyStar',2},{'ItemStarRoot','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/ItemStarRoot',2},{'ItemStarPrefab','Ani/Scroll/renwuItem/RewardPanel/RewardItem/StarPanel/ItemStarPrefab',2},{'Img_Received','Ani/Scroll/renwuItem/RewardPanel/RewardItem/Img_Received',2},{'btn_yijianlingqu_hui','Ani/btn_yijianlingqu_hui',2},{'btn_yijianlingqu','Ani/btn_yijianlingqu',2},{'ReturnBg','Ani/ReturnBg',2},{'Btn_GoMenu','Ani/ReturnBg/Btn_GoMenu',2},{'Btn_Back','Ani/ReturnBg/Btn_Back',2},{'Img_Fenggexian','Ani/ReturnBg/Img_Fenggexian',2},{'Btn_Help','Ani/ReturnBg/Btn_Help',2},
+        -- TextMeshProUGUI 列表
+        {'txt_jieduanjiangli','Ani/icon_jieduanjiangli/txt_jieduanjiangli',20},{'txt_lingqu','Ani/icon_jieduanjiangli/btn_lingqu/txt_lingqu',20},{'Text_yeqian','Ani/yeqianPanel/yeqianPrefab/Text_yeqian',20},{'txt_yiwancheng','Ani/Scroll/renwuItem/img_wancheng_mask/txt_yiwancheng',20},{'txt_qianwang','Ani/Scroll/renwuItem/btn_qianwang/txt_qianwang',20},{'txt_lingqu01','Ani/Scroll/renwuItem/btn_lingqu/txt_lingqu',20},{'ItemCountText','Ani/Scroll/renwuItem/RewardPanel/RewardItem/Img_ItemCountBg/ItemCountText',20},{'Text_Yilingqu2','Ani/Scroll/renwuItem/RewardPanel/RewardItem/Img_Received/Text_Yilingqu2',20},{'txt_renwu','Ani/Scroll/renwuItem/txt_renwu',20},{'txt_jindu','Ani/Scroll/renwuItem/txt_jindu',20},{'txt_lingqu02','Ani/btn_yijianlingqu/txt_lingqu',20},{'Text_Title_CN','Ani/ReturnBg/Text_Title/Text_Title_CN',20},{'Text_Title_EN','Ani/ReturnBg/Text_Title/Text_Title_EN',20},
+    }
+end
+-- Code Auto Create End
+return M

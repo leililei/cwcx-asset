@@ -1,0 +1,39 @@
+---@class ShoweranimeLocalData
+ShoweranimeLocalData = {
+id = 0,
+animeplay_start = "0",
+animeplay_gaming = "0",
+level1_idle = "0",
+level1_touch = "0",
+level1_touchvoice = "0",
+level1_changeface = "0",
+level1_upvoice = "0",
+level2_idle = "0",
+level2_touch = "0",
+level2_touchvoice = "0",
+level2_changeface = "0",
+level2_upvoice = "0",
+level3_idle = "0",
+level3_touch1 = "0",
+level3_touchvoice = "0",
+gameend_spinefile = 0,
+gameend_coordinate = "0",
+gameend_spinefirst = "0",
+gameend_spinesecond = "0",
+gameend_spinetouch = "0",
+gameend_voice = "0",
+animeplay_end = "0",
+failspine = "0",
+failvoice = "0",
+headpng = "0",
+}
+---@type ShoweranimeLocalData[]
+ShoweranimeLocalData.tab = {
+[1100001] = {id = 1100001, animeplay_start = "BathGame1_Start", animeplay_gaming = "BathGame1_Shake", level1_idle = "level1_idle", level1_touch = "1,2,3,7,8,9:touch2;4,5,6,10,11,12:touch3;13,14,15,19,20,21:touch4;16,17,18,22,23,24:touch5", level1_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level1_changeface = "level1_idle", level1_upvoice = "shower_chalisha_5", level2_idle = "level2_idle", level2_touch = "1,2,3,7,8,9:touch2;4,5,6,10,11,12:touch3;13,14,15,19,20,21:touch4;16,17,18,22,23,24:touch5", level2_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level2_changeface = "level2_idle", level2_upvoice = "shower_chalisha_6", level3_idle = "level3_idle", level3_touch1 = "1,2,7,8:touch2;4,5,6,10,11,12:touch3;13,14,19,20:touch4;16,17,18,22,23,24:touch5", level3_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_7", gameend_spinefile = 90001002, gameend_coordinate = "-60.2,-1044;70;0", gameend_spinefirst = "game2_finishtouch", gameend_spinesecond = "game1_finish", gameend_spinetouch = "game1_finishtouch", gameend_voice = "shower_chalisha_8", animeplay_end = "Ani_BathGameEnd_UI", failspine = "0", failvoice = "0", headpng = "BackRub/Spine_2;BackRub/Spine_2", "0", "0"},
+[1100002] = {id = 1100002, animeplay_start = "BathGame2_Start", animeplay_gaming = "BathGame2_Shake", level1_idle = "level1_idle", level1_touch = "level1_touch7;level1_touch6", level1_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level1_changeface = "level1_idle", level1_upvoice = "shower_chalisha_5", level2_idle = "level2_idle", level2_touch = "level2_touch7;level2_touch6", level2_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level2_changeface = "level2_idle", level2_upvoice = "shower_chalisha_6", level3_idle = "level3_idle", level3_touch1 = "level3_touch7;level3_touch6", level3_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_7", gameend_spinefile = 90001002, gameend_coordinate = "-60.2,-1044;70;0", gameend_spinefirst = "game2_finish", gameend_spinesecond = "game2_finish", gameend_spinetouch = "game2_finishtouch", gameend_voice = "shower_chalisha_12", animeplay_end = "Ani_BathGameEnd_UI", failspine = "0", failvoice = "0", headpng = "BackRub/Spine_2;BackRub/Spine_2", "0", "0"},
+[1100003] = {id = 1100003, animeplay_start = "BathGame3_Start", animeplay_gaming = "0", level1_idle = "p1_dj", level1_touch = "1,2,3,7,8,9,13,14,15,19,20,21:p1_dj;4,5,6,10,11,12:p1_dj", level1_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level1_changeface = "p1_up", level1_upvoice = "shower_chalisha_5", level2_idle = "p2_dj", level2_touch = "1,2,3,7,8,9,13,14,15,19,20,21:p2_dj;4,5,6,10,11,12:p2_dj", level2_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_4", level2_changeface = "p2_up", level2_upvoice = "shower_chalisha_6", level3_idle = "p3_dj", level3_touch1 = "1,2,3,7,8,9,13,14,15,19,20,21:p3_dj;4,5,6,10,11,12:p3_dj", level3_touchvoice = "shower_chalisha_2;shower_chalisha_3;shower_chalisha_7", gameend_spinefile = 90001002, gameend_coordinate = "-60.2,-735;60;0", gameend_spinefirst = "game3_finish_kouhong", gameend_spinesecond = "game3_finish", gameend_spinetouch = "game3_finishtouch", gameend_voice = "shower_chalisha_13", animeplay_end = "Ani_BathGameEnd_UI", failspine = "p1_mistake;p2_mistake;p3_mistake", failvoice = "shower_chalisha_5;shower_chalisha_5;shower_chalisha_5", headpng = "0", "0", "0"},
+[1002801] = {id = 1002801, animeplay_start = "BathGame1_Start", animeplay_gaming = "BathGame1_Shake", level1_idle = "game1_p1iale", level1_touch = "game1_p1touch1;game1_p1touch2", level1_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level1_changeface = "game1_p1iale", level1_upvoice = "shower_duoluolisi_5", level2_idle = "game1_p2iale", level2_touch = "game1_p2touch1;game1_p2touch2", level2_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level2_changeface = "game1_p2iale", level2_upvoice = "shower_duoluolisi_6", level3_idle = "game1_p3iale", level3_touch1 = "game1_p3touch1;game1_p3touch2", level3_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_7", gameend_spinefile = 90002005, gameend_coordinate = "-100,-1215;150;0", gameend_spinefirst = "game1_finishtouch", gameend_spinesecond = "game1_finish", gameend_spinetouch = "game1_finishtouch", gameend_voice = "shower_duoluolisi_8", animeplay_end = "Ani_BathGameEnd_UI", failspine = "0", failvoice = "0", headpng = "BackRub/Spine_3;BackRub/Spine_4", "0", "0"},
+[1002802] = {id = 1002802, animeplay_start = "BathGame2_Start", animeplay_gaming = "BathGame2_Shake", level1_idle = "game2_p1idle", level1_touch = "1,2,3,7,8,9:game2_touch1;4,5,6,10,11,12:game2_touch2;13,14,15,19,20,21:game2_touch1;16,17,18,22,23,24:game2_touch2", level1_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level1_changeface = "game2_p1idle", level1_upvoice = "shower_duoluolisi_5", level2_idle = "game2_p2idle", level2_touch = "1,2,3,7,8,9:game2_touch3;4,5,6,10,11,12:game2_touch4;13,14,15,19,20,21:game2_touch3;16,17,18,22,23,24:game2_touch4", level2_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level2_changeface = "game2_p2idle", level2_upvoice = "shower_duoluolisi_6", level3_idle = "game2_p3idle", level3_touch1 = "1,2,7,8:game2_touch5;4,5,6,10,11,12:game2_touch6;13,14,19,20:game2_touch5;16,17,18,22,23,24:game2_touch6", level3_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_7", gameend_spinefile = 90002005, gameend_coordinate = "-100,-1215;150;0", gameend_spinefirst = "game2_finishtouch", gameend_spinesecond = "game2_finish", gameend_spinetouch = "game2_finishtouch", gameend_voice = "shower_duoluolisi_12", animeplay_end = "Ani_BathGameEnd_UI", failspine = "0", failvoice = "0", headpng = "BackRub/Spine_3;BackRub/Spine_4", "0", "0"},
+[1002803] = {id = 1002803, animeplay_start = "BathGame3_Start", animeplay_gaming = "0", level1_idle = "game3_p1idle", level1_touch = "1,2,3,7,8,9,13,14,15,19,20,21:game3_p1idle;4,5,6,10,11,12:game3_p1idle", level1_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level1_changeface = "game3_p1up", level1_upvoice = "shower_duoluolisi_5", level2_idle = "game3_p2idle", level2_touch = "1,2,3,7,8,9,13,14,15,19,20,21:game3_p2idle;4,5,6,10,11,12:game3_p2idle", level2_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_4", level2_changeface = "game3_p2up", level2_upvoice = "shower_duoluolisi_6", level3_idle = "game3_p3idle", level3_touch1 = "1,2,3,7,8,9,13,14,15,19,20,21:game3_p3idle;4,5,6,10,11,12:game3_p3idle", level3_touchvoice = "shower_duoluolisi_2;shower_duoluolisi_3;shower_duoluolisi_7", gameend_spinefile = 90002005, gameend_coordinate = "300,-800;110;0", gameend_spinefirst = "game3_finish_yumao", gameend_spinesecond = "game3_finish", gameend_spinetouch = "game3_finishtouch", gameend_voice = "shower_duoluolisi_13", animeplay_end = "Ani_BathGameEnd_UI", failspine = "game3_p1mistake;game3_p2mistake;game3_p3idle", failvoice = "shower_duoluolisi_2;shower_duoluolisi_2;shower_duoluolisi_2", headpng = "0", "0", "0"},
+}
+return ShoweranimeLocalData

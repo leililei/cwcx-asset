@@ -1,0 +1,25 @@
+-- Code Auto Create Begin
+local M = Class('RoleFavorability_UI', UIBase)
+function M:ctor()
+    M.super.ctor(self)
+    self.Uid = UID.RoleFavorability_UI
+    self.PathPrefab = 'ABOriginal/Prefab/Form/Form[RoleFavorability_UI].prefab'
+    self.Name = 'Form[RoleFavorability_UI]'
+    self.Layer = UILayerLv.Pop
+    self.Depth = 1
+    -- 没有使用组建缓存列表
+    self.CC = {
+        -- Image 列表
+        {'Bg','Bg',2},{'RightPanel','RightPanel',2},{'Bg01','RightPanel/Bg',2},{'Img_WhiteBackground','RightPanel/Img_WhiteBackground',2},{'Btn_Quxiao','RightPanel/FavorabilityGift/Btn_Quxiao',2},{'Btn_Queding','RightPanel/FavorabilityGift/Btn_Queding',2},{'SwitchBtnPanel','RightPanel/SwitchBtnPanel',2},{'SwitchProgressBtnPanel','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel',2},{'Btn_Normal','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_Normal',2},{'Btn_Img','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_Normal/Btn_Img',2},{'Btn_HighLight','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_HighLight',2},{'Btn_Img01','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_HighLight/Btn_Img',2},{'SwitchGiftBtnPanel','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel',2},{'Btn_Normal01','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_Normal',2},{'Btn_Img02','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_Normal/Btn_Img',2},{'Btn_HighLight01','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_HighLight',2},{'Btn_Img03','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_HighLight/Btn_Img ',2},{'Img_Xian','RightPanel/Img_Xian',2},{'Img_Xian01','RightPanel/Img_Xian',2},{'LeftPanel','LeftPanel',2},{'heidi2','LeftPanel/RoleInfoPanel/heidi2',2},{'heidi1','LeftPanel/RoleInfoPanel/heidi1',2},{'RoleNameBG(1)','LeftPanel/RoleInfoPanel/RoleNameBG (1)',2},{'LowerInfoPanel','LeftPanel/RoleInfoPanel/LowerInfoPanel',2},{'Img_guang','LeftPanel/RoleInfoPanel/LowerInfoPanel/Img_guang',2},{'StarPrefab','LeftPanel/RoleInfoPanel/LowerInfoPanel/StarPrefab',2},{'StarPrefabJueXing','LeftPanel/RoleInfoPanel/LowerInfoPanel/StarPrefabJueXing',2},{'StarPanel','LeftPanel/RoleInfoPanel/LowerInfoPanel/StarPanel',2},{'jiao','LeftPanel/RoleInfoPanel/jiao',2},{'GroupIconImg','LeftPanel/RoleInfoPanel/jiao/GroupIconImg',2},{'Img_Fenggexian2','LeftPanel/RoleInfoPanel/Img_Fenggexian2',2},{'pilot','LeftPanel/RoleInfoPanel/pilot',2},{'RoleOccupationImg','LeftPanel/RoleInfoPanel/RoleOccupationImg',2},{'RoleFavorabilityPanel','LeftPanel/RoleFavorabilityPanel',2},{'RoleFavorabilitySlider','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider',2},{'haogandudi','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider/haogandudi',2},{'CenterFavorSlider','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider/haogandudi/CenterFavorSlider',2},{'Img_Haogandudi','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider/Img_Haogandudi',2},{'xian','DetailPanel/xian',2},{'chakandi','DetailPanel/chakandi',2},{'fangda','DetailPanel/fangda',2},{'suoxiao','DetailPanel/suoxiao',2},{'Btn_ShowDetailSpine','DetailPanel/Btn_ShowDetailSpine',2},{'ReturnBg','ReturnBg',2},{'Btn_GoMenu','ReturnBg/Btn_GoMenu',2},{'Btn_Back','ReturnBg/Btn_Back',2},{'Img_Fenggexian','ReturnBg/Img_Fenggexian',2},{'Btn_Help','ReturnBg/Btn_Help',2},
+        -- Text 列表
+        {'IllustratorNameTitle','LeftPanel/RoleInfoPanel/heidi1/IllustratorNameTitle',3},{'IllustratorNameText','LeftPanel/RoleInfoPanel/heidi1/IllustratorNameText',3},{'Text_Title_CN','ReturnBg/Text_Title/Text_Title_CN',3},
+        -- UITemplate 列表
+        {'ProgressItem','RightPanel/FavorabilityProgress/ProgressItem',10},{'GiftItem','RightPanel/FavorabilityGift/GiftItem',10},
+        -- LoopScrollRect 列表
+        {'FavorabilityProgress','RightPanel/FavorabilityProgress',18},{'FavorabilityGift','RightPanel/FavorabilityGift',18},
+        -- TextMeshProUGUI 列表
+        {'Text_Quxiao','RightPanel/FavorabilityGift/Btn_Quxiao/Text_Quxiao',20},{'Text_Queding','RightPanel/FavorabilityGift/Btn_Queding/Text_Queding',20},{'Btn_Txt','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_Normal/Btn_Txt',20},{'Btn_Txt01','RightPanel/SwitchBtnPanel/SwitchProgressBtnPanel/Btn_HighLight/Btn_Txt',20},{'Btn_Txt02','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_Normal/Btn_Txt',20},{'Btn_Txt03','RightPanel/SwitchBtnPanel/SwitchGiftBtnPanel/Btn_HighLight/Btn_Txt',20},{'CVNameTitle','LeftPanel/RoleInfoPanel/heidi2/CVNameTitle',20},{'CVNameText','LeftPanel/RoleInfoPanel/heidi2/CVNameText',20},{'RoleNameTxt','LeftPanel/RoleInfoPanel/RoleNameBG (1)/RoleNameTxt',20},{'CurRoleFavorabilityText','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider/haogandudi/CurRoleFavorabilityText',20},{'Text_Haogandu','LeftPanel/RoleFavorabilityPanel/RoleFavorabilitySlider/Text_Haogandu',20},{'Text_Title_EN','ReturnBg/Text_Title/Text_Title_EN',20},
+    }
+end
+-- Code Auto Create End
+return M

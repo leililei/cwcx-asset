@@ -1,0 +1,24 @@
+ServerErrorCode={
+    BuyGoods_11 = 10011,  --- 10011
+    BuyGoods_515 = 11515, --- 11515
+    TaskPerform_560 = 11560, --- 11560
+    BossBattle_564 = 11564, --- 11564
+    BossBattle_508 = 11508, --- 11508
+    BossBattleText_564 = 11564, --- 11564
+    SetLevelStar_515 = 11515, --- 11515
+    SetLevelStar_503 = 11503, --- 11503
+    HighLadderBattleReward_9 = 10009, --- 10009
+    HighLadderBattleReward_501 = 11501, ---11501
+    HighLadderBattleEx_11519 = 11519,
+    HighLadderBattleEx_11501 = 11501,
+    HighLadderBattleEx_11511 = 11511,
+    HighLadderBattleEx_11631 = 11631,
+    BuyRandShopItem_11 = 10011, --- 10011
+    BuyRandShopItem_515 = 11515, ---11515
+    SignIn_4000 = 22000, --- 22000
+    BossData_626 = 11626, --- 11626
+    LimitSign2_4000 = 22000, --- 22000
+    BuyPassesLevel_515 = 11515, --- 11515
+    Reconnect_203 = 18203, --- 18203
+    ActivityGetReward_501 = 11501,
+}
