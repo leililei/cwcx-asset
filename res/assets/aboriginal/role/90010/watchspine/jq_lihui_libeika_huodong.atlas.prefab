@@ -1,0 +1,76 @@
+
+jq_lihui_libeika_huodong.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 674
+  size: 1000, 1743
+  orig: 1002, 1745
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 1219, 1854
+  size: 307, 188
+  orig: 309, 190
+  offset: 1, 1
+  index: -1
+haixiu
+  rotate: false
+  xy: 1526, 1852
+  size: 310, 190
+  orig: 312, 192
+  offset: 1, 1
+  index: -1
+haixiu2
+  rotate: false
+  xy: 0, 1675
+  size: 310, 190
+  orig: 312, 192
+  offset: 1, 1
+  index: -1
+kaixin
+  rotate: true
+  xy: 1836, 1735
+  size: 307, 206
+  orig: 309, 208
+  offset: 1, 1
+  index: -1
+nanguo
+  rotate: false
+  xy: 610, 1864
+  size: 310, 178
+  orig: 312, 180
+  offset: 1, 1
+  index: -1
+qianxiao
+  rotate: false
+  xy: 310, 1674
+  size: 307, 190
+  orig: 309, 192
+  offset: 1, 1
+  index: -1
+qidao
+  rotate: false
+  xy: 299, 1865
+  size: 311, 177
+  orig: 313, 179
+  offset: 1, 1
+  index: -1
+renzhen
+  rotate: false
+  xy: 920, 1863
+  size: 299, 179
+  orig: 301, 181
+  offset: 1, 1
+  index: -1
+shiluo
+  rotate: false
+  xy: 0, 1874
+  size: 299, 168
+  orig: 301, 170
+  offset: 1, 1
+  index: -1

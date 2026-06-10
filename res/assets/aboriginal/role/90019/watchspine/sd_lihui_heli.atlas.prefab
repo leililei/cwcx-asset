@@ -1,0 +1,111 @@
+
+sd_lihui_heli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afraid
+  rotate: true
+  xy: 1197, 1629
+  size: 229, 199
+  orig: 229, 199
+  offset: 0, 0
+  index: -1
+amile
+  rotate: true
+  xy: 1569, 1629
+  size: 229, 170
+  orig: 229, 170
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 1197, 1396
+  size: 233, 167
+  orig: 233, 167
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1036
+  size: 1197, 2226
+  orig: 1197, 2226
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1396, 1396
+  size: 235, 168
+  orig: 235, 168
+  offset: 0, 0
+  index: -1
+deyi
+  rotate: false
+  xy: 2532, 2791
+  size: 227, 153
+  orig: 227, 153
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 0, 0
+  size: 1036, 1178
+  orig: 1036, 1178
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1197, 1858
+  size: 609, 647
+  orig: 609, 647
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 1844, 2029
+  size: 438, 680
+  orig: 438, 680
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 1178, 241
+  size: 795, 1335
+  orig: 795, 1335
+  offset: 0, 0
+  index: -1
+leg-nogun
+  rotate: true
+  xy: 1197, 2467
+  size: 795, 1335
+  orig: 795, 1335
+  offset: 0, 0
+  index: -1
+no-gun
+  rotate: true
+  xy: 1844, 1738
+  size: 291, 707
+  orig: 291, 707
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2532, 2944
+  size: 229, 159
+  orig: 229, 159
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 2532, 3103
+  size: 255, 159
+  orig: 255, 159
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1396, 1631
+  size: 227, 173
+  orig: 227, 173
+  offset: 0, 0
+  index: -1

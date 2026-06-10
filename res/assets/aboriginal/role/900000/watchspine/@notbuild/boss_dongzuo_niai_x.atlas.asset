@@ -1,0 +1,97 @@
+
+boss_dongzuo_niai_x.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 0, 3823
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 104, 3810
+  size: 105, 199
+  orig: 105, 199
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 1203, 3615
+  size: 300, 432
+  orig: 300, 432
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 0, 0
+  size: 2215, 1253
+  orig: 2215, 1253
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 2280, 3475
+  size: 520, 440
+  orig: 955, 679
+  offset: 402, 239
+  index: -1
+F2
+  rotate: false
+  xy: 1635, 3509
+  size: 645, 406
+  orig: 1311, 1009
+  offset: 666, 0
+  index: -1
+H4
+  rotate: true
+  xy: 868, 3626
+  size: 289, 335
+  orig: 289, 335
+  offset: 0, 0
+  index: -1
+N1
+  rotate: false
+  xy: 1230, 2453
+  size: 1275, 1022
+  orig: 1275, 1022
+  offset: 0, 0
+  index: -1
+N3
+  rotate: true
+  xy: 2800, 3340
+  size: 575, 736
+  orig: 575, 736
+  offset: 0, 0
+  index: -1
+N4
+  rotate: true
+  xy: 0, 3008
+  size: 607, 1230
+  orig: 607, 1230
+  offset: 0, 0
+  index: -1
+X2
+  rotate: true
+  xy: 577, 3641
+  size: 274, 291
+  orig: 274, 291
+  offset: 0, 0
+  index: -1
+X3
+  rotate: false
+  xy: 303, 3772
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+X4
+  rotate: false
+  xy: 0, 1253
+  size: 3433, 1200
+  orig: 5251, 2631
+  offset: 612, 1011
+  index: -1

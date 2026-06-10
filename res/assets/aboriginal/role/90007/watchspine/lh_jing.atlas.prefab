@@ -1,0 +1,62 @@
+
+lh_jing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 1384
+  size: 929, 2550
+  orig: 931, 2552
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 250, 2366
+  size: 237, 184
+  orig: 239, 186
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: true
+  xy: 931, 2313
+  size: 237, 256
+  orig: 239, 258
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 0, 2435
+  size: 250, 115
+  orig: 252, 117
+  offset: 1, 1
+  index: -1
+joker
+  rotate: false
+  xy: 487, 2366
+  size: 222, 184
+  orig: 224, 186
+  offset: 1, 1
+  index: -1
+smile
+  rotate: true
+  xy: 1187, 2313
+  size: 237, 254
+  orig: 239, 256
+  offset: 1, 1
+  index: -1
+suirprise
+  rotate: true
+  xy: 1441, 2313
+  size: 237, 263
+  orig: 239, 265
+  offset: 1, 1
+  index: -1
+wink
+  rotate: false
+  xy: 709, 2354
+  size: 222, 196
+  orig: 224, 198
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+sd_lihui_mixiachangfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 539
+  size: 2406, 2936
+  orig: 2406, 2936
+  offset: 0, 0
+  index: -1
+bzsc
+  rotate: true
+  xy: 547, 213
+  size: 324, 386
+  orig: 324, 386
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2266, 337
+  size: 305, 200
+  orig: 305, 200
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 935, 213
+  size: 324, 386
+  orig: 324, 386
+  offset: 0, 0
+  index: -1
+gaoxing
+  rotate: false
+  xy: 1938, 135
+  size: 305, 200
+  orig: 305, 200
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1938, 337
+  size: 326, 200
+  orig: 326, 200
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 2
+  size: 535, 543
+  orig: 535, 543
+  offset: 0, 0
+  index: -1
+huangzhang
+  rotate: false
+  xy: 1631, 323
+  size: 305, 214
+  orig: 305, 214
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1323, 8
+  size: 305, 200
+  orig: 305, 200
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 1323, 315
+  size: 306, 222
+  orig: 306, 222
+  offset: 0, 0
+  index: -1

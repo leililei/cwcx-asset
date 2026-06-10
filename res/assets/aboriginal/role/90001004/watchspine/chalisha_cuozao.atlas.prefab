@@ -1,0 +1,244 @@
+
+chalisha_cuozao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 383, 6
+  size: 232, 217
+  orig: 1141, 520
+  offset: 278, 150
+  index: -1
+hongyun
+  rotate: true
+  xy: 831, 380
+  size: 730, 401
+  orig: 730, 401
+  offset: 0, 0
+  index: -1
+houtoufa2
+  rotate: false
+  xy: 0, 1963
+  size: 2039, 2133
+  orig: 2039, 2133
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 1584, 516
+  size: 633, 547
+  orig: 633, 547
+  offset: 0, 0
+  index: -1
+liufai
+  rotate: false
+  xy: 1855, 1438
+  size: 283, 525
+  orig: 283, 525
+  offset: 0, 0
+  index: -1
+meimao2_L
+  rotate: true
+  xy: 573, 1089
+  size: 123, 81
+  orig: 430, 107
+  offset: 307, 0
+  index: -1
+meimao2_R
+  rotate: true
+  xy: 707, 39
+  size: 184, 39
+  orig: 430, 107
+  offset: 0, 68
+  index: -1
+meimao_L
+  rotate: false
+  xy: 1207, 1149
+  size: 439, 84
+  orig: 439, 84
+  offset: 0, 0
+  index: -1
+meimao_R
+  rotate: false
+  xy: 1646, 1183
+  size: 439, 84
+  orig: 439, 84
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 223
+  size: 831, 860
+  orig: 831, 860
+  offset: 0, 0
+  index: -1
+text_game2_window_2
+  rotate: false
+  xy: 2131, 685
+  size: 472, 472
+  orig: 472, 472
+  offset: 0, 0
+  index: -1
+tongkong_L
+  rotate: true
+  xy: 1065, 1142
+  size: 91, 87
+  orig: 343, 124
+  offset: 252, 0
+  index: -1
+tongkong_R
+  rotate: true
+  xy: 805, 1110
+  size: 102, 93
+  orig: 343, 124
+  offset: 0, 31
+  index: -1
+toupiaodai
+  rotate: false
+  xy: 1232, 500
+  size: 352, 649
+  orig: 352, 649
+  offset: 0, 0
+  index: -1
+toupiaodai2
+  rotate: false
+  xy: 2236, 198
+  size: 292, 351
+  orig: 292, 351
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 2085, 1157
+  size: 281, 309
+  orig: 281, 309
+  offset: 0, 0
+  index: -1
+xiayanoi2_L
+  rotate: true
+  xy: 381, 1085
+  size: 127, 109
+  orig: 373, 109
+  offset: 246, 0
+  index: -1
+xiayanoi2_R
+  rotate: false
+  xy: 654, 1103
+  size: 151, 109
+  orig: 373, 109
+  offset: 0, 0
+  index: -1
+xiayanpi_L
+  rotate: false
+  xy: 2131, 617
+  size: 369, 68
+  orig: 369, 68
+  offset: 0, 0
+  index: -1
+xiayanpi_R
+  rotate: false
+  xy: 2131, 549
+  size: 369, 68
+  orig: 369, 68
+  offset: 0, 0
+  index: -1
+xiongdai
+  rotate: true
+  xy: 1293, 1267
+  size: 696, 562
+  orig: 696, 562
+  offset: 0, 0
+  index: -1
+yabpai_L
+  rotate: true
+  xy: 490, 1088
+  size: 124, 83
+  orig: 399, 119
+  offset: 275, 0
+  index: -1
+yabpai_R
+  rotate: false
+  xy: 898, 1117
+  size: 167, 95
+  orig: 399, 119
+  offset: 0, 24
+  index: -1
+you_dabi
+  rotate: false
+  xy: 381, 1212
+  size: 580, 751
+  orig: 580, 751
+  offset: 0, 0
+  index: -1
+you_jiemao
+  rotate: true
+  xy: 746, 49
+  size: 174, 111
+  orig: 174, 111
+  offset: 0, 0
+  index: -1
+you_shou
+  rotate: false
+  xy: 857, 5
+  size: 415, 375
+  orig: 415, 375
+  offset: 0, 0
+  index: -1
+you_xiaobi
+  rotate: false
+  xy: 1666, 21
+  size: 570, 495
+  orig: 570, 495
+  offset: 0, 0
+  index: -1
+youliuhai
+  rotate: false
+  xy: 961, 1233
+  size: 332, 730
+  orig: 332, 730
+  offset: 0, 0
+  index: -1
+youtoufa
+  rotate: true
+  xy: 0, 2
+  size: 221, 383
+  orig: 221, 383
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 1152, 1144
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 1855, 1369
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+zuo_jiemao
+  rotate: true
+  xy: 615, 11
+  size: 212, 92
+  orig: 212, 92
+  offset: 0, 0
+  index: -1
+zuoliuhai
+  rotate: false
+  xy: 0, 1083
+  size: 381, 880
+  orig: 381, 880
+  offset: 0, 0
+  index: -1
+zuoliuhai2
+  rotate: false
+  xy: 1272, 0
+  size: 394, 500
+  orig: 394, 500
+  offset: 0, 0
+  index: -1

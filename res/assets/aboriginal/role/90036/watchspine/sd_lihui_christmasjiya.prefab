@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "VvpB61iOg+JaNiN24AI8uVo6JXc",
+	"spine": "3.8.99",
+	"x": -637.35,
+	"y": -1577.36,
+	"width": 1295,
+	"height": 3095,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\jiya\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\jiya"
+},
+"bones": [
+	{ "name": "root", "x": -1427.35, "y": 2055.64 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "danyou", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "closeeyes", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "dajing", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1427.5, "y": -1025, "width": 321, "height": 200 }
+			},
+			"body": {
+				"body": { "x": 1437.5, "y": -2085.5, "width": 1295, "height": 3095 }
+			},
+			"closeeyes": {
+				"closeeyes": { "x": 1428, "y": -1024, "width": 288, "height": 220 }
+			},
+			"daiji": {
+				"daiji": { "x": 1427.5, "y": -1025.5, "width": 321, "height": 217 }
+			},
+			"dajing": {
+				"dajing": { "x": 1428.5, "y": -1027.5, "width": 323, "height": 221 }
+			},
+			"danxin": {
+				"danxin": { "x": 1427.5, "y": -1025.5, "width": 321, "height": 223 }
+			},
+			"danyou": {
+				"danyou": { "x": 1427.5, "y": -1026, "width": 321, "height": 224 }
+			},
+			"hair": {
+				"hair": { "x": 1437.5, "y": -1557.5, "width": 1295, "height": 1785 }
+			},
+			"jingya": {
+				"jingya": { "x": 1427.5, "y": -1025.5, "width": 321, "height": 217 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 1430, "y": -1042, "width": 294, "height": 192 }
+			},
+			"shy": {
+				"shy": { "x": 1431.5, "y": -1036, "width": 359, "height": 210 }
+			},
+			"smile": {
+				"smile": { "x": 1430, "y": -1039, "width": 294, "height": 186 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1427.5, "y": -1024, "width": 321, "height": 220 }
+			}
+		}
+	}
+],
+"animations": {
+	"danxin": {
+		"slots": {
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" },
+					{ "time": 2, "name": "danxin" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 2, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" },
+					{ "time": 2, "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" },
+					{ "time": 2, "name": "shy" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" },
+					{ "time": 2, "name": "smile" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" },
+					{ "time": 2, "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

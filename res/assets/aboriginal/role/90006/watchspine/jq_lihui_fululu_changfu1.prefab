@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "QEZ9Tm+XW/o3v4bjbVHB6MqWUc0",
+	"spine": "3.8.99",
+	"x": -644.14,
+	"y": -735.22,
+	"width": 1230,
+	"height": 1905,
+	"images": "C:\\Users\\tingzhou\\Desktop\\月冕活动素材（含spine与图片）\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\月冕活动素材（含spine与图片）"
+},
+"bones": [
+	{ "name": "root", "x": -643.14, "y": 1168.78 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "liuhan", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "fadai", "bone": "root" },
+	{ "name": "idle2", "bone": "root" },
+	{ "name": "idle", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 614, "y": -951.5, "width": 1230, "height": 1905 }
+			},
+			"idle": {
+				"idle": { "x": 648, "y": -321.5, "width": 230, "height": 173 }
+			},
+			"idle2": {
+				"idle2": { "x": 648, "y": -321.5, "width": 230, "height": 173 }
+			},
+			"fadai": {
+				"fadai": { "x": 648, "y": -321.5, "width": 230, "height": 173 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 648, "y": -321.5, "width": 230, "height": 173 }
+			},
+			"liuhan": {
+				"liuhan": { "x": 648, "y": -319, "width": 230, "height": 178 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"idle": {
+				"attachment": [
+					{ "name": "idle" }
+				]
+			}
+		}
+	},
+	"idle2": {
+		"slots": {
+			"idle2": {
+				"attachment": [
+					{ "name": "idle2" }
+				]
+			}
+		}
+	},
+	"fadai": {
+		"slots": {
+			"fadai": {
+				"attachment": [
+					{ "name": "fadai" }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"liuhan": {
+		"slots": {
+			"liuhan": {
+				"attachment": [
+					{ "name": "liuhan" }
+				]
+			}
+		}
+	}
+}
+}

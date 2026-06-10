@@ -1,0 +1,69 @@
+
+jq_lihui_laiwei_huodong.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 1010, 306
+  size: 283, 205
+  orig: 285, 207
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 2048
+  size: 1254, 2036
+  orig: 1256, 2038
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 1010, 1460
+  size: 294, 215
+  orig: 296, 217
+  offset: 1, 1
+  index: -1
+kaixin
+  rotate: true
+  xy: 1010, 1754
+  size: 294, 217
+  orig: 296, 219
+  offset: 1, 1
+  index: -1
+qianxiao
+  rotate: true
+  xy: 1010, 1166
+  size: 294, 215
+  orig: 296, 217
+  offset: 1, 1
+  index: -1
+shengqi
+  rotate: true
+  xy: 1010, 589
+  size: 283, 220
+  orig: 285, 222
+  offset: 1, 1
+  index: -1
+shiluo
+  rotate: true
+  xy: 1010, 872
+  size: 294, 215
+  orig: 296, 217
+  offset: 1, 1
+  index: -1
+weiqun
+  rotate: false
+  xy: 0, 0
+  size: 1010, 2048
+  orig: 1012, 2050
+  offset: 1, 1
+  index: -1
+yansu
+  rotate: true
+  xy: 1010, 23
+  size: 283, 205
+  orig: 285, 207
+  offset: 1, 1
+  index: -1

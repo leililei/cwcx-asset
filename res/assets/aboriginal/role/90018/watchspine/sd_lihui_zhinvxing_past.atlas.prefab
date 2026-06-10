@@ -1,0 +1,55 @@
+
+sd_lihui_zhinvxing_past.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 939, 325
+  size: 78, 112
+  orig: 78, 112
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 403
+  size: 1004, 2133
+  orig: 1004, 2133
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 708, 318
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 0, 0
+  size: 403, 434
+  orig: 403, 434
+  offset: 0, 0
+  index: -1
+pukelian
+  rotate: true
+  xy: 826, 325
+  size: 78, 113
+  orig: 78, 113
+  offset: 0, 0
+  index: -1
+say
+  rotate: true
+  xy: 587, 314
+  size: 89, 121
+  orig: 89, 121
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 434, 286
+  size: 153, 117
+  orig: 153, 117
+  offset: 0, 0
+  index: -1

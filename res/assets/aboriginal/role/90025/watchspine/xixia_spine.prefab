@@ -1,0 +1,122 @@
+{
+"skeleton": {
+	"hash": "StNIopkyjiPQAyVVnROffHn8GBw",
+	"spine": "3.8.99",
+	"x": -1071.93,
+	"y": -1425.15,
+	"width": 2101,
+	"height": 2712,
+	"images": "C:\\Users\\Administrator\\Desktop\\xixia_spine\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\xixia_spine"
+},
+"bones": [
+	{ "name": "root", "x": -1203.93, "y": 1413.85 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "fuza", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "xinwei", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "moren", "bone": "root" },
+	{ "name": "idle", "bone": "root", "attachment": "idle" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1182.5, "y": -1483, "width": 2101, "height": 2712 }
+			},
+			"fuza": {
+				"fuza": { "x": 1125, "y": -814, "width": 94, "height": 98 }
+			},
+			"idle": {
+				"idle": { "x": 1092, "y": -799, "width": 20, "height": 28 }
+			},
+			"jingya": {
+				"jingya": { "x": 1125, "y": -816, "width": 92, "height": 104 }
+			},
+			"moren": {
+				"moren": { "x": 1125, "y": -813.5, "width": 94, "height": 99 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 1124.5, "y": -821, "width": 93, "height": 94 }
+			},
+			"xiao": {
+				"xiao": { "x": 1112.5, "y": -816.5, "width": 129, "height": 109 }
+			},
+			"xinwei": {
+				"xinwei": { "x": 1111.5, "y": -812, "width": 127, "height": 100 }
+			}
+		}
+	}
+],
+"animations": {
+	"fuza": {
+		"slots": {
+			"fuza": {
+				"attachment": [
+					{ "name": "fuza" },
+					{ "time": 2, "name": "fuza" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"moren": {
+				"attachment": [
+					{ "name": "moren" },
+					{ "time": 2, "name": "moren" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" },
+					{ "time": 2, "name": "jingya" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" },
+					{ "time": 2, "name": "xiao" }
+				]
+			}
+		}
+	},
+	"xinwei": {
+		"slots": {
+			"xinwei": {
+				"attachment": [
+					{ "name": "xinwei" },
+					{ "time": 2, "name": "xinwei" }
+				]
+			}
+		}
+	}
+}
+}

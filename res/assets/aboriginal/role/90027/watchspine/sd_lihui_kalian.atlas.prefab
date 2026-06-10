@@ -1,0 +1,48 @@
+
+sd_lihui_kalian.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 0
+  size: 185, 154
+  orig: 185, 154
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 154
+  size: 1874, 2094
+  orig: 1874, 2094
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 679, 13
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 185, 7
+  size: 156, 147
+  orig: 156, 147
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 341, 8
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 497, 9
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1

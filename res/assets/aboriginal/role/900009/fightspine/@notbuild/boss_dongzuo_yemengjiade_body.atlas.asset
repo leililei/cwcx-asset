@@ -1,0 +1,139 @@
+
+boss_dongzuo_yemengjiade_body.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanshuguan
+  rotate: false
+  xy: 905, 2275
+  size: 220, 134
+  orig: 220, 134
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 2768, 1923
+  size: 639, 721
+  orig: 639, 721
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 3531, 3263
+  size: 818, 550
+  orig: 818, 550
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: false
+  xy: 3888, 1857
+  size: 176, 167
+  orig: 176, 167
+  offset: 0, 0
+  index: -1
+paidacb
+  rotate: false
+  xy: 0, 3130
+  size: 2003, 951
+  orig: 2003, 951
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 0, 1959
+  size: 450, 905
+  orig: 451, 905
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 1900, 2186
+  size: 868, 376
+  orig: 869, 377
+  offset: 1, 0
+  index: -1
+wing_3
+  rotate: true
+  xy: 1900, 1983
+  size: 203, 863
+  orig: 204, 863
+  offset: 1, 0
+  index: -1
+wing_4
+  rotate: false
+  xy: 3531, 2024
+  size: 463, 759
+  orig: 465, 760
+  offset: 1, 0
+  index: -1
+wing_5
+  rotate: false
+  xy: 1178, 2775
+  size: 812, 355
+  orig: 813, 357
+  offset: 0, 1
+  index: -1
+wing_6
+  rotate: true
+  xy: 0, 1677
+  size: 282, 390
+  orig: 282, 391
+  offset: 0, 1
+  index: -1
+wing_7
+  rotate: false
+  xy: 2003, 2562
+  size: 1528, 1519
+  orig: 1528, 1519
+  offset: 0, 0
+  index: -1
+xgz1
+  rotate: true
+  xy: 905, 1766
+  size: 329, 201
+  orig: 329, 201
+  offset: 0, 0
+  index: -1
+xgz2
+  rotate: false
+  xy: 3489, 1648
+  size: 399, 376
+  orig: 399, 376
+  offset: 0, 0
+  index: -1
+xgz3
+  rotate: true
+  xy: 905, 2095
+  size: 180, 208
+  orig: 180, 208
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 3531, 2783
+  size: 539, 480
+  orig: 539, 480
+  offset: 0, 0
+  index: -1
+xiongjiahou
+  rotate: true
+  xy: 1178, 2118
+  size: 657, 722
+  orig: 657, 722
+  offset: 0, 0
+  index: -1
+yi1
+  rotate: true
+  xy: 1113, 1448
+  size: 670, 704
+  orig: 670, 704
+  offset: 0, 0
+  index: -1
+yiyi
+  rotate: false
+  xy: 0, 2409
+  size: 1178, 721
+  orig: 1178, 721
+  offset: 0, 0
+  index: -1

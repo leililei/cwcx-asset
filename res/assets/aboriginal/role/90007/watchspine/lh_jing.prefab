@@ -1,0 +1,114 @@
+{
+"skeleton": {
+	"hash": "izRdO4VaHdIOkgcH3SPGldWryj0",
+	"spine": "3.8.99",
+	"x": -459.3,
+	"y": -1258.85,
+	"width": 931,
+	"height": 2552,
+	"images": "C:\\Users\\Plan123\\Desktop\\jingli\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\jingli"
+},
+"bones": [
+	{ "name": "root", "x": -838.3, "y": 1517.15 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "joker", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "suirprise", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "glass", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 844.5, "y": -1500, "width": 931, "height": 2552 }
+			},
+			"daiji": {
+				"daiji": { "x": 810.5, "y": -641, "width": 239, "height": 186 }
+			},
+			"ganga": {
+				"ganga": { "x": 810.5, "y": -604, "width": 239, "height": 258 }
+			},
+			"glass": {
+				"glass": { "x": 799, "y": -682.5, "width": 252, "height": 117 }
+			},
+			"joker": {
+				"joker": { "x": 815, "y": -638, "width": 224, "height": 186 }
+			},
+			"smile": {
+				"smile": { "x": 810.5, "y": -603, "width": 239, "height": 256 }
+			},
+			"suirprise": {
+				"suirprise": { "x": 810.5, "y": -607.5, "width": 239, "height": 265 }
+			},
+			"wink": {
+				"wink": { "x": 815, "y": -644, "width": 224, "height": 198 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"suirprise": {
+				"attachment": [
+					{ "name": "suirprise" }
+				]
+			}
+		}
+	},
+	"tiaopi": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"joker": {
+				"attachment": [
+					{ "name": "joker" }
+				]
+			}
+		}
+	},
+	"tushe": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	}
+}
+}

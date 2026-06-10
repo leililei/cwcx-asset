@@ -1,0 +1,97 @@
+
+jq_lihui_fulanka_yongzhuang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1211, 2544
+  size: 397, 271
+  orig: 397, 271
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 868
+  size: 1211, 3142
+  orig: 1211, 3142
+  offset: 0, 0
+  index: -1
+chengsi
+  rotate: true
+  xy: 1211, 2159
+  size: 385, 266
+  orig: 385, 266
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1050, 74
+  size: 397, 282
+  orig: 397, 282
+  offset: 0, 0
+  index: -1
+danxing
+  rotate: true
+  xy: 1211, 2941
+  size: 397, 272
+  orig: 397, 272
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 761, 0
+  size: 397, 289
+  orig: 397, 289
+  offset: 0, 0
+  index: -1
+laji
+  rotate: true
+  xy: 0, 23
+  size: 845, 761
+  orig: 845, 761
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 761, 397
+  size: 471, 280
+  orig: 471, 280
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: true
+  xy: 1211, 3338
+  size: 390, 280
+  orig: 390, 280
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 1211, 1800
+  size: 359, 285
+  orig: 359, 285
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1211, 3728
+  size: 394, 282
+  orig: 394, 282
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: true
+  xy: 1477, 2185
+  size: 359, 260
+  orig: 359, 260
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: true
+  xy: 1041, 471
+  size: 397, 289
+  orig: 397, 289
+  offset: 0, 0
+  index: -1

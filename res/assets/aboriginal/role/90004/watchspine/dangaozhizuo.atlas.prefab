@@ -1,0 +1,41 @@
+
+dangaozhizuo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 656
+  size: 374, 276
+  orig: 374, 276
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 378, 558
+  size: 374, 276
+  orig: 374, 276
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 280
+  size: 374, 276
+  orig: 374, 276
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 280, 280
+  size: 374, 276
+  orig: 374, 276
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 656, 558
+  size: 374, 276
+  orig: 374, 276
+  offset: 0, 0
+  index: -1

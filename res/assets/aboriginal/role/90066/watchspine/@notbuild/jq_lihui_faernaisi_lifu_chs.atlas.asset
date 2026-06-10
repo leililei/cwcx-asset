@@ -1,0 +1,97 @@
+
+jq_lihui_faernaisi_lifu_chs.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 308, 3864
+  size: 296, 228
+  orig: 296, 228
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1343
+  size: 2388, 4092
+  orig: 2388, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1874, 3856
+  size: 308, 236
+  orig: 308, 236
+  offset: 0, 0
+  index: -1
+deyi
+  rotate: false
+  xy: 915, 3860
+  size: 308, 232
+  orig: 308, 232
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 2182, 3851
+  size: 343, 241
+  orig: 343, 241
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: false
+  xy: 1223, 3860
+  size: 343, 232
+  orig: 343, 232
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1566, 3860
+  size: 308, 232
+  orig: 308, 232
+  offset: 0, 0
+  index: -1
+kaixinxiao
+  rotate: false
+  xy: 2525, 3851
+  size: 297, 241
+  orig: 297, 241
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 3131, 3846
+  size: 311, 246
+  orig: 311, 246
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: false
+  xy: 0, 3872
+  size: 308, 220
+  orig: 308, 220
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 604, 3861
+  size: 311, 231
+  orig: 311, 231
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 3442, 3731
+  size: 394, 361
+  orig: 394, 361
+  offset: 0, 0
+  index: -1
+zhuai
+  rotate: false
+  xy: 2822, 3851
+  size: 309, 241
+  orig: 309, 241
+  offset: 0, 0
+  index: -1

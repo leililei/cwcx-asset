@@ -1,0 +1,83 @@
+
+jq_meiliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 128
+  size: 284, 163
+  orig: 286, 165
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 779
+  size: 2010, 2557
+  orig: 2012, 2559
+  offset: 1, 1
+  index: -1
+bushuang
+  rotate: true
+  xy: 1586, 286
+  size: 292, 175
+  orig: 294, 177
+  offset: 1, 1
+  index: -1
+chaoxiao
+  rotate: false
+  xy: 1409, 578
+  size: 274, 201
+  orig: 276, 203
+  offset: 1, 1
+  index: -1
+deyi
+  rotate: true
+  xy: 1409, 0
+  size: 292, 175
+  orig: 294, 177
+  offset: 1, 1
+  index: -1
+idle
+  rotate: true
+  xy: 0, 291
+  size: 488, 1409
+  orig: 490, 1411
+  offset: 1, 1
+  index: -1
+moren
+  rotate: true
+  xy: 1409, 292
+  size: 286, 177
+  orig: 288, 179
+  offset: 1, 1
+  index: -1
+wubiaoqing
+  rotate: true
+  xy: 1761, 302
+  size: 292, 172
+  orig: 294, 174
+  offset: 1, 1
+  index: -1
+xianqi
+  rotate: false
+  xy: 1969, 415
+  size: 286, 180
+  orig: 288, 182
+  offset: 1, 1
+  index: -1
+zhenmianmu
+  rotate: false
+  xy: 1969, 595
+  size: 286, 184
+  orig: 288, 186
+  offset: 1, 1
+  index: -1
+zhuangsha
+  rotate: false
+  xy: 1683, 594
+  size: 286, 185
+  orig: 288, 187
+  offset: 1, 1
+  index: -1

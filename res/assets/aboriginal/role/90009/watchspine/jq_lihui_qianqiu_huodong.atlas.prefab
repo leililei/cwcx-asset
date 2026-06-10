@@ -1,0 +1,76 @@
+
+jq_lihui_qianqiu_huodong.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 1022, 2121
+  size: 259, 147
+  orig: 261, 149
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 1281, 2120
+  size: 232, 148
+  orig: 234, 150
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 211
+  size: 1871, 2048
+  orig: 1873, 2050
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 254, 2127
+  size: 254, 141
+  orig: 256, 143
+  offset: 1, 1
+  index: -1
+haixiu
+  rotate: false
+  xy: 1513, 2106
+  size: 265, 162
+  orig: 267, 164
+  offset: 1, 1
+  index: -1
+jixiao
+  rotate: false
+  xy: 2009, 2082
+  size: 259, 186
+  orig: 261, 188
+  offset: 1, 1
+  index: -1
+laugh
+  rotate: false
+  xy: 1778, 2089
+  size: 231, 179
+  orig: 233, 181
+  offset: 1, 1
+  index: -1
+lenku
+  rotate: false
+  xy: 508, 2126
+  size: 255, 142
+  orig: 257, 144
+  offset: 1, 1
+  index: -1
+lenmo
+  rotate: false
+  xy: 0, 2131
+  size: 254, 137
+  orig: 256, 139
+  offset: 1, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 763, 2122
+  size: 259, 146
+  orig: 261, 148
+  offset: 1, 1
+  index: -1

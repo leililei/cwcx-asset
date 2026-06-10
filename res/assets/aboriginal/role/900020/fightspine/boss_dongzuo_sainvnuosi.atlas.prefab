@@ -1,0 +1,272 @@
+
+boss_dongzuo_sainvnuosi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan
+  rotate: false
+  xy: 2280, 1395
+  size: 330, 243
+  orig: 330, 243
+  offset: 0, 0
+  index: -1
+faji
+  rotate: false
+  xy: 424, 2
+  size: 109, 422
+  orig: 109, 442
+  offset: 0, 0
+  index: -1
+faji2
+  rotate: false
+  xy: 2109, 1313
+  size: 169, 393
+  orig: 169, 409
+  offset: 0, 16
+  index: -1
+h_datui
+  rotate: false
+  xy: 2281, 1640
+  size: 496, 758
+  orig: 496, 758
+  offset: 0, 0
+  index: -1
+h_datui2
+  rotate: false
+  xy: 505, 1273
+  size: 352, 556
+  orig: 352, 556
+  offset: 0, 0
+  index: -1
+h_fa
+  rotate: false
+  xy: 2, 3400
+  size: 1877, 660
+  orig: 1877, 660
+  offset: 0, 0
+  index: -1
+h_fa2
+  rotate: true
+  xy: 1881, 2400
+  size: 1660, 1325
+  orig: 1660, 1325
+  offset: 0, 0
+  index: -1
+h_fa3
+  rotate: false
+  xy: 874, 1708
+  size: 1405, 690
+  orig: 1405, 690
+  offset: 0, 0
+  index: -1
+h_mao
+  rotate: true
+  xy: 2, 563
+  size: 498, 464
+  orig: 498, 464
+  offset: 0, 0
+  index: -1
+h_xiaotui
+  rotate: false
+  xy: 1706, 1033
+  size: 401, 673
+  orig: 401, 673
+  offset: 0, 0
+  index: -1
+h_xiaotui2
+  rotate: false
+  xy: 1557, 2420
+  size: 309, 550
+  orig: 309, 550
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 2366, 647
+  size: 164, 352
+  orig: 164, 365
+  offset: 0, 13
+  index: -1
+huo2
+  rotate: false
+  xy: 2779, 1810
+  size: 297, 278
+  orig: 297, 278
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: true
+  xy: 2809, 968
+  size: 352, 205
+  orig: 352, 205
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: false
+  xy: 2612, 1320
+  size: 152, 318
+  orig: 152, 318
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: false
+  xy: 2766, 1322
+  size: 277, 211
+  orig: 277, 211
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 772, 89
+  size: 382, 326
+  orig: 382, 326
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 2, 43
+  size: 518, 420
+  orig: 518, 420
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 2, 1063
+  size: 501, 766
+  orig: 501, 766
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 2, 1831
+  size: 1567, 870
+  orig: 1567, 894
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 535, 97
+  size: 327, 230
+  orig: 327, 230
+  offset: 0, 0
+  index: -1
+q_datui1
+  rotate: false
+  xy: 1706, 528
+  size: 282, 503
+  orig: 282, 503
+  offset: 0, 0
+  index: -1
+q_datui2
+  rotate: false
+  xy: 772, 473
+  size: 380, 383
+  orig: 387, 708
+  offset: 7, 0
+  index: -1
+q_xiaotui2
+  rotate: false
+  xy: 1561, 430
+  size: 135, 594
+  orig: 135, 594
+  offset: 0, 0
+  index: -1
+q_xiaotui3
+  rotate: false
+  xy: 1154, 145
+  size: 348, 386
+  orig: 348, 386
+  offset: 0, 0
+  index: -1
+shiping
+  rotate: false
+  xy: 505, 426
+  size: 265, 845
+  orig: 265, 845
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 1265, 1026
+  size: 439, 680
+  orig: 439, 680
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2192, 791
+  size: 172, 208
+  orig: 172, 208
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 874, 2452
+  size: 681, 518
+  orig: 681, 518
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1265, 533
+  size: 294, 491
+  orig: 551, 645
+  offset: 138, 86
+  index: -1
+toufa4
+  rotate: false
+  xy: 772, 893
+  size: 81, 248
+  orig: 81, 248
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 874, 2972
+  size: 946, 426
+  orig: 946, 426
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2109, 1001
+  size: 698, 310
+  orig: 698, 310
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 2779, 2090
+  size: 368, 308
+  orig: 368, 314
+  offset: 0, 6
+  index: -1
+xiongjian
+  rotate: true
+  xy: 1990, 731
+  size: 268, 200
+  orig: 268, 200
+  offset: 0, 0
+  index: -1
+xiongmao
+  rotate: false
+  xy: 2779, 1535
+  size: 280, 273
+  orig: 280, 273
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 772, 1143
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 859, 858
+  size: 848, 404
+  orig: 848, 404
+  offset: 0, 0
+  index: -1

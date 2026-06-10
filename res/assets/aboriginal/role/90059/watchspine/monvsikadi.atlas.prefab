@@ -1,0 +1,118 @@
+
+monvsikadi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1275
+  size: 2451, 2129
+  orig: 2455, 2131
+  offset: 2, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 2455, 1602
+  size: 174, 145
+  orig: 178, 145
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 2455, 3196
+  size: 181, 154
+  orig: 186, 154
+  offset: 5, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2455, 2744
+  size: 180, 152
+  orig: 180, 152
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 2638, 3220
+  size: 766, 184
+  orig: 769, 188
+  offset: 1, 2
+  index: -1
+ganga
+  rotate: false
+  xy: 2455, 2596
+  size: 180, 146
+  orig: 180, 146
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2455, 3352
+  size: 50, 52
+  orig: 50, 53
+  offset: 0, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 2455, 2165
+  size: 180, 140
+  orig: 180, 143
+  offset: 0, 3
+  index: -1
+laji
+  rotate: false
+  xy: 2455, 1885
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 2455, 2307
+  size: 180, 141
+  orig: 180, 141
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: false
+  xy: 2455, 1749
+  size: 180, 134
+  orig: 180, 138
+  offset: 0, 4
+  index: -1
+suifa
+  rotate: false
+  xy: 2455, 2898
+  size: 446, 296
+  orig: 446, 296
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 2455, 1446
+  size: 172, 154
+  orig: 179, 154
+  offset: 3, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2455, 2450
+  size: 180, 144
+  orig: 180, 148
+  offset: 0, 4
+  index: -1
+xiao3
+  rotate: false
+  xy: 2455, 1302
+  size: 172, 142
+  orig: 178, 142
+  offset: 3, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 2455, 2024
+  size: 180, 139
+  orig: 180, 139
+  offset: 0, 0
+  index: -1

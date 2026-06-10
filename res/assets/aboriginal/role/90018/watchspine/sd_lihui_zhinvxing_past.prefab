@@ -1,0 +1,94 @@
+{
+"skeleton": {
+	"hash": "YeP/mLkoczn2rC0Qu8FTrvIcCCs",
+	"spine": "3.8.99",
+	"x": -477.44,
+	"y": -1116.01,
+	"width": 1004,
+	"height": 2133,
+	"images": "C:\\Users\\Plan123\\Desktop\\新建文件夹\\zhinvxing\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\新建文件夹\\zhinvxing"
+},
+"bones": [
+	{ "name": "root", "x": -1032.44, "y": 1231.99 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "pukelian", "bone": "root" },
+	{ "name": "say", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1028, "y": -498, "width": 78, "height": 112 }
+			},
+			"body": {
+				"body": { "x": 1057, "y": -1281.5, "width": 1004, "height": 2133 }
+			},
+			"daiji": {
+				"daiji": { "x": 1026.5, "y": -499, "width": 85, "height": 118 }
+			},
+			"hair": {
+				"hair": { "x": 967.5, "y": -462, "width": 403, "height": 434 }
+			},
+			"pukelian": {
+				"pukelian": { "x": 1028, "y": -499.5, "width": 78, "height": 113 }
+			},
+			"say": {
+				"say": { "x": 1024.5, "y": -497.5, "width": 89, "height": 121 }
+			},
+			"shame": {
+				"shame": { "x": 1000.5, "y": -493.5, "width": 153, "height": 117 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" },
+					{ "time": 2, "name": "angry" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 2, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"say": {
+		"slots": {
+			"say": {
+				"attachment": [
+					{ "name": "say" },
+					{ "time": 2, "name": "say" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" },
+					{ "time": 2, "name": "shame" }
+				]
+			}
+		}
+	}
+}
+}

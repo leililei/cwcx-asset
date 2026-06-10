@@ -1,0 +1,153 @@
+
+sd_lihui_zhentanweilai.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 1808, 3108
+  size: 344, 236
+  orig: 344, 236
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 1339, 522
+  size: 344, 246
+  orig: 344, 246
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 868
+  size: 1804, 3209
+  orig: 1804, 3209
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 2032, 2232
+  size: 349, 206
+  orig: 349, 206
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 1587, 524
+  size: 342, 246
+  orig: 342, 246
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1327, 145
+  size: 344, 250
+  orig: 344, 250
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 2, 83
+  size: 783, 1056
+  orig: 783, 1056
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 1579, 176
+  size: 344, 246
+  orig: 344, 246
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1579, 2
+  size: 355, 172
+  orig: 355, 172
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: false
+  xy: 1808, 3835
+  size: 344, 242
+  orig: 344, 242
+  offset: 0, 0
+  index: -1
+jidong
+  rotate: true
+  xy: 2152, 3489
+  size: 344, 235
+  orig: 344, 235
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1827, 178
+  size: 344, 244
+  orig: 344, 244
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1808, 2094
+  size: 344, 222
+  orig: 344, 222
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: true
+  xy: 1060, 491
+  size: 375, 277
+  orig: 375, 277
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: true
+  xy: 1060, 114
+  size: 375, 265
+  orig: 375, 265
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 2154, 3845
+  size: 344, 232
+  orig: 344, 232
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 1808, 2786
+  size: 320, 250
+  orig: 320, 250
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1808, 3590
+  size: 342, 243
+  orig: 342, 243
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: true
+  xy: 1808, 1772
+  size: 320, 238
+  orig: 320, 238
+  offset: 0, 0
+  index: -1
+xiao4
+  rotate: false
+  xy: 1808, 3346
+  size: 342, 242
+  orig: 342, 242
+  offset: 0, 0
+  index: -1
+yabai
+  rotate: true
+  xy: 1808, 2440
+  size: 344, 231
+  orig: 344, 231
+  offset: 0, 0
+  index: -1

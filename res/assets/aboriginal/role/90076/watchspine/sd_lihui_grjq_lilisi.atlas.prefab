@@ -1,0 +1,55 @@
+
+sd_lihui_grjq_lilisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2, 3
+  size: 256, 215
+  orig: 256, 215
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1196
+  size: 1894, 2817
+  orig: 1894, 2817
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 435, 4
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 2, 261
+  size: 933, 1680
+  orig: 933, 1680
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: false
+  xy: 1684, 664
+  size: 478, 530
+  orig: 478, 530
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 643, 4
+  size: 255, 205
+  orig: 255, 205
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 219, 2
+  size: 257, 214
+  orig: 257, 214
+  offset: 0, 0
+  index: -1

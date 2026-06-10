@@ -1,0 +1,272 @@
+
+boss_dongzuo_lantigesi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右腿1
+  rotate: true
+  xy: 481, 3692
+  size: 209, 943
+  orig: 209, 943
+  offset: 0, 0
+  index: -1
+右腿1连接
+  rotate: true
+  xy: 2985, 3817
+  size: 183, 202
+  orig: 183, 202
+  offset: 0, 0
+  index: -1
+右腿2
+  rotate: true
+  xy: 1424, 3672
+  size: 218, 915
+  orig: 218, 915
+  offset: 0, 0
+  index: -1
+右腿2连接
+  rotate: true
+  xy: 2608, 3846
+  size: 154, 206
+  orig: 154, 206
+  offset: 0, 0
+  index: -1
+右腿3
+  rotate: true
+  xy: 2339, 3582
+  size: 226, 886
+  orig: 226, 886
+  offset: 0, 0
+  index: -1
+右腿3连接
+  rotate: true
+  xy: 2406, 3866
+  size: 134, 202
+  orig: 134, 202
+  offset: 0, 0
+  index: -1
+右钳
+  rotate: true
+  xy: 942, 2917
+  size: 480, 749
+  orig: 480, 749
+  offset: 0, 0
+  index: -1
+右钳连接
+  rotate: true
+  xy: 3187, 3808
+  size: 192, 221
+  orig: 192, 221
+  offset: 0, 0
+  index: -1
+图层 81
+  rotate: false
+  xy: 1974, 3332
+  size: 362, 340
+  orig: 362, 340
+  offset: 0, 0
+  index: -1
+图层 82
+  rotate: false
+  xy: 2814, 3833
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 3341, 3093
+  size: 412, 462
+  orig: 412, 462
+  offset: 0, 0
+  index: -1
+尾部
+  rotate: false
+  xy: 3225, 3505
+  size: 628, 286
+  orig: 628, 286
+  offset: 0, 0
+  index: -1
+左腿1
+  rotate: true
+  xy: 928, 3397
+  size: 275, 1046
+  orig: 275, 1046
+  offset: 0, 0
+  index: -1
+左腿1连接
+  rotate: false
+  xy: 2102, 3890
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+左腿2
+  rotate: true
+  xy: 2336, 3213
+  size: 292, 1005
+  orig: 292, 1005
+  offset: 0, 0
+  index: -1
+左腿2连接
+  rotate: false
+  xy: 2260, 3890
+  size: 146, 110
+  orig: 146, 110
+  offset: 0, 0
+  index: -1
+左腿3
+  rotate: true
+  xy: 0, 3422
+  size: 270, 928
+  orig: 270, 928
+  offset: 0, 0
+  index: -1
+左腿3连接
+  rotate: false
+  xy: 1014, 3904
+  size: 140, 96
+  orig: 140, 96
+  offset: 0, 0
+  index: -1
+左钳
+  rotate: true
+  xy: 0, 2957
+  size: 440, 942
+  orig: 440, 942
+  offset: 0, 0
+  index: -1
+左钳连接
+  rotate: true
+  xy: 408, 3916
+  size: 84, 244
+  orig: 84, 244
+  offset: 0, 0
+  index: -1
+建筑
+  rotate: false
+  xy: 2334, 1767
+  size: 1666, 1326
+  orig: 1666, 1326
+  offset: 0, 0
+  index: -1
+炮塔1
+  rotate: false
+  xy: 1958, 3896
+  size: 144, 104
+  orig: 144, 104
+  offset: 0, 0
+  index: -1
+炮塔2
+  rotate: false
+  xy: 1817, 3898
+  size: 141, 102
+  orig: 141, 102
+  offset: 0, 0
+  index: -1
+炮塔3
+  rotate: false
+  xy: 1372, 3901
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+炮塔A
+  rotate: false
+  xy: 3408, 3791
+  size: 498, 209
+  orig: 498, 209
+  offset: 0, 0
+  index: -1
+炮塔B
+  rotate: false
+  xy: 0, 3703
+  size: 481, 213
+  orig: 481, 213
+  offset: 0, 0
+  index: -1
+炮管1-1
+  rotate: false
+  xy: 254, 3965
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+炮管2-1
+  rotate: false
+  xy: 332, 3965
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+炮管2-2
+  rotate: false
+  xy: 89, 3969
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+炮管3-1
+  rotate: false
+  xy: 180, 3966
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+炮管3-2
+  rotate: false
+  xy: 0, 3970
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+炮管A-1
+  rotate: false
+  xy: 1509, 3901
+  size: 308, 99
+  orig: 308, 99
+  offset: 0, 0
+  index: -1
+炮管A-2
+  rotate: false
+  xy: 1154, 3904
+  size: 218, 96
+  orig: 218, 96
+  offset: 0, 0
+  index: -1
+炮管B-1
+  rotate: false
+  xy: 837, 3908
+  size: 177, 92
+  orig: 177, 92
+  offset: 0, 0
+  index: -1
+炮管B-2
+  rotate: false
+  xy: 652, 3914
+  size: 185, 86
+  orig: 185, 86
+  offset: 0, 0
+  index: -1
+船体
+  rotate: false
+  xy: 0, 630
+  size: 2247, 1126
+  orig: 2247, 1126
+  offset: 0, 0
+  index: -1
+船体后
+  rotate: false
+  xy: 0, 1756
+  size: 2198, 998
+  orig: 2198, 998
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 1691, 2754
+  size: 643, 578
+  orig: 643, 578
+  offset: 0, 0
+  index: -1

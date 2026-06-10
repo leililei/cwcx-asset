@@ -1,0 +1,167 @@
+
+boss_dongzuo_ximengli.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rm_0
+  rotate: false
+  xy: 2, 40
+  size: 657, 1437
+  orig: 657, 1437
+  offset: 0, 0
+  index: -1
+rm_1
+  rotate: false
+  xy: 2458, 2130
+  size: 569, 660
+  orig: 569, 660
+  offset: 0, 0
+  index: -1
+rm_10
+  rotate: false
+  xy: 1146, 350
+  size: 349, 713
+  orig: 349, 713
+  offset: 0, 0
+  index: -1
+rm_11
+  rotate: false
+  xy: 2, 1479
+  size: 1707, 605
+  orig: 1707, 605
+  offset: 0, 0
+  index: -1
+rm_12_0
+  rotate: false
+  xy: 2795, 1572
+  size: 297, 556
+  orig: 297, 556
+  offset: 0, 0
+  index: -1
+rm_12_1
+  rotate: false
+  xy: 661, 2
+  size: 259, 325
+  orig: 259, 325
+  offset: 0, 0
+  index: -1
+rm_12_2
+  rotate: false
+  xy: 3029, 2141
+  size: 336, 649
+  orig: 336, 649
+  offset: 0, 0
+  index: -1
+rm_13_2
+  rotate: false
+  xy: 1958, 1229
+  size: 247, 241
+  orig: 247, 241
+  offset: 0, 0
+  index: -1
+rm_14
+  rotate: false
+  xy: 1468, 1082
+  size: 227, 395
+  orig: 227, 395
+  offset: 0, 0
+  index: -1
+rm_16
+  rotate: false
+  xy: 2, 2086
+  size: 2454, 1907
+  orig: 2454, 1907
+  offset: 0, 0
+  index: -1
+rm_18
+  rotate: false
+  xy: 661, 1065
+  size: 805, 412
+  orig: 805, 412
+  offset: 0, 0
+  index: -1
+rm_19
+  rotate: false
+  xy: 2458, 2792
+  size: 912, 1201
+  orig: 912, 1201
+  offset: 0, 0
+  index: -1
+rm_2
+  rotate: false
+  xy: 3372, 2750
+  size: 476, 523
+  orig: 476, 523
+  offset: 0, 0
+  index: -1
+rm_21
+  rotate: false
+  xy: 1177, 111
+  size: 253, 237
+  orig: 253, 237
+  offset: 0, 0
+  index: -1
+rm_23
+  rotate: false
+  xy: 3367, 2111
+  size: 342, 637
+  orig: 342, 637
+  offset: 0, 0
+  index: -1
+rm_25
+  rotate: false
+  xy: 661, 329
+  size: 483, 734
+  orig: 483, 734
+  offset: 0, 0
+  index: -1
+rm_3
+  rotate: false
+  xy: 3094, 1778
+  size: 232, 361
+  orig: 232, 361
+  offset: 0, 0
+  index: -1
+rm_4
+  rotate: false
+  xy: 1711, 1472
+  size: 495, 612
+  orig: 495, 612
+  offset: 0, 0
+  index: -1
+rm_5
+  rotate: false
+  xy: 922, 90
+  size: 253, 237
+  orig: 253, 237
+  offset: 0, 0
+  index: -1
+rm_6
+  rotate: false
+  xy: 2208, 1391
+  size: 286, 693
+  orig: 286, 693
+  offset: 0, 0
+  index: -1
+rm_7
+  rotate: false
+  xy: 3372, 3275
+  size: 587, 718
+  orig: 587, 718
+  offset: 0, 0
+  index: -1
+rm_8
+  rotate: false
+  xy: 2496, 1572
+  size: 297, 556
+  orig: 297, 556
+  offset: 0, 0
+  index: -1
+rm_9
+  rotate: false
+  xy: 1697, 1145
+  size: 259, 325
+  orig: 259, 325
+  offset: 0, 0
+  index: -1

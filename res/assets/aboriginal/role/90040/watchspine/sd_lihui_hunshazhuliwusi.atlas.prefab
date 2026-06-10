@@ -1,0 +1,104 @@
+
+sd_lihui_hunshazhuliwusi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 1959, 1925
+  size: 262, 179
+  orig: 262, 179
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: false
+  xy: 1959, 2292
+  size: 262, 197
+  orig: 262, 197
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 487
+  size: 1955, 2002
+  orig: 1955, 2002
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 1959, 1753
+  size: 264, 170
+  orig: 264, 170
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1959, 2106
+  size: 267, 184
+  orig: 267, 184
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 2223, 2308
+  size: 266, 181
+  orig: 266, 181
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: false
+  xy: 837, 274
+  size: 262, 211
+  orig: 262, 211
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 1101, 276
+  size: 276, 209
+  orig: 276, 209
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1379, 276
+  size: 276, 209
+  orig: 276, 209
+  offset: 0, 0
+  index: -1
+shy3
+  rotate: false
+  xy: 2, 269
+  size: 276, 216
+  orig: 276, 216
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 1935, 279
+  size: 277, 206
+  orig: 277, 206
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 559, 273
+  size: 276, 212
+  orig: 276, 212
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 280, 273
+  size: 277, 212
+  orig: 277, 212
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 1657, 276
+  size: 276, 209
+  orig: 276, 209
+  offset: 0, 0
+  index: -1

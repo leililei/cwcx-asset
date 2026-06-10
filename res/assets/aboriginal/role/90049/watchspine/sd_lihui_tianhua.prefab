@@ -1,0 +1,128 @@
+{
+"skeleton": {
+	"hash": "xzHEP/M8Rbm5ph/ySqoP1IQAtjg",
+	"spine": "3.8.99",
+	"x": -539.52,
+	"y": -1463.94,
+	"width": 1311,
+	"height": 2795,
+	"images": "../PSD源文件/tianhua/images/",
+	"audio": "G:/魔都精兵活动spine处理/PSD源文件/tianhua"
+},
+"bones": [
+	{ "name": "root", "x": -1189.52, "y": 1695.06 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "gx", "bone": "root" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "sx", "bone": "root" },
+	{ "name": "hx", "bone": "root" },
+	{ "name": "jy", "bone": "root" },
+	{ "name": "gg", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1305.5, "y": -1761.5, "width": 1311, "height": 2795 }
+			},
+			"daiji": {
+				"daiji": { "x": 1196.5, "y": -635, "width": 255, "height": 170 }
+			},
+			"gg": {
+				"gg": { "x": 1196.5, "y": -643, "width": 255, "height": 186 }
+			},
+			"gx": {
+				"gx": { "x": 1197, "y": -638, "width": 256, "height": 176 }
+			},
+			"hx": {
+				"hx": { "x": 1192, "y": -636.5, "width": 260, "height": 173 }
+			},
+			"jy": {
+				"jy": { "x": 1196.5, "y": -636.5, "width": 255, "height": 173 }
+			},
+			"nu": {
+				"nu": { "x": 1196, "y": -636, "width": 254, "height": 172 }
+			},
+			"sx": {
+				"sx": { "x": 1196.5, "y": -635.5, "width": 255, "height": 171 }
+			}
+		}
+	}
+],
+"animations": {
+	"gg": {
+		"slots": {
+			"gg": {
+				"attachment": [
+					{ "name": "gg" },
+					{ "time": 2, "name": "gg" }
+				]
+			}
+		}
+	},
+	"gx": {
+		"slots": {
+			"gx": {
+				"attachment": [
+					{ "name": "gx" },
+					{ "time": 2, "name": "gx" }
+				]
+			}
+		}
+	},
+	"hx": {
+		"slots": {
+			"hx": {
+				"attachment": [
+					{ "name": "hx" },
+					{ "time": 2, "name": "hx" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 2, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jy": {
+		"slots": {
+			"jy": {
+				"attachment": [
+					{ "name": "jy" },
+					{ "time": 2, "name": "jy" }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" },
+					{ "time": 2, "name": "nu" }
+				]
+			}
+		}
+	},
+	"sx": {
+		"slots": {
+			"sx": {
+				"attachment": [
+					{ "name": "sx" },
+					{ "time": 2, "name": "sx" }
+				]
+			}
+		}
+	}
+}
+}

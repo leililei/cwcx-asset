@@ -1,0 +1,55 @@
+
+feilin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 728, 3653
+  size: 241, 238
+  orig: 241, 238
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 475, 3658
+  size: 253, 233
+  orig: 253, 233
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 2664
+  size: 952, 3891
+  orig: 952, 3891
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1236, 3616
+  size: 362, 275
+  orig: 362, 275
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: true
+  xy: 0, 3704
+  size: 187, 242
+  orig: 187, 242
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 969, 3628
+  size: 267, 263
+  orig: 267, 263
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 242, 3704
+  size: 187, 233
+  orig: 187, 233
+  offset: 0, 0
+  index: -1

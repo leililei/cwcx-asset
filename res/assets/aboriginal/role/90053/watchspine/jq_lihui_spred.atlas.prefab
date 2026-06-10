@@ -1,0 +1,62 @@
+
+jq_lihui_spred.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 272
+  size: 3519, 3585
+  orig: 3519, 3585
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 1779, 96
+  size: 282, 176
+  orig: 282, 176
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 323, 37
+  size: 292, 235
+  orig: 292, 235
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1201, 67
+  size: 287, 205
+  orig: 287, 205
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 912, 54
+  size: 289, 218
+  orig: 289, 218
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 0, 0
+  size: 323, 272
+  orig: 323, 272
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1488, 77
+  size: 291, 195
+  orig: 291, 195
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 615, 41
+  size: 297, 231
+  orig: 297, 231
+  offset: 0, 0
+  index: -1

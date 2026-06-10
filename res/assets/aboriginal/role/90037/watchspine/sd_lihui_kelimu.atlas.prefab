@@ -1,0 +1,69 @@
+
+sd_lihui_kelimu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2357, 2536
+  size: 408, 333
+  orig: 408, 333
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 161
+  size: 2373, 2867
+  orig: 2373, 2867
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 306, 2570
+  size: 408, 299
+  orig: 408, 299
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1127, 2559
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+jignya
+  rotate: false
+  xy: 1537, 2559
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: false
+  xy: 2, 2757
+  size: 158, 112
+  orig: 158, 112
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 716, 2570
+  size: 409, 299
+  orig: 409, 299
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1947, 2559
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+心
+  rotate: false
+  xy: 162, 2732
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1

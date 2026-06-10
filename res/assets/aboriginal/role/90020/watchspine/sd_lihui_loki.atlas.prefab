@@ -1,0 +1,90 @@
+
+sd_lihui_loki.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 2642
+  size: 221, 126
+  orig: 221, 126
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 218
+  size: 1315, 2623
+  orig: 1315, 2623
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 221, 2639
+  size: 221, 129
+  orig: 221, 129
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1694, 2382
+  size: 386, 584
+  orig: 386, 584
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: true
+  xy: 2278, 2312
+  size: 456, 490
+  orig: 456, 490
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 1326, 2634
+  size: 167, 134
+  orig: 167, 134
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1493, 2632
+  size: 201, 136
+  orig: 201, 136
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 0, 1533
+  size: 1099, 1549
+  orig: 1099, 1549
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 884, 2637
+  size: 221, 131
+  orig: 221, 131
+  offset: 0, 0
+  index: -1
+say
+  rotate: false
+  xy: 1105, 2637
+  size: 221, 131
+  orig: 221, 131
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 442, 2639
+  size: 221, 129
+  orig: 221, 129
+  offset: 0, 0
+  index: -1
+tanqi
+  rotate: false
+  xy: 663, 2639
+  size: 221, 129
+  orig: 221, 129
+  offset: 0, 0
+  index: -1

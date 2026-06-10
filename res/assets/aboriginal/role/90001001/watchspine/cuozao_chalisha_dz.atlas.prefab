@@ -1,0 +1,278 @@
+
+cuozao_chalisha_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongyun
+  rotate: false
+  xy: 1341, 1697
+  size: 368, 167
+  orig: 368, 167
+  offset: 0, 0
+  index: -1
+z-Bjiemao
+  rotate: false
+  xy: 1553, 1959
+  size: 295, 81
+  orig: 295, 81
+  offset: 0, 0
+  index: -1
+z-Bmeimao
+  rotate: false
+  xy: 90, 1980
+  size: 277, 60
+  orig: 277, 61
+  offset: 0, 1
+  index: -1
+z-Bzuiba
+  rotate: false
+  xy: 40, 2004
+  size: 50, 36
+  orig: 50, 38
+  offset: 0, 2
+  index: -1
+z-Zjiemao
+  rotate: false
+  xy: 1417, 1864
+  size: 296, 95
+  orig: 302, 111
+  offset: 1, 16
+  index: -1
+z-Zjiemao2
+  rotate: false
+  xy: 1116, 1869
+  size: 301, 94
+  orig: 301, 110
+  offset: 0, 16
+  index: -1
+z-Zjiemao3
+  rotate: false
+  xy: 1266, 1963
+  size: 287, 77
+  orig: 301, 110
+  offset: 4, 0
+  index: -1
+z-Zmeimao
+  rotate: false
+  xy: 993, 1964
+  size: 273, 76
+  orig: 275, 77
+  offset: 1, 1
+  index: -1
+z-Ztongkong
+  rotate: false
+  xy: 489, 1886
+  size: 205, 86
+  orig: 205, 86
+  offset: 0, 0
+  index: -1
+z-Zxiayanjian
+  rotate: false
+  xy: 594, 1972
+  size: 229, 68
+  orig: 229, 68
+  offset: 0, 0
+  index: -1
+z-Zxiayanjian2
+  rotate: false
+  xy: 367, 1973
+  size: 227, 67
+  orig: 227, 67
+  offset: 0, 0
+  index: -1
+z-Zyanbai
+  rotate: false
+  xy: 0, 1895
+  size: 248, 85
+  orig: 248, 85
+  offset: 0, 0
+  index: -1
+z-Zzuiba
+  rotate: true
+  xy: 0, 2010
+  size: 30, 40
+  orig: 32, 41
+  offset: 1, 1
+  index: -1
+z-dabi1
+  rotate: false
+  xy: 1295, 835
+  size: 583, 470
+  orig: 583, 470
+  offset: 0, 0
+  index: -1
+z-dabi2
+  rotate: false
+  xy: 805, 990
+  size: 490, 412
+  orig: 490, 412
+  offset: 0, 0
+  index: -1
+z-daimao
+  rotate: true
+  xy: 1713, 1843
+  size: 107, 154
+  orig: 107, 156
+  offset: 0, 0
+  index: -1
+z-fasi1
+  rotate: true
+  xy: 936, 1872
+  size: 92, 180
+  orig: 92, 180
+  offset: 0, 0
+  index: -1
+z-fasi2
+  rotate: true
+  xy: 823, 1968
+  size: 72, 170
+  orig: 72, 170
+  offset: 0, 0
+  index: -1
+z-hudiejie
+  rotate: true
+  xy: 722, 1734
+  size: 148, 151
+  orig: 148, 151
+  offset: 0, 0
+  index: -1
+z-hudiejie1
+  rotate: true
+  xy: 1170, 1708
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+z-hudiejie2
+  rotate: true
+  xy: 0, 1764
+  size: 131, 239
+  orig: 131, 239
+  offset: 0, 0
+  index: -1
+z-hudiejie3
+  rotate: false
+  xy: 1848, 1950
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+z-lian
+  rotate: true
+  xy: 0, 1243
+  size: 310, 403
+  orig: 311, 403
+  offset: 1, 0
+  index: -1
+z-lian2
+  rotate: true
+  xy: 403, 1162
+  size: 310, 402
+  orig: 310, 402
+  offset: 0, 0
+  index: -1
+z-liuhai1
+  rotate: true
+  xy: 873, 1714
+  size: 155, 297
+  orig: 155, 297
+  offset: 0, 0
+  index: -1
+z-liuhai2
+  rotate: true
+  xy: 277, 1553
+  size: 181, 508
+  orig: 182, 508
+  offset: 0, 0
+  index: -1
+z-liuhai3
+  rotate: true
+  xy: 420, 1739
+  size: 143, 302
+  orig: 143, 302
+  offset: 0, 0
+  index: -1
+z-liuhai4
+  rotate: true
+  xy: 785, 1472
+  size: 236, 488
+  orig: 236, 488
+  offset: 0, 0
+  index: -1
+z-liuhai5
+  rotate: true
+  xy: 0, 1571
+  size: 182, 277
+  orig: 182, 277
+  offset: 0, 0
+  index: -1
+z-shangyanpi
+  rotate: false
+  xy: 694, 1882
+  size: 242, 86
+  orig: 242, 86
+  offset: 0, 0
+  index: -1
+z-shangyanpi2
+  rotate: false
+  xy: 248, 1888
+  size: 241, 85
+  orig: 241, 85
+  offset: 0, 0
+  index: -1
+z-shenti
+  rotate: true
+  xy: 0, 448
+  size: 714, 722
+  orig: 985, 2915
+  offset: 88, 2193
+  index: -1
+z-shou1
+  rotate: false
+  xy: 1867, 1837
+  size: 173, 113
+  orig: 174, 113
+  offset: 1, 0
+  index: -1
+z-shou2
+  rotate: false
+  xy: 239, 1753
+  size: 181, 135
+  orig: 196, 136
+  offset: 15, 1
+  index: -1
+z-xianglian
+  rotate: true
+  xy: 1709, 1666
+  size: 171, 178
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
+z-xiaobi1
+  rotate: false
+  xy: 1273, 1402
+  size: 423, 295
+  orig: 423, 295
+  offset: 0, 0
+  index: -1
+z-xiaobi2
+  rotate: true
+  xy: 1696, 1305
+  size: 361, 299
+  orig: 361, 299
+  offset: 0, 0
+  index: -1
+
+cuozao_chalisha_dz2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-toufa-hou
+  rotate: false
+  xy: 0, 561
+  size: 2008, 1447
+  orig: 2008, 1447
+  offset: 0, 0
+  index: -1

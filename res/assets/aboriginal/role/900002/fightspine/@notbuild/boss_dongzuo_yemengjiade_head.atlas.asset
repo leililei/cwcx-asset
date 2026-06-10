@@ -1,0 +1,76 @@
+
+boss_dongzuo_yemengjiade_head.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ear
+  rotate: false
+  xy: 389, 1331
+  size: 391, 334
+  orig: 401, 334
+  offset: 0, 0
+  index: -1
+koupao
+  rotate: false
+  xy: 0, 1790
+  size: 140, 126
+  orig: 140, 126
+  offset: 0, 0
+  index: -1
+shange
+  rotate: false
+  xy: 1198, 1151
+  size: 647, 484
+  orig: 647, 484
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 140, 1754
+  size: 270, 162
+  orig: 271, 162
+  offset: 0, 0
+  index: -1
+toudai1
+  rotate: true
+  xy: 1566, 1635
+  size: 281, 350
+  orig: 281, 350
+  offset: 0, 0
+  index: -1
+toudai2
+  rotate: true
+  xy: 696, 1665
+  size: 251, 434
+  orig: 251, 434
+  offset: 0, 0
+  index: -1
+toudai3
+  rotate: false
+  xy: 0, 1468
+  size: 389, 286
+  orig: 389, 286
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 1130, 1662
+  size: 436, 254
+  orig: 436, 254
+  offset: 0, 0
+  index: -1
+xiaba2
+  rotate: false
+  xy: 410, 1682
+  size: 286, 234
+  orig: 286, 235
+  offset: 0, 1
+  index: -1
+yiyi
+  rotate: true
+  xy: 780, 1318
+  size: 344, 418
+  orig: 1178, 721
+  offset: 834, 0
+  index: -1

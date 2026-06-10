@@ -1,0 +1,62 @@
+
+jq_lihui_xiayiyeyun.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 0, 3786
+  size: 365, 296
+  orig: 365, 296
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 2109
+  size: 1645, 4082
+  orig: 1645, 4082
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 365, 3784
+  size: 376, 298
+  orig: 376, 298
+  offset: 0, 0
+  index: -1
+ganxingqu
+  rotate: false
+  xy: 741, 3784
+  size: 376, 298
+  orig: 376, 298
+  offset: 0, 0
+  index: -1
+kaixinxiao
+  rotate: false
+  xy: 1869, 3760
+  size: 376, 322
+  orig: 376, 322
+  offset: 0, 0
+  index: -1
+shahuhu
+  rotate: true
+  xy: 2245, 3754
+  size: 328, 348
+  orig: 328, 348
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1117, 3781
+  size: 376, 301
+  orig: 376, 301
+  offset: 0, 0
+  index: -1
+wink2
+  rotate: false
+  xy: 1493, 3772
+  size: 376, 310
+  orig: 376, 310
+  offset: 0, 0
+  index: -1

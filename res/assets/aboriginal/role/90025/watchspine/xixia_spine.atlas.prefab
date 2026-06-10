@@ -1,0 +1,62 @@
+
+xixia_spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 107
+  size: 2099, 2710
+  orig: 2101, 2712
+  offset: 1, 1
+  index: -1
+fuza
+  rotate: true
+  xy: 349, 15
+  size: 92, 96
+  orig: 94, 98
+  offset: 1, 1
+  index: -1
+idle
+  rotate: true
+  xy: 639, 89
+  size: 18, 26
+  orig: 20, 28
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: true
+  xy: 537, 17
+  size: 90, 102
+  orig: 92, 104
+  offset: 1, 1
+  index: -1
+moren
+  rotate: true
+  xy: 252, 15
+  size: 92, 97
+  orig: 94, 99
+  offset: 1, 1
+  index: -1
+renzhen
+  rotate: true
+  xy: 445, 16
+  size: 91, 92
+  orig: 93, 94
+  offset: 1, 1
+  index: -1
+xiao
+  rotate: false
+  xy: 0, 0
+  size: 127, 107
+  orig: 129, 109
+  offset: 1, 1
+  index: -1
+xinwei
+  rotate: false
+  xy: 127, 9
+  size: 125, 98
+  orig: 127, 100
+  offset: 1, 1
+  index: -1

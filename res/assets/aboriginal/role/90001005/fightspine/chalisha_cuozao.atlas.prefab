@@ -1,0 +1,125 @@
+
+chalisha_cuozao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtoufa
+  rotate: false
+  xy: 2146, 1951
+  size: 464, 777
+  orig: 464, 777
+  offset: 0, 0
+  index: -1
+houtoufa2
+  rotate: false
+  xy: 0, 1727
+  size: 2146, 2245
+  orig: 2146, 2245
+  offset: 0, 0
+  index: -1
+neiku
+  rotate: true
+  xy: 0, 97
+  size: 667, 729
+  orig: 667, 729
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 1755, 852
+  size: 875, 905
+  orig: 875, 905
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 0, 764
+  size: 1755, 963
+  orig: 1755, 963
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 2660, 1832
+  size: 296, 325
+  orig: 296, 325
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 2146, 3320
+  size: 652, 618
+  orig: 652, 618
+  offset: 0, 0
+  index: -1
+xiong2
+  rotate: true
+  xy: 2764, 3398
+  size: 574, 586
+  orig: 574, 586
+  offset: 0, 0
+  index: -1
+xiongdai
+  rotate: false
+  xy: 2146, 2728
+  size: 733, 592
+  orig: 733, 592
+  offset: 0, 0
+  index: -1
+you_dabi
+  rotate: true
+  xy: 729, 154
+  size: 610, 791
+  orig: 610, 791
+  offset: 0, 0
+  index: -1
+you_nieyi
+  rotate: false
+  xy: 3316, 3061
+  size: 425, 337
+  orig: 425, 345
+  offset: 0, 8
+  index: -1
+you_shou
+  rotate: false
+  xy: 2879, 3003
+  size: 437, 395
+  orig: 437, 395
+  offset: 0, 0
+  index: -1
+you_xiaobi
+  rotate: true
+  xy: 2660, 2128
+  size: 600, 521
+  orig: 600, 521
+  offset: 0, 0
+  index: -1
+zuo_dabi
+  rotate: true
+  xy: 1755, 512
+  size: 340, 1054
+  orig: 752, 1054
+  offset: 0, 0
+  index: -1
+zuo_shou
+  rotate: false
+  xy: 2879, 2739
+  size: 569, 264
+  orig: 569, 264
+  offset: 0, 0
+  index: -1
+zuo_xiaobi
+  rotate: false
+  xy: 3350, 3678
+  size: 622, 294
+  orig: 622, 294
+  offset: 0, 0
+  index: -1
+zuonieyi
+  rotate: true
+  xy: 1520, 380
+  size: 384, 140
+  orig: 384, 140
+  offset: 0, 0
+  index: -1

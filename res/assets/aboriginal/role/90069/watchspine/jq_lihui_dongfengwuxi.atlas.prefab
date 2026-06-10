@@ -1,0 +1,96 @@
+
+jq_lihui_dongfengwuxi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: true
+  xy: 219, 3589
+  size: 183, 220
+  orig: 183, 220
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1889
+  size: 1237, 3772
+  orig: 1237, 3772
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 439, 3582
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+houjing
+  rotate: true
+  xy: 0, 186
+  size: 1703, 2923
+  orig: 1703, 2923
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 0, 3593
+  size: 179, 219
+  orig: 179, 219
+  offset: 0, 0
+  index: -1
+kongshou
+  rotate: true
+  xy: 1809, 3545
+  size: 227, 497
+  orig: 227, 497
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 2306, 3126
+  size: 646, 1244
+  orig: 646, 1244
+  offset: 0, 0
+  index: -1
+weixiao1
+  rotate: true
+  xy: 656, 3581
+  size: 191, 220
+  orig: 191, 220
+  offset: 0, 0
+  index: -1
+weixiao2
+  rotate: true
+  xy: 876, 3581
+  size: 191, 217
+  orig: 191, 217
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 1315, 3569
+  size: 203, 494
+  orig: 203, 494
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1093, 3578
+  size: 194, 222
+  orig: 194, 222
+  offset: 0, 0
+  index: -1
+
+jq_lihui_dongfengwuxi2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi2
+  rotate: false
+  xy: 0, 0
+  size: 2911, 3856
+  orig: 2911, 3856
+  offset: 0, 0
+  index: -1

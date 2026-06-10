@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "nfmhA71fXyREb7iZwekBu2z6hGM",
+	"spine": "3.8.99",
+	"x": -1534.58,
+	"y": -1874.11,
+	"width": 3519,
+	"height": 3585,
+	"images": "../../2025.8夏活3/jq_lihui_spred/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": -1533.58, "y": 2216.89 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "jingya", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1758.5, "y": -2298.5, "width": 3519, "height": 3585 }
+			},
+			"chensi": {
+				"chensi": { "x": 1541, "y": -1251, "width": 282, "height": 176 }
+			},
+			"daiji": {
+				"daiji": { "x": 1532, "y": -1238.5, "width": 292, "height": 235 }
+			},
+			"ganga": {
+				"ganga": { "x": 1534.5, "y": -1238.5, "width": 287, "height": 205 }
+			},
+			"jingya": {
+				"jingya": { "x": 1533.5, "y": -1236, "width": 289, "height": 218 }
+			},
+			"nu": {
+				"nu": { "x": 1534.5, "y": -1215, "width": 323, "height": 272 }
+			},
+			"xiao": {
+				"xiao": { "x": 1537.5, "y": -1248.5, "width": 291, "height": 195 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 1534.5, "y": -1240.5, "width": 297, "height": 231 }
+			}
+		}
+	}
+],
+"animations": {
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			}
+		}
+	}
+}
+}

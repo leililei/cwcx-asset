@@ -1,0 +1,86 @@
+{
+"skeleton": {
+	"hash": "M64dfOvkdtnXofrjlLaXe+S237U",
+	"spine": "3.8.99",
+	"x": -1076.48,
+	"y": -556.16,
+	"width": 2048,
+	"height": 2050,
+	"images": "C:\\Users\\Plan123\\Desktop\\spine\\lidiyachagnfu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\spine\\lidiyachagnfu"
+},
+"bones": [
+	{ "name": "root", "x": -1075.48, "y": 1492.84 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "rage", "bone": "root" },
+	{ "name": "smile", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1023, "y": -1024, "width": 2048, "height": 2050 }
+			},
+			"daiji": {
+				"daiji": { "x": 1059, "y": -304, "width": 220, "height": 164 }
+			},
+			"rage": {
+				"rage": { "x": 1059, "y": -315, "width": 220, "height": 182 }
+			},
+			"sad": {
+				"sad": { "x": 1059, "y": -306.5, "width": 220, "height": 175 }
+			},
+			"smile": {
+				"smile": { "x": 1057, "y": -312.5, "width": 224, "height": 181 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 4, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"rage": {
+		"slots": {
+			"rage": {
+				"attachment": [
+					{ "name": "rage" },
+					{ "time": 4, "name": "rage" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" },
+					{ "time": 4, "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" },
+					{ "time": 4, "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

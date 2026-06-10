@@ -1,0 +1,151 @@
+
+sd_lihui_daalaita.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 1204, 3695
+  size: 279, 196
+  orig: 279, 196
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2, 1201
+  size: 1141, 3778
+  orig: 1141, 3778
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 1140, 2939
+  size: 741, 1074
+  orig: 741, 1074
+  offset: 0, 0
+  index: -1
+body4
+  rotate: true
+  xy: 2216, 2344
+  size: 1168, 1500
+  orig: 1168, 1500
+  offset: 0, 0
+  index: -1
+bujian
+  rotate: true
+  xy: 2668, 3619
+  size: 272, 401
+  orig: 272, 401
+  offset: 0, 0
+  index: -1
+hanxiu
+  rotate: false
+  xy: 1764, 3694
+  size: 313, 197
+  orig: 313, 197
+  offset: 0, 0
+  index: -1
+huaixiao
+  rotate: false
+  xy: 2079, 3682
+  size: 292, 209
+  orig: 292, 209
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 2373, 3680
+  size: 293, 211
+  orig: 293, 211
+  offset: 0, 0
+  index: -1
+shihuai
+  rotate: false
+  xy: 1485, 3695
+  size: 277, 196
+  orig: 277, 196
+  offset: 0, 0
+  index: -1
+sikao
+  rotate: false
+  xy: 40, 3715
+  size: 277, 176
+  orig: 277, 176
+  offset: 0, 0
+  index: -1
+tongchang
+  rotate: false
+  xy: 614, 3705
+  size: 293, 186
+  orig: 293, 186
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 3071, 3574
+  size: 317, 363
+  orig: 317, 363
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 3436, 3514
+  size: 455, 377
+  orig: 455, 377
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 909, 3700
+  size: 293, 191
+  orig: 293, 191
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 319, 3708
+  size: 293, 183
+  orig: 293, 183
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 2959
+  size: 1136, 739
+  orig: 1136, 739
+  offset: 0, 0
+  index: -1
+图层 460
+  rotate: true
+  xy: 2, 3863
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+
+sd_lihui_daalaita2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 2113, 3802
+  orig: 2113, 3802
+  offset: 0, 0
+  index: -1
+
+sd_lihui_daalaita3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 2529, 2681
+  orig: 2529, 2681
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+sd_lihui_tianhua.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 1298
+  size: 1311, 2795
+  orig: 1311, 2795
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2, 2627
+  size: 255, 170
+  orig: 255, 170
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 1549, 2611
+  size: 255, 186
+  orig: 255, 186
+  offset: 0, 0
+  index: -1
+gx
+  rotate: false
+  xy: 1291, 2621
+  size: 256, 176
+  orig: 256, 176
+  offset: 0, 0
+  index: -1
+hx
+  rotate: false
+  xy: 772, 2624
+  size: 260, 173
+  orig: 260, 173
+  offset: 0, 0
+  index: -1
+jy
+  rotate: false
+  xy: 1034, 2624
+  size: 255, 173
+  orig: 255, 173
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 516, 2625
+  size: 254, 172
+  orig: 254, 172
+  offset: 0, 0
+  index: -1
+sx
+  rotate: false
+  xy: 259, 2626
+  size: 255, 171
+  orig: 255, 171
+  offset: 0, 0
+  index: -1

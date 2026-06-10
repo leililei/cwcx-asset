@@ -1,0 +1,129 @@
+{
+"skeleton": {
+	"hash": "/uLhHZqODH12sZ1IPacKKx0bzHE",
+	"spine": "3.8.99",
+	"x": -902.9,
+	"y": -1530.01,
+	"width": 1894,
+	"height": 2817,
+	"images": "../源文件/lilisi/images/",
+	"audio": "G:/个人剧情莉莉丝spine/源文件/lilisi"
+},
+"bones": [
+	{ "name": "root", "x": -1228.9, "y": 1600.99 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "jian1", "bone": "root" },
+	{ "name": "jian2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1234, "y": -621.5, "width": 256, "height": 215 }
+			},
+			"body": {
+				"body": { "x": 1273, "y": -1722.5, "width": 1894, "height": 2817 }
+			},
+			"daiji": {
+				"daiji": { "x": 1233.5, "y": -626, "width": 255, "height": 206 }
+			},
+			"jian1": {
+				"jian1": { "x": 527.5, "y": -2276, "width": 933, "height": 1680 }
+			},
+			"jian2": {
+				"jian2": { "x": 755, "y": -1701, "width": 478, "height": 530 }
+			},
+			"sad": {
+				"sad": { "x": 1233.5, "y": -626.5, "width": 255, "height": 205 }
+			},
+			"shy": {
+				"shy": { "x": 1233.5, "y": -622, "width": 257, "height": 214 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"jian1": {
+				"attachment": [
+					{ "name": "jian1" },
+					{ "time": 2, "name": "jian1" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"jian1": {
+				"attachment": [
+					{ "name": "jian1" },
+					{ "time": 2, "name": "jian1" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"jian1": {
+				"attachment": [
+					{ "name": "jian1" },
+					{ "time": 2, "name": "jian1" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"jian1": {
+				"attachment": [
+					{ "name": "jian1" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" },
+					{ "time": 2, "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"jian1": {
+				"attachment": [
+					{ "name": "jian1" }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" },
+					{ "time": 2, "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

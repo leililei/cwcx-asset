@@ -1,0 +1,118 @@
+
+boss_dongzhuo_feinikesi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1699, 615
+  size: 1131, 1023
+  orig: 1927, 1036
+  offset: 0, 13
+  index: -1
+chi1
+  rotate: false
+  xy: 2, 1640
+  size: 2043, 2432
+  orig: 2043, 2432
+  offset: 0, 0
+  index: -1
+chi2
+  rotate: true
+  xy: 2, 255
+  size: 1383, 1695
+  orig: 1383, 1695
+  offset: 0, 0
+  index: -1
+chi3
+  rotate: true
+  xy: 2047, 2484
+  size: 1588, 970
+  orig: 1588, 970
+  offset: 0, 0
+  index: -1
+maofa1
+  rotate: false
+  xy: 2552, 5
+  size: 606, 261
+  orig: 622, 261
+  offset: 5, 0
+  index: -1
+maofa2
+  rotate: true
+  xy: 2552, 268
+  size: 345, 349
+  orig: 362, 350
+  offset: 0, 0
+  index: -1
+maofa3
+  rotate: true
+  xy: 1636, 73
+  size: 157, 234
+  orig: 780, 666
+  offset: 623, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1187, 61
+  size: 269, 192
+  orig: 275, 194
+  offset: 5, 2
+  index: -1
+youtui1
+  rotate: false
+  xy: 2832, 1537
+  size: 327, 945
+  orig: 327, 945
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 2047, 2159
+  size: 323, 316
+  orig: 323, 316
+  offset: 0, 0
+  index: -1
+youtui3
+  rotate: true
+  xy: 583, 12
+  size: 241, 602
+  orig: 241, 602
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: false
+  xy: 1458, 15
+  size: 89, 238
+  orig: 91, 239
+  offset: 2, 0
+  index: -1
+zhua2
+  rotate: false
+  xy: 1549, 22
+  size: 85, 231
+  orig: 85, 231
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: true
+  xy: 2, 2
+  size: 251, 579
+  orig: 251, 580
+  offset: 0, 1
+  index: -1
+zuotui2
+  rotate: false
+  xy: 2047, 1842
+  size: 323, 315
+  orig: 323, 315
+  offset: 0, 0
+  index: -1
+zuotui3
+  rotate: true
+  xy: 1699, 232
+  size: 381, 851
+  orig: 382, 851
+  offset: 0, 0
+  index: -1

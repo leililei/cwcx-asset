@@ -1,0 +1,90 @@
+
+sd_lihui_yisikala.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bdf
+  rotate: true
+  xy: 2, 678
+  size: 167, 160
+  orig: 167, 160
+  offset: 0, 0
+  index: -1
+bn
+  rotate: false
+  xy: 2, 379
+  size: 97, 139
+  orig: 97, 139
+  offset: 0, 0
+  index: -1
+byx
+  rotate: false
+  xy: 100, 127
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 101, 389
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 2, 2
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+hx
+  rotate: true
+  xy: 2, 520
+  size: 156, 137
+  orig: 156, 137
+  offset: 0, 0
+  index: -1
+jy
+  rotate: false
+  xy: 2, 124
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+ld
+  rotate: false
+  xy: 2, 248
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+sk
+  rotate: false
+  xy: 164, 716
+  size: 93, 129
+  orig: 93, 129
+  offset: 0, 0
+  index: -1
+sq
+  rotate: false
+  xy: 141, 547
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+wx
+  rotate: false
+  xy: 104, 274
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+xzcf
+  rotate: false
+  xy: 2, 847
+  size: 741, 2252
+  orig: 741, 2252
+  offset: 0, 0
+  index: -1

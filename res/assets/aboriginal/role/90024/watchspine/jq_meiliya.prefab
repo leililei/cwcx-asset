@@ -1,0 +1,164 @@
+{
+"skeleton": {
+	"hash": "FHvYthfq/KOvlhWQWhA5YasUYag",
+	"spine": "3.8.99",
+	"x": -1025.57,
+	"y": -1262.33,
+	"width": 2012,
+	"height": 2559,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\启泉会\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\启泉会"
+},
+"bones": [
+	{ "name": "root", "x": -1205.57, "y": 1622.67 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "deyi", "bone": "root" },
+	{ "name": "wubiaoqing", "bone": "root" },
+	{ "name": "zhuangsha", "bone": "root" },
+	{ "name": "zhenmianmu", "bone": "root" },
+	{ "name": "chaoxiao", "bone": "root" },
+	{ "name": "bushuang", "bone": "root" },
+	{ "name": "xianqi", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "moren", "bone": "root" },
+	{ "name": "idle", "bone": "root", "attachment": "idle" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1170, "y": -712.5, "width": 286, "height": 165 }
+			},
+			"body": {
+				"body": { "x": 1186, "y": -1605.5, "width": 2012, "height": 2559 }
+			},
+			"bushuang": {
+				"bushuang": { "x": 1168, "y": -704.5, "width": 294, "height": 177 }
+			},
+			"chaoxiao": {
+				"chaoxiao": { "x": 1175, "y": -723.5, "width": 276, "height": 203 }
+			},
+			"deyi": {
+				"deyi": { "x": 1168, "y": -707.5, "width": 294, "height": 177 }
+			},
+			"idle": {
+				"idle": { "x": 1336, "y": -1427.5, "width": 490, "height": 1411 }
+			},
+			"moren": {
+				"moren": { "x": 1165, "y": -710.5, "width": 288, "height": 179 }
+			},
+			"wubiaoqing": {
+				"wubiaoqing": { "x": 1168, "y": -706, "width": 294, "height": 174 }
+			},
+			"xianqi": {
+				"xianqi": { "x": 1165, "y": -713, "width": 288, "height": 182 }
+			},
+			"zhenmianmu": {
+				"zhenmianmu": { "x": 1165, "y": -708, "width": 288, "height": 186 }
+			},
+			"zhuangsha": {
+				"zhuangsha": { "x": 1165, "y": -707.5, "width": 288, "height": 187 }
+			}
+		}
+	}
+],
+"animations": {
+	"bushuang": {
+		"slots": {
+			"bushuang": {
+				"attachment": [
+					{ "name": "bushuang" },
+					{ "time": 2, "name": "bushuang" }
+				]
+			}
+		}
+	},
+	"chaoxiao": {
+		"slots": {
+			"chaoxiao": {
+				"attachment": [
+					{ "name": "chaoxiao" },
+					{ "time": 2, "name": "chaoxiao" }
+				]
+			}
+		}
+	},
+	"deyi": {
+		"slots": {
+			"deyi": {
+				"attachment": [
+					{ "name": "deyi" },
+					{ "time": 2, "name": "deyi" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"idle": {
+				"attachment": [
+					{ "time": 2, "name": "idle" }
+				]
+			}
+		}
+	},
+	"moren": {
+		"slots": {
+			"moren": {
+				"attachment": [
+					{ "name": "moren" },
+					{ "time": 2, "name": "moren" }
+				]
+			}
+		}
+	},
+	"wubiaoqing": {
+		"slots": {
+			"wubiaoqing": {
+				"attachment": [
+					{ "name": "wubiaoqing" },
+					{ "time": 2, "name": "wubiaoqing" }
+				]
+			}
+		}
+	},
+	"xianqi": {
+		"slots": {
+			"xianqi": {
+				"attachment": [
+					{ "name": "xianqi" },
+					{ "time": 2, "name": "xianqi" }
+				]
+			}
+		}
+	},
+	"zhenmianmu": {
+		"slots": {
+			"zhenmianmu": {
+				"attachment": [
+					{ "name": "zhenmianmu" },
+					{ "time": 2, "name": "zhenmianmu" }
+				]
+			}
+		}
+	},
+	"zhuangsha": {
+		"slots": {
+			"zhuangsha": {
+				"attachment": [
+					{ "name": "zhuangsha" },
+					{ "time": 2, "name": "zhuangsha" }
+				]
+			}
+		}
+	}
+}
+}

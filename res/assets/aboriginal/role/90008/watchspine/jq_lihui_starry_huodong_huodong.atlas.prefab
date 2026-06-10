@@ -1,0 +1,76 @@
+
+jq_lihui_starry_huodong_huodong.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2089, 3841
+  size: 296, 235
+  orig: 298, 237
+  offset: 1, 1
+  index: -1
+apathy
+  rotate: false
+  xy: 0, 3863
+  size: 297, 213
+  orig: 299, 215
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 2707
+  size: 1139, 2038
+  orig: 1141, 2040
+  offset: 1, 1
+  index: -1
+body2
+  rotate: true
+  xy: 2038, 2702
+  size: 1139, 2038
+  orig: 1141, 2040
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 297, 3861
+  size: 299, 215
+  orig: 301, 217
+  offset: 1, 1
+  index: -1
+happy
+  rotate: false
+  xy: 895, 3857
+  size: 279, 219
+  orig: 281, 221
+  offset: 1, 1
+  index: -1
+ridicule
+  rotate: false
+  xy: 1174, 3852
+  size: 303, 224
+  orig: 305, 226
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 1477, 3850
+  size: 297, 226
+  orig: 299, 228
+  offset: 1, 1
+  index: -1
+shy
+  rotate: false
+  xy: 1774, 3846
+  size: 315, 230
+  orig: 317, 232
+  offset: 1, 1
+  index: -1
+surprise
+  rotate: false
+  xy: 596, 3861
+  size: 299, 215
+  orig: 301, 217
+  offset: 1, 1
+  index: -1

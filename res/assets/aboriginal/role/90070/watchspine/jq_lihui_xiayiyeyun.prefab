@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "QClMUci1Va6zLT1qQjKT5mtEHi8",
+	"spine": "3.8.99",
+	"x": -907.64,
+	"y": -2324.11,
+	"width": 1645,
+	"height": 4082,
+	"images": "./images/",
+	"audio": "D:/活动资源相关/2026.3 魔都精兵的奴隶联动二期/魔都精兵的奴隶二期联动演出素材/立绘/虾夷夜云"
+},
+"bones": [
+	{ "name": "root", "x": -906.64, "y": 1756.89 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "wink2", "bone": "root" },
+	{ "name": "ganxingqu", "bone": "root" },
+	{ "name": "shahuhu", "bone": "root" },
+	{ "name": "biyanxiao", "bone": "root" },
+	{ "name": "kaixinxiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyanxiao": {
+				"biyanxiao": { "x": 873.5, "y": -408, "width": 365, "height": 296 }
+			},
+			"body": {
+				"body": { "x": 821.5, "y": -2040, "width": 1645, "height": 4082 }
+			},
+			"daiji": {
+				"daiji": { "x": 870, "y": -400, "width": 376, "height": 298 }
+			},
+			"ganxingqu": {
+				"ganxingqu": { "x": 870, "y": -400, "width": 376, "height": 298 }
+			},
+			"kaixinxiao": {
+				"kaixinxiao": { "x": 870, "y": -412, "width": 376, "height": 322 }
+			},
+			"shahuhu": {
+				"shahuhu": { "x": 883, "y": -411, "width": 328, "height": 348 }
+			},
+			"wink": {
+				"wink": { "x": 870, "y": -401.5, "width": 376, "height": 301 }
+			},
+			"wink2": {
+				"wink2": { "x": 870, "y": -406, "width": 376, "height": 310 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyanxiao": {
+		"slots": {
+			"biyanxiao": {
+				"attachment": [
+					{ "name": "biyanxiao" }
+				]
+			}
+		}
+	},
+	"ganxingqu": {
+		"slots": {
+			"ganxingqu": {
+				"attachment": [
+					{ "name": "ganxingqu" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"kaixinxiao": {
+		"slots": {
+			"kaixinxiao": {
+				"attachment": [
+					{ "name": "kaixinxiao" }
+				]
+			}
+		}
+	},
+	"shahuhu": {
+		"slots": {
+			"shahuhu": {
+				"attachment": [
+					{ "name": "shahuhu" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"wink2": {
+		"slots": {
+			"wink2": {
+				"attachment": [
+					{ "name": "wink2" }
+				]
+			}
+		}
+	}
+}
+}

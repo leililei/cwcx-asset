@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "07/0y76O3JUj2r2n0mBtec8SPlY",
+	"spine": "3.8.99",
+	"x": -600.94,
+	"y": -1225.11,
+	"width": 1220,
+	"height": 2491,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\klsdn\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\klsdn"
+},
+"bones": [
+	{ "name": "root", "x": -1240.94, "y": 1275.89 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "zhuomei", "bone": "root" },
+	{ "name": "bizui", "bone": "root" },
+	{ "name": "zhangzui", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "gomi", "bone": "root" },
+	{ "name": "know", "bone": "root" },
+	{ "name": "laugh", "bone": "root" },
+	{ "name": "laugh2", "bone": "root" },
+	{ "name": "glass2", "bone": "root" },
+	{ "name": "daimao", "bone": "root", "attachment": "daimao" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1277.5, "y": -293, "width": 221, "height": 160 }
+			},
+			"biyan": {
+				"biyan": { "x": 1279.5, "y": -292, "width": 211, "height": 158 }
+			},
+			"bizui": {
+				"bizui": { "x": 1276, "y": -287.5, "width": 218, "height": 149 }
+			},
+			"body": {
+				"body": { "x": 1250, "y": -1275.5, "width": 1220, "height": 2451 }
+			},
+			"daiji": {
+				"daiji": { "x": 1274, "y": -287, "width": 228, "height": 150 }
+			},
+			"daimao": {
+				"daimao": { "x": 1297, "y": -190.5, "width": 356, "height": 361 }
+			},
+			"glass": {
+				"glass": { "x": 1254, "y": -109.5, "width": 282, "height": 129 }
+			},
+			"glass2": {
+				"glass2": { "x": 1259.5, "y": -273, "width": 227, "height": 134 }
+			},
+			"gomi": {
+				"gomi": { "x": 1263, "y": -251.5, "width": 380, "height": 347 }
+			},
+			"know": {
+				"know": { "x": 1281, "y": -287.5, "width": 214, "height": 149 }
+			},
+			"laugh": {
+				"laugh": { "x": 1272, "y": -264, "width": 296, "height": 214 }
+			},
+			"laugh2": {
+				"laugh2": { "x": 1270, "y": -290.5, "width": 212, "height": 163 }
+			},
+			"sad": {
+				"sad": { "x": 1269, "y": -290, "width": 204, "height": 144 }
+			},
+			"smile": {
+				"smile": { "x": 1275.5, "y": -287.5, "width": 225, "height": 147 }
+			},
+			"zhangzui": {
+				"zhangzui": { "x": 1276, "y": -288, "width": 218, "height": 150 }
+			},
+			"zhuomei": {
+				"zhuomei": { "x": 1276, "y": -289, "width": 218, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" },
+					{ "time": 2, "name": "biyan" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 2, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			},
+			"laugh2": {
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			},
+			"zhuomei": {
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			}
+		}
+	}
+}
+}

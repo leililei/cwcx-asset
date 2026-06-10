@@ -1,0 +1,132 @@
+{
+"skeleton": {
+	"hash": "Yq2I8yOG7sXPVK6tUnfkAdJHAwU",
+	"spine": "3.8.99",
+	"x": -1379.78,
+	"y": -1671.69,
+	"width": 2531,
+	"height": 3256,
+	"images": "../psd原文件/yida/images/",
+	"audio": "E:/文案的活/2.5周年活动文件/spine处理/psd原文件/yida"
+},
+"bones": [
+	{ "name": "root", "x": -1511.78, "y": 1664.31 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1546, "y": -546, "width": 218, "height": 152 }
+			},
+			"angry2": {
+				"angry2": { "x": 1525.5, "y": -546, "width": 281, "height": 152 }
+			},
+			"body": {
+				"body": { "x": 1397.5, "y": -1708, "width": 2531, "height": 3256 }
+			},
+			"daiji": {
+				"daiji": { "x": 1547.5, "y": -544, "width": 221, "height": 150 }
+			},
+			"ganga": {
+				"ganga": { "x": 1525.5, "y": -551, "width": 281, "height": 152 }
+			},
+			"glass": {
+				"glass": { "x": 1557, "y": -573.5, "width": 178, "height": 41 }
+			},
+			"happy": {
+				"happy": { "x": 1551.5, "y": -555, "width": 229, "height": 158 }
+			},
+			"jingya": {
+				"jingya": { "x": 1547.5, "y": -548, "width": 221, "height": 158 }
+			},
+			"shy": {
+				"shy": { "x": 1546, "y": -548.5, "width": 218, "height": 147 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" },
+					{ "time": 2, "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" },
+					{ "time": 2, "name": "angry2" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" },
+					{ "time": 2, "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" },
+					{ "time": 2, "name": "happy" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" },
+					{ "time": 2, "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" },
+					{ "time": 2, "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" },
+					{ "time": 2, "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,83 @@
+
+sd_lihui_teweierda.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bunai  bq3
+  rotate: false
+  xy: 2060, 558
+  size: 202, 152
+  orig: 202, 152
+  offset: 0, 0
+  index: -1
+dengyan  bq6
+  rotate: false
+  xy: 1447, 553
+  size: 202, 157
+  orig: 202, 157
+  offset: 0, 0
+  index: -1
+fs1
+  rotate: false
+  xy: 2, 2
+  size: 833, 708
+  orig: 833, 708
+  offset: 0, 0
+  index: -1
+mor  bq1
+  rotate: false
+  xy: 1243, 551
+  size: 202, 159
+  orig: 202, 159
+  offset: 0, 0
+  index: -1
+shengqi  bq4
+  rotate: false
+  xy: 837, 547
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+xbzy  bq7
+  rotate: false
+  xy: 1651, 554
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+xiao  bq2
+  rotate: false
+  xy: 1856, 555
+  size: 202, 155
+  orig: 202, 155
+  offset: 0, 0
+  index: -1
+xiaxiao  bq8
+  rotate: false
+  xy: 2060, 404
+  size: 198, 152
+  orig: 198, 152
+  offset: 0, 0
+  index: -1
+xiaxiao1fenn
+  rotate: true
+  xy: 837, 496
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+yanjing yy
+  rotate: false
+  xy: 2, 712
+  size: 2109, 2377
+  orig: 2109, 2377
+  offset: 0, 0
+  index: -1
+yansu  bq5
+  rotate: false
+  xy: 1040, 547
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1

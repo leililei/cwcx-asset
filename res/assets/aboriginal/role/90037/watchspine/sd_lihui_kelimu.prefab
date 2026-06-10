@@ -1,0 +1,131 @@
+{
+"skeleton": {
+	"hash": "HuDMn8p0V0KHOMZ+0ResfqEBw+Y",
+	"spine": "3.8.99",
+	"x": -963.09,
+	"y": -1621.38,
+	"width": 2373,
+	"height": 2867,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\sdkelimu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\sdkelimu"
+},
+"bones": [
+	{ "name": "root", "x": -1865.09, "y": 1773.62 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "心", "bone": "root" },
+	{ "name": "idle", "bone": "root" },
+	{ "name": "jignya", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "jiu", "bone": "root", "attachment": "jiu" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1775, "y": -917.5, "width": 408, "height": 333 }
+			},
+			"body": {
+				"body": { "x": 2088.5, "y": -1961.5, "width": 2373, "height": 2867 }
+			},
+			"ganga": {
+				"ganga": { "x": 1775, "y": -931.5, "width": 408, "height": 299 }
+			},
+			"idle": {
+				"idle": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			},
+			"jignya": {
+				"jignya": { "x": 1775, "y": -926, "width": 408, "height": 310 }
+			},
+			"jiu": {
+				"jiu": { "x": 2356, "y": -1769, "width": 158, "height": 112 }
+			},
+			"sad": {
+				"sad": { "x": 1781.5, "y": -933.5, "width": 409, "height": 299 }
+			},
+			"smile": {
+				"smile": { "x": 1770, "y": -923, "width": 408, "height": 310 }
+			},
+			"心": {
+				"心": { "x": 1291, "y": -989.5, "width": 142, "height": 137 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" },
+					{ "time": 2, "name": "angry" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" },
+					{ "time": 2, "name": "ganga" }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"idle": {
+				"attachment": [
+					{ "name": "idle" },
+					{ "time": 2, "name": "idle" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jignya": {
+				"attachment": [
+					{ "name": "jignya" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" },
+					{ "time": 2, "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			},
+			"心": {
+				"attachment": [
+					{ "name": "心" },
+					{ "time": 2, "name": "心" }
+				]
+			}
+		}
+	}
+}
+}
