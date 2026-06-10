@@ -1,0 +1,116 @@
+
+lihui_xiaomeng_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2462
+  size: 2633, 703
+  orig: 2633, 703
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2637, 532
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 1496
+  size: 1785, 964
+  orig: 1785, 964
+  offset: 0, 0
+  index: -1
+guanban-1
+  rotate: false
+  xy: 238, 3550
+  size: 307, 303
+  orig: 697, 923
+  offset: 390, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 2, 3635
+  size: 234, 218
+  orig: 1179, 318
+  offset: 0, 100
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 418
+  size: 2633, 1076
+  orig: 2633, 1076
+  offset: 0, 0
+  index: -1
+wuqi-2
+  rotate: false
+  xy: 547, 3167
+  size: 2633, 686
+  orig: 2633, 1028
+  offset: 0, 0
+  index: -1
+
+lihui_xiaomeng_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 1420
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2638
+  size: 2633, 1215
+  orig: 2633, 1215
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2637, 1220
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 202
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+
+lihui_xiaomeng_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: false
+  xy: 2, 2438
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+nangua
+  rotate: false
+  xy: 2, 1220
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+wuqi-3
+  rotate: false
+  xy: 2, 2
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1

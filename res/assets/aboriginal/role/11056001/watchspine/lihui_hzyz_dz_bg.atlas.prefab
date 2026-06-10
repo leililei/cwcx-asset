@@ -1,0 +1,69 @@
+
+lihui_hzyz_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ_pangxie1
+  rotate: false
+  xy: 1022, 966
+  size: 162, 158
+  orig: 162, 159
+  offset: 0, 0
+  index: -1
+BJ_pangxie2
+  rotate: false
+  xy: 907, 952
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+BJ_pangxie3
+  rotate: false
+  xy: 1186, 972
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+BJ_pangxie4
+  rotate: false
+  xy: 1186, 1081
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+BJ_pangxie5
+  rotate: false
+  xy: 1002, 1158
+  size: 91, 127
+  orig: 91, 127
+  offset: 0, 0
+  index: -1
+BJ_shatan
+  rotate: false
+  xy: 2, 2050
+  size: 3804, 1756
+  orig: 3804, 1756
+  offset: 0, 0
+  index: -1
+BJ_shuiguo
+  rotate: false
+  xy: 2, 925
+  size: 607, 359
+  orig: 608, 360
+  offset: 1, 0
+  index: -1
+BJ_xigua2
+  rotate: false
+  xy: 611, 936
+  size: 410, 348
+  orig: 410, 348
+  offset: 0, 0
+  index: -1
+BJ_ying
+  rotate: false
+  xy: 2, 1286
+  size: 3612, 762
+  orig: 3613, 835
+  offset: 0, 0
+  index: -1

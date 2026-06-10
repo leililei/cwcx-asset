@@ -1,0 +1,34 @@
+
+peipeita_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2859, 1444
+  size: 1011, 700
+  orig: 1012, 701
+  offset: 1, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 2146
+  size: 4090, 1946
+  orig: 4090, 1946
+  offset: 0, 0
+  index: -1
+langan
+  rotate: false
+  xy: 2, 656
+  size: 2855, 1488
+  orig: 2896, 1489
+  offset: 37, 0
+  index: -1
+langan_1
+  rotate: false
+  xy: 2859, 1133
+  size: 536, 309
+  orig: 539, 312
+  offset: 1, 0
+  index: -1

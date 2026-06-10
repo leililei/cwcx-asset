@@ -1,0 +1,13 @@
+
+lihui_xingshuo_bg_pifu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc_bgx
+  rotate: false
+  xy: 0, 832
+  size: 1920, 1088
+  orig: 1922, 1090
+  offset: 1, 1
+  index: -1

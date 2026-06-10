@@ -1,0 +1,33 @@
+
+lihui_qingrenjisikadi_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 5, 1605
+  size: 4002, 2402
+  orig: 4002, 2402
+  offset: 0, 0
+  index: -1
+guajian
+  rotate: false
+  xy: 5, 534
+  size: 1357, 1066
+  orig: 1357, 1066
+  offset: 0, 0
+  index: -1
+
+lihui_qingrenjisikadi_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 5, 1605
+  size: 4002, 2402
+  orig: 4002, 2402
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+lihui_qianqiu_pifu01_front.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangban1
+  rotate: false
+  xy: 0, 48
+  size: 124, 189
+  orig: 124, 189
+  offset: 0, 0
+  index: -1
+guangban2
+  rotate: true
+  xy: 124, 51
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+guangban3
+  rotate: true
+  xy: 124, 143
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1

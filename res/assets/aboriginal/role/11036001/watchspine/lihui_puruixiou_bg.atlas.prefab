@@ -1,0 +1,13 @@
+
+lihui_puruixiou_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 1516
+  size: 2809, 1297
+  orig: 2809, 1297
+  offset: 0, 0
+  index: -1

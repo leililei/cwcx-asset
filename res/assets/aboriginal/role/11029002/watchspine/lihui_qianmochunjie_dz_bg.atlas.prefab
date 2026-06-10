@@ -1,0 +1,48 @@
+
+lihui_qianmochunjie_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 2319
+  size: 3682, 1686
+  orig: 3682, 1686
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 3686, 3247
+  size: 319, 121
+  orig: 319, 122
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 2, 394
+  size: 3172, 482
+  orig: 3173, 483
+  offset: 1, 0
+  index: -1
+cao3
+  rotate: false
+  xy: 3686, 3675
+  size: 253, 330
+  orig: 254, 330
+  offset: 0, 0
+  index: -1
+xz
+  rotate: false
+  xy: 2, 878
+  size: 2990, 1439
+  orig: 2990, 1439
+  offset: 0, 0
+  index: -1
+zhuzi2
+  rotate: false
+  xy: 3686, 3370
+  size: 274, 303
+  orig: 274, 303
+  offset: 0, 0
+  index: -1

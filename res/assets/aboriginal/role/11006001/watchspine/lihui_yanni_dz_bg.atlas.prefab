@@ -1,0 +1,81 @@
+
+lihui_yanni_dz_bg.png
+size: 3484,3484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuxing
+  rotate: false
+  xy: 2, 461
+  size: 2757, 1601
+  orig: 2757, 1601
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 1818, 2064
+  size: 1418, 1664
+  orig: 1418, 1664
+  offset: 0, 0
+  index: -1
+xx-1
+  rotate: true
+  xy: 1137, 2941
+  size: 541, 679
+  orig: 541, 679
+  offset: 0, 0
+  index: -1
+xx-2
+  rotate: false
+  xy: 704, 3095
+  size: 431, 387
+  orig: 431, 387
+  offset: 0, 0
+  index: -1
+xx-3
+  rotate: false
+  xy: 365, 3181
+  size: 337, 301
+  orig: 337, 301
+  offset: 0, 0
+  index: -1
+xx-4
+  rotate: false
+  xy: 2, 3226
+  size: 361, 256
+  orig: 361, 256
+  offset: 0, 0
+  index: -1
+
+lihui_yanni_dz_bg2.png
+size: 3629,3629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lu
+  rotate: false
+  xy: 2, 1936
+  size: 3373, 1691
+  orig: 3373, 1691
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 2, 2
+  size: 2144, 1932
+  orig: 2144, 1932
+  offset: 0, 0
+  index: -1
+
+lihui_yanni_dz_bg3.png
+size: 3515,3515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1352
+  size: 3511, 2161
+  orig: 3511, 2161
+  offset: 0, 0
+  index: -1

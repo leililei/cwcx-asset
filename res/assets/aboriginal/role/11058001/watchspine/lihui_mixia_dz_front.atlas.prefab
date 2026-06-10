@@ -1,0 +1,41 @@
+
+lihui_mixia_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 2, 2253
+  size: 2510, 1315
+  orig: 2510, 1315
+  offset: 0, 0
+  index: -1
+qianjyf1
+  rotate: false
+  xy: 1900, 1046
+  size: 571, 1205
+  orig: 571, 1205
+  offset: 0, 0
+  index: -1
+qianjyf2
+  rotate: false
+  xy: 2, 1418
+  size: 1896, 833
+  orig: 1896, 833
+  offset: 0, 0
+  index: -1
+qianjyf3
+  rotate: false
+  xy: 2514, 1433
+  size: 1044, 944
+  orig: 1044, 944
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2514, 2379
+  size: 1054, 1189
+  orig: 1054, 1189
+  offset: 0, 0
+  index: -1

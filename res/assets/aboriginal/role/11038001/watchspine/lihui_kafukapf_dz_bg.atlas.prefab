@@ -1,0 +1,90 @@
+
+lihui_kafukapf_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 0, 2751
+  size: 2751, 1271
+  orig: 2751, 1271
+  offset: 0, 0
+  index: -1
+chengbao
+  rotate: true
+  xy: 0, 2221
+  size: 530, 621
+  orig: 530, 621
+  offset: 0, 0
+  index: -1
+guandeng
+  rotate: false
+  xy: 2299, 2429
+  size: 297, 322
+  orig: 297, 322
+  offset: 0, 0
+  index: -1
+huoguang
+  rotate: true
+  xy: 621, 2347
+  size: 404, 1271
+  orig: 404, 1271
+  offset: 0, 0
+  index: -1
+kaideng
+  rotate: true
+  xy: 1892, 2398
+  size: 353, 407
+  orig: 353, 407
+  offset: 0, 0
+  index: -1
+shu-1
+  rotate: true
+  xy: 2751, 2189
+  size: 1833, 1271
+  orig: 1833, 1271
+  offset: 0, 0
+  index: -1
+shu-2
+  rotate: false
+  xy: 2751, 918
+  size: 884, 1271
+  orig: 884, 1271
+  offset: 0, 0
+  index: -1
+shu-3
+  rotate: false
+  xy: 0, 939
+  size: 2751, 1250
+  orig: 2751, 1250
+  offset: 0, 0
+  index: -1
+shu-4
+  rotate: false
+  xy: 0, 156
+  size: 1006, 783
+  orig: 1006, 783
+  offset: 0, 0
+  index: -1
+yun-1
+  rotate: true
+  xy: 2596, 2446
+  size: 305, 145
+  orig: 305, 145
+  offset: 0, 0
+  index: -1
+yun-2
+  rotate: false
+  xy: 2299, 2282
+  size: 306, 147
+  orig: 306, 147
+  offset: 0, 0
+  index: -1
+yun-3
+  rotate: false
+  xy: 1006, 249
+  size: 1345, 690
+  orig: 1345, 690
+  offset: 0, 0
+  index: -1

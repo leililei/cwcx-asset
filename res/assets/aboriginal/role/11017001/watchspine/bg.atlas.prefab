@@ -1,0 +1,41 @@
+
+bg.png
+size: 3796,3796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 1588, 1088
+  size: 873, 738
+  orig: 873, 738
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 2463, 1068
+  size: 810, 758
+  orig: 810, 758
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 2, 619
+  size: 1584, 1207
+  orig: 1584, 1207
+  offset: 0, 0
+  index: -1
+b4
+  rotate: true
+  xy: 2, 290
+  size: 327, 867
+  orig: 327, 867
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 2, 1828
+  size: 3792, 1966
+  orig: 3792, 1966
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+lihui_zlws_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd1
+  rotate: false
+  xy: 2, 1615
+  size: 2104, 840
+  orig: 2104, 840
+  offset: 0, 0
+  index: -1
+dd2
+  rotate: false
+  xy: 2, 2
+  size: 1874, 769
+  orig: 1874, 769
+  offset: 0, 0
+  index: -1
+fenw
+  rotate: false
+  xy: 2, 2457
+  size: 2559, 1244
+  orig: 2559, 1244
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 773
+  size: 2104, 840
+  orig: 2104, 840
+  offset: 0, 0
+  index: -1

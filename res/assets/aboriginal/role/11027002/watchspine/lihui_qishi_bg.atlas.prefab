@@ -1,0 +1,55 @@
+
+lihui_qishi_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 2410
+  size: 3276, 1512
+  orig: 3276, 1512
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 2, 533
+  size: 2392, 360
+  orig: 2392, 360
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 3280, 3289
+  size: 547, 633
+  orig: 547, 633
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 3280, 2732
+  size: 440, 555
+  orig: 440, 555
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 2533, 1791
+  size: 1389, 617
+  orig: 1389, 617
+  offset: 0, 0
+  index: -1
+g6
+  rotate: false
+  xy: 2533, 1390
+  size: 1084, 399
+  orig: 1084, 399
+  offset: 0, 0
+  index: -1
+shafa2
+  rotate: false
+  xy: 2, 895
+  size: 2529, 1513
+  orig: 2529, 1513
+  offset: 0, 0
+  index: -1

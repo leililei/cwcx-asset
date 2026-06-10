@@ -1,0 +1,41 @@
+
+lihui_kll_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kll_3_0
+  rotate: false
+  xy: 2930, 3282
+  size: 953, 766
+  orig: 953, 766
+  offset: 0, 0
+  index: -1
+kll_3_1
+  rotate: false
+  xy: 2757, 1344
+  size: 1291, 1351
+  orig: 1291, 1351
+  offset: 0, 0
+  index: -1
+kll_3_2
+  rotate: false
+  xy: 2, 1344
+  size: 2753, 1351
+  orig: 2753, 1351
+  offset: 0, 0
+  index: -1
+kll_3_4_0
+  rotate: false
+  xy: 2930, 2826
+  size: 423, 454
+  orig: 423, 454
+  offset: 0, 0
+  index: -1
+kll_3_4_1
+  rotate: false
+  xy: 2, 2697
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1

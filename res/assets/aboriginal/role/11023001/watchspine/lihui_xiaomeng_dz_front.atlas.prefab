@@ -1,0 +1,62 @@
+
+lihui_xiaomeng_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao-1
+  rotate: false
+  xy: 1456, 3007
+  size: 1076, 582
+  orig: 1076, 582
+  offset: 0, 0
+  index: -1
+cao-2
+  rotate: true
+  xy: 3186, 3288
+  size: 761, 863
+  orig: 761, 863
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 2226
+  size: 3648, 779
+  orig: 3648, 779
+  offset: 0, 0
+  index: -1
+honpiaodai
+  rotate: false
+  xy: 752, 3750
+  size: 846, 299
+  orig: 846, 299
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 2453, 3591
+  size: 731, 458
+  orig: 731, 458
+  offset: 0, 0
+  index: -1
+luwei
+  rotate: false
+  xy: 1600, 3621
+  size: 851, 428
+  orig: 851, 428
+  offset: 0, 0
+  index: -1
+piaodai-2
+  rotate: false
+  xy: 2, 3792
+  size: 748, 257
+  orig: 748, 257
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: false
+  xy: 2, 3169
+  size: 1452, 579
+  orig: 1500, 579
+  offset: 0, 0
+  index: -1

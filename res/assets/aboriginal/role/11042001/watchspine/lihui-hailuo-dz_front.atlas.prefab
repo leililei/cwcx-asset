@@ -1,0 +1,111 @@
+
+lihui-hailuo-dz_front.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: false
+  xy: 2, 791
+  size: 210, 190
+  orig: 210, 190
+  offset: 0, 0
+  index: -1
+cao-1
+  rotate: false
+  xy: 397, 948
+  size: 168, 51
+  orig: 168, 51
+  offset: 0, 0
+  index: -1
+maoshen
+  rotate: false
+  xy: 749, 916
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+maotou
+  rotate: true
+  xy: 872, 882
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1
+maowei
+  rotate: true
+  xy: 300, 950
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+maoyan-1
+  rotate: false
+  xy: 277, 980
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+maoyan-2
+  rotate: false
+  xy: 250, 981
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+shuihua1
+  rotate: false
+  xy: 170, 983
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shuihua2
+  rotate: false
+  xy: 190, 983
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shuihua3
+  rotate: false
+  xy: 210, 983
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shuihua4
+  rotate: false
+  xy: 230, 983
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shuiqi-1
+  rotate: false
+  xy: 567, 934
+  size: 180, 65
+  orig: 180, 65
+  offset: 0, 0
+  index: -1
+shuiqi-2
+  rotate: false
+  xy: 2, 649
+  size: 895, 140
+  orig: 895, 140
+  offset: 0, 0
+  index: -1
+shuiwu-2
+  rotate: false
+  xy: 2, 467
+  size: 871, 180
+  orig: 871, 180
+  offset: 0, 0
+  index: -1
+yushui
+  rotate: true
+  xy: 2, 996
+  size: 3, 166
+  orig: 3, 166
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+lihui_qianmo_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 1540, 1353
+  size: 1651, 1349
+  orig: 1651, 1349
+  offset: 0, 0
+  index: -1
+guangban1
+  rotate: false
+  xy: 2, 2
+  size: 2136, 1349
+  orig: 2136, 1349
+  offset: 0, 0
+  index: -1
+guangban2
+  rotate: false
+  xy: 2, 2901
+  size: 1049, 641
+  orig: 1049, 641
+  offset: 0, 0
+  index: -1
+guangban3
+  rotate: false
+  xy: 2, 1438
+  size: 1536, 1344
+  orig: 1536, 1344
+  offset: 0, 0
+  index: -1
+guangban4
+  rotate: false
+  xy: 2143, 2704
+  size: 1048, 838
+  orig: 1048, 838
+  offset: 0, 0
+  index: -1
+guangban5
+  rotate: true
+  xy: 1053, 2784
+  size: 758, 1088
+  orig: 758, 1088
+  offset: 0, 0
+  index: -1

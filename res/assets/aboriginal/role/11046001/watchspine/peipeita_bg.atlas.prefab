@@ -1,0 +1,138 @@
+
+peipeita_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_caihong
+  rotate: false
+  xy: 1291, 2500
+  size: 1254, 763
+  orig: 1281, 769
+  offset: 11, 0
+  index: -1
+beijing_guang0
+  rotate: false
+  xy: 2341, 514
+  size: 1163, 996
+  orig: 1209, 1081
+  offset: 0, 85
+  index: -1
+beijing_guang1
+  rotate: false
+  xy: 2, 3439
+  size: 554, 402
+  orig: 554, 402
+  offset: 0, 0
+  index: -1
+beijing_guang2
+  rotate: false
+  xy: 2547, 2421
+  size: 1071, 766
+  orig: 2340, 1613
+  offset: 0, 581
+  index: -1
+beijing_guang3
+  rotate: false
+  xy: 2, 860
+  size: 1075, 937
+  orig: 1075, 937
+  offset: 0, 0
+  index: -1
+beijing_shui
+  rotate: false
+  xy: 1182, 1645
+  size: 1207, 853
+  orig: 2340, 1613
+  offset: 1133, 252
+  index: -1
+beijing_shuichi1
+  rotate: false
+  xy: 2, 1799
+  size: 1178, 845
+  orig: 1179, 846
+  offset: 1, 0
+  index: -1
+beijing_shuichi2
+  rotate: false
+  xy: 1079, 726
+  size: 1260, 917
+  orig: 1261, 917
+  offset: 1, 0
+  index: -1
+beijing_shuichi3
+  rotate: false
+  xy: 2391, 1512
+  size: 1262, 907
+  orig: 1262, 908
+  offset: 0, 0
+  index: -1
+beijing_shuigaoguang
+  rotate: false
+  xy: 558, 3360
+  size: 578, 481
+  orig: 578, 481
+  offset: 0, 0
+  index: -1
+beijing_yun1
+  rotate: false
+  xy: 3226, 3189
+  size: 615, 652
+  orig: 622, 657
+  offset: 5, 0
+  index: -1
+beijing_yun2
+  rotate: false
+  xy: 2, 2646
+  size: 1287, 712
+  orig: 1293, 812
+  offset: 0, 0
+  index: -1
+beijing_yun3
+  rotate: false
+  xy: 1616, 3265
+  size: 1608, 576
+  orig: 1644, 579
+  offset: 30, 3
+  index: -1
+beijing_yun4
+  rotate: false
+  xy: 1138, 3360
+  size: 476, 481
+  orig: 477, 485
+  offset: 0, 2
+  index: -1
+
+peipeita_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2761
+  size: 2341, 1081
+  orig: 2341, 1081
+  offset: 0, 0
+  index: -1
+beijing_jianbian
+  rotate: false
+  xy: 2, 1678
+  size: 2172, 1081
+  orig: 2254, 1081
+  offset: 82, 0
+  index: -1
+beijing_wang
+  rotate: false
+  xy: 2, 595
+  size: 1923, 1081
+  orig: 1923, 1081
+  offset: 0, 0
+  index: -1
+beijing_wang0
+  rotate: false
+  xy: 1927, 595
+  size: 1915, 1081
+  orig: 1915, 1081
+  offset: 0, 0
+  index: -1

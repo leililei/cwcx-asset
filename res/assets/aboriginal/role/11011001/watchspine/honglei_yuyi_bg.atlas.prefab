@@ -1,0 +1,97 @@
+
+honglei_yuyi_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG (1)
+  rotate: false
+  xy: 602, 707
+  size: 338, 114
+  orig: 339, 115
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 2437
+  size: 3512, 1623
+  orig: 3512, 1624
+  offset: 0, 1
+  index: -1
+dyz
+  rotate: false
+  xy: 1508, 1140
+  size: 1988, 622
+  orig: 1988, 623
+  offset: 0, 1
+  index: -1
+dyzx
+  rotate: false
+  xy: 1508, 1764
+  size: 2250, 671
+  orig: 2250, 671
+  offset: 0, 0
+  index: -1
+hy
+  rotate: false
+  xy: 3516, 3325
+  size: 404, 736
+  orig: 404, 736
+  offset: 0, 0
+  index: -1
+hy2
+  rotate: false
+  xy: 2, 1019
+  size: 1505, 1416
+  orig: 1505, 1416
+  offset: 0, 0
+  index: -1
+panzi
+  rotate: false
+  xy: 602, 823
+  size: 389, 194
+  orig: 392, 195
+  offset: 2, 1
+  index: -1
+panziyy
+  rotate: false
+  xy: 2, 217
+  size: 375, 194
+  orig: 377, 196
+  offset: 1, 1
+  index: -1
+sanzi2
+  rotate: false
+  xy: 3516, 2908
+  size: 544, 204
+  orig: 546, 204
+  offset: 1, 0
+  index: -1
+szzyy
+  rotate: false
+  xy: 3516, 3114
+  size: 544, 209
+  orig: 546, 209
+  offset: 1, 0
+  index: -1
+w
+  rotate: false
+  xy: 2, 413
+  size: 599, 605
+  orig: 599, 605
+  offset: 0, 0
+  index: -1
+yyz1
+  rotate: false
+  xy: 602, 248
+  size: 814, 699
+  orig: 814, 699
+  offset: 0, 0
+  index: -1
+yyz2
+  rotate: false
+  xy: 1508, 206
+  size: 770, 932
+  orig: 770, 932
+  offset: 0, 0
+  index: -1

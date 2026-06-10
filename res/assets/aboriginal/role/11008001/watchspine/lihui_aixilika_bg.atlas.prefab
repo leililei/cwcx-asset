@@ -1,0 +1,68 @@
+
+lihui_aixilika_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-1
+  rotate: false
+  xy: 2, 1220
+  size: 3856, 1376
+  orig: 3856, 1376
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 2510, 2598
+  size: 1461, 1549
+  orig: 1461, 1549
+  offset: 0, 0
+  index: -1
+shatanshi
+  rotate: false
+  xy: 947, 3026
+  size: 1561, 1033
+  orig: 1561, 1033
+  offset: 0, 0
+  index: -1
+xie-1
+  rotate: false
+  xy: 688, 3824
+  size: 257, 235
+  orig: 272, 235
+  offset: 9, 0
+  index: -1
+xiezi-2
+  rotate: false
+  xy: 2, 3923
+  size: 258, 136
+  orig: 276, 176
+  offset: 18, 0
+  index: -1
+yyy
+  rotate: false
+  xy: 262, 3882
+  size: 424, 177
+  orig: 424, 177
+  offset: 0, 0
+  index: -1
+
+lihui_aixilika_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tian
+  rotate: false
+  xy: 2, 285
+  size: 3604, 1663
+  orig: 3604, 1663
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 1950
+  size: 3832, 1884
+  orig: 3832, 1884
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+lihui_dangyangtu_bg.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 5, 5
+  size: 4001, 2034
+  orig: 4001, 2034
+  offset: 0, 0
+  index: -1

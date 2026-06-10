@@ -1,0 +1,180 @@
+
+qy_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiehuan_01
+  rotate: false
+  xy: 2382, 2398
+  size: 1145, 580
+  orig: 1145, 580
+  offset: 0, 0
+  index: -1
+qiehuan_02
+  rotate: true
+  xy: 2922, 3599
+  size: 372, 605
+  orig: 372, 605
+  offset: 0, 0
+  index: -1
+qiehuan_04
+  rotate: true
+  xy: 3337, 2980
+  size: 617, 634
+  orig: 617, 634
+  offset: 0, 0
+  index: -1
+qiehuan_05
+  rotate: true
+  xy: 499, 3652
+  size: 319, 1193
+  orig: 319, 1193
+  offset: 0, 0
+  index: -1
+qiehuan_06
+  rotate: false
+  xy: 2, 1297
+  size: 2248, 594
+  orig: 2248, 594
+  offset: 0, 0
+  index: -1
+qiehuan_07
+  rotate: false
+  xy: 2, 2024
+  size: 1064, 660
+  orig: 1064, 660
+  offset: 0, 0
+  index: -1
+qiehuan_08
+  rotate: true
+  xy: 2, 3822
+  size: 149, 495
+  orig: 149, 495
+  offset: 0, 0
+  index: -1
+qiehuan_09
+  rotate: true
+  xy: 1068, 1893
+  size: 668, 1226
+  orig: 668, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_10
+  rotate: true
+  xy: 1694, 3638
+  size: 333, 1226
+  orig: 333, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_11
+  rotate: true
+  xy: 1230, 3173
+  size: 463, 877
+  orig: 463, 877
+  offset: 0, 0
+  index: -1
+qiehuan_13
+  rotate: false
+  xy: 2252, 228
+  size: 1371, 1166
+  orig: 1371, 1166
+  offset: 0, 0
+  index: -1
+qiehuan_14
+  rotate: true
+  xy: 2, 3228
+  size: 422, 1226
+  orig: 422, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_15
+  rotate: true
+  xy: 2, 2686
+  size: 540, 1226
+  orig: 540, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_16
+  rotate: true
+  xy: 2109, 3108
+  size: 489, 1226
+  orig: 489, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_17
+  rotate: true
+  xy: 2296, 1396
+  size: 1000, 1063
+  orig: 1000, 1063
+  offset: 0, 0
+  index: -1
+qiehuan_21
+  rotate: false
+  xy: 2, 543
+  size: 2248, 752
+  orig: 2248, 752
+  offset: 0, 0
+  index: -1
+qiehuan_22
+  rotate: false
+  xy: 1230, 2563
+  size: 1150, 543
+  orig: 1150, 543
+  offset: 0, 0
+  index: -1
+
+qy_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiehuan_03
+  rotate: false
+  xy: 2, 1633
+  size: 1629, 1226
+  orig: 1629, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_12
+  rotate: true
+  xy: 1633, 320
+  size: 1517, 1226
+  orig: 1517, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_18
+  rotate: false
+  xy: 2, 405
+  size: 1239, 1226
+  orig: 1239, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_19
+  rotate: true
+  xy: 3137, 1839
+  size: 2248, 873
+  orig: 2248, 873
+  offset: 0, 0
+  index: -1
+qiehuan_20
+  rotate: true
+  xy: 2861, 502
+  size: 1335, 1226
+  orig: 1335, 1226
+  offset: 0, 0
+  index: -1
+qiehuan_23
+  rotate: false
+  xy: 2, 2861
+  size: 2035, 1226
+  orig: 2035, 1226
+  offset: 0, 0
+  index: -1
+tx_04
+  rotate: true
+  xy: 2039, 1839
+  size: 2248, 1096
+  orig: 2248, 1096
+  offset: 0, 0
+  index: -1

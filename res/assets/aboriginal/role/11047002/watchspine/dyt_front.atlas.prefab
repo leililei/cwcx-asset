@@ -1,0 +1,34 @@
+
+dyt_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heiping
+  rotate: false
+  xy: 2, 319
+  size: 3277, 1720
+  orig: 3277, 1720
+  offset: 0, 0
+  index: -1
+ooooo
+  rotate: false
+  xy: 1436, 2041
+  size: 840, 1238
+  orig: 840, 1238
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: false
+  xy: 2, 3145
+  size: 715, 134
+  orig: 715, 1006
+  offset: 0, 0
+  index: -1
+tuzi_01
+  rotate: false
+  xy: 719, 2273
+  size: 715, 1006
+  orig: 715, 1006
+  offset: 0, 0
+  index: -1

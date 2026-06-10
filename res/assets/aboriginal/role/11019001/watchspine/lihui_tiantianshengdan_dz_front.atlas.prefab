@@ -1,0 +1,111 @@
+
+lihui_tiantianshengdan_dz_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LW2_1
+  rotate: false
+  xy: 1579, 367
+  size: 350, 354
+  orig: 350, 354
+  offset: 0, 0
+  index: -1
+LW2_2
+  rotate: false
+  xy: 774, 2
+  size: 249, 355
+  orig: 250, 356
+  offset: 0, 0
+  index: -1
+LW2_5
+  rotate: false
+  xy: 1349, 1470
+  size: 505, 460
+  orig: 506, 462
+  offset: 0, 1
+  index: -1
+LW3_1
+  rotate: false
+  xy: 797, 1380
+  size: 550, 550
+  orig: 550, 550
+  offset: 0, 0
+  index: -1
+LW3_1_1
+  rotate: false
+  xy: 392, 347
+  size: 380, 373
+  orig: 380, 374
+  offset: 0, 0
+  index: -1
+LW3_3
+  rotate: false
+  xy: 1440, 723
+  size: 309, 745
+  orig: 309, 745
+  offset: 0, 0
+  index: -1
+LW_1
+  rotate: false
+  xy: 2, 722
+  size: 778, 698
+  orig: 778, 805
+  offset: 0, 0
+  index: -1
+LW_1_1
+  rotate: false
+  xy: 2, 322
+  size: 388, 398
+  orig: 393, 423
+  offset: 0, 6
+  index: -1
+LW_1_2
+  rotate: false
+  xy: 392, 217
+  size: 203, 128
+  orig: 208, 138
+  offset: 0, 0
+  index: -1
+LW_2
+  rotate: false
+  xy: 782, 359
+  size: 419, 419
+  orig: 419, 419
+  offset: 0, 0
+  index: -1
+LW_4
+  rotate: false
+  xy: 2, 123
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+xuehua_1
+  rotate: false
+  xy: 1203, 173
+  size: 357, 257
+  orig: 4737, 1815
+  offset: 3679, 1558
+  index: -1
+xuehua_2
+  rotate: false
+  xy: 782, 780
+  size: 656, 598
+  orig: 4737, 1393
+  offset: 3680, 795
+  index: -1
+xuehua_3
+  rotate: false
+  xy: 2, 1422
+  size: 793, 508
+  orig: 4737, 508
+  offset: 3944, 0
+  index: -1
+xuehua_4
+  rotate: false
+  xy: 1203, 432
+  size: 374, 289
+  orig: 4737, 681
+  offset: 2214, 0
+  index: -1

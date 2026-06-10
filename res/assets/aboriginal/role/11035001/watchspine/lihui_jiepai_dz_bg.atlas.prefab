@@ -1,0 +1,13 @@
+
+lihui_jiepai_dz_bg.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 5, 5
+  size: 3511, 1883
+  orig: 3511, 1883
+  offset: 0, 0
+  index: -1

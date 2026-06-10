@@ -1,0 +1,55 @@
+
+lihui_lishanqingluan_qd_dz_front.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaungyun
+  rotate: false
+  xy: 0, 0
+  size: 733, 733
+  orig: 733, 733
+  offset: 0, 0
+  index: -1
+huaban_1
+  rotate: false
+  xy: 434, 733
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+huaban_2
+  rotate: false
+  xy: 349, 755
+  size: 85, 76
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+huaban_3
+  rotate: true
+  xy: 70, 783
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+huaban_4
+  rotate: true
+  xy: 236, 763
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+huaban_5
+  rotate: true
+  xy: 146, 771
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 0, 785
+  size: 70, 46
+  orig: 234, 134
+  offset: 162, 0
+  index: -1

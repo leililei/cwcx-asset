@@ -1,0 +1,20 @@
+
+lihui_jinqishipifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 119
+  size: 3623, 1987
+  orig: 3623, 1987
+  offset: 0, 0
+  index: -1
+dm
+  rotate: false
+  xy: 4, 2110
+  size: 4068, 1962
+  orig: 4068, 1962
+  offset: 0, 0
+  index: -1

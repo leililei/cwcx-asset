@@ -1,0 +1,76 @@
+
+lihui_qianmochunjie_dz_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yezi1
+  rotate: false
+  xy: 1694, 429
+  size: 138, 120
+  orig: 140, 121
+  offset: 1, 1
+  index: -1
+yezi2
+  rotate: false
+  xy: 1694, 551
+  size: 72, 163
+  orig: 73, 163
+  offset: 1, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 1482, 359
+  size: 210, 355
+  orig: 210, 355
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 1812, 326
+  size: 72, 101
+  orig: 73, 102
+  offset: 0, 1
+  index: -1
+yezi5
+  rotate: false
+  xy: 2, 2
+  size: 1478, 214
+  orig: 1479, 215
+  offset: 1, 1
+  index: -1
+yezi6
+  rotate: false
+  xy: 1768, 612
+  size: 61, 102
+  orig: 64, 104
+  offset: 2, 1
+  index: -1
+yunyun3
+  rotate: false
+  xy: 1482, 716
+  size: 339, 184
+  orig: 374, 212
+  offset: 6, 25
+  index: -1
+yunyun6
+  rotate: false
+  xy: 1482, 148
+  size: 328, 209
+  orig: 362, 243
+  offset: 7, 27
+  index: -1
+zhuzi1
+  rotate: false
+  xy: 2, 218
+  size: 766, 1686
+  orig: 766, 1686
+  offset: 0, 0
+  index: -1
+zhuzi12
+  rotate: false
+  xy: 770, 902
+  size: 989, 1002
+  orig: 990, 1002
+  offset: 1, 0
+  index: -1

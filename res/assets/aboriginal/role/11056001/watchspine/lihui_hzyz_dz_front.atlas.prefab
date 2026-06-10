@@ -1,0 +1,41 @@
+
+lihui_hzyz_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ_guang1
+  rotate: false
+  xy: 2, 2707
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+BJ_guang2
+  rotate: false
+  xy: 2, 1354
+  size: 2791, 1351
+  orig: 2792, 1351
+  offset: 1, 0
+  index: -1
+BJ_shuye
+  rotate: false
+  xy: 1680, 781
+  size: 1060, 571
+  orig: 1060, 571
+  offset: 0, 0
+  index: -1
+BJ_shuye2
+  rotate: false
+  xy: 1680, 165
+  size: 599, 614
+  orig: 599, 614
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 2
+  size: 1676, 1350
+  orig: 1801, 1351
+  offset: 68, 1
+  index: -1

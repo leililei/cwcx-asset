@@ -1,0 +1,67 @@
+
+liuhui_wangnv_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian
+  rotate: true
+  xy: 2054, 657
+  size: 2165, 1595
+  orig: 2165, 1595
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 423, 3097
+  size: 1890, 586
+  orig: 1890, 586
+  offset: 0, 0
+  index: -1
+what
+  rotate: false
+  xy: 2318, 2827
+  size: 1365, 856
+  orig: 1365, 856
+  offset: 0, 0
+  index: -1
+xiaosan
+  rotate: false
+  xy: 5, 3280
+  size: 413, 403
+  orig: 413, 403
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 5, 1967
+  size: 2044, 1125
+  orig: 2044, 1125
+  offset: 0, 0
+  index: -1
+
+liuhui_wangnv_qj2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shijuebianjie
+  rotate: false
+  xy: 5, 1582
+  size: 3511, 1934
+  orig: 3511, 1934
+  offset: 0, 0
+  index: -1
+
+liuhui_wangnv_qj3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanghuan
+  rotate: false
+  xy: 5, 269
+  size: 2638, 2374
+  orig: 2638, 2374
+  offset: 0, 0
+  index: -1

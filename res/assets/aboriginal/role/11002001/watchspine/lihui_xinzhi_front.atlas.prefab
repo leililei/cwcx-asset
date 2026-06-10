@@ -1,0 +1,104 @@
+
+lihui_xinzhi_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butu_03
+  rotate: false
+  xy: 730, 1690
+  size: 256, 182
+  orig: 256, 182
+  offset: 0, 0
+  index: -1
+butu_04
+  rotate: false
+  xy: 986, 1686
+  size: 245, 186
+  orig: 245, 186
+  offset: 0, 0
+  index: -1
+butu_05
+  rotate: true
+  xy: 468, 1691
+  size: 181, 262
+  orig: 181, 270
+  offset: 0, 8
+  index: -1
+guang2
+  rotate: false
+  xy: 1373, 1292
+  size: 499, 322
+  orig: 499, 322
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 641, 1413
+  size: 426, 273
+  orig: 426, 273
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: true
+  xy: 275, 1425
+  size: 266, 366
+  orig: 266, 366
+  offset: 0, 0
+  index: -1
+lg_02
+  rotate: false
+  xy: 287, 1714
+  size: 181, 158
+  orig: 181, 158
+  offset: 0, 0
+  index: -1
+qianjing1
+  rotate: true
+  xy: 1510, 1614
+  size: 258, 312
+  orig: 258, 312
+  offset: 0, 0
+  index: -1
+qianjing2
+  rotate: false
+  xy: 0, 1763
+  size: 287, 109
+  orig: 287, 109
+  offset: 0, 0
+  index: -1
+qianjing3
+  rotate: false
+  xy: 398, 1003
+  size: 758, 334
+  orig: 758, 334
+  offset: 0, 0
+  index: -1
+qianjing5
+  rotate: false
+  xy: 0, 1504
+  size: 275, 259
+  orig: 275, 259
+  offset: 0, 0
+  index: -1
+sg_01
+  rotate: true
+  xy: 1231, 1640
+  size: 232, 279
+  orig: 232, 279
+  offset: 0, 0
+  index: -1
+sg_02
+  rotate: false
+  xy: 1067, 1337
+  size: 306, 303
+  orig: 306, 303
+  offset: 0, 0
+  index: -1
+sg_03
+  rotate: true
+  xy: 0, 1091
+  size: 334, 398
+  orig: 334, 398
+  offset: 0, 0
+  index: -1

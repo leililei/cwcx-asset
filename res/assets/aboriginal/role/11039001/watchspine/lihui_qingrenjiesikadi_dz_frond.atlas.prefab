@@ -1,0 +1,61 @@
+
+lihui_qingrenjiesikadi_dz_frond.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban
+  rotate: false
+  xy: 5, 3905
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+liwuhezi
+  rotate: false
+  xy: 5, 1564
+  size: 4002, 1619
+  orig: 4002, 1619
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 1680, 3567
+  size: 440, 1469
+  orig: 440, 1469
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 857, 3631
+  size: 818, 376
+  orig: 818, 384
+  offset: 0, 8
+  index: -1
+s3
+  rotate: true
+  xy: 119, 3673
+  size: 334, 733
+  orig: 334, 733
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 3154, 3188
+  size: 850, 819
+  orig: 850, 819
+  offset: 0, 0
+  index: -1
+
+lihui_qingrenjiesikadi_dz_frond2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangli
+  rotate: false
+  xy: 5, 1731
+  size: 3879, 2153
+  orig: 3879, 2153
+  offset: 0, 0
+  index: -1

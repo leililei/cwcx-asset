@@ -1,0 +1,184 @@
+
+lihui_hefujieluo_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_11
+  rotate: false
+  xy: 4, 1983
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_12
+  rotate: true
+  xy: 1983, 1170
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_13
+  rotate: true
+  xy: 4, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_50
+  rotate: false
+  xy: 1170, 1876
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+glow_51
+  rotate: false
+  xy: 1170, 1864
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+glow_52
+  rotate: true
+  xy: 1170, 1891
+  size: 88, 31
+  orig: 88, 31
+  offset: 0, 0
+  index: -1
+glow_60
+  rotate: false
+  xy: 1170, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+
+lihui_hefujieluo_qj2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_61
+  rotate: false
+  xy: 4, 1983
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_62
+  rotate: true
+  xy: 1983, 1170
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_63
+  rotate: true
+  xy: 4, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_64
+  rotate: false
+  xy: 1170, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+
+lihui_hefujieluo_qj3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_65
+  rotate: false
+  xy: 4, 1983
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_66
+  rotate: true
+  xy: 1983, 1170
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_67
+  rotate: true
+  xy: 4, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_80
+  rotate: false
+  xy: 1170, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+
+lihui_hefujieluo_qj4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_81
+  rotate: false
+  xy: 4, 1983
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_82
+  rotate: true
+  xy: 1983, 1170
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_83
+  rotate: true
+  xy: 4, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_84
+  rotate: false
+  xy: 1170, 4
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+
+lihui_hefujieluo_qj5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_19
+  rotate: false
+  xy: 1983, 2339
+  size: 1518, 1162
+  orig: 1518, 1162
+  offset: 0, 0
+  index: -1
+glow_85
+  rotate: false
+  xy: 4, 2339
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1
+glow_86
+  rotate: false
+  xy: 4, 1173
+  size: 1975, 1162
+  orig: 1975, 1162
+  offset: 0, 0
+  index: -1

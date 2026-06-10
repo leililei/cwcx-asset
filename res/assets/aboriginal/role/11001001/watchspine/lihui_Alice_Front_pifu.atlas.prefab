@@ -1,0 +1,76 @@
+
+lihui_Alice_Front_pifu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_BG_Board_01
+  rotate: false
+  xy: 123, 1857
+  size: 222, 113
+  orig: 224, 115
+  offset: 1, 1
+  index: -1
+F_BG_Bole_01
+  rotate: false
+  xy: 434, 1036
+  size: 910, 671
+  orig: 912, 673
+  offset: 1, 1
+  index: -1
+F_BG_Cake_01
+  rotate: false
+  xy: 532, 1748
+  size: 312, 222
+  orig: 314, 224
+  offset: 1, 1
+  index: -1
+F_BG_Cake_02
+  rotate: false
+  xy: 345, 1788
+  size: 187, 182
+  orig: 189, 184
+  offset: 1, 1
+  index: -1
+F_BG_Chair_01
+  rotate: false
+  xy: 844, 1739
+  size: 363, 231
+  orig: 365, 233
+  offset: 1, 1
+  index: -1
+F_BG_Ladder_01
+  rotate: true
+  xy: 0, 292
+  size: 744, 1713
+  orig: 746, 1715
+  offset: 1, 1
+  index: -1
+F_BG_Rabbit_01
+  rotate: true
+  xy: 1207, 1707
+  size: 263, 365
+  orig: 263, 365
+  offset: 0, 0
+  index: -1
+F_BG_Rabbit_02
+  rotate: false
+  xy: 0, 1913
+  size: 123, 57
+  orig: 125, 59
+  offset: 1, 1
+  index: -1
+F_BG_Table_01
+  rotate: false
+  xy: 0, 1377
+  size: 434, 411
+  orig: 436, 413
+  offset: 1, 1
+  index: -1
+F_BG_Tablecloth_01
+  rotate: false
+  xy: 1572, 1580
+  size: 398, 390
+  orig: 400, 392
+  offset: 1, 1
+  index: -1

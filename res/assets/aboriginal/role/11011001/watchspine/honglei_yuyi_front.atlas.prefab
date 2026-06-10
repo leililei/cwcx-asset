@@ -1,0 +1,69 @@
+
+honglei_yuyi_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz1
+  rotate: false
+  xy: 2, 1158
+  size: 817, 418
+  orig: 817, 418
+  offset: 0, 0
+  index: -1
+ddz2
+  rotate: false
+  xy: 2, 1200
+  size: 149, 319
+  orig: 149, 319
+  offset: 0, 0
+  index: -1
+ddz3
+  rotate: false
+  xy: 1255, 864
+  size: 936, 1153
+  orig: 936, 1153
+  offset: 0, 0
+  index: -1
+ddzd1
+  rotate: false
+  xy: 482, 1400
+  size: 256, 165
+  orig: 256, 165
+  offset: 0, 0
+  index: -1
+ddzd2
+  rotate: false
+  xy: 2, 954
+  size: 90, 246
+  orig: 90, 246
+  offset: 0, 0
+  index: -1
+dl1
+  rotate: false
+  xy: 1006, 1717
+  size: 396, 299
+  orig: 396, 299
+  offset: 0, 0
+  index: -1
+dl2
+  rotate: false
+  xy: 2, 1519
+  size: 702, 498
+  orig: 702, 498
+  offset: 0, 0
+  index: -1
+dl3
+  rotate: false
+  xy: 692, 1455
+  size: 313, 563
+  orig: 334, 668
+  offset: 21, 9
+  index: -1
+s1
+  rotate: false
+  xy: 2, 2018
+  size: 3746, 1730
+  orig: 3746, 1730
+  offset: 0, 0
+  index: -1

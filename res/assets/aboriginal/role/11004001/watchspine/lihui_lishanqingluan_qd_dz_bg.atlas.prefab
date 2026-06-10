@@ -1,0 +1,151 @@
+
+lihui_lishanqingluan_qd_dz_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_fangzi_04
+  rotate: true
+  xy: 499, 411
+  size: 271, 521
+  orig: 271, 521
+  offset: 0, 0
+  index: -1
+bj_fangzi_05
+  rotate: false
+  xy: 298, 136
+  size: 488, 275
+  orig: 488, 275
+  offset: 0, 0
+  index: -1
+san1
+  rotate: false
+  xy: 518, 905
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+san2
+  rotate: false
+  xy: 419, 928
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+san3
+  rotate: false
+  xy: 70, 945
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+san5
+  rotate: true
+  xy: 636, 881
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+san6
+  rotate: false
+  xy: 0, 219
+  size: 298, 273
+  orig: 298, 273
+  offset: 0, 0
+  index: -1
+san7
+  rotate: false
+  xy: 779, 864
+  size: 165, 156
+  orig: 165, 156
+  offset: 0, 0
+  index: -1
+san8
+  rotate: false
+  xy: 252, 736
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+san_piaodai_01
+  rotate: false
+  xy: 0, 492
+  size: 499, 190
+  orig: 501, 201
+  offset: 0, 11
+  index: -1
+san_piaodai_02
+  rotate: false
+  xy: 151, 929
+  size: 268, 91
+  orig: 268, 93
+  offset: 0, 2
+  index: -1
+san_piaodai_03
+  rotate: false
+  xy: 452, 682
+  size: 379, 182
+  orig: 379, 183
+  offset: 0, 0
+  index: -1
+shan_03
+  rotate: false
+  xy: 0, 775
+  size: 252, 154
+  orig: 252, 154
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 0, 974
+  size: 70, 46
+  orig: 234, 134
+  offset: 162, 0
+  index: -1
+
+lihui_lishanqingluan_qd_dz_bg2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_fangzi_01
+  rotate: false
+  xy: 466, 183
+  size: 522, 493
+  orig: 522, 493
+  offset: 0, 0
+  index: -1
+bj_fangzi_02
+  rotate: false
+  xy: 0, 271
+  size: 466, 405
+  orig: 466, 405
+  offset: 0, 0
+  index: -1
+bj_fangzi_03
+  rotate: false
+  xy: 0, 695
+  size: 397, 293
+  orig: 397, 293
+  offset: 0, 0
+  index: -1
+shan_01
+  rotate: false
+  xy: 397, 676
+  size: 534, 312
+  orig: 631, 312
+  offset: 97, 0
+  index: -1
+
+lihui_lishanqingluan_qd_dz_bg3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 360
+  size: 901, 541
+  orig: 901, 541
+  offset: 0, 0
+  index: -1

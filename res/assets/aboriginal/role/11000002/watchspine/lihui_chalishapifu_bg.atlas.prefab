@@ -1,0 +1,139 @@
+
+lihui_chalishapifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: false
+  xy: 253, 3870
+  size: 190, 189
+  orig: 190, 189
+  offset: 0, 0
+  index: -1
+bj_02
+  rotate: true
+  xy: 1958, 2779
+  size: 880, 962
+  orig: 880, 962
+  offset: 0, 0
+  index: -1
+bj_03
+  rotate: true
+  xy: 944, 3861
+  size: 198, 296
+  orig: 198, 296
+  offset: 0, 0
+  index: -1
+bj_04
+  rotate: false
+  xy: 2, 3965
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+bj_05
+  rotate: false
+  xy: 101, 3930
+  size: 150, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+bj_06
+  rotate: false
+  xy: 2030, 3748
+  size: 353, 311
+  orig: 353, 311
+  offset: 0, 0
+  index: -1
+bj_07
+  rotate: false
+  xy: 2, 1574
+  size: 1580, 802
+  orig: 1580, 802
+  offset: 0, 0
+  index: -1
+bj_08
+  rotate: false
+  xy: 2, 2378
+  size: 1580, 729
+  orig: 1580, 729
+  offset: 0, 0
+  index: -1
+bj_09
+  rotate: false
+  xy: 2, 3202
+  size: 1152, 657
+  orig: 1152, 657
+  offset: 0, 0
+  index: -1
+bj_10
+  rotate: false
+  xy: 2922, 2338
+  size: 1137, 1064
+  orig: 1137, 1064
+  offset: 0, 0
+  index: -1
+bj_11
+  rotate: false
+  xy: 1242, 3846
+  size: 239, 213
+  orig: 239, 213
+  offset: 0, 0
+  index: -1
+bj_12
+  rotate: false
+  xy: 1483, 3833
+  size: 234, 226
+  orig: 234, 226
+  offset: 0, 0
+  index: -1
+bj_13
+  rotate: true
+  xy: 1719, 3806
+  size: 253, 309
+  orig: 253, 309
+  offset: 0, 0
+  index: -1
+bj_14
+  rotate: false
+  xy: 445, 3864
+  size: 497, 195
+  orig: 497, 195
+  offset: 0, 0
+  index: -1
+bj_15
+  rotate: false
+  xy: 2, 60
+  size: 3160, 1472
+  orig: 3160, 1472
+  offset: 0, 0
+  index: -1
+bj_16
+  rotate: false
+  xy: 1156, 3109
+  size: 800, 695
+  orig: 800, 695
+  offset: 0, 0
+  index: -1
+bj_17
+  rotate: false
+  xy: 3124, 3404
+  size: 772, 655
+  orig: 772, 655
+  offset: 0, 0
+  index: -1
+bj_18
+  rotate: false
+  xy: 2385, 3661
+  size: 737, 398
+  orig: 737, 398
+  offset: 0, 0
+  index: -1
+bj_19
+  rotate: false
+  xy: 1584, 1534
+  size: 1580, 802
+  orig: 1580, 802
+  offset: 0, 0
+  index: -1

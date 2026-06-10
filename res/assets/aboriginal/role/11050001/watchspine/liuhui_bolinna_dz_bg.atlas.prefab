@@ -1,0 +1,13 @@
+
+liuhui_bolinna_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 1303
+  size: 4080, 2781
+  orig: 4080, 2781
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+lihui_lingmuqingfeng_frond.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanzi
+  rotate: true
+  xy: 2, 2
+  size: 462, 668
+  orig: 462, 668
+  offset: 0, 0
+  index: -1
+kongqi
+  rotate: false
+  xy: 2, 466
+  size: 1097, 1223
+  orig: 1097, 1223
+  offset: 0, 0
+  index: -1

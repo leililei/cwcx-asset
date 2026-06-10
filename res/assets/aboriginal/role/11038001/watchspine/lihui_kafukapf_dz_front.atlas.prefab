@@ -1,0 +1,55 @@
+
+lihui_kafukapf_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangdai-4
+  rotate: true
+  xy: 2648, 840
+  size: 1106, 1233
+  orig: 1106, 1233
+  offset: 0, 0
+  index: -1
+bengdai-5
+  rotate: false
+  xy: 0, 1141
+  size: 2648, 805
+  orig: 2648, 805
+  offset: 0, 0
+  index: -1
+huoguang
+  rotate: true
+  xy: 792, 3330
+  size: 551, 1733
+  orig: 551, 1733
+  offset: 0, 0
+  index: -1
+lupai
+  rotate: false
+  xy: 0, 3371
+  size: 792, 510
+  orig: 792, 510
+  offset: 0, 0
+  index: -1
+tiesiwang-1
+  rotate: false
+  xy: 0, 2626
+  size: 3752, 635
+  orig: 3752, 635
+  offset: 0, 0
+  index: -1
+tiesiwang-2
+  rotate: false
+  xy: 0, 1946
+  size: 3752, 680
+  orig: 3752, 680
+  offset: 0, 0
+  index: -1
+zhizhuwang
+  rotate: true
+  xy: 2525, 3261
+  size: 620, 833
+  orig: 620, 833
+  offset: 0, 0
+  index: -1

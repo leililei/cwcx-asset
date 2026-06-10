@@ -1,0 +1,34 @@
+
+qy_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: false
+  xy: 742, 2830
+  size: 1969, 997
+  orig: 1969, 997
+  offset: 0, 0
+  index: -1
+bj_02
+  rotate: false
+  xy: 2, 3412
+  size: 738, 415
+  orig: 738, 415
+  offset: 0, 0
+  index: -1
+bj_03
+  rotate: true
+  xy: 2713, 1783
+  size: 2044, 1114
+  orig: 2044, 1114
+  offset: 0, 0
+  index: -1
+bj_04
+  rotate: false
+  xy: 2, 1714
+  size: 2044, 1114
+  orig: 2044, 1114
+  offset: 0, 0
+  index: -1

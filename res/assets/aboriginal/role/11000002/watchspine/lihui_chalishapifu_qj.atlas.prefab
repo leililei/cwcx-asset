@@ -1,0 +1,174 @@
+
+lihui_chalishapifu_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_01
+  rotate: false
+  xy: 976, 1510
+  size: 889, 979
+  orig: 889, 980
+  offset: 0, 1
+  index: -1
+tx_02
+  rotate: false
+  xy: 1865, 484
+  size: 1407, 1314
+  orig: 1408, 1315
+  offset: 1, 1
+  index: -1
+tx_03
+  rotate: false
+  xy: 0, 2489
+  size: 2187, 1455
+  orig: 2188, 1456
+  offset: 1, 0
+  index: -1
+tx_04
+  rotate: true
+  xy: 2187, 1798
+  size: 2146, 1488
+  orig: 2147, 1488
+  offset: 0, 0
+  index: -1
+tx_05
+  rotate: false
+  xy: 0, 520
+  size: 976, 1969
+  orig: 976, 1970
+  offset: 0, 0
+  index: -1
+tx_06
+  rotate: false
+  xy: 622, 287
+  size: 95, 96
+  orig: 97, 97
+  offset: 1, 0
+  index: -1
+tx_07
+  rotate: false
+  xy: 3431, 266
+  size: 219, 165
+  orig: 221, 166
+  offset: 1, 1
+  index: -1
+tx_08
+  rotate: false
+  xy: 434, 140
+  size: 188, 243
+  orig: 190, 246
+  offset: 1, 2
+  index: -1
+tx_09
+  rotate: true
+  xy: 3431, 431
+  size: 286, 178
+  orig: 288, 179
+  offset: 1, 1
+  index: -1
+tx_11
+  rotate: false
+  xy: 3609, 563
+  size: 156, 154
+  orig: 157, 154
+  offset: 1, 0
+  index: -1
+tx_12
+  rotate: true
+  xy: 1865, 2241
+  size: 248, 243
+  orig: 248, 243
+  offset: 0, 0
+  index: -1
+tx_13
+  rotate: false
+  xy: 3272, 411
+  size: 159, 306
+  orig: 159, 308
+  offset: 0, 1
+  index: -1
+tx_14
+  rotate: false
+  xy: 2039, 1919
+  size: 126, 154
+  orig: 127, 154
+  offset: 1, 0
+  index: -1
+tx_15
+  rotate: false
+  xy: 1865, 1848
+  size: 174, 393
+  orig: 174, 393
+  offset: 0, 0
+  index: -1
+tx_16
+  rotate: false
+  xy: 1423, 718
+  size: 398, 792
+  orig: 398, 792
+  offset: 0, 0
+  index: -1
+tx_17
+  rotate: false
+  xy: 3272, 717
+  size: 346, 484
+  orig: 346, 484
+  offset: 0, 0
+  index: -1
+tx_18
+  rotate: false
+  xy: 976, 704
+  size: 447, 806
+  orig: 447, 806
+  offset: 0, 0
+  index: -1
+tx_19
+  rotate: false
+  xy: 976, 394
+  size: 865, 310
+  orig: 865, 310
+  offset: 0, 0
+  index: -1
+tx_20
+  rotate: true
+  xy: 2039, 2073
+  size: 168, 137
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+tx_21
+  rotate: false
+  xy: 3272, 1201
+  size: 350, 597
+  orig: 350, 597
+  offset: 0, 0
+  index: -1
+tx_22
+  rotate: true
+  xy: 0, 383
+  size: 137, 764
+  orig: 137, 764
+  offset: 0, 0
+  index: -1
+tx_23
+  rotate: true
+  xy: 2039, 1889
+  size: 30, 142
+  orig: 30, 144
+  offset: 0, 1
+  index: -1
+tx_24
+  rotate: false
+  xy: 764, 253
+  size: 190, 267
+  orig: 190, 267
+  offset: 0, 0
+  index: -1
+tx_25
+  rotate: true
+  xy: 0, 0
+  size: 383, 434
+  orig: 383, 434
+  offset: 0, 0
+  index: -1

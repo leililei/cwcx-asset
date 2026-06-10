@@ -1,0 +1,753 @@
+
+lihui_lidiya_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000001
+  rotate: false
+  xy: 0, 1747
+  size: 139, 113
+  orig: 139, 113
+  offset: 0, 0
+  index: -1
+0000002
+  rotate: false
+  xy: 1642, 1795
+  size: 136, 108
+  orig: 136, 108
+  offset: 0, 0
+  index: -1
+0000003
+  rotate: false
+  xy: 546, 1725
+  size: 136, 113
+  orig: 136, 113
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 458, 1601
+  size: 384, 120
+  orig: 384, 120
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 139, 1746
+  size: 407, 103
+  orig: 407, 103
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 535, 1935
+  size: 106, 73
+  orig: 106, 73
+  offset: 0, 0
+  index: -1
+32
+  rotate: true
+  xy: 1372, 856
+  size: 243, 563
+  orig: 243, 563
+  offset: 0, 0
+  index: -1
+32_1
+  rotate: true
+  xy: 1131, 1690
+  size: 114, 481
+  orig: 114, 481
+  offset: 0, 0
+  index: -1
+67
+  rotate: true
+  xy: 411, 1053
+  size: 220, 285
+  orig: 220, 285
+  offset: 0, 0
+  index: -1
+67_1
+  rotate: true
+  xy: 1878, 1887
+  size: 84, 135
+  orig: 84, 135
+  offset: 0, 0
+  index: -1
+77_1
+  rotate: true
+  xy: 0, 291
+  size: 222, 1811
+  orig: 222, 1811
+  offset: 0, 0
+  index: -1
+80_1
+  rotate: true
+  xy: 0, 513
+  size: 205, 1119
+  orig: 205, 1119
+  offset: 0, 0
+  index: -1
+81_1
+  rotate: true
+  xy: 1778, 1778
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+82
+  rotate: false
+  xy: 1100, 1558
+  size: 144, 132
+  orig: 144, 132
+  offset: 0, 0
+  index: -1
+82_1
+  rotate: false
+  xy: 317, 1454
+  size: 236, 147
+  orig: 236, 147
+  offset: 0, 0
+  index: -1
+85_1
+  rotate: true
+  xy: 0, 65
+  size: 226, 1117
+  orig: 226, 1117
+  offset: 0, 0
+  index: -1
+90
+  rotate: false
+  xy: 0, 1478
+  size: 317, 142
+  orig: 317, 142
+  offset: 0, 0
+  index: -1
+90_1
+  rotate: false
+  xy: 1406, 1553
+  size: 194, 137
+  orig: 194, 137
+  offset: 0, 0
+  index: -1
+bu
+  rotate: true
+  xy: 0, 2020
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+idle_zuiba
+  rotate: false
+  xy: 319, 2012
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+jianpifeng_1
+  rotate: true
+  xy: 0, 1860
+  size: 83, 255
+  orig: 83, 255
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 1862, 1498
+  size: 164, 169
+  orig: 164, 169
+  offset: 0, 0
+  index: -1
+lian_shi
+  rotate: true
+  xy: 553, 1437
+  size: 164, 169
+  orig: 164, 169
+  offset: 0, 0
+  index: -1
+lidiya07
+  rotate: false
+  xy: 1315, 1806
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+lidiya08
+  rotate: false
+  xy: 255, 1854
+  size: 110, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+lidiya09
+  rotate: false
+  xy: 1008, 1926
+  size: 141, 79
+  orig: 141, 79
+  offset: 0, 0
+  index: -1
+lidiya10
+  rotate: false
+  xy: 1697, 1099
+  size: 307, 217
+  orig: 307, 217
+  offset: 0, 0
+  index: -1
+lidiya13
+  rotate: true
+  xy: 0, 1071
+  size: 202, 411
+  orig: 202, 411
+  offset: 0, 0
+  index: -1
+lidiya15
+  rotate: false
+  xy: 1141, 567
+  size: 299, 289
+  orig: 299, 289
+  offset: 0, 0
+  index: -1
+lidiya16
+  rotate: false
+  xy: 833, 1836
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1
+lidiya17
+  rotate: true
+  xy: 1149, 1913
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
+lidiya18
+  rotate: false
+  xy: 557, 2008
+  size: 370, 34
+  orig: 370, 34
+  offset: 0, 0
+  index: -1
+lidiya19
+  rotate: true
+  xy: 227, 1620
+  size: 126, 231
+  orig: 126, 231
+  offset: 0, 0
+  index: -1
+lidiya20
+  rotate: false
+  xy: 1271, 1911
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+lidiya22
+  rotate: false
+  xy: 722, 1435
+  size: 321, 147
+  orig: 321, 147
+  offset: 0, 0
+  index: -1
+lidiya23
+  rotate: true
+  xy: 1441, 1804
+  size: 103, 201
+  orig: 103, 201
+  offset: 0, 0
+  index: -1
+lidiya24
+  rotate: true
+  xy: 0, 791
+  size: 262, 431
+  orig: 262, 431
+  offset: 0, 0
+  index: -1
+lidiya25
+  rotate: true
+  xy: 0, 1628
+  size: 118, 227
+  orig: 118, 227
+  offset: 0, 0
+  index: -1
+lidiya26
+  rotate: true
+  xy: 1612, 1667
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+lidiya27
+  rotate: true
+  xy: 938, 1201
+  size: 199, 516
+  orig: 199, 516
+  offset: 0, 0
+  index: -1
+lidiya28
+  rotate: true
+  xy: 1043, 1400
+  size: 153, 505
+  orig: 153, 505
+  offset: 0, 0
+  index: -1
+lidiya29
+  rotate: true
+  xy: 1644, 1903
+  size: 82, 234
+  orig: 82, 234
+  offset: 0, 0
+  index: -1
+lidiya30
+  rotate: true
+  xy: 1414, 1907
+  size: 81, 230
+  orig: 81, 230
+  offset: 0, 0
+  index: -1
+lidiya31
+  rotate: true
+  xy: 1754, 1662
+  size: 116, 231
+  orig: 116, 231
+  offset: 0, 0
+  index: -1
+lidiya33
+  rotate: true
+  xy: 696, 977
+  size: 224, 676
+  orig: 224, 676
+  offset: 0, 0
+  index: -1
+lidiya34
+  rotate: true
+  xy: 1678, 1985
+  size: 57, 224
+  orig: 57, 224
+  offset: 0, 0
+  index: -1
+lidiya35
+  rotate: true
+  xy: 395, 1937
+  size: 72, 140
+  orig: 72, 140
+  offset: 0, 0
+  index: -1
+lidiya36
+  rotate: true
+  xy: 232, 1273
+  size: 164, 487
+  orig: 164, 487
+  offset: 0, 0
+  index: -1
+lidiya37
+  rotate: true
+  xy: 722, 1930
+  size: 76, 286
+  orig: 76, 286
+  offset: 0, 0
+  index: -1
+lidiya38
+  rotate: true
+  xy: 1212, 1995
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+lidiya39
+  rotate: true
+  xy: 0, 1957
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+lidiya40
+  rotate: true
+  xy: 941, 1710
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+lidiya41
+  rotate: true
+  xy: 1517, 1988
+  size: 54, 161
+  orig: 54, 161
+  offset: 0, 0
+  index: -1
+lidiya42
+  rotate: true
+  xy: 95, 1947
+  size: 67, 156
+  orig: 67, 156
+  offset: 0, 0
+  index: -1
+lidiya43
+  rotate: true
+  xy: 251, 1943
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+lidiya44
+  rotate: true
+  xy: 641, 1934
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+lidiya45
+  rotate: false
+  xy: 962, 2006
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+lidiya46
+  rotate: true
+  xy: 1359, 1994
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+lidiya47
+  rotate: true
+  xy: 682, 1721
+  size: 115, 259
+  orig: 115, 259
+  offset: 0, 0
+  index: -1
+lidiya48
+  rotate: true
+  xy: 634, 1838
+  size: 92, 199
+  orig: 92, 199
+  offset: 0, 0
+  index: -1
+lidiya49
+  rotate: true
+  xy: 365, 1849
+  size: 86, 269
+  orig: 86, 269
+  offset: 0, 0
+  index: -1
+lidiya54
+  rotate: false
+  xy: 1031, 2005
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+lidiya55
+  rotate: false
+  xy: 1160, 2002
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+lidiya56
+  rotate: false
+  xy: 76, 2018
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+lidiya57
+  rotate: false
+  xy: 51, 2020
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+lidiya58
+  rotate: true
+  xy: 927, 2008
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+lidiya59
+  rotate: false
+  xy: 224, 2014
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+lidiya60
+  rotate: false
+  xy: 719, 1247
+  size: 219, 188
+  orig: 219, 188
+  offset: 0, 0
+  index: -1
+lidiya61
+  rotate: false
+  xy: 1795, 1316
+  size: 194, 182
+  orig: 194, 182
+  offset: 0, 0
+  index: -1
+lidiya62
+  rotate: false
+  xy: 101, 2017
+  size: 123, 25
+  orig: 123, 25
+  offset: 0, 0
+  index: -1
+lidiya63
+  rotate: true
+  xy: 1145, 1814
+  size: 97, 170
+  orig: 97, 170
+  offset: 0, 0
+  index: -1
+lidiya65
+  rotate: true
+  xy: 461, 2009
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+lidiya66
+  rotate: true
+  xy: 1963, 1971
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+lidiya68
+  rotate: true
+  xy: 1429, 1991
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+lidiya69
+  rotate: false
+  xy: 1902, 1982
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+lidiya70
+  rotate: false
+  xy: 263, 2013
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+lidiya71
+  rotate: false
+  xy: 0, 1291
+  size: 232, 187
+  orig: 232, 187
+  offset: 0, 0
+  index: -1
+lidiya72
+  rotate: false
+  xy: 415, 2010
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+lidiya73
+  rotate: false
+  xy: 371, 2012
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+lidiya74
+  rotate: true
+  xy: 1454, 1138
+  size: 211, 243
+  orig: 211, 243
+  offset: 0, 0
+  index: -1
+lidiya75
+  rotate: false
+  xy: 1307, 1995
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+lidiya76
+  rotate: true
+  xy: 1087, 2005
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+lidiya87
+  rotate: false
+  xy: 431, 718
+  size: 710, 259
+  orig: 710, 259
+  offset: 0, 0
+  index: -1
+lidiya89
+  rotate: true
+  xy: 1600, 1523
+  size: 139, 262
+  orig: 139, 262
+  offset: 0, 0
+  index: -1
+lidiya92
+  rotate: true
+  xy: 1440, 549
+  size: 307, 365
+  orig: 307, 365
+  offset: 0, 0
+  index: -1
+yf1
+  rotate: true
+  xy: 1548, 1349
+  size: 174, 247
+  orig: 174, 247
+  offset: 0, 0
+  index: -1
+yf2
+  rotate: false
+  xy: 944, 1832
+  size: 201, 94
+  orig: 201, 94
+  offset: 0, 0
+  index: -1
+zf1_1z
+  rotate: true
+  xy: 842, 1582
+  size: 128, 258
+  orig: 128, 258
+  offset: 0, 0
+  index: -1
+zf2
+  rotate: false
+  xy: 1244, 1557
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+
+lihui_lidiya_dz2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 0, 762
+  size: 1486, 583
+  orig: 1486, 583
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1486, 764
+  size: 390, 586
+  orig: 390, 586
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 0, 1345
+  size: 1459, 626
+  orig: 1459, 626
+  offset: 0, 0
+  index: -1
+79_01
+  rotate: false
+  xy: 0, 116
+  size: 1161, 646
+  orig: 1161, 646
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1494, 145
+  size: 342, 619
+  orig: 342, 619
+  offset: 0, 0
+  index: -1
+lidiya83
+  rotate: true
+  xy: 1459, 1350
+  size: 621, 464
+  orig: 621, 464
+  offset: 0, 0
+  index: -1
+lidiya84
+  rotate: true
+  xy: 1161, 0
+  size: 762, 333
+  orig: 762, 333
+  offset: 0, 0
+  index: -1
+
+lihui_lidiya_dz3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 1144, 1134
+  size: 356, 532
+  orig: 356, 532
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 568, 914
+  size: 317, 560
+  orig: 317, 560
+  offset: 0, 0
+  index: -1
+lidiya11
+  rotate: true
+  xy: 0, 622
+  size: 312, 499
+  orig: 312, 499
+  offset: 0, 0
+  index: -1
+lidiya12
+  rotate: true
+  xy: 1672, 867
+  size: 1036, 231
+  orig: 1036, 231
+  offset: 0, 0
+  index: -1
+lidiya14
+  rotate: false
+  xy: 628, 1666
+  size: 1044, 237
+  orig: 1044, 237
+  offset: 0, 0
+  index: -1
+lidiya64
+  rotate: false
+  xy: 0, 1300
+  size: 628, 603
+  orig: 628, 603
+  offset: 0, 0
+  index: -1
+lidiya78
+  rotate: true
+  xy: 628, 1231
+  size: 435, 516
+  orig: 435, 516
+  offset: 0, 0
+  index: -1
+lidiya86
+  rotate: false
+  xy: 0, 934
+  size: 568, 366
+  orig: 568, 366
+  offset: 0, 0
+  index: -1
+lidiya91
+  rotate: true
+  xy: 1128, 801
+  size: 333, 432
+  orig: 333, 432
+  offset: 0, 0
+  index: -1

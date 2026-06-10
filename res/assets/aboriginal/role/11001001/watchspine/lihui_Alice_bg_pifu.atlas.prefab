@@ -1,0 +1,223 @@
+
+lihui_Alice_bg_pifu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_BG_01
+  rotate: false
+  xy: 0, 2581
+  size: 3277, 1513
+  orig: 3277, 1513
+  offset: 0, 0
+  index: -1
+B_BG_02
+  rotate: false
+  xy: 0, 239
+  size: 3037, 1513
+  orig: 3037, 1513
+  offset: 0, 0
+  index: -1
+B_BG_Bottle_01
+  rotate: false
+  xy: 4026, 1736
+  size: 59, 146
+  orig: 59, 146
+  offset: 0, 0
+  index: -1
+B_BG_Bush_01
+  rotate: true
+  xy: 3277, 3221
+  size: 873, 685
+  orig: 873, 685
+  offset: 0, 0
+  index: -1
+B_BG_Cabinet_01
+  rotate: true
+  xy: 3841, 2521
+  size: 449, 216
+  orig: 450, 216
+  offset: 0, 0
+  index: -1
+B_BG_Carpet_01
+  rotate: false
+  xy: 1895, 1800
+  size: 1181, 384
+  orig: 1181, 384
+  offset: 0, 0
+  index: -1
+B_BG_Cat_01
+  rotate: true
+  xy: 3962, 3252
+  size: 81, 94
+  orig: 85, 94
+  offset: 4, 0
+  index: -1
+B_BG_Cup_01
+  rotate: false
+  xy: 4047, 3395
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+B_BG_Ladder_01
+  rotate: false
+  xy: 3329, 973
+  size: 560, 654
+  orig: 560, 654
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_01
+  rotate: false
+  xy: 3329, 499
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_02
+  rotate: true
+  xy: 3962, 3723
+  size: 139, 120
+  orig: 139, 120
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_03
+  rotate: true
+  xy: 3962, 3333
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_04
+  rotate: false
+  xy: 4032, 2120
+  size: 55, 155
+  orig: 55, 155
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_05
+  rotate: false
+  xy: 3962, 3531
+  size: 100, 192
+  orig: 100, 192
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_06
+  rotate: true
+  xy: 3076, 1826
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_07
+  rotate: true
+  xy: 3962, 3443
+  size: 88, 86
+  orig: 88, 86
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_08
+  rotate: false
+  xy: 3076, 1754
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+B_BG_Mushroom_09
+  rotate: true
+  xy: 3076, 1986
+  size: 198, 180
+  orig: 198, 237
+  offset: 0, 57
+  index: -1
+B_BG_Ornament_01
+  rotate: false
+  xy: 3841, 1882
+  size: 191, 393
+  orig: 191, 393
+  offset: 0, 0
+  index: -1
+B_BG_Plate_01
+  rotate: true
+  xy: 4032, 2025
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+B_BG_Plate_02
+  rotate: true
+  xy: 4032, 2025
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+B_BG_Plate_04
+  rotate: true
+  xy: 4032, 2025
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+B_BG_Shadow_01
+  rotate: false
+  xy: 1895, 2184
+  size: 1239, 397
+  orig: 1241, 400
+  offset: 1, 2
+  index: -1
+B_BG_Shadow_02
+  rotate: false
+  xy: 0, 2021
+  size: 1895, 560
+  orig: 1896, 569
+  offset: 0, 9
+  index: -1
+B_BG_Shelf_01
+  rotate: false
+  xy: 3841, 2970
+  size: 244, 251
+  orig: 244, 251
+  offset: 0, 0
+  index: -1
+B_BG_Shelf_02
+  rotate: false
+  xy: 3962, 3862
+  size: 132, 232
+  orig: 132, 232
+  offset: 0, 0
+  index: -1
+B_BG_Teapot_01
+  rotate: true
+  xy: 3841, 2275
+  size: 246, 212
+  orig: 251, 245
+  offset: 1, 1
+  index: -1
+B_BG_Thorns_01
+  rotate: false
+  xy: 3277, 1752
+  size: 564, 1469
+  orig: 564, 1469
+  offset: 0, 0
+  index: -1
+B_BG_Unicorn_01
+  rotate: false
+  xy: 3329, 645
+  size: 264, 328
+  orig: 264, 328
+  offset: 0, 0
+  index: -1
+B_BG_Wall_01
+  rotate: false
+  xy: 3037, 497
+  size: 292, 1255
+  orig: 292, 1255
+  offset: 0, 0
+  index: -1
+B_BG_knife_01
+  rotate: true
+  xy: 3841, 1627
+  size: 255, 185
+  orig: 255, 185
+  offset: 0, 0
+  index: -1

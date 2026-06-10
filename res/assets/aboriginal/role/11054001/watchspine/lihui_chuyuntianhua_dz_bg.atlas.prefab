@@ -1,0 +1,96 @@
+
+lihui_chuyuntianhua_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 528, 3482
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 1086, 2409
+  size: 2232, 747
+  orig: 2232, 747
+  offset: 0, 0
+  index: -1
+bg_2tx
+  rotate: false
+  xy: 101, 3546
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+bg_3tx
+  rotate: true
+  xy: 715, 3414
+  size: 234, 240
+  orig: 234, 240
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: true
+  xy: 2, 3572
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 205, 3491
+  size: 321, 157
+  orig: 321, 157
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1261, 3297
+  size: 1063, 351
+  orig: 1063, 351
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 2326, 3158
+  size: 1322, 490
+  orig: 1322, 490
+  offset: 0, 0
+  index: -1
+bg_8tx
+  rotate: false
+  xy: 2, 1053
+  size: 2686, 1354
+  orig: 2686, 1354
+  offset: 0, 0
+  index: -1
+bg_9tx
+  rotate: false
+  xy: 2, 2650
+  size: 1082, 694
+  orig: 1082, 694
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 957, 3346
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+
+lihui_chuyuntianhua_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_11
+  rotate: false
+  xy: 2, 1743
+  size: 4065, 2324
+  orig: 4065, 2324
+  offset: 0, 0
+  index: -1

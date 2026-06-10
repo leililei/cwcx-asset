@@ -1,0 +1,194 @@
+
+lihui_tiantianshengdan_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 2, 531
+  size: 2048, 946
+  orig: 2048, 946
+  offset: 0, 0
+  index: -1
+BJ_g2
+  rotate: false
+  xy: 2, 2047
+  size: 984, 929
+  orig: 987, 929
+  offset: 3, 0
+  index: -1
+BJ_jg_1
+  rotate: false
+  xy: 2279, 3329
+  size: 1256, 742
+  orig: 1262, 757
+  offset: 2, 14
+  index: -1
+BJ_jg_2
+  rotate: false
+  xy: 1259, 2743
+  size: 965, 868
+  orig: 1024, 966
+  offset: 46, 9
+  index: -1
+BJ_jg_3
+  rotate: false
+  xy: 1742, 1479
+  size: 922, 946
+  orig: 993, 979
+  offset: 35, 32
+  index: -1
+BJ_shu2_1
+  rotate: false
+  xy: 685, 2978
+  size: 572, 809
+  orig: 572, 809
+  offset: 0, 0
+  index: -1
+BJ_shu2_4
+  rotate: false
+  xy: 2666, 1081
+  size: 1061, 1162
+  orig: 1094, 1189
+  offset: 0, 27
+  index: -1
+BJ_shu2_5
+  rotate: false
+  xy: 988, 1808
+  size: 752, 933
+  orig: 769, 946
+  offset: 0, 0
+  index: -1
+BJ_shu3
+  rotate: false
+  xy: 2226, 2427
+  size: 727, 900
+  orig: 732, 905
+  offset: 2, 3
+  index: -1
+BJ_shu4
+  rotate: false
+  xy: 2, 3054
+  size: 681, 759
+  orig: 688, 764
+  offset: 3, 3
+  index: -1
+BJ_tx
+  rotate: false
+  xy: 2052, 133
+  size: 2019, 946
+  orig: 2048, 946
+  offset: 29, 0
+  index: -1
+BJ_xl
+  rotate: false
+  xy: 1069, 3789
+  size: 393, 282
+  orig: 414, 297
+  offset: 9, 8
+  index: -1
+LW3_4
+  rotate: false
+  xy: 56, 3876
+  size: 189, 195
+  orig: 189, 195
+  offset: 0, 0
+  index: -1
+LW3_5
+  rotate: false
+  xy: 2, 4019
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 3537, 3158
+  size: 395, 913
+  orig: 411, 931
+  offset: 8, 11
+  index: -1
+g2
+  rotate: false
+  xy: 2955, 2245
+  size: 729, 911
+  orig: 745, 930
+  offset: 8, 10
+  index: -1
+s2
+  rotate: false
+  xy: 1857, 3613
+  size: 420, 458
+  orig: 433, 478
+  offset: 6, 7
+  index: -1
+s22
+  rotate: false
+  xy: 1464, 3667
+  size: 391, 404
+  orig: 404, 417
+  offset: 6, 7
+  index: -1
+xuehua_2
+  rotate: false
+  xy: 780, 3810
+  size: 287, 261
+  orig: 2072, 609
+  offset: 1610, 348
+  index: -1
+xuehua_5
+  rotate: false
+  xy: 247, 3847
+  size: 294, 224
+  orig: 2072, 676
+  offset: 186, 452
+  index: -1
+xuehua_6
+  rotate: false
+  xy: 543, 3815
+  size: 235, 256
+  orig: 2072, 278
+  offset: 0, 0
+  index: -1
+
+lihui_tiantianshengdan_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ_g1
+  rotate: false
+  xy: 2, 2
+  size: 1330, 1629
+  orig: 1335, 1629
+  offset: 0, 0
+  index: -1
+BJ_g3
+  rotate: false
+  xy: 2, 2581
+  size: 2098, 1079
+  orig: 2098, 1079
+  offset: 0, 0
+  index: -1
+BJ_shu1
+  rotate: false
+  xy: 1334, 105
+  size: 1159, 1526
+  orig: 1160, 1526
+  offset: 1, 0
+  index: -1
+BJ_shu2
+  rotate: false
+  xy: 2102, 2298
+  size: 1069, 1362
+  orig: 1070, 1362
+  offset: 0, 0
+  index: -1
+BJ_tx2
+  rotate: false
+  xy: 2, 1633
+  size: 2048, 946
+  orig: 2048, 946
+  offset: 0, 0
+  index: -1

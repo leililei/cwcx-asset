@@ -1,0 +1,510 @@
+
+lihui_lishanqingluan_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 1804, 1506
+  size: 237, 292
+  orig: 237, 292
+  offset: 0, 0
+  index: -1
+lian_2
+  rotate: false
+  xy: 1365, 527
+  size: 237, 292
+  orig: 237, 292
+  offset: 0, 0
+  index: -1
+lsql
+  rotate: true
+  xy: 846, 62
+  size: 84, 139
+  orig: 84, 139
+  offset: 0, 0
+  index: -1
+lsql01
+  rotate: false
+  xy: 1602, 534
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+lsql02
+  rotate: false
+  xy: 1009, 293
+  size: 226, 245
+  orig: 226, 245
+  offset: 0, 0
+  index: -1
+lsql03
+  rotate: false
+  xy: 1682, 976
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+lsql04
+  rotate: false
+  xy: 1888, 1233
+  size: 122, 172
+  orig: 122, 172
+  offset: 0, 0
+  index: -1
+lsql05
+  rotate: false
+  xy: 1999, 1829
+  size: 32, 218
+  orig: 32, 218
+  offset: 0, 0
+  index: -1
+lsql06
+  rotate: false
+  xy: 1363, 957
+  size: 319, 268
+  orig: 319, 268
+  offset: 0, 0
+  index: -1
+lsql07
+  rotate: true
+  xy: 1340, 79
+  size: 106, 129
+  orig: 106, 129
+  offset: 0, 0
+  index: -1
+lsql08
+  rotate: true
+  xy: 1332, 819
+  size: 138, 272
+  orig: 138, 272
+  offset: 0, 0
+  index: -1
+lsql09
+  rotate: false
+  xy: 535, 1152
+  size: 424, 421
+  orig: 424, 421
+  offset: 0, 0
+  index: -1
+lsql10
+  rotate: true
+  xy: 0, 29
+  size: 528, 550
+  orig: 528, 550
+  offset: 0, 0
+  index: -1
+lsql11
+  rotate: false
+  xy: 1018, 538
+  size: 347, 276
+  orig: 347, 276
+  offset: 0, 0
+  index: -1
+lsql12
+  rotate: false
+  xy: 1682, 1059
+  size: 296, 169
+  orig: 296, 169
+  offset: 0, 0
+  index: -1
+lsql13
+  rotate: false
+  xy: 1804, 1405
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+lsql14
+  rotate: false
+  xy: 1292, 1169
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+lsql15
+  rotate: false
+  xy: 1609, 1744
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+lsql16
+  rotate: true
+  xy: 1629, 328
+  size: 206, 166
+  orig: 206, 166
+  offset: 0, 0
+  index: -1
+lsql17
+  rotate: false
+  xy: 1609, 1798
+  size: 263, 249
+  orig: 263, 249
+  offset: 0, 0
+  index: -1
+lsql18
+  rotate: false
+  xy: 1003, 48
+  size: 224, 245
+  orig: 224, 245
+  offset: 0, 0
+  index: -1
+lsql19
+  rotate: true
+  xy: 959, 1225
+  size: 348, 507
+  orig: 348, 507
+  offset: 0, 0
+  index: -1
+lsql20
+  rotate: true
+  xy: 1018, 814
+  size: 338, 314
+  orig: 338, 323
+  offset: 0, 0
+  index: -1
+lsql21
+  rotate: true
+  xy: 550, 0
+  size: 146, 296
+  orig: 146, 296
+  offset: 0, 0
+  index: -1
+lsql22
+  rotate: true
+  xy: 1602, 614
+  size: 205, 231
+  orig: 205, 231
+  offset: 0, 0
+  index: -1
+lsql23
+  rotate: true
+  xy: 1911, 1423
+  size: 83, 135
+  orig: 83, 135
+  offset: 0, 0
+  index: -1
+lsql24
+  rotate: true
+  xy: 550, 156
+  size: 123, 198
+  orig: 123, 198
+  offset: 0, 0
+  index: -1
+lsql25
+  rotate: false
+  xy: 1872, 1807
+  size: 127, 240
+  orig: 127, 240
+  offset: 0, 0
+  index: -1
+lsql26
+  rotate: true
+  xy: 1466, 1402
+  size: 171, 338
+  orig: 171, 338
+  offset: 0, 0
+  index: -1
+lsql27
+  rotate: true
+  xy: 1487, 1575
+  size: 149, 317
+  orig: 149, 317
+  offset: 0, 0
+  index: -1
+lsql28
+  rotate: true
+  xy: 823, 398
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1
+lsql29
+  rotate: false
+  xy: 823, 146
+  size: 180, 252
+  orig: 180, 252
+  offset: 0, 0
+  index: -1
+lsql30
+  rotate: true
+  xy: 1604, 840
+  size: 117, 237
+  orig: 117, 237
+  offset: 0, 0
+  index: -1
+lsql31
+  rotate: false
+  xy: 1795, 392
+  size: 117, 222
+  orig: 117, 222
+  offset: 0, 0
+  index: -1
+lsql32
+  rotate: false
+  xy: 550, 279
+  size: 273, 283
+  orig: 273, 283
+  offset: 0, 0
+  index: -1
+lsql33
+  rotate: false
+  xy: 748, 159
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+lsql34
+  rotate: true
+  xy: 748, 208
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+lsql35
+  rotate: false
+  xy: 1690, 1744
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+lsql36
+  rotate: false
+  xy: 1842, 1018
+  size: 59, 41
+  orig: 64, 46
+  offset: 5, 0
+  index: -1
+lsql37
+  rotate: false
+  xy: 0, 557
+  size: 535, 1490
+  orig: 535, 1490
+  offset: 0, 0
+  index: -1
+lsql38
+  rotate: false
+  xy: 1844, 881
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+lsql39
+  rotate: false
+  xy: 1235, 223
+  size: 130, 315
+  orig: 130, 330
+  offset: 0, 15
+  index: -1
+lsql40
+  rotate: true
+  xy: 1365, 320
+  size: 207, 264
+  orig: 207, 264
+  offset: 0, 0
+  index: -1
+lsql41
+  rotate: true
+  xy: 1466, 1227
+  size: 175, 212
+  orig: 175, 212
+  offset: 0, 0
+  index: -1
+lsql42
+  rotate: false
+  xy: 1678, 1228
+  size: 210, 174
+  orig: 210, 174
+  offset: 0, 0
+  index: -1
+lsql44
+  rotate: false
+  xy: 1365, 185
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+lsql45
+  rotate: true
+  xy: 1263, 1573
+  size: 151, 224
+  orig: 151, 224
+  offset: 0, 0
+  index: -1
+lsql46
+  rotate: true
+  xy: 1263, 1724
+  size: 323, 346
+  orig: 331, 355
+  offset: 8, 0
+  index: -1
+lsql47
+  rotate: true
+  xy: 1629, 174
+  size: 154, 216
+  orig: 154, 216
+  offset: 0, 0
+  index: -1
+lsql48
+  rotate: false
+  xy: 959, 1152
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+lsql49
+  rotate: false
+  xy: 550, 785
+  size: 468, 367
+  orig: 468, 367
+  offset: 0, 0
+  index: -1
+lsql50
+  rotate: true
+  xy: 1833, 671
+  size: 169, 136
+  orig: 169, 136
+  offset: 0, 0
+  index: -1
+lsql52
+  rotate: false
+  xy: 1227, 100
+  size: 113, 123
+  orig: 113, 123
+  offset: 0, 0
+  index: -1
+mm
+  rotate: true
+  xy: 535, 1065
+  size: 65, 13
+  orig: 65, 13
+  offset: 0, 0
+  index: -1
+mm_1
+  rotate: false
+  xy: 646, 567
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+mm_2
+  rotate: true
+  xy: 905, 12
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 535, 1573
+  size: 474, 728
+  orig: 474, 799
+  offset: 0, 71
+  index: -1
+syp
+  rotate: false
+  xy: 1209, 1169
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+syp_1
+  rotate: false
+  xy: 1034, 1166
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+syp_2
+  rotate: false
+  xy: 1122, 1166
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+tui01
+  rotate: true
+  xy: 535, 585
+  size: 200, 483
+  orig: 200, 522
+  offset: 0, 0
+  index: -1
+xyp
+  rotate: false
+  xy: 1643, 575
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+xyp_2
+  rotate: false
+  xy: 535, 1130
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+yb
+  rotate: true
+  xy: 957, 0
+  size: 62, 44
+  orig: 67, 50
+  offset: 5, 6
+  index: -1
+yz
+  rotate: false
+  xy: 1602, 573
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+yz_2
+  rotate: true
+  xy: 846, 12
+  size: 50, 59
+  orig: 51, 59
+  offset: 1, 0
+  index: -1
+yz_3
+  rotate: true
+  xy: 1798, 973
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+yz_4
+  rotate: false
+  xy: 1753, 1737
+  size: 50, 61
+  orig: 51, 61
+  offset: 1, 0
+  index: -1
+zb_1
+  rotate: false
+  xy: 570, 564
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+zb_2
+  rotate: false
+  xy: 535, 562
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+zb_3
+  rotate: false
+  xy: 608, 566
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+zb_4
+  rotate: false
+  xy: 1798, 1015
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

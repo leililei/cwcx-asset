@@ -1,0 +1,13 @@
+
+lihui_lilisi_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2144
+  size: 3981, 1839
+  orig: 3981, 1839
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+lihui_kll_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kll_0_0
+  rotate: false
+  xy: 2, 2
+  size: 1501, 1351
+  orig: 1501, 1351
+  offset: 0, 0
+  index: -1
+kll_0_1
+  rotate: false
+  xy: 2, 1355
+  size: 2736, 999
+  orig: 2736, 999
+  offset: 0, 0
+  index: -1
+kll_1_0
+  rotate: false
+  xy: 2794, 2697
+  size: 537, 314
+  orig: 537, 318
+  offset: 0, 0
+  index: -1
+kll_1_1
+  rotate: false
+  xy: 2794, 3013
+  size: 347, 651
+  orig: 347, 655
+  offset: 0, 0
+  index: -1
+kll_1_2
+  rotate: false
+  xy: 2, 2356
+  size: 2790, 1308
+  orig: 2790, 1308
+  offset: 0, 0
+  index: -1

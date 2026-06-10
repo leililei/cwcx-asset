@@ -1,0 +1,41 @@
+
+lihui_juese_feilier_pifu_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_texiao_guang
+  rotate: false
+  xy: 5, 2078
+  size: 3292, 1918
+  orig: 3292, 1918
+  offset: 0, 0
+  index: -1
+beiojing_y
+  rotate: false
+  xy: 5, 101
+  size: 2530, 1972
+  orig: 2530, 1972
+  offset: 0, 0
+  index: -1
+texiao_guang2
+  rotate: true
+  xy: 3302, 3132
+  size: 864, 694
+  orig: 864, 694
+  offset: 0, 0
+  index: -1
+texiao_guang3
+  rotate: false
+  xy: 3302, 2162
+  size: 552, 965
+  orig: 552, 965
+  offset: 0, 0
+  index: -1
+texiao_guang5
+  rotate: false
+  xy: 2540, 115
+  size: 1121, 1958
+  orig: 1121, 1958
+  offset: 0, 0
+  index: -1

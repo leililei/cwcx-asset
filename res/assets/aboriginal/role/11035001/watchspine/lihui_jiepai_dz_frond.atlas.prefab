@@ -1,0 +1,41 @@
+
+lihui_jiepai_dz_frond.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 5, 2271
+  size: 484, 286
+  orig: 484, 286
+  offset: 0, 0
+  index: -1
+bandeng
+  rotate: false
+  xy: 1751, 1893
+  size: 680, 664
+  orig: 680, 664
+  offset: 0, 0
+  index: -1
+cheese
+  rotate: false
+  xy: 929, 2081
+  size: 817, 476
+  orig: 817, 476
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 5, 5
+  size: 3511, 1883
+  orig: 3511, 1883
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 494, 2248
+  size: 309, 430
+  orig: 309, 430
+  offset: 0, 0
+  index: -1

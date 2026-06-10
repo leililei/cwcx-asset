@@ -1,0 +1,76 @@
+
+lihui_LMQF_dz_Bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 0, 2574
+  size: 2574, 1366
+  orig: 2574, 1366
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 1879, 1759
+  size: 322, 171
+  orig: 322, 171
+  offset: 0, 0
+  index: -1
+b12
+  rotate: false
+  xy: 1366, 0
+  size: 2574, 1366
+  orig: 2574, 1366
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 2574, 1366
+  size: 2574, 1366
+  orig: 2574, 1366
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1366, 2232
+  size: 644, 342
+  orig: 644, 342
+  offset: 0, 0
+  index: -1
+b4
+  rotate: true
+  xy: 1366, 1910
+  size: 322, 171
+  orig: 322, 171
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 2010, 1930
+  size: 644, 342
+  orig: 644, 342
+  offset: 0, 0
+  index: -1
+b6
+  rotate: true
+  xy: 1537, 1910
+  size: 322, 171
+  orig: 322, 171
+  offset: 0, 0
+  index: -1
+b7
+  rotate: true
+  xy: 0, 0
+  size: 2574, 1366
+  orig: 2574, 1366
+  offset: 0, 0
+  index: -1
+b9
+  rotate: true
+  xy: 1708, 1910
+  size: 322, 171
+  orig: 322, 171
+  offset: 0, 0
+  index: -1

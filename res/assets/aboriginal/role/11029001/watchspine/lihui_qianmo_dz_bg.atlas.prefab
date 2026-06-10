@@ -1,0 +1,27 @@
+
+lihui_qianmo_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1760
+  size: 2434, 1349
+  orig: 2434, 1349
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: false
+  xy: 2438, 2419
+  size: 671, 690
+  orig: 671, 690
+  offset: 0, 0
+  index: -1
+duandai
+  rotate: true
+  xy: 2438, 2321
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1

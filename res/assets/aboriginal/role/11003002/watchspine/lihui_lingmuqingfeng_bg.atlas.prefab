@@ -1,0 +1,145 @@
+
+lihui_lingmuqingfeng_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 1707
+  size: 2552, 774
+  orig: 2874, 900
+  offset: 0, 47
+  index: -1
+buying
+  rotate: false
+  xy: 1379, 3755
+  size: 280, 152
+  orig: 280, 158
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 1661, 3712
+  size: 534, 195
+  orig: 534, 205
+  offset: 0, 10
+  index: -1
+dao
+  rotate: false
+  xy: 2, 2483
+  size: 2820, 689
+  orig: 3542, 735
+  offset: 0, 0
+  index: -1
+dao-g
+  rotate: true
+  xy: 2, 3439
+  size: 404, 490
+  orig: 404, 490
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: true
+  xy: 3356, 3592
+  size: 315, 551
+  orig: 315, 668
+  offset: 0, 49
+  index: -1
+daoying
+  rotate: false
+  xy: 2, 3860
+  size: 378, 47
+  orig: 378, 47
+  offset: 0, 0
+  index: -1
+duanjiao
+  rotate: false
+  xy: 491, 3845
+  size: 335, 62
+  orig: 442, 396
+  offset: 107, 66
+  index: -1
+h-yy
+  rotate: false
+  xy: 1403, 3190
+  size: 689, 520
+  orig: 689, 520
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 1219, 3767
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 3097, 3651
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 1094, 3797
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 2094, 3174
+  size: 868, 515
+  orig: 868, 515
+  offset: 0, 0
+  index: -1
+hongdai1
+  rotate: true
+  xy: 382, 3846
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+hongdai2
+  rotate: true
+  xy: 828, 3812
+  size: 95, 264
+  orig: 212, 286
+  offset: 107, 0
+  index: -1
+hongdai3
+  rotate: false
+  xy: 494, 3343
+  size: 907, 410
+  orig: 986, 831
+  offset: 0, 0
+  index: -1
+suiboli
+  rotate: false
+  xy: 2, 346
+  size: 3275, 1359
+  orig: 3275, 1359
+  offset: 0, 0
+  index: -1
+yy-yy
+  rotate: false
+  xy: 2197, 3691
+  size: 898, 216
+  orig: 898, 216
+  offset: 0, 0
+  index: -1
+
+lihui_lingmuqingfeng_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 1855
+  size: 3601, 1748
+  orig: 3601, 1748
+  offset: 0, 0
+  index: -1

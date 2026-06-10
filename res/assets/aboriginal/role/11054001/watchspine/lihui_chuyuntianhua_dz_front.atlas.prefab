@@ -1,0 +1,116 @@
+
+lihui_chuyuntianhua_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_1
+  rotate: true
+  xy: 556, 3546
+  size: 468, 701
+  orig: 468, 701
+  offset: 0, 0
+  index: -1
+cj_2
+  rotate: false
+  xy: 2, 2706
+  size: 1594, 792
+  orig: 1594, 792
+  offset: 0, 0
+  index: -1
+cj_3
+  rotate: false
+  xy: 2407, 3270
+  size: 1145, 744
+  orig: 1145, 744
+  offset: 0, 0
+  index: -1
+cj_4
+  rotate: false
+  xy: 1598, 2198
+  size: 1929, 1070
+  orig: 1929, 1070
+  offset: 0, 0
+  index: -1
+cj_8
+  rotate: false
+  xy: 1259, 3500
+  size: 1146, 514
+  orig: 1146, 514
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 1582, 1115
+  size: 2341, 1081
+  orig: 2341, 1081
+  offset: 0, 0
+  index: -1
+tx_4
+  rotate: false
+  xy: 2, 1436
+  size: 1578, 1268
+  orig: 1578, 1268
+  offset: 0, 0
+  index: -1
+tx_6
+  rotate: true
+  xy: 2, 2
+  size: 1432, 1520
+  orig: 1432, 1520
+  offset: 0, 0
+  index: -1
+tx_7
+  rotate: true
+  xy: 2, 3827
+  size: 187, 298
+  orig: 187, 298
+  offset: 0, 0
+  index: -1
+tx_8
+  rotate: true
+  xy: 302, 3827
+  size: 187, 252
+  orig: 187, 252
+  offset: 0, 0
+  index: -1
+
+lihui_chuyuntianhua_dz_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_7
+  rotate: false
+  xy: 2, 1581
+  size: 1938, 1202
+  orig: 1938, 1202
+  offset: 0, 0
+  index: -1
+tx_5
+  rotate: false
+  xy: 2, 321
+  size: 2781, 1258
+  orig: 2781, 1258
+  offset: 0, 0
+  index: -1
+
+lihui_chuyuntianhua_dz_front3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_5
+  rotate: false
+  xy: 2, 2
+  size: 2657, 1934
+  orig: 2657, 1934
+  offset: 0, 0
+  index: -1
+cj_6
+  rotate: false
+  xy: 2, 1938
+  size: 2910, 1934
+  orig: 2910, 1934
+  offset: 0, 0
+  index: -1

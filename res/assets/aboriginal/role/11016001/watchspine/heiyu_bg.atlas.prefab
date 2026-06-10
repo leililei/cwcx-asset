@@ -1,0 +1,13 @@
+
+heiyu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 1889
+  size: 3792, 1907
+  orig: 3792, 1907
+  offset: 0, 0
+  index: -1

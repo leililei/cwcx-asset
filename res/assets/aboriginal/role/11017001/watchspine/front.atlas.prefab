@@ -1,0 +1,48 @@
+
+front.png
+size: 3895,3895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front1
+  rotate: false
+  xy: 3061, 736
+  size: 260, 148
+  orig: 260, 148
+  offset: 0, 0
+  index: -1
+front2
+  rotate: false
+  xy: 3061, 666
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+front3
+  rotate: false
+  xy: 3734, 1912
+  size: 112, 54
+  orig: 112, 54
+  offset: 0, 0
+  index: -1
+front4
+  rotate: true
+  xy: 3061, 886
+  size: 1080, 671
+  orig: 1080, 671
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 10
+  size: 3057, 1956
+  orig: 3057, 1956
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 1968
+  size: 3891, 1925
+  orig: 3891, 1925
+  offset: 0, 0
+  index: -1

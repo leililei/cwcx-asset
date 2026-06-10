@@ -1,0 +1,480 @@
+
+lihui_ailisi_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 1219, 1755
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 0, 2012
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 647, 1801
+  size: 191, 151
+  orig: 191, 151
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: true
+  xy: 359, 1375
+  size: 244, 261
+  orig: 244, 261
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: true
+  xy: 1612, 1270
+  size: 244, 261
+  orig: 244, 261
+  offset: 0, 0
+  index: -1
+lys10
+  rotate: false
+  xy: 620, 1354
+  size: 287, 242
+  orig: 287, 242
+  offset: 0, 0
+  index: -1
+lys14
+  rotate: true
+  xy: 1079, 186
+  size: 381, 824
+  orig: 381, 824
+  offset: 0, 0
+  index: -1
+lys15
+  rotate: false
+  xy: 1714, 1514
+  size: 261, 220
+  orig: 261, 220
+  offset: 0, 0
+  index: -1
+lys16
+  rotate: false
+  xy: 1400, 1912
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+lys17
+  rotate: true
+  xy: 1124, 1564
+  size: 190, 367
+  orig: 190, 367
+  offset: 0, 0
+  index: -1
+lys19
+  rotate: false
+  xy: 237, 1625
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1
+lys2
+  rotate: true
+  xy: 0, 19
+  size: 383, 459
+  orig: 383, 459
+  offset: 0, 0
+  index: -1
+lys20
+  rotate: true
+  xy: 791, 1017
+  size: 293, 657
+  orig: 293, 657
+  offset: 0, 0
+  index: -1
+lys21
+  rotate: true
+  xy: 1365, 567
+  size: 357, 641
+  orig: 357, 641
+  offset: 0, 0
+  index: -1
+lys22
+  rotate: true
+  xy: 0, 771
+  size: 246, 1365
+  orig: 246, 1365
+  offset: 0, 0
+  index: -1
+lys23
+  rotate: true
+  xy: 405, 1972
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+lys24
+  rotate: true
+  xy: 1235, 1310
+  size: 242, 377
+  orig: 242, 377
+  offset: 0, 0
+  index: -1
+lys25
+  rotate: false
+  xy: 1491, 1552
+  size: 223, 196
+  orig: 223, 196
+  offset: 0, 0
+  index: -1
+lys27
+  rotate: true
+  xy: 459, 0
+  size: 390, 606
+  orig: 390, 606
+  offset: 0, 0
+  index: -1
+lys3
+  rotate: true
+  xy: 634, 1596
+  size: 190, 273
+  orig: 190, 273
+  offset: 0, 0
+  index: -1
+lys30
+  rotate: false
+  xy: 0, 1668
+  size: 237, 177
+  orig: 237, 177
+  offset: 0, 0
+  index: -1
+lys31
+  rotate: false
+  xy: 438, 1619
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+lys32
+  rotate: true
+  xy: 1517, 1911
+  size: 107, 306
+  orig: 107, 306
+  offset: 0, 0
+  index: -1
+lys33
+  rotate: false
+  xy: 0, 402
+  size: 676, 369
+  orig: 676, 369
+  offset: 0, 0
+  index: -1
+lys35
+  rotate: false
+  xy: 1448, 924
+  size: 555, 346
+  orig: 555, 346
+  offset: 0, 0
+  index: -1
+lys36
+  rotate: false
+  xy: 1088, 1923
+  size: 171, 95
+  orig: 171, 95
+  offset: 0, 0
+  index: -1
+lys37
+  rotate: false
+  xy: 0, 1099
+  size: 296, 292
+  orig: 296, 292
+  offset: 0, 0
+  index: -1
+lys38
+  rotate: true
+  xy: 0, 1391
+  size: 234, 359
+  orig: 234, 359
+  offset: 0, 0
+  index: -1
+lys39
+  rotate: true
+  xy: 558, 1957
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+lys4
+  rotate: true
+  xy: 1748, 1734
+  size: 177, 242
+  orig: 177, 242
+  offset: 0, 0
+  index: -1
+lys40
+  rotate: true
+  xy: 194, 1845
+  size: 132, 165
+  orig: 132, 165
+  offset: 0, 0
+  index: -1
+lys41
+  rotate: false
+  xy: 1040, 1772
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+lys42
+  rotate: true
+  xy: 907, 1330
+  size: 234, 328
+  orig: 234, 328
+  offset: 0, 0
+  index: -1
+lys43
+  rotate: false
+  xy: 838, 1786
+  size: 202, 145
+  orig: 202, 145
+  offset: 0, 0
+  index: -1
+lys44
+  rotate: true
+  xy: 845, 1932
+  size: 86, 125
+  orig: 86, 125
+  offset: 0, 0
+  index: -1
+lys45
+  rotate: true
+  xy: 0, 1858
+  size: 127, 194
+  orig: 127, 194
+  offset: 0, 0
+  index: -1
+lys46
+  rotate: false
+  xy: 907, 1582
+  size: 217, 190
+  orig: 217, 190
+  offset: 0, 0
+  index: -1
+lys47
+  rotate: true
+  xy: 1823, 1911
+  size: 107, 187
+  orig: 107, 187
+  offset: 0, 0
+  index: -1
+lys48
+  rotate: true
+  xy: 676, 390
+  size: 381, 403
+  orig: 381, 403
+  offset: 0, 0
+  index: -1
+lys49
+  rotate: false
+  xy: 1259, 1918
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+lys5
+  rotate: true
+  xy: 236, 1982
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+lys50
+  rotate: true
+  xy: 623, 1956
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+lys6
+  rotate: true
+  xy: 1384, 1754
+  size: 157, 199
+  orig: 157, 199
+  offset: 0, 0
+  index: -1
+lys7
+  rotate: true
+  xy: 359, 1813
+  size: 143, 288
+  orig: 143, 288
+  offset: 0, 0
+  index: -1
+lys8
+  rotate: false
+  xy: 296, 1048
+  size: 495, 306
+  orig: 495, 306
+  offset: 0, 0
+  index: -1
+lys9
+  rotate: false
+  xy: 970, 1931
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 718, 1952
+  size: 127, 66
+  orig: 127, 66
+  offset: 0, 0
+  index: -1
+shangyanpi2
+  rotate: false
+  xy: 479, 1963
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+shangyanpiq1
+  rotate: false
+  xy: 350, 1977
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1583, 1748
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+xiayanpi2
+  rotate: false
+  xy: 116, 1986
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+xiayianpi1
+  rotate: false
+  xy: 61, 1999
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+yanbai1
+  rotate: false
+  xy: 161, 1985
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+yanbai2
+  rotate: false
+  xy: 302, 1980
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+yanjiao1
+  rotate: true
+  xy: 42, 2003
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+yanjiao2
+  rotate: true
+  xy: 15, 2011
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 87, 1989
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: true
+  xy: 200, 1984
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 31, 2010
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+
+lihui_ailisi_dz2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lys11
+  rotate: false
+  xy: 1003, 1449
+  size: 693, 492
+  orig: 693, 492
+  offset: 0, 0
+  index: -1
+lys13
+  rotate: true
+  xy: 673, 736
+  size: 713, 810
+  orig: 713, 810
+  offset: 0, 0
+  index: -1
+lys18
+  rotate: true
+  xy: 0, 1541
+  size: 400, 475
+  orig: 400, 475
+  offset: 0, 0
+  index: -1
+lys26
+  rotate: true
+  xy: 0, 928
+  size: 550, 673
+  orig: 550, 673
+  offset: 0, 0
+  index: -1
+lys28
+  rotate: true
+  xy: 0, 0
+  size: 736, 1319
+  orig: 736, 1319
+  offset: 0, 0
+  index: -1
+lys34
+  rotate: true
+  xy: 475, 1478
+  size: 463, 528
+  orig: 463, 528
+  offset: 0, 0
+  index: -1
+
+lihui_ailisi_dz3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lys1
+  rotate: false
+  xy: 0, 0
+  size: 1166, 1431
+  orig: 1166, 1431
+  offset: 0, 0
+  index: -1

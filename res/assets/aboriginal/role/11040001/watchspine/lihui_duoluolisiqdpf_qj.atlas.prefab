@@ -1,0 +1,27 @@
+
+lihui_duoluolisiqdpf_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 0, 1765
+  size: 2633, 1428
+  orig: 2633, 1428
+  offset: 0, 0
+  index: -1
+ribbon1
+  rotate: false
+  xy: 2633, 2397
+  size: 560, 796
+  orig: 560, 796
+  offset: 0, 0
+  index: -1
+ribbon2
+  rotate: false
+  xy: 2633, 2080
+  size: 260, 317
+  orig: 260, 317
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+lihui_wangnvhunsha_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back11
+  rotate: false
+  xy: 2, 2
+  size: 1183, 1903
+  orig: 1183, 1903
+  offset: 0, 0
+  index: -1
+back22
+  rotate: false
+  xy: 2, 1907
+  size: 1326, 1903
+  orig: 1326, 1903
+  offset: 0, 0
+  index: -1
+back33
+  rotate: false
+  xy: 1330, 1908
+  size: 900, 1902
+  orig: 900, 1902
+  offset: 0, 0
+  index: -1
+back44
+  rotate: false
+  xy: 1187, 3
+  size: 928, 1902
+  orig: 928, 1902
+  offset: 0, 0
+  index: -1

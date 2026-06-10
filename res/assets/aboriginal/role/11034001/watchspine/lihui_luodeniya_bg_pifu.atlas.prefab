@@ -1,0 +1,97 @@
+
+lihui_luodeniya_bg_pifu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 201
+  rotate: false
+  xy: 2, 1810
+  size: 2048, 1087
+  orig: 2048, 1087
+  offset: 0, 0
+  index: -1
+图层 401
+  rotate: false
+  xy: 2, 2899
+  size: 2143, 1140
+  orig: 2143, 1140
+  offset: 0, 0
+  index: -1
+图层 404
+  rotate: true
+  xy: 2, 740
+  size: 1068, 1247
+  orig: 1068, 1247
+  offset: 0, 0
+  index: -1
+图层 406
+  rotate: false
+  xy: 3087, 3371
+  size: 651, 668
+  orig: 651, 668
+  offset: 0, 0
+  index: -1
+图层 408
+  rotate: true
+  xy: 3436, 1586
+  size: 460, 603
+  orig: 460, 603
+  offset: 0, 0
+  index: -1
+图层 409
+  rotate: true
+  xy: 2079, 449
+  size: 1136, 939
+  orig: 1136, 939
+  offset: 0, 0
+  index: -1
+图层 409 副本
+  rotate: true
+  xy: 2079, 1762
+  size: 1136, 939
+  orig: 1136, 939
+  offset: 0, 0
+  index: -1
+图层 409 副本 拷贝
+  rotate: true
+  xy: 2146, 2904
+  size: 1136, 939
+  orig: 1136, 939
+  offset: 0, 0
+  index: -1
+图层 409 拷贝
+  rotate: true
+  xy: 3020, 449
+  size: 1136, 939
+  orig: 1136, 939
+  offset: 0, 0
+  index: -1
+图层 440
+  rotate: false
+  xy: 2, 277
+  size: 757, 461
+  orig: 757, 461
+  offset: 0, 0
+  index: -1
+图层 441
+  rotate: false
+  xy: 3087, 2768
+  size: 790, 564
+  orig: 790, 564
+  offset: 0, 0
+  index: -1
+图层 442
+  rotate: true
+  xy: 3020, 1586
+  size: 1181, 414
+  orig: 1181, 414
+  offset: 0, 0
+  index: -1
+组 1
+  rotate: false
+  xy: 1250, 448
+  size: 827, 1360
+  orig: 827, 1360
+  offset: 0, 0
+  index: -1

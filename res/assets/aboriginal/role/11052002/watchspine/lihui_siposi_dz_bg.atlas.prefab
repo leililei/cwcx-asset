@@ -1,0 +1,13 @@
+
+lihui_siposi_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1884
+  size: 3532, 1650
+  orig: 4319, 2363
+  offset: 396, 356
+  index: -1

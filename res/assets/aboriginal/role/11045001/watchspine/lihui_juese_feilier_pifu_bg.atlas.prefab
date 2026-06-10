@@ -1,0 +1,90 @@
+
+lihui_juese_feilier_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 5, 1923
+  size: 2293, 2166
+  orig: 2293, 2166
+  offset: 0, 0
+  index: -1
+beijing_fufeng
+  rotate: false
+  xy: 5, 874
+  size: 1387, 1044
+  orig: 1387, 1044
+  offset: 0, 0
+  index: -1
+beijing_shi
+  rotate: true
+  xy: 1397, 1162
+  size: 756, 708
+  orig: 756, 708
+  offset: 0, 0
+  index: -1
+beijing_texiao_guangyu
+  rotate: true
+  xy: 2303, 2481
+  size: 1608, 1465
+  orig: 1608, 1465
+  offset: 0, 0
+  index: -1
+beijing_z
+  rotate: true
+  xy: 5, 430
+  size: 439, 612
+  orig: 439, 612
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 2110, 1887
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+shui3
+  rotate: true
+  xy: 2110, 1861
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+shui4
+  rotate: true
+  xy: 2110, 1845
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shui5
+  rotate: false
+  xy: 2110, 1831
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shuimu
+  rotate: false
+  xy: 2062, 786
+  size: 215, 371
+  orig: 215, 371
+  offset: 0, 0
+  index: -1
+texiao_guang4
+  rotate: false
+  xy: 2303, 607
+  size: 1263, 1869
+  orig: 1263, 1869
+  offset: 0, 0
+  index: -1
+texiao_guang5
+  rotate: false
+  xy: 1397, 5
+  size: 660, 1152
+  orig: 660, 1152
+  offset: 0, 0
+  index: -1

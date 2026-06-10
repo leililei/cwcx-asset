@@ -1,0 +1,769 @@
+
+dongzuo_juese_lmqf_hk.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B2_00000
+  rotate: false
+  xy: 0, 1748
+  size: 190, 99
+  orig: 205, 102
+  offset: 13, 0
+  index: -1
+B2_00001
+  rotate: false
+  xy: 190, 1732
+  size: 197, 99
+  orig: 205, 102
+  offset: 7, 0
+  index: -1
+B2_00002
+  rotate: false
+  xy: 1148, 1797
+  size: 202, 98
+  orig: 205, 102
+  offset: 1, 0
+  index: -1
+B2_00003
+  rotate: false
+  xy: 1350, 1797
+  size: 201, 98
+  orig: 205, 102
+  offset: 2, 0
+  index: -1
+B2_00004
+  rotate: false
+  xy: 1551, 1786
+  size: 203, 98
+  orig: 205, 102
+  offset: 0, 0
+  index: -1
+B2_00005
+  rotate: false
+  xy: 387, 1723
+  size: 191, 99
+  orig: 205, 102
+  offset: 12, 0
+  index: -1
+B2_00006
+  rotate: false
+  xy: 578, 1717
+  size: 186, 99
+  orig: 205, 102
+  offset: 17, 0
+  index: -1
+B2_00007
+  rotate: false
+  xy: 764, 1711
+  size: 188, 99
+  orig: 205, 102
+  offset: 15, 0
+  index: -1
+SI
+  rotate: false
+  xy: 1401, 255
+  size: 522, 1048
+  orig: 522, 1048
+  offset: 0, 0
+  index: -1
+SII
+  rotate: true
+  xy: 662, 1816
+  size: 88, 138
+  orig: 88, 138
+  offset: 0, 0
+  index: -1
+SIV
+  rotate: true
+  xy: 1546, 1639
+  size: 144, 277
+  orig: 144, 277
+  offset: 0, 0
+  index: -1
+SV
+  rotate: false
+  xy: 0, 1364
+  size: 652, 180
+  orig: 652, 180
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 115, 2030
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+biaoshou
+  rotate: false
+  xy: 1793, 2007
+  size: 45, 38
+  orig: 46, 38
+  offset: 1, 0
+  index: -1
+bizui
+  rotate: false
+  xy: 0, 2041
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+bqI
+  rotate: false
+  xy: 710, 2016
+  size: 99, 29
+  orig: 99, 50
+  offset: 0, 0
+  index: -1
+bqII
+  rotate: false
+  xy: 1838, 2007
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+bsIII
+  rotate: true
+  xy: 503, 1970
+  size: 48, 86
+  orig: 52, 101
+  offset: 0, 7
+  index: -1
+bstI
+  rotate: true
+  xy: 952, 1685
+  size: 118, 185
+  orig: 118, 185
+  offset: 0, 0
+  index: -1
+btfI
+  rotate: true
+  xy: 1823, 1531
+  size: 181, 184
+  orig: 181, 184
+  offset: 0, 0
+  index: -1
+btsI
+  rotate: false
+  xy: 1228, 1492
+  size: 231, 179
+  orig: 231, 179
+  offset: 0, 0
+  index: -1
+byI
+  rotate: true
+  xy: 862, 2015
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+byII
+  rotate: true
+  xy: 896, 2015
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+byIII
+  rotate: true
+  xy: 529, 2018
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+byIV
+  rotate: true
+  xy: 562, 2018
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+bysIII
+  rotate: false
+  xy: 0, 1993
+  size: 41, 41
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+bytI
+  rotate: true
+  xy: 1670, 1884
+  size: 69, 149
+  orig: 93, 154
+  offset: 0, 0
+  index: -1
+bytII
+  rotate: true
+  xy: 1474, 2011
+  size: 34, 58
+  orig: 42, 66
+  offset: 8, 0
+  index: -1
+bytIII
+  rotate: true
+  xy: 0, 1931
+  size: 57, 118
+  orig: 58, 118
+  offset: 0, 0
+  index: -1
+bztI
+  rotate: true
+  xy: 0, 1852
+  size: 69, 157
+  orig: 69, 157
+  offset: 0, 0
+  index: -1
+bztII
+  rotate: true
+  xy: 1319, 2012
+  size: 33, 57
+  orig: 39, 63
+  offset: 6, 0
+  index: -1
+bztIII
+  rotate: true
+  xy: 397, 1912
+  size: 58, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 326, 1831
+  size: 167, 81
+  orig: 167, 81
+  offset: 0, 0
+  index: -1
+daizi2
+  rotate: true
+  xy: 37, 2034
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+dao1
+  rotate: false
+  xy: 652, 1173
+  size: 555, 334
+  orig: 555, 334
+  offset: 0, 0
+  index: -1
+daoI
+  rotate: false
+  xy: 964, 1899
+  size: 263, 62
+  orig: 263, 62
+  offset: 0, 0
+  index: -1
+daoII
+  rotate: false
+  xy: 1003, 1961
+  size: 351, 51
+  orig: 351, 51
+  offset: 0, 0
+  index: -1
+daoshen
+  rotate: false
+  xy: 786, 1507
+  size: 442, 171
+  orig: 442, 171
+  offset: 0, 0
+  index: -1
+fb
+  rotate: true
+  xy: 1227, 1895
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+gebo1
+  rotate: true
+  xy: 415, 1974
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+gebo2
+  rotate: true
+  xy: 571, 1905
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+houtoufa
+  rotate: true
+  xy: 1900, 1712
+  size: 151, 131
+  orig: 151, 131
+  offset: 0, 0
+  index: -1
+houzui
+  rotate: false
+  xy: 71, 2034
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+muzhi
+  rotate: true
+  xy: 1532, 2011
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+pingbiaoq
+  rotate: false
+  xy: 353, 2021
+  size: 77, 24
+  orig: 77, 69
+  offset: 0, 45
+  index: -1
+sanjiaozui
+  rotate: false
+  xy: 8, 2035
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+sbI
+  rotate: true
+  xy: 0, 86
+  size: 679, 1202
+  orig: 679, 1202
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1946, 2007
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+shoubei
+  rotate: true
+  xy: 1754, 1783
+  size: 99, 146
+  orig: 99, 146
+  offset: 0, 0
+  index: -1
+shougai
+  rotate: true
+  xy: 495, 765
+  size: 408, 906
+  orig: 408, 906
+  offset: 0, 0
+  index: -1
+shoujia
+  rotate: false
+  xy: 859, 1963
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+shouzhiquan
+  rotate: false
+  xy: 1459, 1303
+  size: 358, 336
+  orig: 358, 336
+  offset: 0, 0
+  index: -1
+sj
+  rotate: false
+  xy: 1951, 1946
+  size: 86, 61
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+stI
+  rotate: true
+  xy: 800, 1810
+  size: 91, 160
+  orig: 91, 160
+  offset: 0, 0
+  index: -1
+sw
+  rotate: false
+  xy: 123, 1983
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+szI
+  rotate: false
+  xy: 1061, 2013
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+szII
+  rotate: false
+  xy: 1583, 2010
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+szIII
+  rotate: false
+  xy: 133, 2026
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+szIV
+  rotate: true
+  xy: 224, 2023
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+szIX
+  rotate: false
+  xy: 255, 2022
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+szV
+  rotate: false
+  xy: 1629, 2010
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+szVI
+  rotate: true
+  xy: 929, 2015
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+szVII
+  rotate: true
+  xy: 191, 2026
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+szVIII
+  rotate: false
+  xy: 268, 1976
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+szX
+  rotate: false
+  xy: 41, 1988
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+szXI
+  rotate: true
+  xy: 505, 1907
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 152, 1561
+  size: 171, 198
+  orig: 171, 198
+  offset: 0, 0
+  index: -1
+tfII
+  rotate: true
+  xy: 157, 1847
+  size: 73, 169
+  orig: 73, 169
+  offset: 0, 0
+  index: -1
+tfIV
+  rotate: true
+  xy: 350, 1551
+  size: 172, 182
+  orig: 172, 182
+  offset: 0, 0
+  index: -1
+touI
+  rotate: true
+  xy: 0, 1599
+  size: 149, 152
+  orig: 153, 152
+  offset: 4, 0
+  index: -1
+toujiyan
+  rotate: false
+  xy: 1376, 2012
+  size: 98, 33
+  orig: 98, 33
+  offset: 0, 0
+  index: -1
+tsI
+  rotate: true
+  xy: 118, 1921
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+tsII
+  rotate: true
+  xy: 1354, 1958
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+tuzui
+  rotate: false
+  xy: 960, 2015
+  size: 66, 30
+  orig: 66, 68
+  offset: 0, 38
+  index: -1
+wa
+  rotate: false
+  xy: 430, 2021
+  size: 99, 24
+  orig: 99, 69
+  offset: 0, 45
+  index: -1
+xiaobi1
+  rotate: true
+  xy: 202, 1977
+  size: 45, 66
+  orig: 49, 66
+  offset: 2, 0
+  index: -1
+xiaobi2
+  rotate: true
+  xy: 1879, 1952
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+xiong 副本 的複製
+  rotate: false
+  xy: 337, 1975
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+xy
+  rotate: false
+  xy: 589, 1969
+  size: 92, 49
+  orig: 92, 56
+  offset: 0, 5
+  index: -1
+yansu
+  rotate: false
+  xy: 278, 2022
+  size: 75, 23
+  orig: 75, 62
+  offset: 0, 39
+  index: -1
+yaoya
+  rotate: false
+  xy: 89, 2031
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+yxI
+  rotate: true
+  xy: 960, 1803
+  size: 96, 188
+  orig: 117, 198
+  offset: 0, 0
+  index: -1
+yxII
+  rotate: true
+  xy: 1556, 1892
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+yxIII
+  rotate: true
+  xy: 809, 2016
+  size: 29, 53
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+zhandoumeimao
+  rotate: false
+  xy: 594, 2018
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+zhanjiandao
+  rotate: false
+  xy: 0, 1028
+  size: 495, 336
+  orig: 495, 336
+  offset: 0, 0
+  index: -1
+zhezhao
+  rotate: true
+  xy: 19, 2035
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+zsI
+  rotate: false
+  xy: 1026, 2015
+  size: 35, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ztI
+  rotate: true
+  xy: 493, 1822
+  size: 82, 169
+  orig: 82, 169
+  offset: 0, 0
+  index: -1
+ztII
+  rotate: true
+  xy: 735, 1965
+  size: 51, 124
+  orig: 51, 158
+  offset: 0, 34
+  index: -1
+ztIII
+  rotate: true
+  xy: 1703, 2010
+  size: 35, 53
+  orig: 57, 53
+  offset: 2, 0
+  index: -1
+圖層 10 的複製
+  rotate: true
+  xy: 1337, 1895
+  size: 63, 219
+  orig: 63, 219
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 10
+  rotate: true
+  xy: 926, 1963
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 11
+  rotate: true
+  xy: 1672, 1956
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 3
+  rotate: true
+  xy: 1984, 2007
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 4
+  rotate: false
+  xy: 1819, 1882
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 5
+  rotate: true
+  xy: 1908, 1863
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+圖層 10 的複製 9
+  rotate: true
+  xy: 676, 2018
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+圖層 11
+  rotate: true
+  xy: 198, 1920
+  size: 55, 199
+  orig: 55, 199
+  offset: 0, 0
+  index: -1
+圖層 16
+  rotate: true
+  xy: 1440, 1958
+  size: 52, 232
+  orig: 52, 232
+  offset: 0, 0
+  index: -1
+圖層 17 的複製
+  rotate: true
+  xy: 1106, 2013
+  size: 32, 213
+  orig: 32, 213
+  offset: 0, 0
+  index: -1
+圖層 25
+  rotate: false
+  xy: 1375, 1671
+  size: 171, 126
+  orig: 171, 126
+  offset: 0, 0
+  index: -1
+圖層 35
+  rotate: false
+  xy: 830, 1901
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+圖層 43
+  rotate: true
+  xy: 1137, 1678
+  size: 119, 238
+  orig: 119, 238
+  offset: 0, 0
+  index: -1
+圖層 54
+  rotate: false
+  xy: 681, 1966
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+圖層 6
+  rotate: true
+  xy: 653, 1904
+  size: 61, 177
+  orig: 61, 177
+  offset: 0, 0
+  index: -1
+圖層 64
+  rotate: false
+  xy: 1750, 1953
+  size: 129, 54
+  orig: 129, 54
+  offset: 0, 0
+  index: -1
+圖層 8
+  rotate: false
+  xy: 532, 1544
+  size: 254, 167
+  orig: 254, 167
+  offset: 0, 0
+  index: -1
+圖層 9
+  rotate: true
+  xy: 1756, 2009
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1

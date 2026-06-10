@@ -1,0 +1,82 @@
+
+lihui_chalishashengdan_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_deng
+  rotate: true
+  xy: 3515, 1784
+  size: 2184, 520
+  orig: 2185, 520
+  offset: 1, 0
+  index: -1
+beijingsidai
+  rotate: true
+  xy: 3515, 1117
+  size: 665, 444
+  orig: 666, 444
+  offset: 1, 0
+  index: -1
+beijingwuqi
+  rotate: false
+  xy: 2, 2467
+  size: 3511, 1622
+  orig: 3511, 1622
+  offset: 0, 0
+  index: -1
+beijingxiong
+  rotate: false
+  xy: 2, 843
+  size: 3511, 1622
+  orig: 3511, 1622
+  offset: 0, 0
+  index: -1
+eff_gl_l0001
+  rotate: false
+  xy: 3515, 933
+  size: 182, 182
+  orig: 185, 185
+  offset: 1, 1
+  index: -1
+tree
+  rotate: false
+  xy: 3515, 3970
+  size: 574, 119
+  orig: 575, 119
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 4037, 3953
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yeti
+  rotate: false
+  xy: 3961, 1557
+  size: 104, 225
+  orig: 104, 225
+  offset: 0, 0
+  index: -1
+
+lihui_chalishashengdan_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_qianjing1
+  rotate: false
+  xy: 2, 1626
+  size: 3344, 1876
+  orig: 3344, 1876
+  offset: 0, 0
+  index: -1
+beijingwuqi2
+  rotate: false
+  xy: 2, 2
+  size: 3385, 1622
+  orig: 3385, 1622
+  offset: 0, 0
+  index: -1

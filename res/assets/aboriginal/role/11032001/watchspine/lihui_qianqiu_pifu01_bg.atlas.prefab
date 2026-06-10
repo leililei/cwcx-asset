@@ -1,0 +1,27 @@
+
+lihui_qianqiu_pifu01_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 1130
+  size: 1600, 884
+  orig: 1600, 884
+  offset: 0, 0
+  index: -1
+xingxingdiaozui1
+  rotate: false
+  xy: 1600, 1463
+  size: 414, 551
+  orig: 414, 551
+  offset: 0, 0
+  index: -1
+xingxingdiaozui2
+  rotate: false
+  xy: 1600, 993
+  size: 353, 470
+  orig: 353, 470
+  offset: 0, 0
+  index: -1

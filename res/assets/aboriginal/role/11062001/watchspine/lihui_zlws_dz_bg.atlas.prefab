@@ -1,0 +1,27 @@
+
+lihui_zlws_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beij1
+  rotate: false
+  xy: 2, 456
+  size: 2558, 1244
+  orig: 2558, 1244
+  offset: 0, 0
+  index: -1
+beij4
+  rotate: false
+  xy: 2, 2120
+  size: 373, 715
+  orig: 373, 715
+  offset: 0, 0
+  index: -1
+beij7
+  rotate: false
+  xy: 377, 1702
+  size: 2458, 1133
+  orig: 2458, 1194
+  offset: 0, 61
+  index: -1
