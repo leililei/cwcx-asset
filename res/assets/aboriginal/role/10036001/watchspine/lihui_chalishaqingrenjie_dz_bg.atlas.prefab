@@ -1,0 +1,144 @@
+
+lihui_chalishaqingrenjie_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: true
+  xy: 601, 3152
+  size: 591, 1121
+  orig: 591, 1121
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 1215, 3747
+  size: 776, 319
+  orig: 776, 319
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 1995, 3693
+  size: 763, 373
+  orig: 763, 373
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 1630, 1583
+  size: 1161, 1316
+  orig: 1161, 1316
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 645, 3778
+  size: 566, 288
+  orig: 566, 289
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 4, 893
+  size: 1347, 1254
+  orig: 1347, 1254
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: true
+  xy: 1726, 2748
+  size: 908, 1287
+  orig: 908, 1287
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 4, 2151
+  size: 997, 1622
+  orig: 997, 1622
+  offset: 0, 0
+  index: -1
+gy
+  rotate: true
+  xy: 3017, 2612
+  size: 983, 1037
+  orig: 983, 1037
+  offset: 0, 0
+  index: -1
+h
+  rotate: true
+  xy: 3440, 3599
+  size: 467, 626
+  orig: 467, 626
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 4, 3905
+  size: 637, 161
+  orig: 637, 161
+  offset: 0, 0
+  index: -1
+yingxiang
+  rotate: true
+  xy: 2762, 3660
+  size: 406, 674
+  orig: 406, 674
+  offset: 0, 0
+  index: -1
+zhibei
+  rotate: false
+  xy: 4, 3356
+  size: 593, 545
+  orig: 593, 545
+  offset: 0, 0
+  index: -1
+
+lihui_chalishaqingrenjie_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanghu
+  rotate: false
+  xy: 4, 399
+  size: 3394, 1621
+  orig: 3394, 1621
+  offset: 0, 0
+  index: -1
+chuangshang
+  rotate: false
+  xy: 4, 2024
+  size: 2944, 1374
+  orig: 2944, 1374
+  offset: 0, 0
+  index: -1
+
+lihui_chalishaqingrenjie_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangjian
+  rotate: false
+  xy: 4, 525
+  size: 3511, 1622
+  orig: 3511, 1622
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 4, 2152
+  size: 1702, 1621
+  orig: 1702, 1621
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1710, 2151
+  size: 2063, 1622
+  orig: 2063, 1622
+  offset: 0, 0
+  index: -1

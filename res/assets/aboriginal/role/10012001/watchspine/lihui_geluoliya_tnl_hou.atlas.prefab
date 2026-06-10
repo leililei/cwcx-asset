@@ -1,0 +1,118 @@
+
+lihui_geluoliya_tnl_hou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijingtu
+  rotate: false
+  xy: 2533, 3428
+  size: 1422, 648
+  orig: 1422, 648
+  offset: 0, 0
+  index: -1
+beizi
+  rotate: true
+  xy: 2, 42
+  size: 157, 218
+  orig: 157, 218
+  offset: 0, 0
+  index: -1
+ditan
+  rotate: false
+  xy: 2, 3047
+  size: 2529, 1029
+  orig: 2529, 1029
+  offset: 0, 0
+  index: -1
+hongtan
+  rotate: false
+  xy: 2533, 2089
+  size: 1405, 1337
+  orig: 1405, 1337
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 806, 2582
+  size: 249, 463
+  orig: 249, 463
+  offset: 0, 0
+  index: -1
+xie2
+  rotate: true
+  xy: 1388, 2223
+  size: 542, 297
+  orig: 542, 297
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: true
+  xy: 2, 201
+  size: 1886, 1770
+  orig: 1886, 1770
+  offset: 0, 0
+  index: -1
+zentou6
+  rotate: false
+  xy: 1774, 1133
+  size: 651, 620
+  orig: 651, 620
+  offset: 0, 0
+  index: -1
+zhentou1
+  rotate: false
+  xy: 1774, 2548
+  size: 755, 497
+  orig: 755, 497
+  offset: 0, 0
+  index: -1
+zhentou2
+  rotate: false
+  xy: 806, 2140
+  size: 580, 406
+  orig: 580, 406
+  offset: 0, 0
+  index: -1
+zhentou3
+  rotate: false
+  xy: 1388, 2767
+  size: 347, 278
+  orig: 347, 278
+  offset: 0, 0
+  index: -1
+zhentou4
+  rotate: true
+  xy: 2845, 318
+  size: 858, 821
+  orig: 858, 821
+  offset: 0, 0
+  index: -1
+zhentou5
+  rotate: true
+  xy: 1774, 1755
+  size: 791, 668
+  orig: 791, 668
+  offset: 0, 0
+  index: -1
+zhiwu1
+  rotate: true
+  xy: 1774, 2
+  size: 1129, 1069
+  orig: 1129, 1069
+  offset: 0, 0
+  index: -1
+zhiwu2
+  rotate: true
+  xy: 2444, 1178
+  size: 909, 1267
+  orig: 909, 1267
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: true
+  xy: 2, 2114
+  size: 931, 802
+  orig: 931, 802
+  offset: 0, 0
+  index: -1

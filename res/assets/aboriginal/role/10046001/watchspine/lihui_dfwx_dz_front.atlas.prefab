@@ -1,0 +1,20 @@
+
+lihui_dfwx_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfwx_0
+  rotate: false
+  xy: 2, 2000
+  size: 3652, 1654
+  orig: 3652, 1654
+  offset: 0, 0
+  index: -1
+dfwx_1
+  rotate: false
+  xy: 2, 602
+  size: 3652, 1396
+  orig: 3652, 1396
+  offset: 0, 0
+  index: -1

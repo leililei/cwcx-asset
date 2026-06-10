@@ -1,0 +1,69 @@
+
+lihui_anan_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingguang
+  rotate: true
+  xy: 2, 1375
+  size: 1332, 1059
+  orig: 1332, 1059
+  offset: 0, 0
+  index: -1
+fanguang
+  rotate: true
+  xy: 1063, 978
+  size: 1729, 946
+  orig: 1729, 946
+  offset: 0, 0
+  index: -1
+wu
+  rotate: true
+  xy: 2, 2
+  size: 1371, 946
+  orig: 1371, 946
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 2052, 1828
+  size: 1940, 1059
+  orig: 1940, 1059
+  offset: 0, 0
+  index: -1
+yu-2
+  rotate: false
+  xy: 2, 2709
+  size: 2048, 1059
+  orig: 2048, 1059
+  offset: 0, 0
+  index: -1
+yushui
+  rotate: false
+  xy: 2657, 1110
+  size: 400, 716
+  orig: 400, 716
+  offset: 0, 0
+  index: -1
+yushui-2
+  rotate: false
+  xy: 950, 218
+  size: 399, 758
+  orig: 399, 758
+  offset: 0, 0
+  index: -1
+yuwu
+  rotate: false
+  xy: 2011, 902
+  size: 644, 924
+  orig: 644, 924
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 1351, 229
+  size: 464, 747
+  orig: 464, 747
+  offset: 0, 0
+  index: -1

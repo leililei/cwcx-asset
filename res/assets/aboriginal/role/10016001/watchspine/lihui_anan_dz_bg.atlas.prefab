@@ -1,0 +1,111 @@
+
+lihui_anan_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-1
+  rotate: false
+  xy: 2, 2930
+  size: 2048, 1059
+  orig: 2048, 1059
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 994, 571
+  size: 1396, 313
+  orig: 1396, 313
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 880
+  size: 2048, 422
+  orig: 2048, 422
+  offset: 0, 0
+  index: -1
+huluobo
+  rotate: false
+  xy: 2, 2
+  size: 298, 160
+  orig: 298, 160
+  offset: 0, 0
+  index: -1
+jiazi-1
+  rotate: true
+  xy: 2, 414
+  size: 464, 380
+  orig: 464, 380
+  offset: 0, 0
+  index: -1
+jiazi-2
+  rotate: false
+  xy: 1886, 1350
+  size: 475, 589
+  orig: 475, 589
+  offset: 0, 0
+  index: -1
+jiubei
+  rotate: false
+  xy: 1886, 919
+  size: 468, 429
+  orig: 468, 429
+  offset: 0, 0
+  index: -1
+luoboye
+  rotate: true
+  xy: 228, 335
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: true
+  xy: 2392, 870
+  size: 1069, 903
+  orig: 1069, 903
+  offset: 0, 0
+  index: -1
+tianguang
+  rotate: true
+  xy: 426, 912
+  size: 2016, 946
+  orig: 2016, 946
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: true
+  xy: 1374, 886
+  size: 2042, 510
+  orig: 2042, 510
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 2, 164
+  size: 224, 248
+  orig: 224, 248
+  offset: 0, 0
+  index: -1
+yu-2
+  rotate: true
+  xy: 2052, 1941
+  size: 2048, 1059
+  orig: 2048, 1059
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2392, 344
+  size: 770, 524
+  orig: 770, 524
+  offset: 0, 0
+  index: -1
+zhuoziwupin
+  rotate: true
+  xy: 426, 134
+  size: 776, 566
+  orig: 776, 566
+  offset: 0, 0
+  index: -1

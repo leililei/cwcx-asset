@@ -1,0 +1,139 @@
+
+lihui_zhuliwusipifu_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangpiaodai1
+  rotate: false
+  xy: 2557, 2738
+  size: 103, 105
+  orig: 104, 105
+  offset: 1, 0
+  index: -1
+huangpiaodai2
+  rotate: false
+  xy: 2557, 2425
+  size: 54, 55
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+huangzhuzi
+  rotate: false
+  xy: 1798, 719
+  size: 346, 538
+  orig: 346, 538
+  offset: 0, 0
+  index: -1
+lanpiaodai1
+  rotate: false
+  xy: 2617, 2526
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+lanpiaodai2
+  rotate: true
+  xy: 2557, 2623
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+lanpiaodai3
+  rotate: true
+  xy: 2625, 2585
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+lanpiaodai4
+  rotate: true
+  xy: 2590, 2385
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+qj_01
+  rotate: true
+  xy: 1082, 1259
+  size: 1584, 1473
+  orig: 1584, 1473
+  offset: 0, 0
+  index: -1
+qj_02
+  rotate: true
+  xy: 2557, 903
+  size: 1282, 869
+  orig: 1282, 869
+  offset: 0, 0
+  index: -1
+qj_03
+  rotate: true
+  xy: 2772, 2187
+  size: 1816, 1231
+  orig: 1817, 1232
+  offset: 1, 1
+  index: -1
+qj_04
+  rotate: true
+  xy: 2, 676
+  size: 2167, 1078
+  orig: 2167, 1078
+  offset: 0, 0
+  index: -1
+qj_05
+  rotate: true
+  xy: 1082, 677
+  size: 580, 714
+  orig: 580, 714
+  offset: 0, 0
+  index: -1
+qj_06
+  rotate: false
+  xy: 2, 2845
+  size: 2768, 1158
+  orig: 2768, 1158
+  offset: 0, 0
+  index: -1
+zipiaodai1
+  rotate: true
+  xy: 2613, 2450
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+zipiaodai4
+  rotate: true
+  xy: 2557, 2551
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+zipiaodai5
+  rotate: true
+  xy: 2625, 2565
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+zipiaodai6
+  rotate: true
+  xy: 2557, 2350
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+zipiaodai7
+  rotate: false
+  xy: 2557, 2482
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+zipiaodai8
+  rotate: true
+  xy: 2557, 2303
+  size: 45, 49
+  orig: 46, 49
+  offset: 1, 0
+  index: -1

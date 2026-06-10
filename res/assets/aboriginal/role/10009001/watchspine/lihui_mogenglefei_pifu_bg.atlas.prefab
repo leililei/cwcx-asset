@@ -1,0 +1,124 @@
+
+lihui_mogenglefei_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhair_1
+  rotate: false
+  xy: 0, 683
+  size: 2879, 1625
+  orig: 2879, 1625
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 3586, 1790
+  size: 507, 728
+  orig: 507, 728
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2907, 3369
+  size: 726, 1104
+  orig: 726, 1104
+  offset: 0, 0
+  index: -1
+curtain
+  rotate: true
+  xy: 2907, 2981
+  size: 388, 1063
+  orig: 388, 1063
+  offset: 0, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2907, 2518
+  size: 878, 463
+  orig: 878, 463
+  offset: 0, 0
+  index: -1
+flower_1
+  rotate: true
+  xy: 4011, 3957
+  size: 138, 84
+  orig: 138, 84
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: true
+  xy: 4011, 3744
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+flower_3
+  rotate: true
+  xy: 4011, 3809
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+flower_6
+  rotate: false
+  xy: 2907, 1929
+  size: 679, 589
+  orig: 679, 589
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2879, 1550
+  size: 379, 530
+  orig: 379, 530
+  offset: 0, 0
+  index: -1
+pigeon_1
+  rotate: false
+  xy: 3785, 2607
+  size: 161, 141
+  orig: 161, 141
+  offset: 0, 0
+  index: -1
+pigeon_2
+  rotate: false
+  xy: 4011, 3880
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+pigeon_3
+  rotate: false
+  xy: 3785, 2748
+  size: 251, 233
+  orig: 251, 233
+  offset: 0, 0
+  index: -1
+scense
+  rotate: false
+  xy: 0, 2308
+  size: 2907, 1787
+  orig: 2907, 1787
+  offset: 0, 0
+  index: -1
+
+lihui_mogenglefei_pifu_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_2
+  rotate: false
+  xy: 0, 2189
+  size: 1941, 1679
+  orig: 1941, 1679
+  offset: 0, 0
+  index: -1
+leg_glow
+  rotate: false
+  xy: 1941, 2067
+  size: 1927, 1801
+  orig: 1927, 1801
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+faernaisi_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 2495
+  size: 3251, 1601
+  orig: 3251, 1601
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 3251, 2513
+  size: 1583, 799
+  orig: 1583, 799
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 0, 1392
+  size: 2926, 1103
+  orig: 2926, 1103
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: true
+  xy: 3329, 2446
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: false
+  xy: 3251, 2449
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+huaban3
+  rotate: false
+  xy: 4050, 4055
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1

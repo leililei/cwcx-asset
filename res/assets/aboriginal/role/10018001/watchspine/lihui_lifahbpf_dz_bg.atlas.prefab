@@ -1,0 +1,60 @@
+
+lihui_lifahbpf_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1276
+  size: 3804, 1775
+  orig: 3804, 1775
+  offset: 0, 0
+  index: -1
+jigaung2
+  rotate: false
+  xy: 1048, 3060
+  size: 1104, 746
+  orig: 1104, 746
+  offset: 0, 0
+  index: -1
+jiguang
+  rotate: false
+  xy: 2154, 3053
+  size: 767, 753
+  orig: 767, 753
+  offset: 0, 0
+  index: -1
+ying1
+  rotate: false
+  xy: 2, 3115
+  size: 1044, 691
+  orig: 1044, 691
+  offset: 0, 0
+  index: -1
+
+lihui_lifahbpf_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiguang3
+  rotate: false
+  xy: 2, 753
+  size: 2903, 2152
+  orig: 2903, 2152
+  offset: 0, 0
+  index: -1
+
+lihui_lifahbpf_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianjing
+  rotate: false
+  xy: 2, 1654
+  size: 3804, 2152
+  orig: 3804, 2152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+lihui_luoshalinde_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 1226
+  size: 3559, 2337
+  orig: 3559, 2337
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 4, 476
+  size: 1183, 746
+  orig: 1183, 746
+  offset: 0, 0
+  index: -1

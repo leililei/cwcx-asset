@@ -1,0 +1,20 @@
+
+lihui_ruoshuipf_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2149
+  size: 3219, 1486
+  orig: 3219, 1486
+  offset: 0, 0
+  index: -1
+ganzi
+  rotate: false
+  xy: 3223, 3181
+  size: 412, 454
+  orig: 412, 454
+  offset: 0, 0
+  index: -1

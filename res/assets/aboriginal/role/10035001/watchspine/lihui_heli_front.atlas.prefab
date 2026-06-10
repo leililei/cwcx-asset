@@ -1,0 +1,55 @@
+
+lihui_heli_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: true
+  xy: 1776, 2
+  size: 2522, 1494
+  orig: 2522, 1494
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 2, 971
+  size: 1772, 1553
+  orig: 1772, 1553
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 2, 2526
+  size: 2994, 1553
+  orig: 2994, 1553
+  offset: 0, 0
+  index: -1
+QJ_qkl1
+  rotate: true
+  xy: 2998, 3598
+  size: 145, 130
+  orig: 151, 136
+  offset: 3, 3
+  index: -1
+QJ_qkl2
+  rotate: true
+  xy: 2998, 3745
+  size: 334, 248
+  orig: 347, 257
+  offset: 5, 4
+  index: -1
+QKL2
+  rotate: false
+  xy: 2998, 3523
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+QKL3
+  rotate: true
+  xy: 3075, 3536
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1

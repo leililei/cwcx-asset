@@ -1,0 +1,356 @@
+
+dongzuo_juese_jnavigator_home_front.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: true
+  xy: 241, 145
+  size: 207, 195
+  orig: 223, 212
+  offset: 9, 7
+  index: -1
+B2
+  rotate: true
+  xy: 0, 132
+  size: 207, 190
+  orig: 223, 212
+  offset: 11, 12
+  index: -1
+G1
+  rotate: false
+  xy: 640, 838
+  size: 198, 184
+  orig: 198, 184
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 0, 922
+  size: 374, 100
+  orig: 374, 100
+  offset: 0, 0
+  index: -1
+Summer _backhair
+  rotate: true
+  xy: 248, 352
+  size: 226, 302
+  orig: 226, 302
+  offset: 0, 0
+  index: -1
+Summer_ Body_Add
+  rotate: true
+  xy: 190, 218
+  size: 121, 35
+  orig: 121, 35
+  offset: 0, 0
+  index: -1
+Summer_ Head_Add
+  rotate: false
+  xy: 604, 676
+  size: 205, 76
+  orig: 205, 76
+  offset: 0, 0
+  index: -1
+Summer_ Weapon
+  rotate: true
+  xy: 256, 578
+  size: 344, 23
+  orig: 344, 23
+  offset: 0, 0
+  index: -1
+Summer_ armb
+  rotate: false
+  xy: 436, 23
+  size: 99, 142
+  orig: 99, 142
+  offset: 0, 0
+  index: -1
+Summer_ legb
+  rotate: true
+  xy: 713, 99
+  size: 63, 132
+  orig: 63, 132
+  offset: 0, 0
+  index: -1
+Summer_armf
+  rotate: false
+  xy: 353, 29
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+Summer_jacket
+  rotate: true
+  xy: 546, 141
+  size: 145, 167
+  orig: 145, 167
+  offset: 0, 0
+  index: -1
+Summer_legf
+  rotate: true
+  xy: 692, 2
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+navigator_BDU__11
+  rotate: true
+  xy: 190, 73
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1
+navigator_BDU__12
+  rotate: true
+  xy: 778, 807
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+navigator_BDU__13
+  rotate: false
+  xy: 279, 580
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+navigator_BDU__14
+  rotate: true
+  xy: 884, 604
+  size: 87, 138
+  orig: 87, 138
+  offset: 0, 0
+  index: -1
+navigator_BDU__15
+  rotate: false
+  xy: 868, 379
+  size: 132, 53
+  orig: 132, 53
+  offset: 0, 0
+  index: -1
+navigator_BDU__16
+  rotate: false
+  xy: 0, 6
+  size: 186, 126
+  orig: 186, 126
+  offset: 0, 0
+  index: -1
+navigator_BDU__17
+  rotate: false
+  xy: 953, 492
+  size: 63, 112
+  orig: 63, 112
+  offset: 0, 0
+  index: -1
+navigator_BDU__18
+  rotate: true
+  xy: 535, 18
+  size: 123, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: -1
+navigator_BDU__19
+  rotate: true
+  xy: 868, 324
+  size: 55, 130
+  orig: 55, 130
+  offset: 0, 0
+  index: -1
+navigator_BDU__20
+  rotate: true
+  xy: 640, 753
+  size: 85, 138
+  orig: 85, 138
+  offset: 0, 0
+  index: -1
+navigator_BDU__21
+  rotate: false
+  xy: 838, 851
+  size: 155, 108
+  orig: 155, 108
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__0
+  rotate: true
+  xy: 241, 476
+  size: 144, 7
+  orig: 144, 7
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__1
+  rotate: true
+  xy: 0, 339
+  size: 281, 241
+  orig: 281, 241
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__10
+  rotate: true
+  xy: 713, 162
+  size: 124, 167
+  orig: 124, 167
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__11
+  rotate: true
+  xy: 845, 40
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__12
+  rotate: false
+  xy: 279, 782
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__2
+  rotate: true
+  xy: 776, 299
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__3
+  rotate: false
+  xy: 550, 286
+  size: 226, 302
+  orig: 226, 302
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__4
+  rotate: true
+  xy: 510, 204
+  size: 148, 16
+  orig: 148, 16
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__5
+  rotate: true
+  xy: 248, 594
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__6
+  rotate: false
+  xy: 838, 959
+  size: 176, 63
+  orig: 176, 63
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__7
+  rotate: false
+  xy: 374, 752
+  size: 266, 270
+  orig: 266, 270
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__8
+  rotate: true
+  xy: 745, 589
+  size: 87, 139
+  orig: 87, 139
+  offset: 0, 0
+  index: -1
+navigator_bathrobe__9
+  rotate: true
+  xy: 809, 691
+  size: 147, 171
+  orig: 147, 171
+  offset: 0, 0
+  index: -1
+navigator_summerwear__10
+  rotate: false
+  xy: 776, 358
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+navigator_summerwear__11
+  rotate: false
+  xy: 190, 166
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+navigator_summerwear__12
+  rotate: false
+  xy: 224, 18
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+navigator_summerwear__13
+  rotate: true
+  xy: 880, 204
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+navigator_summerwear__14
+  rotate: false
+  xy: 941, 212
+  size: 63, 112
+  orig: 63, 112
+  offset: 0, 0
+  index: -1
+navigator_summerwear__15
+  rotate: false
+  xy: 776, 432
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+navigator_summerwear__16
+  rotate: false
+  xy: 898, 474
+  size: 55, 130
+  orig: 55, 130
+  offset: 0, 0
+  index: -1
+navigator_summerwear__17
+  rotate: false
+  xy: 526, 265
+  size: 20, 87
+  orig: 20, 87
+  offset: 0, 0
+  index: -1
+navigator_summerwear__18
+  rotate: true
+  xy: 604, 588
+  size: 88, 141
+  orig: 88, 141
+  offset: 0, 0
+  index: -1
+navigator_summerwear__19
+  rotate: true
+  xy: 436, 165
+  size: 187, 74
+  orig: 187, 74
+  offset: 0, 0
+  index: -1
+navigator_summerwear__20
+  rotate: false
+  xy: 368, 588
+  size: 236, 164
+  orig: 236, 164
+  offset: 0, 0
+  index: -1
+navigator_summerwear__4
+  rotate: false
+  xy: 0, 620
+  size: 256, 302
+  orig: 256, 302
+  offset: 0, 0
+  index: -1
+navigator_summerwear__9
+  rotate: false
+  xy: 279, 644
+  size: 89, 138
+  orig: 89, 138
+  offset: 0, 0
+  index: -1

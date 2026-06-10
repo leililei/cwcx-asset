@@ -1,0 +1,118 @@
+
+starfish_dz_home.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+starfish_b1
+  rotate: true
+  xy: 685, 638
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+starfish_b10
+  rotate: false
+  xy: 969, 601
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+starfish_b2
+  rotate: true
+  xy: 755, 509
+  size: 323, 214
+  orig: 323, 218
+  offset: 0, 4
+  index: -1
+starfish_b3
+  rotate: true
+  xy: 969, 494
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+starfish_b4
+  rotate: true
+  xy: 685, 298
+  size: 97, 118
+  orig: 97, 118
+  offset: 0, 0
+  index: -1
+starfish_b5
+  rotate: false
+  xy: 854, 407
+  size: 114, 102
+  orig: 114, 102
+  offset: 0, 0
+  index: -1
+starfish_b6
+  rotate: false
+  xy: 685, 395
+  size: 169, 114
+  orig: 169, 114
+  offset: 0, 0
+  index: -1
+starfish_b7
+  rotate: false
+  xy: 755, 832
+  size: 248, 192
+  orig: 248, 192
+  offset: 0, 0
+  index: -1
+starfish_b8
+  rotate: false
+  xy: 0, 462
+  size: 362, 342
+  orig: 362, 342
+  offset: 0, 0
+  index: -1
+starfish_b9
+  rotate: false
+  xy: 969, 771
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+starfish_y1
+  rotate: false
+  xy: 380, 675
+  size: 375, 349
+  orig: 375, 349
+  offset: 0, 0
+  index: -1
+starfish_y2
+  rotate: false
+  xy: 0, 804
+  size: 380, 220
+  orig: 380, 220
+  offset: 0, 0
+  index: -1
+starfish_y3
+  rotate: true
+  xy: 969, 645
+  size: 126, 54
+  orig: 126, 54
+  offset: 0, 0
+  index: -1
+starfish_y4
+  rotate: false
+  xy: 854, 331
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+starfish_y5
+  rotate: false
+  xy: 685, 606
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+starfish_y6
+  rotate: true
+  xy: 362, 361
+  size: 314, 323
+  orig: 314, 323
+  offset: 0, 0
+  index: -1

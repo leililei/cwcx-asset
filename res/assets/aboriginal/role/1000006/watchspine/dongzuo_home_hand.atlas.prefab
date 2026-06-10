@@ -1,0 +1,27 @@
+
+dongzuo_home_hand.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand_1
+  rotate: true
+  xy: 0, 1045
+  size: 977, 1008
+  orig: 1120, 1120
+  offset: 81, 39
+  index: -1
+hand_2
+  rotate: true
+  xy: 0, 0
+  size: 1034, 1042
+  orig: 1120, 1120
+  offset: 55, 20
+  index: -1
+hand_3
+  rotate: false
+  xy: 1008, 1034
+  size: 1003, 988
+  orig: 1120, 1120
+  offset: 87, 24
+  index: -1

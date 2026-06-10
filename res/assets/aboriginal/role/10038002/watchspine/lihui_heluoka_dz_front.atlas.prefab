@@ -1,0 +1,55 @@
+
+lihui_heluoka_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI1
+  rotate: false
+  xy: 2111, 3238
+  size: 280, 275
+  orig: 280, 275
+  offset: 0, 0
+  index: -1
+UI2
+  rotate: false
+  xy: 2, 2
+  size: 1979, 919
+  orig: 1979, 919
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2111, 3735
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2873
+  size: 2107, 973
+  orig: 2107, 973
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 1898
+  size: 2107, 973
+  orig: 2107, 973
+  offset: 0, 0
+  index: -1
+tuan
+  rotate: false
+  xy: 2, 923
+  size: 2107, 973
+  orig: 2107, 973
+  offset: 0, 0
+  index: -1
+zhiwu
+  rotate: false
+  xy: 2111, 3515
+  size: 281, 218
+  orig: 281, 218
+  offset: 0, 0
+  index: -1

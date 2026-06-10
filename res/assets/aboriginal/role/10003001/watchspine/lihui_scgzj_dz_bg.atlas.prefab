@@ -1,0 +1,62 @@
+
+lihui_scgzj_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 3400, 3434
+  size: 303, 121
+  orig: 303, 132
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: false
+  xy: 2, 1548
+  size: 2867, 1086
+  orig: 2873, 1103
+  offset: 6, 4
+  index: -1
+bj3
+  rotate: false
+  xy: 2930, 3394
+  size: 256, 57
+  orig: 257, 57
+  offset: 0, 0
+  index: -1
+bj4
+  rotate: false
+  xy: 2871, 2164
+  size: 1116, 470
+  orig: 1116, 470
+  offset: 0, 0
+  index: -1
+bj5
+  rotate: false
+  xy: 2930, 3557
+  size: 935, 430
+  orig: 937, 441
+  offset: 1, 6
+  index: -1
+bj6
+  rotate: false
+  xy: 2, 1220
+  size: 2663, 326
+  orig: 2666, 328
+  offset: 0, 0
+  index: -1
+bj8
+  rotate: false
+  xy: 2930, 3453
+  size: 468, 102
+  orig: 470, 104
+  offset: 1, 1
+  index: -1
+bj9
+  rotate: false
+  xy: 2, 2636
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1

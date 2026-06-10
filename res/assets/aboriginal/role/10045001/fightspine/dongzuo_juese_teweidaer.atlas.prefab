@@ -1,0 +1,293 @@
+
+dongzuo_juese_teweidaer.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_Oppai
+  rotate: false
+  xy: 1034, 160
+  size: 224, 125
+  orig: 225, 126
+  offset: 0, 1
+  index: -1
+F_Face_1
+  rotate: false
+  xy: 1034, 286
+  size: 266, 173
+  orig: 272, 178
+  offset: 3, 3
+  index: -1
+F_Face_2
+  rotate: false
+  xy: 1054, 4
+  size: 208, 155
+  orig: 212, 159
+  offset: 2, 2
+  index: -1
+F_Face_3
+  rotate: false
+  xy: 875, 1166
+  size: 191, 98
+  orig: 196, 102
+  offset: 2, 2
+  index: -1
+F_Face_4
+  rotate: false
+  xy: 575, 16
+  size: 223, 138
+  orig: 227, 142
+  offset: 2, 2
+  index: -1
+F_Hand_L_Hand
+  rotate: false
+  xy: 1322, 1172
+  size: 88, 92
+  orig: 93, 98
+  offset: 3, 2
+  index: -1
+F_Hand_R_Hand
+  rotate: false
+  xy: 1256, 478
+  size: 88, 92
+  orig: 93, 98
+  offset: 2, 2
+  index: -1
+F_Hand_R_Lower
+  rotate: false
+  xy: 1350, 956
+  size: 141, 215
+  orig: 147, 220
+  offset: 3, 3
+  index: -1
+F_Hand_R_Upper
+  rotate: false
+  xy: 1301, 293
+  size: 139, 184
+  orig: 144, 189
+  offset: 3, 2
+  index: -1
+Hand_7
+  rotate: false
+  xy: 1411, 1177
+  size: 83, 87
+  orig: 88, 93
+  offset: 2, 4
+  index: -1
+Hand_9
+  rotate: false
+  xy: 1345, 504
+  size: 78, 66
+  orig: 82, 71
+  offset: 2, 2
+  index: -1
+arm_r_1
+  rotate: false
+  xy: 1434, 71
+  size: 130, 221
+  orig: 130, 221
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: false
+  xy: 1441, 380
+  size: 124, 190
+  orig: 128, 194
+  offset: 2, 2
+  index: -1
+body
+  rotate: false
+  xy: 578, 832
+  size: 296, 439
+  orig: 296, 439
+  offset: 0, 0
+  index: -1
+foot_l_1
+  rotate: false
+  xy: 1067, 1144
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+foot_r_1
+  rotate: false
+  xy: 1343, 22
+  size: 90, 138
+  orig: 90, 138
+  offset: 0, 0
+  index: -1
+haead
+  rotate: false
+  xy: 578, 417
+  size: 385, 414
+  orig: 389, 419
+  offset: 2, 3
+  index: -1
+hair1
+  rotate: false
+  xy: 799, 1
+  size: 254, 157
+  orig: 254, 157
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 875, 884
+  size: 245, 255
+  orig: 245, 255
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1857, 1395
+  size: 124, 333
+  orig: 124, 333
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 1772, 1083
+  size: 84, 181
+  orig: 93, 181
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 1686, 988
+  size: 85, 276
+  orig: 103, 276
+  offset: 18, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 1, 385
+  size: 576, 886
+  orig: 576, 886
+  offset: 0, 0
+  index: -1
+leg_l_1
+  rotate: false
+  xy: 1492, 794
+  size: 193, 382
+  orig: 193, 382
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 1857, 1729
+  size: 178, 317
+  orig: 178, 317
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 1256, 571
+  size: 213, 367
+  orig: 216, 367
+  offset: 3, 0
+  index: -1
+leg_r_2
+  rotate: false
+  xy: 1565, 50
+  size: 206, 329
+  orig: 206, 329
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: false
+  xy: 1857, 1140
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 1, 1272
+  size: 942, 774
+  orig: 947, 778
+  offset: 2, 2
+  index: -1
+yan
+  rotate: false
+  xy: 1982, 1703
+  size: 49, 25
+  orig: 54, 30
+  offset: 3, 2
+  index: -1
+yanjing
+  rotate: false
+  xy: 285, 28
+  size: 289, 110
+  orig: 293, 116
+  offset: 2, 3
+  index: -1
+yanquan1
+  rotate: false
+  xy: 1121, 939
+  size: 228, 204
+  orig: 239, 212
+  offset: 5, 4
+  index: -1
+yanquan2
+  rotate: false
+  xy: 1259, 161
+  size: 137, 124
+  orig: 146, 130
+  offset: 4, 3
+  index: -1
+yaodai
+  rotate: false
+  xy: 389, 155
+  size: 324, 229
+  orig: 324, 229
+  offset: 0, 0
+  index: -1
+yifu10
+  rotate: false
+  xy: 1, 6
+  size: 283, 132
+  orig: 283, 132
+  offset: 0, 0
+  index: -1
+yifu_5
+  rotate: false
+  xy: 964, 460
+  size: 291, 423
+  orig: 291, 423
+  offset: 0, 0
+  index: -1
+yifu_6
+  rotate: false
+  xy: 714, 159
+  size: 319, 257
+  orig: 345, 257
+  offset: 0, 0
+  index: -1
+yifu_7
+  rotate: false
+  xy: 1, 139
+  size: 387, 245
+  orig: 414, 245
+  offset: 27, 0
+  index: -1
+yifu_b
+  rotate: false
+  xy: 944, 1265
+  size: 912, 781
+  orig: 912, 783
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: false
+  xy: 1212, 1188
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 1263, 1
+  size: 79, 159
+  orig: 79, 159
+  offset: 0, 0
+  index: -1

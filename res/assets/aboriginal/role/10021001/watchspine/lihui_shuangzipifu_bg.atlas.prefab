@@ -1,0 +1,48 @@
+
+lihui_shuangzipifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 5, 1403
+  size: 3044, 983
+  orig: 3044, 983
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 5, 18
+  size: 3044, 1380
+  orig: 3044, 1380
+  offset: 0, 0
+  index: -1
+hailang
+  rotate: false
+  xy: 5, 2391
+  size: 2989, 380
+  orig: 2989, 380
+  offset: 0, 0
+  index: -1
+haiou
+  rotate: false
+  xy: 5, 2972
+  size: 165, 77
+  orig: 165, 77
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: true
+  xy: 175, 2891
+  size: 158, 251
+  orig: 158, 251
+  offset: 0, 0
+  index: -1
+tangyi
+  rotate: false
+  xy: 431, 2776
+  size: 1723, 273
+  orig: 1723, 273
+  offset: 0, 0
+  index: -1

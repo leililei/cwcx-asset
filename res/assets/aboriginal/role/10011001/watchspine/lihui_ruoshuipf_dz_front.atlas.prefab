@@ -1,0 +1,62 @@
+
+lihui_ruoshuipf_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anjiao
+  rotate: false
+  xy: 2, 2556
+  size: 3219, 1486
+  orig: 3219, 1486
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: false
+  xy: 3223, 2911
+  size: 585, 1131
+  orig: 585, 1131
+  offset: 0, 0
+  index: -1
+guang-1
+  rotate: false
+  xy: 2, 2
+  size: 1724, 1064
+  orig: 1724, 1064
+  offset: 0, 0
+  index: -1
+guang-2
+  rotate: false
+  xy: 2, 1068
+  size: 1882, 1486
+  orig: 1882, 1486
+  offset: 0, 0
+  index: -1
+guangban
+  rotate: false
+  xy: 2612, 462
+  size: 688, 604
+  orig: 688, 604
+  offset: 0, 0
+  index: -1
+guangyun-1
+  rotate: false
+  xy: 1886, 1068
+  size: 1638, 1486
+  orig: 1638, 1486
+  offset: 0, 0
+  index: -1
+guangyun-2
+  rotate: false
+  xy: 1728, 305
+  size: 882, 761
+  orig: 882, 761
+  offset: 0, 0
+  index: -1
+zhiwu
+  rotate: false
+  xy: 3302, 635
+  size: 413, 431
+  orig: 413, 431
+  offset: 0, 0
+  index: -1

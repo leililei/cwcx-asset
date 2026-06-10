@@ -1,0 +1,111 @@
+
+lihui_kelang_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_ash
+  rotate: true
+  xy: 4, 2161
+  size: 1012, 1192
+  orig: 1012, 1192
+  offset: 0, 0
+  index: -1
+Q_bianfu1
+  rotate: false
+  xy: 2324, 3490
+  size: 910, 461
+  orig: 910, 461
+  offset: 0, 0
+  index: -1
+Q_bianfu2
+  rotate: false
+  xy: 1371, 3685
+  size: 640, 266
+  orig: 640, 266
+  offset: 0, 0
+  index: -1
+Q_daizi
+  rotate: true
+  xy: 4, 243
+  size: 1327, 2071
+  orig: 1327, 2071
+  offset: 0, 0
+  index: -1
+Q_heiban
+  rotate: false
+  xy: 1200, 1574
+  size: 1040, 1599
+  orig: 1040, 1599
+  offset: 0, 0
+  index: -1
+Q_outline
+  rotate: false
+  xy: 2292, 2601
+  size: 1331, 766
+  orig: 1331, 766
+  offset: 0, 0
+  index: -1
+Q_shtone2
+  rotate: false
+  xy: 4, 3177
+  size: 2284, 491
+  orig: 2284, 491
+  offset: 0, 0
+  index: -1
+Q_shui1
+  rotate: true
+  xy: 3238, 3371
+  size: 580, 713
+  orig: 580, 713
+  offset: 0, 0
+  index: -1
+Q_shui2
+  rotate: true
+  xy: 1009, 3691
+  size: 260, 358
+  orig: 260, 358
+  offset: 0, 0
+  index: -1
+Q_shui3
+  rotate: true
+  xy: 209, 3730
+  size: 221, 338
+  orig: 221, 338
+  offset: 0, 0
+  index: -1
+Q_shui4
+  rotate: true
+  xy: 551, 3695
+  size: 256, 454
+  orig: 256, 454
+  offset: 0, 0
+  index: -1
+Q_shui5
+  rotate: true
+  xy: 4, 3780
+  size: 171, 201
+  orig: 171, 201
+  offset: 0, 0
+  index: -1
+Q_shui6
+  rotate: true
+  xy: 2015, 3672
+  size: 279, 305
+  orig: 279, 305
+  offset: 0, 0
+  index: -1
+Q_shui7
+  rotate: true
+  xy: 2244, 1466
+  size: 1131, 1592
+  orig: 1131, 1592
+  offset: 0, 0
+  index: -1
+Q_stone
+  rotate: true
+  xy: 2079, 59
+  size: 1403, 1439
+  orig: 1403, 1439
+  offset: 0, 0
+  index: -1

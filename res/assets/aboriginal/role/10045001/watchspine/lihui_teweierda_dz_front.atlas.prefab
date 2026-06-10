@@ -1,0 +1,76 @@
+
+lihui_teweierda_dz_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 2, 273
+  size: 1689, 840
+  orig: 1689, 840
+  offset: 0, 0
+  index: -1
+fanguangwaic
+  rotate: false
+  xy: 2, 1115
+  size: 1945, 922
+  orig: 1945, 922
+  offset: 0, 0
+  index: -1
+huapenzi
+  rotate: false
+  xy: 1693, 176
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+huapyezi1
+  rotate: false
+  xy: 1693, 839
+  size: 263, 274
+  orig: 263, 274
+  offset: 0, 0
+  index: -1
+huapyezi2
+  rotate: false
+  xy: 1861, 302
+  size: 144, 167
+  orig: 144, 167
+  offset: 0, 0
+  index: -1
+huapyezi3
+  rotate: false
+  xy: 1693, 599
+  size: 269, 238
+  orig: 269, 238
+  offset: 0, 0
+  index: -1
+huapyezi4
+  rotate: false
+  xy: 1693, 338
+  size: 137, 259
+  orig: 137, 259
+  offset: 0, 0
+  index: -1
+huapyezi5
+  rotate: false
+  xy: 1949, 1773
+  size: 36, 264
+  orig: 36, 264
+  offset: 0, 0
+  index: -1
+huapyezi6
+  rotate: false
+  xy: 1861, 116
+  size: 130, 184
+  orig: 130, 184
+  offset: 0, 0
+  index: -1
+yunyun1
+  rotate: false
+  xy: 1832, 471
+  size: 205, 126
+  orig: 232, 133
+  offset: 24, 1
+  index: -1

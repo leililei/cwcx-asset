@@ -1,0 +1,62 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff_jingtouguangyun1
+  rotate: true
+  xy: 2368, 3468
+  size: 540, 742
+  orig: 541, 743
+  offset: 0, 1
+  index: -1
+Eff_jingtouguangyun2
+  rotate: false
+  xy: 0, 3818
+  size: 279, 190
+  orig: 281, 190
+  offset: 1, 0
+  index: -1
+Eff_jingtouguangyun3
+  rotate: false
+  xy: 0, 935
+  size: 3210, 1565
+  orig: 3212, 1567
+  offset: 1, 1
+  index: -1
+Eff_wuqi
+  rotate: false
+  xy: 850, 2500
+  size: 1292, 987
+  orig: 1294, 989
+  offset: 1, 1
+  index: -1
+Q_dz1
+  rotate: true
+  xy: 0, 2908
+  size: 648, 850
+  orig: 648, 850
+  offset: 0, 0
+  index: -1
+Q_dz2
+  rotate: false
+  xy: 279, 3556
+  size: 1224, 452
+  orig: 1224, 454
+  offset: 0, 1
+  index: -1
+Q_qq1
+  rotate: true
+  xy: 1503, 3487
+  size: 521, 865
+  orig: 522, 867
+  offset: 1, 2
+  index: -1
+Q_qq2
+  rotate: true
+  xy: 3110, 3370
+  size: 638, 898
+  orig: 639, 900
+  offset: 1, 1
+  index: -1

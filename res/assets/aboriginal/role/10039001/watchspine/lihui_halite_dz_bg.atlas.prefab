@@ -1,0 +1,132 @@
+
+lihui_halite_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2743
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+beijing_1
+  rotate: false
+  xy: 2, 37
+  size: 1861, 1351
+  orig: 1861, 1351
+  offset: 0, 0
+  index: -1
+beijing_2
+  rotate: false
+  xy: 2, 1390
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+beijing_beike
+  rotate: true
+  xy: 3590, 3515
+  size: 579, 370
+  orig: 579, 370
+  offset: 0, 0
+  index: -1
+beijing_beike2
+  rotate: true
+  xy: 4062, 4057
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+beijing_beike3
+  rotate: true
+  xy: 4035, 3627
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+beijing_beike_1
+  rotate: true
+  xy: 3590, 2499
+  size: 608, 155
+  orig: 608, 155
+  offset: 0, 0
+  index: -1
+beijing_cao
+  rotate: true
+  xy: 1865, 122
+  size: 597, 763
+  orig: 597, 763
+  offset: 0, 0
+  index: -1
+beijing_cao2
+  rotate: true
+  xy: 1865, 721
+  size: 667, 779
+  orig: 667, 779
+  offset: 0, 0
+  index: -1
+beijing_chuan1
+  rotate: true
+  xy: 3962, 3692
+  size: 82, 129
+  orig: 82, 129
+  offset: 0, 0
+  index: -1
+beijing_chuan2
+  rotate: true
+  xy: 3962, 3776
+  size: 96, 132
+  orig: 96, 132
+  offset: 0, 0
+  index: -1
+beijing_haixing1
+  rotate: false
+  xy: 3962, 3652
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+beijing_haixing2
+  rotate: true
+  xy: 3962, 3874
+  size: 220, 98
+  orig: 220, 98
+  offset: 0, 0
+  index: -1
+beijing_jianzhu
+  rotate: false
+  xy: 2930, 1667
+  size: 630, 1074
+  orig: 630, 1074
+  offset: 0, 0
+  index: -1
+beijing_qiu
+  rotate: false
+  xy: 3590, 3109
+  size: 404, 404
+  orig: 404, 404
+  offset: 0, 0
+  index: -1
+beijing_san
+  rotate: true
+  xy: 2930, 942
+  size: 723, 909
+  orig: 723, 909
+  offset: 0, 0
+  index: -1
+beijing_shuye
+  rotate: false
+  xy: 2646, 147
+  size: 588, 793
+  orig: 588, 793
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 2930, 2743
+  size: 658, 1351
+  orig: 658, 1351
+  offset: 0, 0
+  index: -1

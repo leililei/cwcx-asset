@@ -1,0 +1,62 @@
+
+lihui_hualian_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 1611, 3358
+  size: 1124, 516
+  orig: 1124, 516
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 2, 3564
+  size: 684, 310
+  orig: 684, 310
+  offset: 0, 0
+  index: -1
+jinshipai
+  rotate: false
+  xy: 2737, 3355
+  size: 648, 519
+  orig: 648, 519
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 2, 1208
+  size: 3008, 1604
+  orig: 3193, 1713
+  offset: 185, 109
+  index: -1
+texiao4
+  rotate: false
+  xy: 2, 2814
+  size: 3669, 430
+  orig: 3690, 462
+  offset: 15, 15
+  index: -1
+xie
+  rotate: false
+  xy: 3387, 3246
+  size: 487, 628
+  orig: 502, 630
+  offset: 15, 1
+  index: -1
+zhi1
+  rotate: false
+  xy: 1188, 3388
+  size: 421, 486
+  orig: 422, 486
+  offset: 0, 0
+  index: -1
+zhi2
+  rotate: false
+  xy: 688, 3539
+  size: 498, 335
+  orig: 500, 336
+  offset: 1, 1
+  index: -1

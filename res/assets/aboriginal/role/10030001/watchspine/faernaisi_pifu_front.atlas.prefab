@@ -1,0 +1,62 @@
+
+faernaisi_pifu_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma
+  rotate: false
+  xy: 3509, 2196
+  size: 450, 395
+  orig: 450, 395
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: false
+  xy: 3509, 2591
+  size: 334, 1483
+  orig: 334, 1483
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 0, 2765
+  size: 2209, 1309
+  orig: 2209, 1309
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: true
+  xy: 3843, 3394
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 2209, 2037
+  size: 2037, 1300
+  orig: 2037, 1300
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: false
+  xy: 4011, 3946
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 3843, 3560
+  size: 514, 168
+  orig: 514, 168
+  offset: 0, 0
+  index: -1
+qianzhiwu
+  rotate: true
+  xy: 0, 2030
+  size: 735, 1351
+  orig: 735, 1351
+  offset: 0, 0
+  index: -1

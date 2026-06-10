@@ -1,0 +1,146 @@
+
+crab_dz_home.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crab_ba1
+  rotate: true
+  xy: 352, 569
+  size: 314, 224
+  orig: 316, 226
+  offset: 1, 1
+  index: -1
+crab_ba10
+  rotate: true
+  xy: 505, 493
+  size: 76, 105
+  orig: 78, 108
+  offset: 1, 2
+  index: -1
+crab_ba11
+  rotate: false
+  xy: 272, 314
+  size: 78, 134
+  orig: 80, 136
+  offset: 1, 1
+  index: -1
+crab_ba2
+  rotate: true
+  xy: 399, 487
+  size: 82, 106
+  orig: 84, 107
+  offset: 1, 1
+  index: -1
+crab_ba3
+  rotate: false
+  xy: 0, 452
+  size: 192, 200
+  orig: 194, 202
+  offset: 1, 1
+  index: -1
+crab_ba4
+  rotate: true
+  xy: 147, 277
+  size: 171, 125
+  orig: 173, 127
+  offset: 1, 1
+  index: -1
+crab_ba5
+  rotate: true
+  xy: 350, 258
+  size: 125, 126
+  orig: 127, 129
+  offset: 1, 2
+  index: -1
+crab_ba6
+  rotate: true
+  xy: 0, 157
+  size: 295, 147
+  orig: 295, 147
+  offset: 0, 0
+  index: -1
+crab_ba7
+  rotate: true
+  xy: 352, 383
+  size: 186, 47
+  orig: 186, 47
+  offset: 0, 0
+  index: -1
+crab_ba8
+  rotate: false
+  xy: 576, 742
+  size: 100, 67
+  orig: 102, 69
+  offset: 1, 1
+  index: -1
+crab_ba9
+  rotate: false
+  xy: 576, 809
+  size: 103, 74
+  orig: 105, 76
+  offset: 1, 1
+  index: -1
+crab_r10
+  rotate: false
+  xy: 250, 141
+  size: 99, 136
+  orig: 101, 138
+  offset: 1, 1
+  index: -1
+crab_r11
+  rotate: false
+  xy: 576, 683
+  size: 88, 59
+  orig: 90, 60
+  offset: 1, 1
+  index: -1
+crab_r12
+  rotate: false
+  xy: 576, 626
+  size: 91, 57
+  orig: 93, 60
+  offset: 1, 2
+  index: -1
+crab_r13
+  rotate: false
+  xy: 476, 304
+  size: 77, 105
+  orig: 79, 107
+  offset: 1, 1
+  index: -1
+crab_r14
+  rotate: true
+  xy: 399, 409
+  size: 78, 105
+  orig: 80, 107
+  offset: 1, 1
+  index: -1
+crab_r5
+  rotate: false
+  xy: 0, 652
+  size: 352, 231
+  orig: 352, 231
+  offset: 0, 0
+  index: -1
+crab_r8
+  rotate: false
+  xy: 0, 0
+  size: 100, 157
+  orig: 102, 158
+  offset: 1, 1
+  index: -1
+crab_r8_2
+  rotate: false
+  xy: 147, 115
+  size: 103, 162
+  orig: 105, 165
+  offset: 1, 2
+  index: -1
+crab_r9
+  rotate: false
+  xy: 192, 448
+  size: 160, 204
+  orig: 162, 207
+  offset: 1, 2
+  index: -1

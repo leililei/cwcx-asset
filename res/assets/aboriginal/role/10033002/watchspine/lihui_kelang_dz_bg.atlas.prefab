@@ -1,0 +1,41 @@
+
+lihui_kelang_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hunsha_kelang_84
+  rotate: false
+  xy: 1284, 91
+  size: 405, 1409
+  orig: 405, 1409
+  offset: 0, 0
+  index: -1
+hunsha_kelang_85
+  rotate: false
+  xy: 3048, 2357
+  size: 714, 1405
+  orig: 714, 1405
+  offset: 0, 0
+  index: -1
+hunsha_kelang_86
+  rotate: false
+  xy: 2, 1502
+  size: 2719, 853
+  orig: 2719, 853
+  offset: 0, 0
+  index: -1
+hunsha_kelang_87
+  rotate: false
+  xy: 2, 95
+  size: 1280, 1405
+  orig: 1280, 1405
+  offset: 0, 0
+  index: -1
+hunsha_kelang_88
+  rotate: false
+  xy: 2, 2357
+  size: 3044, 1405
+  orig: 3044, 1405
+  offset: 0, 0
+  index: -1

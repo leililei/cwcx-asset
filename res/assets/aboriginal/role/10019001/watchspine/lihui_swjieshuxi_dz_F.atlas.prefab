@@ -1,0 +1,286 @@
+
+lihui_swjieshuxi_dz_F.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg_jiesuxi_cao1
+  rotate: false
+  xy: 2451, 0
+  size: 1028, 317
+  orig: 1028, 317
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao10
+  rotate: true
+  xy: 1269, 1517
+  size: 561, 323
+  orig: 561, 323
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao11
+  rotate: true
+  xy: 2859, 521
+  size: 693, 566
+  orig: 693, 566
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao12
+  rotate: false
+  xy: 722, 1420
+  size: 514, 485
+  orig: 514, 485
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao13
+  rotate: false
+  xy: 626, 1905
+  size: 643, 173
+  orig: 643, 173
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao14
+  rotate: false
+  xy: 0, 1010
+  size: 943, 334
+  orig: 943, 334
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao15
+  rotate: false
+  xy: 2859, 327
+  size: 558, 194
+  orig: 558, 194
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao16
+  rotate: true
+  xy: 3095, 1214
+  size: 952, 361
+  orig: 952, 361
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao17
+  rotate: false
+  xy: 630, 29
+  size: 578, 200
+  orig: 578, 200
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao18
+  rotate: false
+  xy: 2133, 317
+  size: 726, 680
+  orig: 726, 680
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao19
+  rotate: false
+  xy: 3599, 835
+  size: 469, 162
+  orig: 469, 162
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao2
+  rotate: true
+  xy: 3479, 1278
+  size: 888, 126
+  orig: 888, 126
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao20
+  rotate: false
+  xy: 1870, 1034
+  size: 827, 310
+  orig: 827, 310
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao21
+  rotate: false
+  xy: 0, 2115
+  size: 557, 169
+  orig: 557, 169
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao22
+  rotate: false
+  xy: 1208, 52
+  size: 715, 237
+  orig: 715, 237
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao23
+  rotate: false
+  xy: 813, 2651
+  size: 393, 308
+  orig: 393, 308
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao24
+  rotate: false
+  xy: 0, 1350
+  size: 722, 470
+  orig: 722, 470
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao25
+  rotate: true
+  xy: 1208, 2078
+  size: 881, 420
+  orig: 881, 420
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao26
+  rotate: false
+  xy: 1923, 34
+  size: 528, 255
+  orig: 528, 255
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao3
+  rotate: true
+  xy: 3613, 997
+  size: 1301, 462
+  orig: 1301, 462
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao4
+  rotate: false
+  xy: 943, 1029
+  size: 927, 315
+  orig: 927, 315
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao5
+  rotate: true
+  xy: 506, 2377
+  size: 582, 307
+  orig: 582, 307
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao7
+  rotate: true
+  xy: 1100, 289
+  size: 708, 1033
+  orig: 708, 1033
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao8
+  rotate: false
+  xy: 0, 1900
+  size: 626, 178
+  orig: 626, 178
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_cao9
+  rotate: true
+  xy: 2859, 2057
+  size: 483, 236
+  orig: 483, 236
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_maozi1
+  rotate: true
+  xy: 557, 2174
+  size: 203, 307
+  orig: 203, 307
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_maozi2
+  rotate: false
+  xy: 3479, 120
+  size: 583, 695
+  orig: 583, 695
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_maozi3
+  rotate: true
+  xy: 1592, 1412
+  size: 408, 779
+  orig: 408, 779
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_maozi4
+  rotate: true
+  xy: 0, 2284
+  size: 675, 506
+  orig: 675, 506
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_maozi5
+  rotate: false
+  xy: 1706, 3422
+  size: 1996, 674
+  orig: 1996, 674
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_shu
+  rotate: false
+  xy: 3124, 2166
+  size: 489, 1256
+  orig: 489, 1256
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_shu1
+  rotate: false
+  xy: 0, 27
+  size: 630, 202
+  orig: 630, 494
+  offset: 0, 292
+  index: -1
+cg_jiesuxi_shu2
+  rotate: true
+  xy: 3479, 815
+  size: 463, 120
+  orig: 463, 120
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_shu3
+  rotate: true
+  xy: 2396, 2174
+  size: 366, 412
+  orig: 366, 412
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_shu4
+  rotate: false
+  xy: 2396, 1344
+  size: 658, 713
+  orig: 658, 713
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_sj
+  rotate: true
+  xy: 3702, 2298
+  size: 1798, 370
+  orig: 1798, 370
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_taiyang
+  rotate: false
+  xy: 0, 2959
+  size: 1706, 1137
+  orig: 1706, 1137
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_taiyang1
+  rotate: false
+  xy: 1628, 1820
+  size: 768, 720
+  orig: 768, 720
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_taiyang2
+  rotate: false
+  xy: 0, 229
+  size: 1100, 768
+  orig: 1100, 768
+  offset: 0, 0
+  index: -1
+cg_jiesuxi_tong
+  rotate: true
+  xy: 1706, 2540
+  size: 882, 1418
+  orig: 882, 1418
+  offset: 0, 0
+  index: -1

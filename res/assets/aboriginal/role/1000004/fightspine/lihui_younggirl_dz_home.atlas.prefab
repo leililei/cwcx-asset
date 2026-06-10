@@ -1,0 +1,490 @@
+
+lihui_younggirl_dz_home.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_2
+  rotate: false
+  xy: 263, 3677
+  size: 794, 302
+  orig: 794, 305
+  offset: 0, 0
+  index: -1
+001_4
+  rotate: false
+  xy: 1209, 913
+  size: 2266, 886
+  orig: 2266, 886
+  offset: 0, 0
+  index: -1
+001_5
+  rotate: false
+  xy: 0, 179
+  size: 1141, 955
+  orig: 1141, 955
+  offset: 0, 0
+  index: -1
+001_8
+  rotate: false
+  xy: 625, 3250
+  size: 659, 401
+  orig: 659, 401
+  offset: 0, 0
+  index: -1
+002_2
+  rotate: false
+  xy: 1057, 3651
+  size: 794, 302
+  orig: 794, 305
+  offset: 0, 0
+  index: -1
+002_4
+  rotate: false
+  xy: 1141, 27
+  size: 2266, 886
+  orig: 2266, 886
+  offset: 0, 0
+  index: -1
+002_8
+  rotate: false
+  xy: 3095, 3075
+  size: 659, 405
+  orig: 659, 405
+  offset: 0, 0
+  index: -1
+003_2
+  rotate: false
+  xy: 1851, 3587
+  size: 794, 302
+  orig: 794, 305
+  offset: 0, 0
+  index: -1
+003_8
+  rotate: false
+  xy: 1777, 3186
+  size: 659, 401
+  orig: 659, 401
+  offset: 0, 0
+  index: -1
+004_2
+  rotate: false
+  xy: 2645, 3504
+  size: 794, 302
+  orig: 794, 305
+  offset: 0, 0
+  index: -1
+004_8
+  rotate: false
+  xy: 2436, 3103
+  size: 659, 401
+  orig: 659, 401
+  offset: 0, 0
+  index: -1
+B_1
+  rotate: true
+  xy: 493, 3988
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+B_10
+  rotate: false
+  xy: 854, 3979
+  size: 266, 67
+  orig: 266, 67
+  offset: 0, 0
+  index: -1
+B_11
+  rotate: false
+  xy: 2329, 3907
+  size: 166, 139
+  orig: 166, 140
+  offset: 0, 0
+  index: -1
+B_12
+  rotate: true
+  xy: 0, 3311
+  size: 366, 625
+  orig: 367, 627
+  offset: 0, 1
+  index: -1
+B_13
+  rotate: true
+  xy: 1445, 1820
+  size: 695, 1436
+  orig: 698, 1549
+  offset: 0, 113
+  index: -1
+B_2
+  rotate: false
+  xy: 0, 3741
+  size: 263, 256
+  orig: 263, 256
+  offset: 0, 0
+  index: -1
+B_3
+  rotate: false
+  xy: 3484, 3804
+  size: 383, 242
+  orig: 384, 242
+  offset: 1, 0
+  index: -1
+B_4
+  rotate: false
+  xy: 0, 3997
+  size: 424, 49
+  orig: 425, 49
+  offset: 1, 0
+  index: -1
+B_5
+  rotate: false
+  xy: 2881, 3862
+  size: 316, 184
+  orig: 316, 184
+  offset: 0, 0
+  index: -1
+B_8
+  rotate: false
+  xy: 2495, 3889
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+B_9
+  rotate: false
+  xy: 557, 3981
+  size: 297, 65
+  orig: 298, 65
+  offset: 1, 0
+  index: -1
+C_1
+  rotate: true
+  xy: 2173, 2515
+  size: 560, 1724
+  orig: 560, 1724
+  offset: 0, 0
+  index: -1
+C_10
+  rotate: true
+  xy: 0, 2767
+  size: 483, 662
+  orig: 483, 662
+  offset: 0, 0
+  index: -1
+C_11
+  rotate: true
+  xy: 1120, 3970
+  size: 76, 538
+  orig: 77, 538
+  offset: 0, 0
+  index: -1
+C_13
+  rotate: false
+  xy: 3439, 3480
+  size: 607, 324
+  orig: 607, 324
+  offset: 0, 0
+  index: -1
+C_14
+  rotate: true
+  xy: 659, 1954
+  size: 634, 786
+  orig: 634, 786
+  offset: 0, 0
+  index: -1
+C_2
+  rotate: false
+  xy: 3197, 3806
+  size: 287, 240
+  orig: 287, 242
+  offset: 0, 2
+  index: -1
+C_3
+  rotate: true
+  xy: 2691, 3868
+  size: 178, 190
+  orig: 178, 190
+  offset: 0, 0
+  index: -1
+C_4
+  rotate: false
+  xy: 424, 3991
+  size: 69, 55
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+C_5
+  rotate: false
+  xy: 1658, 3953
+  size: 290, 93
+  orig: 290, 93
+  offset: 0, 0
+  index: -1
+C_6
+  rotate: false
+  xy: 1948, 3936
+  size: 260, 110
+  orig: 260, 110
+  offset: 0, 0
+  index: -1
+C_7
+  rotate: true
+  xy: 1284, 3203
+  size: 448, 493
+  orig: 448, 493
+  offset: 0, 0
+  index: -1
+C_8
+  rotate: true
+  xy: 0, 1134
+  size: 820, 1209
+  orig: 820, 1209
+  offset: 0, 0
+  index: -1
+C_9
+  rotate: true
+  xy: 2208, 3930
+  size: 116, 121
+  orig: 116, 121
+  offset: 0, 0
+  index: -1
+S_1
+  rotate: false
+  xy: 2881, 1799
+  size: 835, 716
+  orig: 836, 730
+  offset: 0, 1
+  index: -1
+S_2
+  rotate: false
+  xy: 1411, 2588
+  size: 762, 598
+  orig: 762, 601
+  offset: 0, 1
+  index: -1
+S_3
+  rotate: true
+  xy: 0, 2147
+  size: 620, 659
+  orig: 622, 659
+  offset: 1, 0
+  index: -1
+S_4
+  rotate: true
+  xy: 662, 2718
+  size: 485, 749
+  orig: 494, 751
+  offset: 0, 1
+  index: -1
+
+lihui_younggirl_dz_home2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_7
+  rotate: false
+  xy: 0, 1740
+  size: 3428, 1688
+  orig: 3428, 1719
+  offset: 0, 31
+  index: -1
+002_7
+  rotate: false
+  xy: 0, 52
+  size: 3428, 1688
+  orig: 3428, 1719
+  offset: 0, 31
+  index: -1
+
+lihui_younggirl_dz_home3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003_7
+  rotate: false
+  xy: 0, 1740
+  size: 3428, 1688
+  orig: 3428, 1719
+  offset: 0, 31
+  index: -1
+004_7
+  rotate: false
+  xy: 0, 52
+  size: 3428, 1688
+  orig: 3428, 1719
+  offset: 0, 31
+  index: -1
+
+lihui_younggirl_dz_home4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 0, 1540
+  size: 2312, 2324
+  orig: 2363, 2363
+  offset: 50, 1
+  index: -1
+D_1
+  rotate: false
+  xy: 0, 0
+  size: 3245, 1540
+  orig: 3245, 1540
+  offset: 0, 0
+  index: -1
+S_5
+  rotate: true
+  xy: 2312, 1794
+  size: 2070, 1118
+  orig: 2076, 1129
+  offset: 5, 0
+  index: -1
+
+lihui_younggirl_dz_home5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_6
+  rotate: false
+  xy: 0, 1135
+  size: 2144, 933
+  orig: 2144, 941
+  offset: 0, 0
+  index: -1
+002_5
+  rotate: false
+  xy: 2266, 2885
+  size: 1141, 955
+  orig: 1141, 955
+  offset: 0, 0
+  index: -1
+002_6
+  rotate: false
+  xy: 0, 202
+  size: 2144, 933
+  orig: 2144, 941
+  offset: 0, 0
+  index: -1
+003_4
+  rotate: false
+  xy: 0, 2954
+  size: 2266, 886
+  orig: 2266, 886
+  offset: 0, 0
+  index: -1
+003_5
+  rotate: false
+  xy: 2266, 1930
+  size: 1141, 955
+  orig: 1141, 955
+  offset: 0, 0
+  index: -1
+004_4
+  rotate: false
+  xy: 0, 2068
+  size: 2266, 886
+  orig: 2266, 886
+  offset: 0, 0
+  index: -1
+004_5
+  rotate: false
+  xy: 2144, 975
+  size: 1141, 955
+  orig: 1141, 955
+  offset: 0, 0
+  index: -1
+B_6
+  rotate: true
+  xy: 2144, 0
+  size: 975, 1467
+  orig: 1240, 1467
+  offset: 265, 0
+  index: -1
+
+lihui_younggirl_dz_home6.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_1
+  rotate: true
+  xy: 1208, 1087
+  size: 1120, 988
+  orig: 1120, 1009
+  offset: 0, 11
+  index: -1
+001_3
+  rotate: false
+  xy: 2144, 2986
+  size: 1208, 1087
+  orig: 1208, 1087
+  offset: 0, 0
+  index: -1
+002_1
+  rotate: false
+  xy: 2196, 1998
+  size: 1120, 988
+  orig: 1120, 1009
+  offset: 0, 11
+  index: -1
+002_3
+  rotate: false
+  xy: 0, 1120
+  size: 1208, 1087
+  orig: 1208, 1087
+  offset: 0, 0
+  index: -1
+003_1
+  rotate: true
+  xy: 2414, 878
+  size: 1120, 988
+  orig: 1120, 1009
+  offset: 0, 11
+  index: -1
+003_3
+  rotate: false
+  xy: 0, 33
+  size: 1207, 1087
+  orig: 1207, 1087
+  offset: 0, 0
+  index: -1
+003_6
+  rotate: false
+  xy: 0, 3140
+  size: 2144, 933
+  orig: 2144, 941
+  offset: 0, 0
+  index: -1
+004_3
+  rotate: false
+  xy: 1207, 0
+  size: 1207, 1087
+  orig: 1207, 1087
+  offset: 0, 0
+  index: -1
+004_6
+  rotate: false
+  xy: 0, 2207
+  size: 2144, 933
+  orig: 2144, 941
+  offset: 0, 0
+  index: -1
+
+lihui_younggirl_dz_home7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004_1
+  rotate: false
+  xy: 0, 132
+  size: 1120, 988
+  orig: 1120, 1009
+  offset: 0, 11
+  index: -1

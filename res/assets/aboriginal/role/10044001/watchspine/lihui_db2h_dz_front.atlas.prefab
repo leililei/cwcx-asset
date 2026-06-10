@@ -1,0 +1,90 @@
+
+lihui_db2h_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1db2h_4
+  rotate: false
+  xy: 2, 1514
+  size: 2633, 1216
+  orig: 2633, 1216
+  offset: 0, 0
+  index: -1
+G2db2h_5
+  rotate: false
+  xy: 3114, 1931
+  size: 430, 461
+  orig: 430, 461
+  offset: 0, 0
+  index: -1
+G3db2h_6
+  rotate: false
+  xy: 3720, 2981
+  size: 247, 417
+  orig: 292, 433
+  offset: 1, 3
+  index: -1
+G5db2h_8
+  rotate: false
+  xy: 2637, 2431
+  size: 496, 252
+  orig: 497, 253
+  offset: 1, 1
+  index: -1
+G6db2h_9
+  rotate: false
+  xy: 2637, 3238
+  size: 1081, 160
+  orig: 1089, 172
+  offset: 2, 12
+  index: -1
+G7db2h_10
+  rotate: false
+  xy: 2637, 3400
+  size: 1443, 680
+  orig: 1758, 860
+  offset: 0, 0
+  index: -1
+QJ1_1db2h_12
+  rotate: false
+  xy: 2637, 2685
+  size: 765, 271
+  orig: 766, 271
+  offset: 1, 0
+  index: -1
+QJ1db2h_11
+  rotate: false
+  xy: 2637, 2958
+  size: 775, 278
+  orig: 780, 281
+  offset: 2, 0
+  index: -1
+QJ2db2h_13
+  rotate: false
+  xy: 2637, 2171
+  size: 475, 258
+  orig: 478, 261
+  offset: 3, 3
+  index: -1
+QJ3db2h_14
+  rotate: false
+  xy: 3414, 2394
+  size: 535, 585
+  orig: 538, 592
+  offset: 0, 4
+  index: -1
+QJ4db2h_15
+  rotate: false
+  xy: 2, 1051
+  size: 2633, 461
+  orig: 2633, 464
+  offset: 0, 3
+  index: -1
+touch2db2h_1
+  rotate: false
+  xy: 2, 2732
+  size: 2633, 1348
+  orig: 2633, 1348
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+lihui_lilisishengnv_front_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_1
+  rotate: false
+  xy: 1, 188
+  size: 889, 1453
+  orig: 889, 1453
+  offset: 0, 0
+  index: -1
+beijing_5
+  rotate: true
+  xy: 1124, 267
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+beijing_6
+  rotate: true
+  xy: 891, 230
+  size: 160, 232
+  orig: 160, 232
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: true
+  xy: 891, 391
+  size: 1250, 750
+  orig: 1250, 750
+  offset: 0, 0
+  index: -1

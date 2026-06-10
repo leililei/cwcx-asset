@@ -1,0 +1,104 @@
+
+lihui_npalt_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+npalt_13_0
+  rotate: false
+  xy: 3787, 1952
+  size: 184, 205
+  orig: 184, 205
+  offset: 0, 0
+  index: -1
+npalt_13_1
+  rotate: false
+  xy: 2, 834
+  size: 739, 43
+  orig: 739, 43
+  offset: 0, 0
+  index: -1
+npalt_13_10
+  rotate: false
+  xy: 2005, 3085
+  size: 2001, 924
+  orig: 2001, 924
+  offset: 0, 0
+  index: -1
+npalt_13_11
+  rotate: false
+  xy: 2005, 2159
+  size: 2001, 924
+  orig: 2001, 924
+  offset: 0, 0
+  index: -1
+npalt_13_12
+  rotate: false
+  xy: 2, 2105
+  size: 2001, 924
+  orig: 2001, 924
+  offset: 0, 0
+  index: -1
+npalt_13_2
+  rotate: false
+  xy: 2, 879
+  size: 740, 399
+  orig: 740, 399
+  offset: 0, 0
+  index: -1
+npalt_13_3
+  rotate: false
+  xy: 2, 1280
+  size: 853, 823
+  orig: 853, 823
+  offset: 0, 0
+  index: -1
+npalt_13_4
+  rotate: false
+  xy: 1687, 804
+  size: 475, 398
+  orig: 475, 398
+  offset: 0, 0
+  index: -1
+npalt_13_5
+  rotate: false
+  xy: 744, 691
+  size: 453, 285
+  orig: 453, 285
+  offset: 0, 0
+  index: -1
+npalt_13_6
+  rotate: false
+  xy: 857, 1541
+  size: 829, 562
+  orig: 829, 562
+  offset: 0, 0
+  index: -1
+npalt_13_7
+  rotate: false
+  xy: 857, 978
+  size: 828, 561
+  orig: 828, 561
+  offset: 0, 0
+  index: -1
+npalt_13_8
+  rotate: false
+  xy: 3787, 1858
+  size: 222, 92
+  orig: 222, 92
+  offset: 0, 0
+  index: -1
+npalt_13_9
+  rotate: false
+  xy: 2005, 1204
+  size: 1780, 953
+  orig: 1780, 953
+  offset: 0, 0
+  index: -1
+npalt_5_1
+  rotate: false
+  xy: 2, 3031
+  size: 2001, 978
+  orig: 2001, 978
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+dz_juese_zhuliwusi_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2331
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 157
+  size: 450, 549
+  orig: 450, 549
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 3515, 3380
+  size: 437, 572
+  orig: 437, 572
+  offset: 0, 0
+  index: -1
+bg_guang
+  rotate: false
+  xy: 2, 708
+  size: 2394, 1621
+  orig: 2394, 1621
+  offset: 0, 0
+  index: -1
+bg_zhuangsi
+  rotate: true
+  xy: 2398, 1023
+  size: 1306, 1202
+  orig: 1306, 1202
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 454, 215
+  size: 440, 491
+  orig: 440, 491
+  offset: 0, 0
+  index: -1
+yizhi
+  rotate: true
+  xy: 2398, 156
+  size: 865, 884
+  orig: 865, 884
+  offset: 0, 0
+  index: -1

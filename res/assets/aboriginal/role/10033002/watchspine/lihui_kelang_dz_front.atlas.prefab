@@ -1,0 +1,41 @@
+
+lihui_kelang_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hunsha_kelang_0
+  rotate: false
+  xy: 1992, 2946
+  size: 1958, 1004
+  orig: 1958, 1004
+  offset: 0, 0
+  index: -1
+hunsha_kelang_1
+  rotate: false
+  xy: 2, 1228
+  size: 1672, 984
+  orig: 1672, 984
+  offset: 0, 0
+  index: -1
+hunsha_kelang_2
+  rotate: false
+  xy: 2, 2214
+  size: 1952, 867
+  orig: 1952, 867
+  offset: 0, 0
+  index: -1
+hunsha_kelang_3
+  rotate: false
+  xy: 1956, 1972
+  size: 1950, 972
+  orig: 1950, 972
+  offset: 0, 0
+  index: -1
+hunsha_kelang_4
+  rotate: false
+  xy: 2, 3083
+  size: 1988, 867
+  orig: 1988, 867
+  offset: 0, 0
+  index: -1

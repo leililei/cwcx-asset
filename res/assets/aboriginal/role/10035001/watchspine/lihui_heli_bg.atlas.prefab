@@ -1,0 +1,20 @@
+
+lihui_heli_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 2, 2014
+  size: 4082, 2070
+  orig: 4082, 2070
+  offset: 0, 0
+  index: -1
+BJ_caidai1
+  rotate: false
+  xy: 2, 962
+  size: 2878, 1050
+  orig: 2878, 1050
+  offset: 0, 0
+  index: -1

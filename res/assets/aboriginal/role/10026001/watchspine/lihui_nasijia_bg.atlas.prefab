@@ -1,0 +1,47 @@
+
+lihui_nasijia_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag
+  rotate: true
+  xy: 416, 3202
+  size: 314, 328
+  orig: 314, 328
+  offset: 0, 0
+  index: -1
+fangzi
+  rotate: false
+  xy: 5, 232
+  size: 3511, 1897
+  orig: 3511, 1897
+  offset: 0, 0
+  index: -1
+gaodiao1
+  rotate: false
+  xy: 5, 3225
+  size: 406, 291
+  orig: 406, 291
+  offset: 0, 0
+  index: -1
+gg1
+  rotate: false
+  xy: 749, 2134
+  size: 1412, 1382
+  orig: 1412, 1382
+  offset: 0, 0
+  index: -1
+
+lihui_nasijia_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+god
+  rotate: false
+  xy: 5, 1619
+  size: 3511, 1897
+  orig: 3511, 1897
+  offset: 0, 0
+  index: -1

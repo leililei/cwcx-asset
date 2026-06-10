@@ -1,0 +1,62 @@
+
+lihui_kelang_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_beijing
+  rotate: false
+  xy: 4, 2230
+  size: 3220, 1856
+  orig: 3220, 1856
+  offset: 0, 0
+  index: -1
+B_daizi2
+  rotate: false
+  xy: 3132, 350
+  size: 954, 947
+  orig: 954, 947
+  offset: 0, 0
+  index: -1
+B_fanguang
+  rotate: true
+  xy: 4, 394
+  size: 1832, 1227
+  orig: 1832, 1227
+  offset: 0, 0
+  index: -1
+B_wang1
+  rotate: true
+  xy: 3228, 3218
+  size: 868, 685
+  orig: 868, 685
+  offset: 0, 0
+  index: -1
+B_wang2
+  rotate: true
+  xy: 2217, 281
+  size: 1016, 911
+  orig: 1016, 911
+  offset: 0, 0
+  index: -1
+B_wang3
+  rotate: true
+  xy: 1235, 327
+  size: 1899, 978
+  orig: 1899, 978
+  offset: 0, 0
+  index: -1
+B_xiaozhizhusi
+  rotate: false
+  xy: 3917, 3748
+  size: 119, 338
+  orig: 119, 338
+  offset: 0, 0
+  index: -1
+B_zhuzi
+  rotate: true
+  xy: 2217, 1301
+  size: 925, 1466
+  orig: 925, 1466
+  offset: 0, 0
+  index: -1

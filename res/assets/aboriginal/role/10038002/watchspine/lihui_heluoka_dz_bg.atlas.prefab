@@ -1,0 +1,34 @@
+
+lihui_heluoka_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2389
+  size: 3277, 1513
+  orig: 3277, 1513
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: false
+  xy: 3281, 2972
+  size: 621, 930
+  orig: 621, 930
+  offset: 0, 0
+  index: -1
+ren_y
+  rotate: false
+  xy: 2, 1900
+  size: 2097, 487
+  orig: 2097, 487
+  offset: 0, 0
+  index: -1
+ren_y2
+  rotate: false
+  xy: 3281, 2692
+  size: 474, 278
+  orig: 477, 281
+  offset: 2, 2
+  index: -1

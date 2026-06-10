@@ -1,0 +1,55 @@
+
+lihui_halite_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 2096
+  size: 2960, 1621
+  orig: 2960, 1621
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 2964, 2796
+  size: 921, 686
+  orig: 921, 686
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 2847, 727
+  size: 1154, 570
+  orig: 1154, 570
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 2, 473
+  size: 2843, 1621
+  orig: 2843, 1621
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: true
+  xy: 2964, 1883
+  size: 911, 631
+  orig: 911, 631
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: true
+  xy: 3419, 1511
+  size: 370, 298
+  orig: 370, 298
+  offset: 0, 0
+  index: -1
+guang7
+  rotate: false
+  xy: 2847, 540
+  size: 603, 185
+  orig: 603, 185
+  offset: 0, 0
+  index: -1

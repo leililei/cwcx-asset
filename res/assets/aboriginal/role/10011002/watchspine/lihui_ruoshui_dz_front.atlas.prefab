@@ -1,0 +1,48 @@
+
+lihui_ruoshui_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 2, 2204
+  size: 2254, 1060
+  orig: 2254, 1060
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 2, 983
+  size: 1984, 899
+  orig: 1984, 899
+  offset: 0, 0
+  index: -1
+pigu_1
+  rotate: false
+  xy: 2258, 2656
+  size: 228, 237
+  orig: 248, 263
+  offset: 9, 7
+  index: -1
+pigu_2
+  rotate: false
+  xy: 2258, 2895
+  size: 354, 369
+  orig: 385, 408
+  offset: 14, 11
+  index: -1
+pigu_3
+  rotate: false
+  xy: 2028, 1709
+  size: 1236, 493
+  orig: 1667, 759
+  offset: 25, 26
+  index: -1
+pigu_4
+  rotate: false
+  xy: 2, 1884
+  size: 2024, 318
+  orig: 2024, 318
+  offset: 0, 0
+  index: -1

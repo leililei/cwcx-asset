@@ -1,0 +1,299 @@
+
+lihui_juese_aofeiliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 2625, 3979
+  size: 400, 113
+  orig: 406, 115
+  offset: 2, 0
+  index: -1
+faka
+  rotate: false
+  xy: 3505, 3896
+  size: 392, 196
+  orig: 392, 196
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: false
+  xy: 964, 4023
+  size: 78, 69
+  orig: 112, 69
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 262, 4038
+  size: 235, 54
+  orig: 235, 54
+  offset: 0, 0
+  index: -1
+h_hdj
+  rotate: false
+  xy: 2997, 897
+  size: 854, 1240
+  orig: 854, 1240
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: true
+  xy: 2393, 3984
+  size: 108, 230
+  orig: 110, 230
+  offset: 2, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 1441, 3988
+  size: 422, 104
+  orig: 422, 104
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 3353
+  size: 499, 459
+  orig: 499, 569
+  offset: 0, 0
+  index: -1
+lian_yy
+  rotate: true
+  xy: 3460, 3451
+  size: 443, 456
+  orig: 443, 456
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 1691, 3705
+  size: 279, 418
+  orig: 279, 418
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 2, 3839
+  size: 197, 451
+  orig: 197, 451
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 2880, 3610
+  size: 311, 578
+  orig: 311, 578
+  offset: 0, 0
+  index: -1
+liuhai4
+  rotate: true
+  xy: 455, 3814
+  size: 212, 401
+  orig: 212, 401
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 499, 4028
+  size: 326, 64
+  orig: 326, 64
+  offset: 0, 0
+  index: -1
+qunbian
+  rotate: false
+  xy: 1126, 3735
+  size: 563, 251
+  orig: 563, 251
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 2, 372
+  size: 1314, 926
+  orig: 1314, 926
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: true
+  xy: 2611, 2867
+  size: 582, 1158
+  orig: 582, 1158
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 1008, 2260
+  size: 773, 884
+  orig: 773, 884
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1052, 3115
+  size: 710, 588
+  orig: 710, 588
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 1894, 2139
+  size: 2198, 726
+  orig: 2198, 726
+  offset: 0, 0
+  index: -1
+xiayanpi
+  rotate: false
+  xy: 1044, 3992
+  size: 395, 100
+  orig: 406, 142
+  offset: 5, 0
+  index: -1
+y_mawei
+  rotate: true
+  xy: 2111, 3693
+  size: 284, 767
+  orig: 284, 767
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: false
+  xy: 2, 1486
+  size: 868, 1005
+  orig: 868, 1115
+  offset: 0, 110
+  index: -1
+y_shouzhi
+  rotate: false
+  xy: 3333, 3923
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1
+y_tongkong
+  rotate: true
+  xy: 895, 4026
+  size: 66, 67
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+y_tui
+  rotate: true
+  xy: 872, 1300
+  size: 837, 2123
+  orig: 837, 2123
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 1865, 3986
+  size: 361, 106
+  orig: 361, 106
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 1764, 3035
+  size: 845, 656
+  orig: 845, 656
+  offset: 0, 0
+  index: -1
+z_jia
+  rotate: false
+  xy: 858, 3755
+  size: 266, 235
+  orig: 266, 235
+  offset: 0, 0
+  index: -1
+z_mawei
+  rotate: true
+  xy: 503, 3228
+  size: 525, 547
+  orig: 525, 547
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: true
+  xy: 2, 2493
+  size: 733, 1004
+  orig: 733, 1004
+  offset: 0, 0
+  index: -1
+z_shouzhauang2
+  rotate: false
+  xy: 3027, 3944
+  size: 304, 148
+  orig: 304, 148
+  offset: 0, 0
+  index: -1
+z_shouzhi
+  rotate: false
+  xy: 2228, 3986
+  size: 163, 106
+  orig: 163, 106
+  offset: 0, 0
+  index: -1
+z_tongkong
+  rotate: true
+  xy: 827, 4028
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 4078
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+zui_haixiu
+  rotate: false
+  xy: 44, 4078
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+zui_huangzhang
+  rotate: false
+  xy: 148, 4052
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+zui_kaixing
+  rotate: false
+  xy: 84, 4060
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+
+lihui_juese_aofeiliya2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_qunzi
+  rotate: false
+  xy: 2, 1770
+  size: 2717, 1956
+  orig: 2717, 2359
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: true
+  xy: 1002, 97
+  size: 1671, 2448
+  orig: 1671, 2453
+  offset: 0, 2
+  index: -1
+z_tui
+  rotate: false
+  xy: 2, 2
+  size: 998, 1766
+  orig: 998, 1766
+  offset: 0, 0
+  index: -1

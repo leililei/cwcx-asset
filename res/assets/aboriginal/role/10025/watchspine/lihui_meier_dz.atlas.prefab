@@ -1,0 +1,438 @@
+
+lihui_meier_dz.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 5, 4023
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+datui1
+  rotate: true
+  xy: 5, 3441
+  size: 344, 734
+  orig: 344, 734
+  offset: 0, 0
+  index: -1
+datui2
+  rotate: true
+  xy: 5, 2985
+  size: 398, 920
+  orig: 398, 920
+  offset: 0, 0
+  index: -1
+fashi1
+  rotate: true
+  xy: 1475, 3962
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+fashi2
+  rotate: false
+  xy: 2103, 3953
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+fashi3
+  rotate: true
+  xy: 2199, 3953
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+fashi4
+  rotate: true
+  xy: 618, 3993
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+fashi5
+  rotate: true
+  xy: 2943, 3907
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+fashi6
+  rotate: false
+  xy: 2628, 3930
+  size: 181, 99
+  orig: 181, 99
+  offset: 0, 0
+  index: -1
+guci4
+  rotate: true
+  xy: 5, 713
+  size: 1060, 1074
+  orig: 1060, 1074
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: true
+  xy: 3613, 3368
+  size: 524, 382
+  orig: 524, 382
+  offset: 0, 0
+  index: -1
+jian1
+  rotate: true
+  xy: 1084, 437
+  size: 1032, 2945
+  orig: 1032, 2945
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: false
+  xy: 5, 1778
+  size: 2358, 494
+  orig: 2358, 494
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 910, 3758
+  size: 212, 417
+  orig: 212, 417
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 1554, 3962
+  size: 148, 67
+  orig: 148, 67
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 206, 3806
+  size: 187, 268
+  orig: 187, 268
+  offset: 0, 0
+  index: -1
+liefeng
+  rotate: false
+  xy: 3485, 3897
+  size: 510, 132
+  orig: 510, 132
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 746, 3985
+  size: 90, 44
+  orig: 90, 44
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 1850, 3956
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+meimao3
+  rotate: false
+  xy: 293, 3998
+  size: 94, 31
+  orig: 94, 31
+  offset: 0, 0
+  index: -1
+meimao4
+  rotate: false
+  xy: 392, 3998
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+qunjia1
+  rotate: true
+  xy: 930, 2887
+  size: 496, 1247
+  orig: 496, 1247
+  offset: 0, 0
+  index: -1
+qunjia2
+  rotate: true
+  xy: 2182, 2691
+  size: 503, 1281
+  orig: 503, 1281
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 1707, 3961
+  size: 138, 68
+  orig: 138, 68
+  offset: 0, 0
+  index: -1
+shangbi1
+  rotate: false
+  xy: 1332, 3741
+  size: 254, 216
+  orig: 254, 216
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2365, 3199
+  size: 414, 737
+  orig: 414, 737
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 3190, 3591
+  size: 418, 301
+  orig: 418, 301
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: true
+  xy: 479, 3790
+  size: 184, 426
+  orig: 184, 426
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 841, 3979
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: true
+  xy: 2814, 3922
+  size: 107, 124
+  orig: 107, 124
+  offset: 0, 0
+  index: -1
+shouzhi3
+  rotate: true
+  xy: 939, 3979
+  size: 50, 110
+  orig: 50, 110
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 1054, 3977
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1159, 3975
+  size: 54, 94
+  orig: 54, 94
+  offset: 0, 0
+  index: -1
+toufa10
+  rotate: false
+  xy: 1385, 3972
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 3286, 3899
+  size: 194, 130
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 1958, 3955
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 149, 4000
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 90, 4007
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: true
+  xy: 2452, 3942
+  size: 87, 171
+  orig: 87, 171
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 5, 3849
+  size: 146, 196
+  orig: 146, 196
+  offset: 0, 0
+  index: -1
+toufa8
+  rotate: true
+  xy: 3102, 3907
+  size: 122, 179
+  orig: 122, 179
+  offset: 0, 0
+  index: -1
+toufa9
+  rotate: true
+  xy: 490, 3998
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: false
+  xy: 2882, 3618
+  size: 303, 284
+  orig: 303, 284
+  offset: 0, 0
+  index: -1
+weibajian
+  rotate: false
+  xy: 2368, 1474
+  size: 1288, 798
+  orig: 1288, 798
+  offset: 0, 0
+  index: -1
+xiaotui1
+  rotate: true
+  xy: 1591, 3693
+  size: 224, 1286
+  orig: 224, 1286
+  offset: 0, 0
+  index: -1
+xiaotui2
+  rotate: true
+  xy: 744, 3388
+  size: 300, 1616
+  orig: 300, 1616
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 1258, 3975
+  size: 122, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+yanying
+  rotate: false
+  xy: 2298, 3951
+  size: 149, 78
+  orig: 149, 78
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 5, 2277
+  size: 3881, 409
+  orig: 3881, 409
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 18, 4015
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: true
+  xy: 575, 3997
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+zuiba3
+  rotate: false
+  xy: 63, 4008
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zuiba4
+  rotate: false
+  xy: 42, 4014
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+zuiba5
+  rotate: false
+  xy: 701, 3993
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+zuiba6
+  rotate: true
+  xy: 254, 3999
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+
+lihui_meier_dz2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doupeng
+  rotate: false
+  xy: 5, 5
+  size: 3830, 1416
+  orig: 3830, 1416
+  offset: 0, 0
+  index: -1
+guci1
+  rotate: true
+  xy: 5, 1426
+  size: 1358, 1754
+  orig: 1358, 1754
+  offset: 0, 0
+  index: -1
+guci2
+  rotate: true
+  xy: 1428, 2789
+  size: 1137, 1739
+  orig: 1137, 1739
+  offset: 0, 0
+  index: -1
+guci3
+  rotate: true
+  xy: 5, 2831
+  size: 1095, 1418
+  orig: 1095, 1418
+  offset: 0, 0
+  index: -1
+
+lihui_meier_dz3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba
+  rotate: false
+  xy: 5, 1730
+  size: 3184, 1459
+  orig: 3184, 1459
+  offset: 0, 0
+  index: -1

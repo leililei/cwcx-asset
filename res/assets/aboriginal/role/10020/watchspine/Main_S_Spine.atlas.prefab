@@ -1,0 +1,440 @@
+
+Main_S_Spine.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+云
+  rotate: false
+  xy: 0, 3685
+  size: 4030, 411
+  orig: 4030, 411
+  offset: 0, 0
+  index: -1
+冲浪板
+  rotate: false
+  xy: 3917, 892
+  size: 150, 619
+  orig: 151, 621
+  offset: 0, 1
+  index: -1
+冲浪板2
+  rotate: true
+  xy: 2815, 3569
+  size: 116, 397
+  orig: 116, 397
+  offset: 0, 0
+  index: -1
+图层 53
+  rotate: false
+  xy: 1014, 2833
+  size: 2144, 256
+  orig: 2144, 256
+  offset: 0, 0
+  index: -1
+图层 71
+  rotate: true
+  xy: 4041, 2947
+  size: 94, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+图层 95
+  rotate: true
+  xy: 0, 458
+  size: 3225, 531
+  orig: 3225, 531
+  offset: 0, 0
+  index: -1
+图层 99
+  rotate: true
+  xy: 1872, 963
+  size: 1211, 87
+  orig: 1212, 88
+  offset: 1, 1
+  index: -1
+垫子
+  rotate: false
+  xy: 3211, 3293
+  size: 882, 138
+  orig: 883, 138
+  offset: 1, 0
+  index: -1
+塑料桶 淡蓝
+  rotate: false
+  xy: 3931, 2350
+  size: 163, 106
+  orig: 164, 106
+  offset: 0, 0
+  index: -1
+塑料桶 红
+  rotate: true
+  xy: 1872, 2289
+  size: 85, 134
+  orig: 85, 134
+  offset: 0, 0
+  index: -1
+塑料桶 蓝
+  rotate: false
+  xy: 2114, 532
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+山
+  rotate: true
+  xy: 531, 471
+  size: 2980, 483
+  orig: 2980, 484
+  offset: 0, 1
+  index: -1
+帆船1
+  rotate: true
+  xy: 3931, 2456
+  size: 119, 164
+  orig: 119, 164
+  offset: 0, 0
+  index: -1
+帆船2
+  rotate: false
+  xy: 4030, 3924
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+救生圈
+  rotate: true
+  xy: 2205, 646
+  size: 246, 209
+  orig: 246, 209
+  offset: 0, 0
+  index: -1
+易拉罐
+  rotate: true
+  xy: 4030, 3711
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+木刀
+  rotate: true
+  xy: 4041, 2575
+  size: 372, 44
+  orig: 372, 44
+  offset: 0, 0
+  index: -1
+树叶1
+  rotate: false
+  xy: 2217, 909
+  size: 213, 220
+  orig: 213, 220
+  offset: 0, 0
+  index: -1
+树叶10
+  rotate: true
+  xy: 3993, 3431
+  size: 252, 98
+  orig: 252, 98
+  offset: 0, 0
+  index: -1
+树叶11
+  rotate: false
+  xy: 3225, 2259
+  size: 706, 545
+  orig: 706, 545
+  offset: 0, 0
+  index: -1
+树叶2
+  rotate: true
+  xy: 3917, 1695
+  size: 232, 154
+  orig: 232, 241
+  offset: 0, 87
+  index: -1
+树叶3
+  rotate: false
+  xy: 3225, 1941
+  size: 698, 318
+  orig: 698, 326
+  offset: 0, 0
+  index: -1
+树叶4
+  rotate: false
+  xy: 3225, 2804
+  size: 816, 489
+  orig: 852, 489
+  offset: 36, 0
+  index: -1
+树叶5
+  rotate: false
+  xy: 3225, 3451
+  size: 768, 234
+  orig: 768, 359
+  offset: 0, 125
+  index: -1
+树叶6
+  rotate: false
+  xy: 1975, 645
+  size: 230, 247
+  orig: 374, 273
+  offset: 0, 26
+  index: -1
+树叶7
+  rotate: true
+  xy: 2815, 3418
+  size: 151, 396
+  orig: 151, 396
+  offset: 0, 0
+  index: -1
+树叶8
+  rotate: false
+  xy: 1975, 898
+  size: 242, 231
+  orig: 242, 231
+  offset: 0, 0
+  index: -1
+树叶9
+  rotate: false
+  xy: 1219, 932
+  size: 538, 381
+  orig: 538, 381
+  offset: 0, 0
+  index: -1
+树干
+  rotate: true
+  xy: 2025, 1129
+  size: 1704, 1192
+  orig: 1705, 1193
+  offset: 0, 1
+  index: -1
+椰子
+  rotate: true
+  xy: 2025, 532
+  size: 113, 89
+  orig: 113, 90
+  offset: 0, 0
+  index: -1
+水纹1
+  rotate: false
+  xy: 1014, 3424
+  size: 89, 28
+  orig: 90, 28
+  offset: 1, 0
+  index: -1
+水纹2
+  rotate: true
+  xy: 4087, 3804
+  size: 49, 6
+  orig: 50, 7
+  offset: 0, 1
+  index: -1
+沙
+  rotate: true
+  xy: 1014, 557
+  size: 2247, 205
+  orig: 2247, 206
+  offset: 0, 1
+  index: -1
+沙滩椅
+  rotate: false
+  xy: 1354, 579
+  size: 391, 313
+  orig: 391, 313
+  offset: 0, 0
+  index: -1
+沙雕
+  rotate: true
+  xy: 3931, 2075
+  size: 275, 161
+  orig: 276, 161
+  offset: 0, 0
+  index: -1
+海
+  rotate: false
+  xy: 0, 16
+  size: 3225, 442
+  orig: 3225, 442
+  offset: 0, 0
+  index: -1
+海星 红
+  rotate: true
+  xy: 4041, 3041
+  size: 71, 46
+  orig: 71, 47
+  offset: 0, 1
+  index: -1
+海星 贝壳
+  rotate: false
+  xy: 618, 3452
+  size: 2197, 233
+  orig: 2197, 233
+  offset: 0, 0
+  index: -1
+海螺
+  rotate: true
+  xy: 4041, 3180
+  size: 113, 54
+  orig: 114, 54
+  offset: 1, 0
+  index: -1
+海鸥1
+  rotate: false
+  xy: 1014, 459
+  size: 114, 98
+  orig: 114, 143
+  offset: 0, 45
+  index: -1
+海鸥2
+  rotate: true
+  xy: 4030, 4012
+  size: 84, 66
+  orig: 190, 72
+  offset: 0, 6
+  index: -1
+游泳圈 淡蓝
+  rotate: true
+  xy: 1745, 578
+  size: 354, 230
+  orig: 354, 230
+  offset: 0, 0
+  index: -1
+游泳圈 白
+  rotate: true
+  xy: 1219, 562
+  size: 330, 135
+  orig: 333, 136
+  offset: 0, 0
+  index: -1
+游泳圈 粉
+  rotate: true
+  xy: 1757, 935
+  size: 378, 115
+  orig: 379, 115
+  offset: 0, 0
+  index: -1
+球
+  rotate: true
+  xy: 1872, 2709
+  size: 124, 144
+  orig: 129, 151
+  offset: 4, 4
+  index: -1
+球 拷贝
+  rotate: false
+  xy: 3917, 1511
+  size: 153, 184
+  orig: 158, 187
+  offset: 0, 2
+  index: -1
+红色毯子
+  rotate: false
+  xy: 1128, 467
+  size: 697, 90
+  orig: 699, 92
+  offset: 1, 0
+  index: -1
+蓝色毯子
+  rotate: true
+  xy: 531, 3451
+  size: 234, 87
+  orig: 234, 88
+  offset: 0, 1
+  index: -1
+西瓜
+  rotate: true
+  xy: 1872, 2374
+  size: 135, 140
+  orig: 135, 140
+  offset: 0, 0
+  index: -1
+西瓜2
+  rotate: false
+  xy: 1872, 2174
+  size: 115, 115
+  orig: 117, 116
+  offset: 1, 0
+  index: -1
+西瓜汁
+  rotate: true
+  xy: 2195, 561
+  size: 84, 83
+  orig: 85, 83
+  offset: 1, 0
+  index: -1
+遮阳伞
+  rotate: true
+  xy: 3225, 1313
+  size: 628, 692
+  orig: 628, 693
+  offset: 0, 1
+  index: -1
+铲子
+  rotate: true
+  xy: 3931, 2716
+  size: 88, 109
+  orig: 88, 109
+  offset: 0, 0
+  index: -1
+铲子2
+  rotate: true
+  xy: 3931, 2628
+  size: 88, 109
+  orig: 88, 109
+  offset: 0, 0
+  index: -1
+防晒霜1
+  rotate: false
+  xy: 4030, 3683
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+防晒霜2
+  rotate: true
+  xy: 4041, 3112
+  size: 68, 53
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+阴影 右
+  rotate: false
+  xy: 1014, 3089
+  size: 2174, 329
+  orig: 2174, 329
+  offset: 0, 0
+  index: -1
+阴影 左
+  rotate: true
+  xy: 1219, 1733
+  size: 1100, 581
+  orig: 1100, 581
+  offset: 0, 0
+  index: -1
+饮料箱1
+  rotate: true
+  xy: 1872, 2509
+  size: 200, 142
+  orig: 200, 143
+  offset: 0, 0
+  index: -1
+饮料箱2
+  rotate: false
+  xy: 1825, 460
+  size: 200, 118
+  orig: 201, 118
+  offset: 0, 0
+  index: -1
+饮料箱2  盖子
+  rotate: false
+  xy: 3923, 1927
+  size: 159, 148
+  orig: 192, 148
+  offset: 0, 0
+  index: -1
+饮料箱文字
+  rotate: false
+  xy: 4030, 3853
+  size: 61, 71
+  orig: 61, 72
+  offset: 0, 0
+  index: -1

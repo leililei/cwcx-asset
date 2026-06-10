@@ -1,0 +1,69 @@
+
+lihui_loki_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 2, 1274
+  size: 1648, 901
+  orig: 1648, 901
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 2849, 971
+  size: 832, 901
+  orig: 832, 901
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 894, 212
+  size: 1951, 870
+  orig: 1951, 870
+  offset: 0, 0
+  index: -1
+g4
+  rotate: true
+  xy: 2, 2
+  size: 1268, 888
+  orig: 1268, 888
+  offset: 0, 0
+  index: -1
+g5
+  rotate: true
+  xy: 2862, 2574
+  size: 1253, 717
+  orig: 1253, 717
+  offset: 0, 0
+  index: -1
+g6
+  rotate: false
+  xy: 2, 2926
+  size: 1951, 901
+  orig: 1951, 901
+  offset: 0, 0
+  index: -1
+g7
+  rotate: true
+  xy: 1957, 1876
+  size: 1951, 901
+  orig: 1951, 901
+  offset: 0, 0
+  index: -1
+g8
+  rotate: true
+  xy: 1803, 1095
+  size: 777, 901
+  orig: 777, 901
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: true
+  xy: 907, 1086
+  size: 1836, 892
+  orig: 1836, 892
+  offset: 0, 0
+  index: -1

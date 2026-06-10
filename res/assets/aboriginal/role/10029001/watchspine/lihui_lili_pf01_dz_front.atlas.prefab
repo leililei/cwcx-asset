@@ -1,0 +1,187 @@
+
+lihui_lili_pf01_dz_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_01
+  rotate: false
+  xy: 427, 1850
+  size: 366, 99
+  orig: 366, 99
+  offset: 0, 0
+  index: -1
+guang_02
+  rotate: false
+  xy: 843, 1553
+  size: 590, 284
+  orig: 590, 284
+  offset: 0, 0
+  index: -1
+guang_03
+  rotate: true
+  xy: 331, 1854
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+mao01_erduo_02
+  rotate: false
+  xy: 1358, 1060
+  size: 591, 455
+  orig: 591, 455
+  offset: 0, 0
+  index: -1
+mao01_fa_01
+  rotate: false
+  xy: 0, 962
+  size: 692, 377
+  orig: 692, 377
+  offset: 0, 0
+  index: -1
+mao01_fa_04
+  rotate: false
+  xy: 0, 104
+  size: 779, 337
+  orig: 779, 337
+  offset: 0, 0
+  index: -1
+mao01_fa_05
+  rotate: false
+  xy: 0, 1339
+  size: 726, 319
+  orig: 726, 319
+  offset: 0, 0
+  index: -1
+mao01_fa_06
+  rotate: true
+  xy: 726, 1181
+  size: 372, 632
+  orig: 372, 632
+  offset: 0, 0
+  index: -1
+mao01_shenti
+  rotate: true
+  xy: 0, 1723
+  size: 131, 356
+  orig: 131, 356
+  offset: 0, 0
+  index: -1
+mao01_yanjing_01
+  rotate: true
+  xy: 793, 1840
+  size: 109, 376
+  orig: 109, 376
+  offset: 0, 0
+  index: -1
+mao01_yanjing_02
+  rotate: true
+  xy: 0, 1864
+  size: 85, 331
+  orig: 85, 331
+  offset: 0, 0
+  index: -1
+mao01_yanjing_03
+  rotate: true
+  xy: 1501, 1823
+  size: 126, 361
+  orig: 126, 361
+  offset: 0, 0
+  index: -1
+mao01_yanjing_04
+  rotate: true
+  xy: 692, 724
+  size: 336, 884
+  orig: 336, 884
+  offset: 0, 0
+  index: -1
+mao01_yanjing_05
+  rotate: true
+  xy: 1169, 1837
+  size: 112, 332
+  orig: 112, 347
+  offset: 0, 0
+  index: -1
+mao01_zhuazi_01
+  rotate: true
+  xy: 779, 34
+  size: 407, 757
+  orig: 407, 757
+  offset: 0, 0
+  index: -1
+mao01_zuiba
+  rotate: true
+  xy: 1433, 1515
+  size: 308, 426
+  orig: 308, 426
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 0, 441
+  size: 283, 1801
+  orig: 283, 1801
+  offset: 0, 0
+  index: -1
+zhijia_01
+  rotate: false
+  xy: 356, 1658
+  size: 487, 182
+  orig: 487, 182
+  offset: 0, 0
+  index: -1
+
+lihui_lili_pf01_dz_front2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaoqiao
+  rotate: false
+  xy: 0, 1440
+  size: 1220, 580
+  orig: 1220, 580
+  offset: 0, 0
+  index: -1
+mao01_erduo_01
+  rotate: true
+  xy: 738, 210
+  size: 740, 428
+  orig: 740, 428
+  offset: 0, 0
+  index: -1
+mao01_fa_02
+  rotate: false
+  xy: 1220, 1604
+  size: 800, 416
+  orig: 800, 416
+  offset: 0, 0
+  index: -1
+mao01_fa_03
+  rotate: true
+  xy: 1220, 1014
+  size: 590, 774
+  orig: 590, 774
+  offset: 0, 0
+  index: -1
+mao01_tou
+  rotate: true
+  xy: 1166, 431
+  size: 583, 695
+  orig: 583, 695
+  offset: 0, 0
+  index: -1
+mao01_zhuazi_02
+  rotate: true
+  xy: 0, 180
+  size: 770, 738
+  orig: 770, 738
+  offset: 0, 0
+  index: -1
+zhijia_02
+  rotate: true
+  xy: 0, 950
+  size: 490, 1052
+  orig: 490, 1052
+  offset: 0, 0
+  index: -1

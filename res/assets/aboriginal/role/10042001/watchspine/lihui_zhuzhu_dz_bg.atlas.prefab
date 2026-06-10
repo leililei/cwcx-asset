@@ -1,0 +1,55 @@
+
+lihui_zhuzhu_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 30
+  size: 3084, 1590
+  orig: 3084, 1590
+  offset: 0, 0
+  index: -1
+chenai
+  rotate: false
+  xy: 2362, 2855
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+jiazi
+  rotate: true
+  xy: 1542, 2878
+  size: 727, 818
+  orig: 727, 818
+  offset: 0, 0
+  index: -1
+qianjing1
+  rotate: true
+  xy: 1990, 1622
+  size: 1231, 1615
+  orig: 1231, 1615
+  offset: 0, 0
+  index: -1
+qianjing2
+  rotate: true
+  xy: 742, 2933
+  size: 672, 798
+  orig: 672, 798
+  offset: 0, 0
+  index: -1
+qianjing3
+  rotate: false
+  xy: 2, 3128
+  size: 738, 477
+  orig: 738, 477
+  offset: 0, 0
+  index: -1
+yunwu
+  rotate: false
+  xy: 2, 2050
+  size: 1986, 826
+  orig: 1986, 826
+  offset: 0, 0
+  index: -1

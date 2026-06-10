@@ -1,0 +1,13 @@
+
+lihui_dfwx_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfwx_19
+  rotate: false
+  xy: 2, 1960
+  size: 3652, 1694
+  orig: 3652, 1694
+  offset: 0, 0
+  index: -1

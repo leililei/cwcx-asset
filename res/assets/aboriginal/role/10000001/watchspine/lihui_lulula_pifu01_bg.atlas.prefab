@@ -1,0 +1,198 @@
+
+lihui_lulula_pifu01_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao_01
+  rotate: false
+  xy: 1946, 1872
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+niao_02
+  rotate: false
+  xy: 1946, 1947
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+niao_03
+  rotate: false
+  xy: 1946, 1905
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+niao_04
+  rotate: false
+  xy: 1946, 1830
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+niao_05
+  rotate: false
+  xy: 1946, 1848
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+san2
+  rotate: false
+  xy: 0, 8
+  size: 986, 595
+  orig: 986, 595
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 0, 603
+  size: 1946, 1406
+  orig: 1946, 1406
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 986, 29
+  size: 1022, 574
+  orig: 1022, 574
+  offset: 0, 0
+  index: -1
+
+lihui_lulula_pifu01_bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: false
+  xy: 0, 747
+  size: 1886, 1261
+  orig: 1886, 1261
+  offset: 0, 0
+  index: -1
+box3
+  rotate: true
+  xy: 0, 46
+  size: 702, 709
+  orig: 702, 709
+  offset: 0, 0
+  index: -1
+lang4
+  rotate: false
+  xy: 708, 143
+  size: 783, 605
+  orig: 783, 605
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: true
+  xy: 1492, 2
+  size: 158, 185
+  orig: 158, 185
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 1492, 159
+  size: 588, 369
+  orig: 588, 369
+  offset: 0, 0
+  index: -1
+
+lihui_lulula_pifu01_bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box2
+  rotate: true
+  xy: 1255, 646
+  size: 686, 656
+  orig: 686, 656
+  offset: 0, 0
+  index: -1
+lang1
+  rotate: false
+  xy: 1255, 83
+  size: 759, 563
+  orig: 759, 563
+  offset: 0, 0
+  index: -1
+san1
+  rotate: false
+  xy: 0, 199
+  size: 1255, 1817
+  orig: 1255, 1817
+  offset: 0, 0
+  index: -1
+san3
+  rotate: false
+  xy: 1255, 1331
+  size: 664, 684
+  orig: 664, 684
+  offset: 0, 0
+  index: -1
+
+lihui_lulula_pifu01_bg4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiazi1
+  rotate: false
+  xy: 0, 856
+  size: 1353, 1054
+  orig: 1353, 1054
+  offset: 0, 0
+  index: -1
+lang2
+  rotate: false
+  xy: 1352, 1570
+  size: 408, 339
+  orig: 408, 339
+  offset: 0, 0
+  index: -1
+lang3
+  rotate: false
+  xy: 1352, 1259
+  size: 435, 311
+  orig: 435, 311
+  offset: 0, 0
+  index: -1
+lang5
+  rotate: true
+  xy: 1302, 1
+  size: 477, 354
+  orig: 477, 354
+  offset: 0, 0
+  index: -1
+shaokaojia
+  rotate: false
+  xy: 0, 1
+  size: 1302, 855
+  orig: 1302, 855
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 1302, 519
+  size: 518, 484
+  orig: 518, 484
+  offset: 0, 0
+  index: -1
+
+lihui_lulula_pifu01_bg5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yongquan
+  rotate: false
+  xy: 0, 81
+  size: 993, 913
+  orig: 993, 913
+  offset: 0, 0
+  index: -1

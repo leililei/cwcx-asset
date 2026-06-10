@@ -1,0 +1,41 @@
+
+lihui_guang_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DPP
+  rotate: false
+  xy: 2564, 2525
+  size: 640, 314
+  orig: 640, 314
+  offset: 0, 0
+  index: -1
+F_guang_1
+  rotate: false
+  xy: 2564, 2841
+  size: 1020, 900
+  orig: 1020, 900
+  offset: 0, 0
+  index: -1
+F_guang_3
+  rotate: false
+  xy: 2, 568
+  size: 2477, 1258
+  orig: 2477, 1258
+  offset: 0, 0
+  index: -1
+F_guang_4
+  rotate: false
+  xy: 2481, 568
+  size: 1260, 1258
+  orig: 1260, 1258
+  offset: 0, 0
+  index: -1
+zhuanc shuim2
+  rotate: false
+  xy: 2, 1828
+  size: 2560, 1913
+  orig: 2560, 1913
+  offset: 0, 0
+  index: -1

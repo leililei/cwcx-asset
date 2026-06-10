@@ -1,0 +1,187 @@
+
+lihui_zhuzhu_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 3088, 2982
+  size: 869, 669
+  orig: 869, 669
+  offset: 0, 0
+  index: -1
+g3
+  rotate: true
+  xy: 3088, 1379
+  size: 1601, 696
+  orig: 1601, 696
+  offset: 0, 0
+  index: -1
+g4
+  rotate: false
+  xy: 2, 2502
+  size: 3084, 1590
+  orig: 3084, 1590
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 2, 910
+  size: 3084, 1590
+  orig: 3084, 1590
+  offset: 0, 0
+  index: -1
+qianjing4
+  rotate: false
+  xy: 3088, 3653
+  size: 903, 439
+  orig: 903, 439
+  offset: 0, 0
+  index: -1
+qianjing6
+  rotate: false
+  xy: 3786, 1939
+  size: 265, 431
+  orig: 265, 431
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 3786, 2534
+  size: 280, 160
+  orig: 280, 160
+  offset: 0, 0
+  index: -1
+shadow5
+  rotate: false
+  xy: 3786, 2372
+  size: 280, 160
+  orig: 280, 160
+  offset: 0, 0
+  index: -1
+ye_1
+  rotate: false
+  xy: 3786, 1737
+  size: 251, 200
+  orig: 251, 200
+  offset: 0, 0
+  index: -1
+ye_10
+  rotate: false
+  xy: 4036, 3454
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+ye_11
+  rotate: false
+  xy: 3786, 1577
+  size: 204, 158
+  orig: 204, 158
+  offset: 0, 0
+  index: -1
+ye_12
+  rotate: true
+  xy: 3993, 3501
+  size: 192, 82
+  orig: 192, 82
+  offset: 0, 0
+  index: -1
+ye_13
+  rotate: false
+  xy: 3786, 2696
+  size: 296, 284
+  orig: 296, 284
+  offset: 0, 0
+  index: -1
+ye_14
+  rotate: true
+  xy: 3786, 1415
+  size: 160, 181
+  orig: 160, 181
+  offset: 0, 0
+  index: -1
+ye_15
+  rotate: true
+  xy: 3959, 3631
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+ye_2
+  rotate: true
+  xy: 3993, 3762
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+ye_3
+  rotate: false
+  xy: 4036, 3410
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+ye_4
+  rotate: false
+  xy: 3993, 3695
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+ye_5
+  rotate: true
+  xy: 3993, 3796
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+ye_6
+  rotate: false
+  xy: 3993, 3941
+  size: 94, 151
+  orig: 94, 151
+  offset: 0, 0
+  index: -1
+ye_7
+  rotate: true
+  xy: 4078, 3710
+  size: 50, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1
+ye_8
+  rotate: true
+  xy: 3959, 3344
+  size: 155, 75
+  orig: 155, 75
+  offset: 0, 0
+  index: -1
+ye_9
+  rotate: true
+  xy: 4036, 3375
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+
+lihui_zhuzhu_dz_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g6
+  rotate: false
+  xy: 2, 1594
+  size: 3084, 1590
+  orig: 3084, 1590
+  offset: 0, 0
+  index: -1
+qianjing5
+  rotate: false
+  xy: 2, 2
+  size: 1830, 1590
+  orig: 1830, 1590
+  offset: 0, 0
+  index: -1

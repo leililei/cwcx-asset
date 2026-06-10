@@ -1,0 +1,13 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhedang
+  rotate: false
+  xy: 2, 249
+  size: 3750, 3503
+  orig: 3750, 3503
+  offset: 0, 0
+  index: -1

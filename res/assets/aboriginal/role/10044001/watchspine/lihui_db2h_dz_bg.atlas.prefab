@@ -1,0 +1,146 @@
+
+lihui_db2h_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ10db2h_128
+  rotate: false
+  xy: 1556, 930
+  size: 636, 266
+  orig: 681, 291
+  offset: 21, 25
+  index: -1
+BJ11db2h_129
+  rotate: false
+  xy: 1556, 1198
+  size: 787, 270
+  orig: 787, 270
+  offset: 0, 0
+  index: -1
+BJ12db2h_130
+  rotate: false
+  xy: 2601, 2287
+  size: 418, 452
+  orig: 418, 452
+  offset: 0, 0
+  index: -1
+BJ13db2h_131
+  rotate: false
+  xy: 2, 948
+  size: 1552, 520
+  orig: 1553, 538
+  offset: 0, 18
+  index: -1
+BJ1db2h_114
+  rotate: false
+  xy: 3285, 2719
+  size: 270, 884
+  orig: 270, 885
+  offset: 0, 0
+  index: -1
+BJ2_1db2h_115
+  rotate: false
+  xy: 3835, 3247
+  size: 230, 183
+  orig: 231, 183
+  offset: 1, 0
+  index: -1
+BJ2_2db2h_116
+  rotate: false
+  xy: 3557, 2325
+  size: 473, 443
+  orig: 473, 443
+  offset: 0, 0
+  index: -1
+BJ2_3db2h_117
+  rotate: false
+  xy: 3835, 2949
+  size: 199, 157
+  orig: 200, 157
+  offset: 1, 0
+  index: -1
+BJ2_4db2h_118
+  rotate: false
+  xy: 3847, 3432
+  size: 232, 191
+  orig: 233, 191
+  offset: 0, 0
+  index: -1
+BJ2_5db2h_119
+  rotate: false
+  xy: 3021, 2382
+  size: 379, 335
+  orig: 379, 335
+  offset: 0, 0
+  index: -1
+BJ3db2h_120
+  rotate: false
+  xy: 2, 1470
+  size: 2597, 1269
+  orig: 2598, 1270
+  offset: 0, 0
+  index: -1
+BJ4db2h_121
+  rotate: false
+  xy: 2930, 3196
+  size: 353, 896
+  orig: 354, 896
+  offset: 1, 0
+  index: -1
+BJ5_1db2h_123
+  rotate: false
+  xy: 3835, 3108
+  size: 257, 137
+  orig: 259, 139
+  offset: 1, 1
+  index: -1
+BJ5db2h_122
+  rotate: false
+  xy: 3847, 3625
+  size: 177, 467
+  orig: 181, 468
+  offset: 4, 1
+  index: -1
+BJ6db2h_124
+  rotate: false
+  xy: 3557, 2770
+  size: 276, 833
+  orig: 276, 833
+  offset: 0, 0
+  index: -1
+BJ7db2h_125
+  rotate: false
+  xy: 3285, 3605
+  size: 560, 487
+  orig: 560, 487
+  offset: 0, 0
+  index: -1
+BJ8db2h_126
+  rotate: false
+  xy: 2601, 1406
+  size: 1315, 623
+  orig: 1342, 653
+  offset: 0, 30
+  index: -1
+BJdb2h_132
+  rotate: false
+  xy: 2, 2741
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+G1db2h_127
+  rotate: false
+  xy: 3021, 2031
+  size: 877, 292
+  orig: 991, 343
+  offset: 58, 51
+  index: -1
+R_1db2h_113
+  rotate: false
+  xy: 2345, 884
+  size: 1373, 520
+  orig: 1397, 521
+  offset: 3, 0
+  index: -1

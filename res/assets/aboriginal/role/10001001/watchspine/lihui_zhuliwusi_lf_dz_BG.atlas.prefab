@@ -1,0 +1,41 @@
+
+lihui_zhuliwusi_lf_dz_BG.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: false
+  xy: 567, 3095
+  size: 483, 409
+  orig: 483, 409
+  offset: 0, 0
+  index: -1
+bj_02
+  rotate: true
+  xy: 1050, 2892
+  size: 612, 623
+  orig: 612, 623
+  offset: 0, 0
+  index: -1
+bj_03
+  rotate: true
+  xy: 0, 3285
+  size: 219, 567
+  orig: 219, 567
+  offset: 0, 0
+  index: -1
+bj_04
+  rotate: true
+  xy: 1673, 2812
+  size: 692, 734
+  orig: 692, 734
+  offset: 0, 0
+  index: -1
+bj_05
+  rotate: false
+  xy: 0, 1187
+  size: 3504, 1625
+  orig: 3504, 1625
+  offset: 0, 0
+  index: -1

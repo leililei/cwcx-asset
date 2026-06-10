@@ -1,0 +1,20 @@
+
+lihui_haiji_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 2045
+  size: 3792, 1751
+  orig: 3792, 1751
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 4, 349
+  size: 3792, 1692
+  orig: 3792, 1692
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+lihui_zhuliwusipifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: true
+  xy: 2805, 1027
+  size: 2801, 1023
+  orig: 2801, 1023
+  offset: 0, 0
+  index: -1
+gezi1
+  rotate: false
+  xy: 2564, 1181
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+gezi2
+  rotate: true
+  xy: 2605, 1165
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+gezi3
+  rotate: true
+  xy: 2564, 1149
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+gezi4
+  rotate: false
+  xy: 2605, 1199
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+gezi5
+  rotate: true
+  xy: 2588, 1138
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+gezi6
+  rotate: true
+  xy: 2439, 1145
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+huangpiaodai3
+  rotate: false
+  xy: 2357, 1159
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+lantian
+  rotate: false
+  xy: 2, 2227
+  size: 2801, 1601
+  orig: 2801, 1601
+  offset: 0, 0
+  index: -1
+youlangan
+  rotate: false
+  xy: 2, 135
+  size: 1018, 784
+  orig: 1018, 784
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 2357, 232
+  size: 1329, 793
+  orig: 1330, 805
+  offset: 1, 12
+  index: -1
+yun2
+  rotate: false
+  xy: 2, 921
+  size: 2353, 1304
+  orig: 2353, 1304
+  offset: 0, 0
+  index: -1
+zipiaodai2
+  rotate: false
+  xy: 2439, 1173
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+zipiaodai3
+  rotate: true
+  xy: 2504, 1173
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+zuolangan
+  rotate: false
+  xy: 2357, 1219
+  size: 278, 1006
+  orig: 278, 1006
+  offset: 0, 0
+  index: -1

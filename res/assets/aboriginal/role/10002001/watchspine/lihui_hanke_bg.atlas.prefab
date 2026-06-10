@@ -1,0 +1,13 @@
+
+lihui_hanke_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hk_1_0
+  rotate: false
+  xy: 2, 2081
+  size: 3862, 1783
+  orig: 3862, 1783
+  offset: 0, 0
+  index: -1

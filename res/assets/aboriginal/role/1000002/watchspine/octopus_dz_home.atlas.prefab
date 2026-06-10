@@ -1,0 +1,104 @@
+
+octopus_dz_home.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+octopus_r1
+  rotate: false
+  xy: 0, 398
+  size: 348, 380
+  orig: 348, 380
+  offset: 0, 0
+  index: -1
+octopus_r10
+  rotate: true
+  xy: 604, 405
+  size: 98, 166
+  orig: 98, 166
+  offset: 0, 0
+  index: -1
+octopus_r11
+  rotate: true
+  xy: 448, 417
+  size: 61, 94
+  orig: 63, 95
+  offset: 1, 1
+  index: -1
+octopus_r12
+  rotate: true
+  xy: 348, 404
+  size: 74, 100
+  orig: 76, 101
+  offset: 1, 1
+  index: -1
+octopus_r7
+  rotate: true
+  xy: 660, 669
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+octopus_r8
+  rotate: false
+  xy: 660, 581
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+octopus_r9
+  rotate: true
+  xy: 510, 503
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+octopus_v10
+  rotate: true
+  xy: 348, 625
+  size: 153, 162
+  orig: 153, 162
+  offset: 0, 0
+  index: -1
+octopus_v11
+  rotate: true
+  xy: 474, 248
+  size: 169, 130
+  orig: 169, 130
+  offset: 0, 0
+  index: -1
+octopus_v12
+  rotate: false
+  xy: 308, 244
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+octopus_v13
+  rotate: true
+  xy: 510, 640
+  size: 138, 150
+  orig: 138, 150
+  offset: 0, 0
+  index: -1
+octopus_v7
+  rotate: false
+  xy: 0, 102
+  size: 308, 296
+  orig: 308, 296
+  offset: 0, 0
+  index: -1
+octopus_v8
+  rotate: true
+  xy: 474, 130
+  size: 118, 211
+  orig: 118, 211
+  offset: 0, 0
+  index: -1
+octopus_v9
+  rotate: true
+  xy: 348, 478
+  size: 147, 158
+  orig: 147, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huasa_1
+  rotate: false
+  xy: 4, 1108
+  size: 1318, 1151
+  orig: 1318, 1151
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 4, 2263
+  size: 2287, 1703
+  orig: 2287, 1703
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 2295, 1669
+  size: 1671, 2297
+  orig: 1671, 2297
+  offset: 0, 0
+  index: -1

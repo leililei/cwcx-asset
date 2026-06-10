@@ -1,0 +1,55 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 57
+  size: 3720, 1974
+  orig: 3720, 1974
+  offset: 0, 0
+  index: -1
+emmmm
+  rotate: true
+  xy: 2, 3618
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+huaban
+  rotate: false
+  xy: 2, 2033
+  size: 3455, 1040
+  orig: 3455, 1040
+  offset: 0, 0
+  index: -1
+mengpiao
+  rotate: false
+  xy: 125, 3460
+  size: 338, 262
+  orig: 338, 262
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: true
+  xy: 465, 3456
+  size: 266, 345
+  orig: 266, 345
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 812, 3323
+  size: 492, 399
+  orig: 492, 399
+  offset: 0, 0
+  index: -1
+zhentou
+  rotate: false
+  xy: 1306, 3075
+  size: 684, 647
+  orig: 684, 647
+  offset: 0, 0
+  index: -1

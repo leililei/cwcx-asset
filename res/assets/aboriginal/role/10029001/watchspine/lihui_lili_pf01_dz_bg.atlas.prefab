@@ -1,0 +1,27 @@
+
+lihui_lili_pf01_dz_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 327
+  size: 1865, 1080
+  orig: 1865, 1080
+  offset: 0, 0
+  index: -1
+guang_04
+  rotate: true
+  xy: 0, 1770
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+jingaobiaoyu
+  rotate: false
+  xy: 96, 1407
+  size: 701, 458
+  orig: 701, 458
+  offset: 0, 0
+  index: -1
