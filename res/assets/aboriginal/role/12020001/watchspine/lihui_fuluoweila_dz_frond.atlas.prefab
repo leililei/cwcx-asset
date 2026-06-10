@@ -1,0 +1,27 @@
+
+lihui_fuluoweila_dz_frond.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 943, 383
+  size: 625, 837
+  orig: 625, 837
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 2, 378
+  size: 939, 842
+  orig: 939, 842
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 2, 1222
+  size: 1698, 478
+  orig: 1698, 478
+  offset: 0, 0
+  index: -1

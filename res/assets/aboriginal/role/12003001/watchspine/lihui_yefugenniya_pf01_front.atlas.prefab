@@ -1,0 +1,139 @@
+
+lihui_yefugenniya_pf01_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: true
+  xy: 286, 1613
+  size: 239, 367
+  orig: 239, 367
+  offset: 0, 0
+  index: -1
+bj_02
+  rotate: true
+  xy: 986, 1261
+  size: 296, 746
+  orig: 296, 746
+  offset: 0, 0
+  index: -1
+huangye1
+  rotate: false
+  xy: 631, 1854
+  size: 422, 179
+  orig: 422, 179
+  offset: 0, 0
+  index: -1
+huangye2
+  rotate: false
+  xy: 2, 1024
+  size: 356, 337
+  orig: 356, 337
+  offset: 0, 0
+  index: -1
+shitou_01
+  rotate: true
+  xy: 544, 1327
+  size: 262, 440
+  orig: 262, 440
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 1055, 1840
+  size: 193, 424
+  orig: 193, 424
+  offset: 0, 0
+  index: -1
+shui_2
+  rotate: true
+  xy: 23, 1896
+  size: 137, 310
+  orig: 137, 310
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 906, 904
+  size: 572, 355
+  orig: 572, 355
+  offset: 0, 0
+  index: -1
+shuye_1
+  rotate: true
+  xy: 1480, 728
+  size: 390, 497
+  orig: 390, 497
+  offset: 0, 0
+  index: -1
+shuye_2
+  rotate: true
+  xy: 2, 103
+  size: 799, 1243
+  orig: 799, 1243
+  offset: 0, 0
+  index: -1
+shuye_3
+  rotate: true
+  xy: 1734, 1120
+  size: 437, 299
+  orig: 437, 299
+  offset: 0, 0
+  index: -1
+shuye_4
+  rotate: false
+  xy: 2, 1650
+  size: 282, 244
+  orig: 282, 244
+  offset: 0, 0
+  index: -1
+shuye_5
+  rotate: false
+  xy: 360, 984
+  size: 544, 341
+  orig: 544, 341
+  offset: 0, 0
+  index: -1
+shuye_6
+  rotate: false
+  xy: 655, 1591
+  size: 638, 247
+  orig: 638, 247
+  offset: 0, 0
+  index: -1
+shuye_7
+  rotate: false
+  xy: 335, 1885
+  size: 294, 148
+  orig: 294, 148
+  offset: 0, 0
+  index: -1
+wu_1
+  rotate: false
+  xy: 1295, 1559
+  size: 540, 248
+  orig: 540, 248
+  offset: 0, 0
+  index: -1
+wu_2
+  rotate: false
+  xy: 1481, 1809
+  size: 486, 224
+  orig: 486, 224
+  offset: 0, 0
+  index: -1
+wu_3
+  rotate: false
+  xy: 2, 1363
+  size: 540, 248
+  orig: 540, 248
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 2017
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1

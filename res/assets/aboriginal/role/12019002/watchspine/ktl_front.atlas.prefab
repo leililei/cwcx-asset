@@ -1,0 +1,48 @@
+
+ktl_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow4
+  rotate: false
+  xy: 2, 3806
+  size: 391, 224
+  orig: 391, 224
+  offset: 0, 0
+  index: -1
+shadow5
+  rotate: false
+  xy: 395, 3806
+  size: 391, 224
+  orig: 391, 224
+  offset: 0, 0
+  index: -1
+tx_01
+  rotate: false
+  xy: 1448, 2678
+  size: 1697, 1352
+  orig: 1703, 1355
+  offset: 3, 0
+  index: -1
+tx_03
+  rotate: false
+  xy: 2, 1542
+  size: 2689, 1134
+  orig: 2691, 1141
+  offset: 0, 5
+  index: -1
+tx_04
+  rotate: false
+  xy: 2, 2
+  size: 2985, 1538
+  orig: 3019, 1582
+  offset: 33, 6
+  index: -1
+tx_05
+  rotate: false
+  xy: 788, 3079
+  size: 658, 951
+  orig: 662, 957
+  offset: 2, 2
+  index: -1

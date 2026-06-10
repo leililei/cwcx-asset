@@ -1,0 +1,48 @@
+
+lihui_geluoliya_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1
+  rotate: false
+  xy: 2, 1283
+  size: 2009, 588
+  orig: 2009, 588
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 2, 1873
+  size: 2404, 622
+  orig: 2404, 622
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 2, 2497
+  size: 3511, 1303
+  orig: 3511, 1303
+  offset: 0, 0
+  index: -1
+xz2
+  rotate: false
+  xy: 3515, 3510
+  size: 285, 290
+  orig: 285, 290
+  offset: 0, 0
+  index: -1
+xz3
+  rotate: false
+  xy: 2408, 2057
+  size: 893, 438
+  orig: 893, 438
+  offset: 0, 0
+  index: -1
+xz3yy
+  rotate: false
+  xy: 2408, 1678
+  size: 1033, 377
+  orig: 1033, 377
+  offset: 0, 0
+  index: -1

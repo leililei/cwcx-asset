@@ -1,0 +1,27 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: false
+  xy: 79, 2935
+  size: 950, 932
+  orig: 950, 932
+  offset: 0, 0
+  index: -1
+maotou
+  rotate: false
+  xy: 2, 562
+  size: 3865, 2371
+  orig: 3865, 2371
+  offset: 0, 0
+  index: -1
+xh
+  rotate: false
+  xy: 2, 3792
+  size: 75, 75
+  orig: 80, 79
+  offset: 3, 3
+  index: -1

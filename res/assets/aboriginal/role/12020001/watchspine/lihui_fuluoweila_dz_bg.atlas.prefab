@@ -1,0 +1,41 @@
+
+lihui_fuluoweila_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 708
+  size: 3806, 2070
+  orig: 3806, 2070
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 476, 3498
+  size: 762, 310
+  orig: 762, 310
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1240, 2780
+  size: 2198, 1028
+  orig: 2198, 1028
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 2, 3684
+  size: 168, 124
+  orig: 168, 124
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 172, 3658
+  size: 302, 150
+  orig: 302, 150
+  offset: 0, 0
+  index: -1

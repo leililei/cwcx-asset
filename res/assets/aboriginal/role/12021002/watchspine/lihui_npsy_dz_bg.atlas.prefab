@@ -1,0 +1,48 @@
+
+lihui_npsy_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default_2_0
+  rotate: false
+  xy: 2, 2
+  size: 1577, 402
+  orig: 1577, 402
+  offset: 0, 0
+  index: -1
+default_2_1
+  rotate: false
+  xy: 2345, 2723
+  size: 1175, 930
+  orig: 1175, 930
+  offset: 0, 0
+  index: -1
+default_2_2
+  rotate: false
+  xy: 2, 406
+  size: 2202, 1081
+  orig: 2202, 1081
+  offset: 0, 0
+  index: -1
+default_2_3
+  rotate: false
+  xy: 2345, 2309
+  size: 509, 412
+  orig: 509, 412
+  offset: 0, 0
+  index: -1
+default_2_4
+  rotate: false
+  xy: 2, 1489
+  size: 2341, 1081
+  orig: 2341, 1081
+  offset: 0, 0
+  index: -1
+special_6
+  rotate: false
+  xy: 2, 2572
+  size: 2341, 1081
+  orig: 2341, 1081
+  offset: 0, 0
+  index: -1

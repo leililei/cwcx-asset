@@ -1,0 +1,116 @@
+
+lihui_yfgny_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 524
+  size: 3481, 1669
+  orig: 3481, 1669
+  offset: 0, 0
+  index: -1
+diaodeng1
+  rotate: false
+  xy: 3612, 2990
+  size: 355, 512
+  orig: 355, 512
+  offset: 0, 0
+  index: -1
+diaodeng2
+  rotate: false
+  xy: 3485, 1028
+  size: 517, 1165
+  orig: 517, 1165
+  offset: 0, 0
+  index: -1
+suip2
+  rotate: false
+  xy: 3612, 2496
+  size: 241, 492
+  orig: 242, 492
+  offset: 0, 0
+  index: -1
+suip3
+  rotate: false
+  xy: 3612, 2272
+  size: 358, 222
+  orig: 358, 222
+  offset: 0, 0
+  index: -1
+txxd1
+  rotate: false
+  xy: 3612, 3504
+  size: 371, 498
+  orig: 371, 498
+  offset: 0, 0
+  index: -1
+txxd2
+  rotate: false
+  xy: 3485, 247
+  size: 515, 779
+  orig: 515, 779
+  offset: 0, 0
+  index: -1
+zpddbeij
+  rotate: false
+  xy: 2, 2195
+  size: 3608, 1807
+  orig: 3608, 1807
+  offset: 0, 0
+  index: -1
+
+lihui_yfgny_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beihoufang4
+  rotate: false
+  xy: 2, 694
+  size: 3581, 1287
+  orig: 3581, 1287
+  offset: 0, 0
+  index: -1
+daoy
+  rotate: false
+  xy: 1479, 1983
+  size: 1877, 1600
+  orig: 1877, 1600
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: false
+  xy: 2, 2866
+  size: 635, 717
+  orig: 636, 717
+  offset: 1, 0
+  index: -1
+suip1
+  rotate: false
+  xy: 639, 2855
+  size: 838, 728
+  orig: 838, 728
+  offset: 0, 0
+  index: -1
+
+lihui_yfgny_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shinei
+  rotate: false
+  xy: 2, 1780
+  size: 3390, 1612
+  orig: 3390, 1612
+  offset: 0, 0
+  index: -1
+xh1
+  rotate: false
+  xy: 2, 158
+  size: 1690, 1620
+  orig: 1692, 1621
+  offset: 1, 1
+  index: -1

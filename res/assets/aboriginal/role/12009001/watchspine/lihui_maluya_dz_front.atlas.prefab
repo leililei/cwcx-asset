@@ -1,0 +1,202 @@
+
+lihui_maluya_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aly1_6
+  rotate: false
+  xy: 2, 2199
+  size: 3619, 1891
+  orig: 3694, 1891
+  offset: 75, 0
+  index: -1
+aly1_7
+  rotate: false
+  xy: 2, 1392
+  size: 1274, 805
+  orig: 1276, 807
+  offset: 1, 1
+  index: -1
+caid_0
+  rotate: true
+  xy: 3623, 3106
+  size: 646, 301
+  orig: 646, 301
+  offset: 0, 0
+  index: -1
+caid_1
+  rotate: false
+  xy: 3832, 2289
+  size: 94, 220
+  orig: 94, 220
+  offset: 0, 0
+  index: -1
+caid_10
+  rotate: false
+  xy: 3853, 2769
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+caid_11
+  rotate: false
+  xy: 3928, 2320
+  size: 141, 192
+  orig: 141, 192
+  offset: 0, 0
+  index: -1
+caid_12
+  rotate: true
+  xy: 3623, 2229
+  size: 280, 207
+  orig: 280, 207
+  offset: 0, 0
+  index: -1
+caid_13
+  rotate: true
+  xy: 3850, 2643
+  size: 103, 214
+  orig: 103, 214
+  offset: 0, 0
+  index: -1
+caid_14
+  rotate: false
+  xy: 3926, 3630
+  size: 105, 122
+  orig: 116, 152
+  offset: 0, 0
+  index: -1
+caid_15
+  rotate: false
+  xy: 3832, 2239
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+caid_16
+  rotate: true
+  xy: 3981, 2514
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+caid_17
+  rotate: true
+  xy: 3853, 2963
+  size: 141, 113
+  orig: 141, 113
+  offset: 0, 0
+  index: -1
+caid_18
+  rotate: true
+  xy: 3948, 3805
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+caid_19
+  rotate: false
+  xy: 3623, 2748
+  size: 228, 356
+  orig: 228, 356
+  offset: 0, 0
+  index: -1
+caid_2
+  rotate: false
+  xy: 3948, 3961
+  size: 101, 129
+  orig: 101, 129
+  offset: 0, 0
+  index: -1
+caid_20
+  rotate: false
+  xy: 3948, 3880
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+caid_21
+  rotate: false
+  xy: 4026, 3891
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+caid_22
+  rotate: false
+  xy: 4051, 3997
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+caid_23
+  rotate: false
+  xy: 3623, 2511
+  size: 225, 235
+  orig: 225, 235
+  offset: 0, 0
+  index: -1
+caid_24
+  rotate: false
+  xy: 3850, 2514
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+caid_25
+  rotate: true
+  xy: 3780, 1974
+  size: 253, 148
+  orig: 253, 148
+  offset: 0, 0
+  index: -1
+caid_3
+  rotate: true
+  xy: 3940, 2771
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+caid_4
+  rotate: false
+  xy: 3623, 2035
+  size: 155, 192
+  orig: 155, 223
+  offset: 0, 0
+  index: -1
+caid_5
+  rotate: true
+  xy: 3926, 3545
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+caid_6
+  rotate: false
+  xy: 3853, 2849
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+caid_7
+  rotate: true
+  xy: 3948, 3756
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+caid_8
+  rotate: false
+  xy: 4051, 4035
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+caid_9
+  rotate: true
+  xy: 3623, 3754
+  size: 336, 323
+  orig: 336, 323
+  offset: 0, 0
+  index: -1

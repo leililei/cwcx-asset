@@ -1,0 +1,41 @@
+
+lihui_galanjian_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 5, 2011
+  size: 3511, 2001
+  orig: 3511, 2001
+  offset: 0, 0
+  index: -1
+niao
+  rotate: true
+  xy: 2205, 1151
+  size: 855, 637
+  orig: 855, 637
+  offset: 0, 0
+  index: -1
+shumu
+  rotate: true
+  xy: 2205, 525
+  size: 621, 624
+  orig: 621, 624
+  offset: 0, 0
+  index: -1
+tangyi
+  rotate: false
+  xy: 2834, 820
+  size: 685, 326
+  orig: 685, 326
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 5, 5
+  size: 2195, 2001
+  orig: 2195, 2001
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+lihui_swcglingfront_dz.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuihua1
+  rotate: false
+  xy: 1659, 294
+  size: 172, 294
+  orig: 172, 294
+  offset: 0, 0
+  index: -1
+shuihua10
+  rotate: false
+  xy: 1835, 504
+  size: 2002, 858
+  orig: 2002, 858
+  offset: 0, 0
+  index: -1
+shuihua2
+  rotate: false
+  xy: 755, 176
+  size: 124, 138
+  orig: 124, 138
+  offset: 0, 0
+  index: -1
+shuihua3
+  rotate: true
+  xy: 595, 13
+  size: 174, 118
+  orig: 174, 118
+  offset: 0, 0
+  index: -1
+shuihua4
+  rotate: false
+  xy: 595, 187
+  size: 160, 127
+  orig: 160, 127
+  offset: 0, 0
+  index: -1
+shuihua5
+  rotate: true
+  xy: 1659, 588
+  size: 195, 173
+  orig: 195, 173
+  offset: 0, 0
+  index: -1
+shuihua6
+  rotate: true
+  xy: 1285, 943
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+shuihua7
+  rotate: true
+  xy: 1025, 792
+  size: 229, 260
+  orig: 229, 260
+  offset: 0, 0
+  index: -1
+shuihua8
+  rotate: false
+  xy: 0, 166
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+shuihua9
+  rotate: true
+  xy: 154, 167
+  size: 147, 163
+  orig: 147, 163
+  offset: 0, 0
+  index: -1
+shuiwen1
+  rotate: false
+  xy: 2145, 2131
+  size: 1413, 118
+  orig: 1413, 118
+  offset: 0, 0
+  index: -1
+shuiwen2
+  rotate: true
+  xy: 1835, 1362
+  size: 1385, 310
+  orig: 1385, 310
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: true
+  xy: 1025, 0
+  size: 783, 634
+  orig: 783, 634
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 0, 314
+  size: 1025, 707
+  orig: 1025, 707
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: true
+  xy: 0, 1021
+  size: 1726, 1383
+  orig: 1726, 1383
+  offset: 0, 0
+  index: -1
+texiao4
+  rotate: true
+  xy: 2185, 2249
+  size: 1784, 1383
+  orig: 1784, 1383
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: true
+  xy: 1383, 783
+  size: 1964, 452
+  orig: 1964, 452
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: false
+  xy: 0, 2747
+  size: 2185, 1286
+  orig: 2185, 1286
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: false
+  xy: 317, 171
+  size: 278, 143
+  orig: 278, 143
+  offset: 0, 0
+  index: -1

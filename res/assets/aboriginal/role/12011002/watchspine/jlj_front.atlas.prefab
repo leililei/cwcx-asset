@@ -1,0 +1,117 @@
+
+jlj_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qj_01
+  rotate: false
+  xy: 2, 1122
+  size: 3614, 1859
+  orig: 3623, 1859
+  offset: 0, 0
+  index: -1
+qj_02
+  rotate: false
+  xy: 2103, 2983
+  size: 1794, 914
+  orig: 1794, 914
+  offset: 0, 0
+  index: -1
+qj_03
+  rotate: false
+  xy: 642, 3586
+  size: 336, 311
+  orig: 336, 311
+  offset: 0, 0
+  index: -1
+qj_04
+  rotate: false
+  xy: 1375, 3241
+  size: 726, 656
+  orig: 726, 656
+  offset: 0, 0
+  index: -1
+qj_05
+  rotate: false
+  xy: 980, 3269
+  size: 393, 628
+  orig: 393, 628
+  offset: 0, 0
+  index: -1
+qj_06
+  rotate: false
+  xy: 51, 3859
+  size: 45, 38
+  orig: 45, 40
+  offset: 0, 1
+  index: -1
+qj_07
+  rotate: false
+  xy: 2, 3862
+  size: 47, 35
+  orig: 48, 37
+  offset: 1, 1
+  index: -1
+qj_08
+  rotate: false
+  xy: 304, 3768
+  size: 55, 129
+  orig: 57, 130
+  offset: 1, 0
+  index: -1
+qj_09
+  rotate: false
+  xy: 361, 3720
+  size: 85, 177
+  orig: 87, 178
+  offset: 1, 1
+  index: -1
+qj_10
+  rotate: false
+  xy: 98, 3856
+  size: 82, 41
+  orig: 83, 43
+  offset: 1, 1
+  index: -1
+qj_11
+  rotate: false
+  xy: 182, 3854
+  size: 44, 43
+  orig: 46, 45
+  offset: 1, 1
+  index: -1
+qj_12
+  rotate: false
+  xy: 228, 3822
+  size: 74, 75
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+qj_13
+  rotate: false
+  xy: 448, 3682
+  size: 192, 215
+  orig: 192, 215
+  offset: 0, 0
+  index: -1
+
+jlj_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qj_14
+  rotate: false
+  xy: 2, 1863
+  size: 3678, 1859
+  orig: 3678, 1859
+  offset: 0, 0
+  index: -1
+qj_15
+  rotate: false
+  xy: 2, 2
+  size: 3678, 1859
+  orig: 3678, 1859
+  offset: 0, 0
+  index: -1

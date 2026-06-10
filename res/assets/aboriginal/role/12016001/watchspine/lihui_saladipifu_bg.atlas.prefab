@@ -1,0 +1,41 @@
+
+lihui_saladipifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_01
+  rotate: false
+  xy: 3160, 2495
+  size: 923, 1588
+  orig: 923, 1588
+  offset: 0, 0
+  index: -1
+bj_02
+  rotate: false
+  xy: 0, 581
+  size: 2959, 1751
+  orig: 2959, 1751
+  offset: 0, 0
+  index: -1
+bj_03
+  rotate: false
+  xy: 0, 2332
+  size: 3160, 1751
+  orig: 3160, 1751
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 3160, 1968
+  size: 527, 576
+  orig: 527, 576
+  offset: 0, 0
+  index: -1
+qj_09
+  rotate: false
+  xy: 3736, 2380
+  size: 210, 115
+  orig: 210, 115
+  offset: 0, 0
+  index: -1

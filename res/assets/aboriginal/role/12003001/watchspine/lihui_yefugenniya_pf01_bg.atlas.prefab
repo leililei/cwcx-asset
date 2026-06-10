@@ -1,0 +1,27 @@
+
+lihui_yefugenniya_pf01_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: false
+  xy: 2, 569
+  size: 1800, 829
+  orig: 1800, 829
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 2, 1651
+  size: 390, 151
+  orig: 390, 151
+  offset: 0, 0
+  index: -1
+shitou_02
+  rotate: false
+  xy: 394, 1400
+  size: 857, 402
+  orig: 857, 402
+  offset: 0, 0
+  index: -1

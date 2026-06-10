@@ -1,0 +1,48 @@
+
+lihui_huayu_dz_frond.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban1
+  rotate: false
+  xy: 5, 303
+  size: 257, 204
+  orig: 257, 204
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: true
+  xy: 414, 366
+  size: 141, 64
+  orig: 141, 64
+  offset: 0, 0
+  index: -1
+huaban3
+  rotate: false
+  xy: 5, 197
+  size: 141, 101
+  orig: 141, 101
+  offset: 0, 0
+  index: -1
+huaban4
+  rotate: false
+  xy: 414, 237
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+huaban5
+  rotate: true
+  xy: 267, 205
+  size: 302, 142
+  orig: 302, 142
+  offset: 0, 0
+  index: -1
+huaban6
+  rotate: false
+  xy: 414, 292
+  size: 93, 69
+  orig: 93, 69
+  offset: 0, 0
+  index: -1

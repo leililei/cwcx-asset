@@ -1,0 +1,83 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanglian
+  rotate: false
+  xy: 1003, 57
+  size: 185, 623
+  orig: 185, 623
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 405, 336
+  size: 240, 172
+  orig: 240, 172
+  offset: 0, 0
+  index: -1
+deng_02
+  rotate: true
+  xy: 1486, 282
+  size: 398, 174
+  orig: 398, 174
+  offset: 0, 0
+  index: -1
+deng_03
+  rotate: false
+  xy: 1003, 682
+  size: 765, 403
+  orig: 765, 403
+  offset: 0, 0
+  index: -1
+guizi_01
+  rotate: true
+  xy: 2930, 864
+  size: 2926, 860
+  orig: 2926, 860
+  offset: 0, 0
+  index: -1
+hongbu
+  rotate: false
+  xy: 2, 1087
+  size: 2925, 1350
+  orig: 2925, 1350
+  offset: 0, 0
+  index: -1
+lvse
+  rotate: false
+  xy: 2, 2439
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+shuzhi
+  rotate: true
+  xy: 1770, 297
+  size: 788, 219
+  orig: 788, 219
+  offset: 0, 0
+  index: -1
+tx_02
+  rotate: false
+  xy: 2, 405
+  size: 401, 171
+  orig: 401, 171
+  offset: 0, 0
+  index: -1
+tx_03
+  rotate: true
+  xy: 1190, 185
+  size: 495, 294
+  orig: 495, 294
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 2, 578
+  size: 507, 999
+  orig: 507, 999
+  offset: 0, 0
+  index: -1

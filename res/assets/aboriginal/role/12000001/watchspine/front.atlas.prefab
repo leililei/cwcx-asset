@@ -1,0 +1,34 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_01
+  rotate: true
+  xy: 2385, 2
+  size: 1845, 1401
+  orig: 1845, 1401
+  offset: 0, 0
+  index: -1
+tx_02
+  rotate: true
+  xy: 3500, 3488
+  size: 578, 551
+  orig: 578, 551
+  offset: 0, 0
+  index: -1
+tx_03
+  rotate: false
+  xy: 2, 1849
+  size: 3496, 2217
+  orig: 3496, 2217
+  offset: 0, 0
+  index: -1
+tx_04
+  rotate: false
+  xy: 2, 14
+  size: 2381, 1833
+  orig: 2381, 1833
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+lihui_huishalilisi_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei
+  rotate: false
+  xy: 2, 2626
+  size: 2343, 1078
+  orig: 2343, 1078
+  offset: 0, 0
+  index: -1
+lilisi_2_5
+  rotate: false
+  xy: 3291, 3344
+  size: 302, 360
+  orig: 302, 360
+  offset: 0, 0
+  index: -1
+lilisi_2_6
+  rotate: false
+  xy: 1363, 1475
+  size: 252, 91
+  orig: 252, 98
+  offset: 0, 2
+  index: -1
+lilisi_2_7
+  rotate: false
+  xy: 1750, 2394
+  size: 458, 230
+  orig: 458, 230
+  offset: 0, 0
+  index: -1
+lilisi_3_0_0
+  rotate: false
+  xy: 2, 112
+  size: 2322, 518
+  orig: 2341, 518
+  offset: 19, 0
+  index: -1
+lilisi_3_0_1
+  rotate: false
+  xy: 1363, 632
+  size: 2341, 650
+  orig: 2341, 650
+  offset: 0, 0
+  index: -1
+lilisi_3_0_2
+  rotate: false
+  xy: 2, 880
+  size: 1359, 686
+  orig: 1359, 686
+  offset: 0, 0
+  index: -1
+lilisi_3_0_3
+  rotate: false
+  xy: 2, 1568
+  size: 1746, 1056
+  orig: 1746, 1056
+  offset: 0, 0
+  index: -1
+lilisi_3_0_4
+  rotate: false
+  xy: 1750, 1284
+  size: 1746, 1056
+  orig: 1746, 1056
+  offset: 0, 0
+  index: -1
+lilisi_3_1_0
+  rotate: false
+  xy: 2347, 2342
+  size: 942, 1362
+  orig: 945, 1363
+  offset: 0, 1
+  index: -1

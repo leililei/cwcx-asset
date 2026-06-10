@@ -1,0 +1,123 @@
+
+pifu_shaoyin_chunjie_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_denglong1
+  rotate: true
+  xy: 535, 3778
+  size: 129, 346
+  orig: 129, 346
+  offset: 0, 0
+  index: -1
+Q_denglong2
+  rotate: true
+  xy: 4, 3806
+  size: 101, 223
+  orig: 101, 223
+  offset: 0, 0
+  index: -1
+Q_denglong3
+  rotate: true
+  xy: 231, 3793
+  size: 114, 300
+  orig: 114, 300
+  offset: 0, 0
+  index: -1
+Q_denglong4
+  rotate: true
+  xy: 2022, 3700
+  size: 207, 422
+  orig: 207, 422
+  offset: 0, 0
+  index: -1
+Q_denglong5
+  rotate: false
+  xy: 2965, 3415
+  size: 942, 492
+  orig: 942, 492
+  offset: 0, 0
+  index: -1
+Q_denglong6
+  rotate: true
+  xy: 885, 3772
+  size: 135, 345
+  orig: 135, 345
+  offset: 0, 0
+  index: -1
+Q_denglong7
+  rotate: true
+  xy: 1544, 3716
+  size: 191, 474
+  orig: 191, 474
+  offset: 0, 0
+  index: -1
+Q_xuemo2
+  rotate: false
+  xy: 4, 903
+  size: 3804, 1725
+  orig: 3804, 1726
+  offset: 0, 1
+  index: -1
+Q_zhulin
+  rotate: true
+  xy: 1543, 2632
+  size: 955, 983
+  orig: 955, 983
+  offset: 0, 0
+  index: -1
+Q_zhuzi1
+  rotate: true
+  xy: 4, 3312
+  size: 452, 1535
+  orig: 452, 1535
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 1234, 3768
+  size: 306, 139
+  orig: 307, 140
+  offset: 0, 1
+  index: -1
+zuojiao2
+  rotate: true
+  xy: 2448, 3591
+  size: 316, 513
+  orig: 317, 514
+  offset: 0, 0
+  index: -1
+
+pifu_shaoyin_chunjie_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_hou
+  rotate: false
+  xy: 4, 305
+  size: 3804, 1756
+  orig: 3804, 1756
+  offset: 0, 0
+  index: -1
+Q_xuemo
+  rotate: false
+  xy: 4, 2065
+  size: 2184, 1743
+  orig: 2184, 1743
+  offset: 0, 0
+  index: -1
+
+pifu_shaoyin_chunjie_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_qian
+  rotate: false
+  xy: 4, 2052
+  size: 3804, 1756
+  orig: 3804, 1756
+  offset: 0, 0
+  index: -1

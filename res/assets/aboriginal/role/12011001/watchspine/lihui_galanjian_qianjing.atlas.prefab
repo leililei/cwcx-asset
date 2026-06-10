@@ -1,0 +1,82 @@
+
+lihui_galanjian_qianjing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 297, 3871
+  size: 216, 274
+  orig: 216, 274
+  offset: 0, 0
+  index: -1
+UI_2340 2
+  rotate: false
+  xy: 5, 501
+  size: 3510, 1550
+  orig: 3510, 1550
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 907, 3565
+  size: 1776, 522
+  orig: 1776, 522
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 3326, 3234
+  size: 853, 761
+  orig: 853, 761
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 5, 2056
+  size: 1504, 2001
+  orig: 1504, 2001
+  offset: 0, 0
+  index: -1
+zhiwu1
+  rotate: false
+  xy: 2688, 3489
+  size: 633, 598
+  orig: 633, 598
+  offset: 0, 0
+  index: -1
+zhixie1
+  rotate: false
+  xy: 576, 3830
+  size: 326, 257
+  orig: 326, 257
+  offset: 0, 0
+  index: -1
+zhizhang1
+  rotate: false
+  xy: 5, 3877
+  size: 287, 210
+  orig: 287, 210
+  offset: 0, 0
+  index: -1
+
+lihui_galanjian_qianjing2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 5, 2011
+  size: 3511, 2001
+  orig: 3511, 2001
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 5, 5
+  size: 3511, 2001
+  orig: 3511, 2001
+  offset: 0, 0
+  index: -1

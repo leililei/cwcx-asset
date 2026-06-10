@@ -1,0 +1,776 @@
+
+lihui_huishalilisi_dz_role.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lilisi_0
+  rotate: false
+  xy: 3854, 2609
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+lilisi_1_0
+  rotate: false
+  xy: 1846, 334
+  size: 294, 155
+  orig: 374, 170
+  offset: 80, 0
+  index: -1
+lilisi_1_1
+  rotate: false
+  xy: 1927, 2068
+  size: 159, 67
+  orig: 160, 67
+  offset: 1, 0
+  index: -1
+lilisi_1_2
+  rotate: false
+  xy: 2, 967
+  size: 439, 373
+  orig: 440, 374
+  offset: 1, 0
+  index: -1
+lilisi_2_0
+  rotate: false
+  xy: 3899, 2714
+  size: 74, 81
+  orig: 111, 194
+  offset: 37, 113
+  index: -1
+lilisi_2_1
+  rotate: false
+  xy: 639, 1376
+  size: 597, 419
+  orig: 597, 419
+  offset: 0, 0
+  index: -1
+lilisi_3_2_0_0
+  rotate: false
+  xy: 476, 1682
+  size: 161, 207
+  orig: 161, 207
+  offset: 0, 0
+  index: -1
+lilisi_3_2_0_1
+  rotate: false
+  xy: 3268, 1642
+  size: 149, 162
+  orig: 149, 162
+  offset: 0, 0
+  index: -1
+lilisi_3_2_0_2
+  rotate: false
+  xy: 3725, 1320
+  size: 326, 402
+  orig: 326, 402
+  offset: 0, 0
+  index: -1
+lilisi_3_2_0_3
+  rotate: false
+  xy: 1429, 3090
+  size: 1102, 1003
+  orig: 1102, 1003
+  offset: 0, 0
+  index: -1
+lilisi_3_2_1
+  rotate: false
+  xy: 2533, 3092
+  size: 1100, 1001
+  orig: 1101, 1001
+  offset: 1, 0
+  index: -1
+lilisi_3_2_10_1
+  rotate: false
+  xy: 1212, 777
+  size: 445, 214
+  orig: 445, 233
+  offset: 0, 17
+  index: -1
+lilisi_3_2_10_10
+  rotate: false
+  xy: 1659, 728
+  size: 483, 186
+  orig: 483, 194
+  offset: 0, 8
+  index: -1
+lilisi_3_2_10_11
+  rotate: false
+  xy: 823, 461
+  size: 310, 252
+  orig: 310, 252
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_12
+  rotate: false
+  xy: 2515, 921
+  size: 294, 252
+  orig: 294, 252
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_13
+  rotate: false
+  xy: 2430, 1645
+  size: 299, 109
+  orig: 299, 109
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_14
+  rotate: false
+  xy: 1238, 993
+  size: 540, 433
+  orig: 540, 433
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_15
+  rotate: false
+  xy: 2731, 1645
+  size: 247, 109
+  orig: 247, 109
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_17
+  rotate: false
+  xy: 1362, 1428
+  size: 545, 443
+  orig: 545, 448
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_18
+  rotate: false
+  xy: 3274, 1153
+  size: 442, 273
+  orig: 442, 273
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_19
+  rotate: false
+  xy: 3928, 3819
+  size: 156, 274
+  orig: 156, 274
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_2
+  rotate: false
+  xy: 2, 376
+  size: 305, 249
+  orig: 403, 333
+  offset: 0, 11
+  index: -1
+lilisi_3_2_10_20
+  rotate: false
+  xy: 1927, 1419
+  size: 501, 511
+  orig: 501, 511
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_21
+  rotate: false
+  xy: 1426, 1873
+  size: 499, 529
+  orig: 796, 554
+  offset: 297, 23
+  index: -1
+lilisi_3_2_10_22_0
+  rotate: false
+  xy: 3809, 2862
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_1
+  rotate: false
+  xy: 3980, 2782
+  size: 113, 242
+  orig: 113, 242
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_2
+  rotate: false
+  xy: 4001, 3026
+  size: 92, 246
+  orig: 92, 246
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_3
+  rotate: false
+  xy: 4010, 3619
+  size: 76, 198
+  orig: 76, 198
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_4
+  rotate: false
+  xy: 3914, 2921
+  size: 64, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_5
+  rotate: false
+  xy: 3809, 2965
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_22_6
+  rotate: false
+  xy: 1135, 357
+  size: 254, 171
+  orig: 254, 257
+  offset: 0, 86
+  index: -1
+lilisi_3_2_10_24
+  rotate: false
+  xy: 3424, 1428
+  size: 299, 403
+  orig: 299, 403
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_26
+  rotate: false
+  xy: 3749, 1724
+  size: 328, 409
+  orig: 328, 409
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_29
+  rotate: false
+  xy: 2190, 877
+  size: 323, 296
+  orig: 323, 296
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_3
+  rotate: false
+  xy: 353, 658
+  size: 468, 276
+  orig: 670, 461
+  offset: 126, 145
+  index: -1
+lilisi_3_2_10_30
+  rotate: false
+  xy: 3485, 1833
+  size: 262, 317
+  orig: 262, 317
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_31
+  rotate: false
+  xy: 353, 389
+  size: 288, 267
+  orig: 288, 564
+  offset: 0, 297
+  index: -1
+lilisi_3_2_10_32
+  rotate: false
+  xy: 3493, 2934
+  size: 131, 156
+  orig: 131, 156
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_4
+  rotate: false
+  xy: 3493, 2689
+  size: 132, 109
+  orig: 132, 109
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_5
+  rotate: false
+  xy: 737, 2432
+  size: 646, 560
+  orig: 646, 560
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_6
+  rotate: false
+  xy: 476, 1891
+  size: 237, 254
+  orig: 244, 254
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_8
+  rotate: false
+  xy: 3718, 982
+  size: 351, 336
+  orig: 1355, 520
+  offset: 45, 0
+  index: -1
+lilisi_3_2_10_9_0
+  rotate: false
+  xy: 3493, 2800
+  size: 139, 132
+  orig: 139, 132
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_9_1
+  rotate: false
+  xy: 1185, 1991
+  size: 174, 180
+  orig: 174, 180
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_9_2
+  rotate: false
+  xy: 3606, 2152
+  size: 159, 222
+  orig: 159, 222
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_9_3
+  rotate: false
+  xy: 3268, 1806
+  size: 154, 229
+  orig: 154, 229
+  offset: 0, 0
+  index: -1
+lilisi_3_2_10_9_4
+  rotate: false
+  xy: 2190, 490
+  size: 255, 179
+  orig: 340, 240
+  offset: 0, 61
+  index: -1
+lilisi_3_2_10_9_5
+  rotate: false
+  xy: 1927, 2137
+  size: 163, 109
+  orig: 163, 116
+  offset: 0, 7
+  index: -1
+lilisi_3_2_11_0
+  rotate: false
+  xy: 890, 1017
+  size: 302, 357
+  orig: 302, 357
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_1
+  rotate: false
+  xy: 1185, 2173
+  size: 239, 257
+  orig: 239, 257
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_10
+  rotate: false
+  xy: 3493, 2575
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_11
+  rotate: false
+  xy: 3809, 3070
+  size: 107, 288
+  orig: 107, 288
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_12
+  rotate: false
+  xy: 3928, 3208
+  size: 71, 159
+  orig: 71, 159
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_13
+  rotate: false
+  xy: 2522, 1756
+  size: 744, 653
+  orig: 744, 653
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_14
+  rotate: false
+  xy: 2190, 1283
+  size: 206, 134
+  orig: 206, 134
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_15
+  rotate: false
+  xy: 3809, 2576
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_16
+  rotate: false
+  xy: 3767, 2135
+  size: 187, 222
+  orig: 187, 222
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_17
+  rotate: false
+  xy: 1780, 1164
+  size: 408, 253
+  orig: 416, 266
+  offset: 0, 13
+  index: -1
+lilisi_3_2_11_2
+  rotate: false
+  xy: 1185, 1829
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_3
+  rotate: false
+  xy: 1927, 2248
+  size: 180, 154
+  orig: 180, 154
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_4
+  rotate: false
+  xy: 3611, 2376
+  size: 176, 286
+  orig: 176, 298
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_5
+  rotate: false
+  xy: 476, 2147
+  size: 237, 302
+  orig: 237, 302
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_6
+  rotate: false
+  xy: 3809, 2762
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_7
+  rotate: false
+  xy: 3493, 2503
+  size: 106, 70
+  orig: 106, 99
+  offset: 0, 18
+  index: -1
+lilisi_3_2_11_8
+  rotate: false
+  xy: 715, 1797
+  size: 468, 633
+  orig: 468, 633
+  offset: 0, 0
+  index: -1
+lilisi_3_2_11_9
+  rotate: false
+  xy: 2, 1342
+  size: 439, 462
+  orig: 439, 462
+  offset: 0, 0
+  index: -1
+lilisi_3_2_12_0
+  rotate: false
+  xy: 2156, 2663
+  size: 362, 425
+  orig: 851, 612
+  offset: 0, 187
+  index: -1
+lilisi_3_2_12_1
+  rotate: false
+  xy: 2430, 1175
+  size: 842, 465
+  orig: 842, 465
+  offset: 0, 0
+  index: -1
+lilisi_3_2_12_2
+  rotate: false
+  xy: 2, 2451
+  size: 733, 541
+  orig: 733, 541
+  offset: 0, 0
+  index: -1
+lilisi_3_2_12_3
+  rotate: false
+  xy: 2533, 2411
+  size: 958, 679
+  orig: 958, 822
+  offset: 0, 143
+  index: -1
+lilisi_3_2_13_0
+  rotate: false
+  xy: 2, 2994
+  size: 1425, 1099
+  orig: 1425, 1099
+  offset: 0, 0
+  index: -1
+lilisi_3_2_2_0
+  rotate: false
+  xy: 2, 627
+  size: 349, 338
+  orig: 349, 338
+  offset: 0, 0
+  index: -1
+lilisi_3_2_2_1
+  rotate: false
+  xy: 3889, 2576
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+lilisi_3_2_2_2
+  rotate: false
+  xy: 3493, 2386
+  size: 59, 55
+  orig: 69, 73
+  offset: 10, 0
+  index: -1
+lilisi_3_2_2_3
+  rotate: false
+  xy: 3956, 2280
+  size: 60, 47
+  orig: 74, 54
+  offset: 7, 7
+  index: -1
+lilisi_3_2_3_0
+  rotate: false
+  xy: 4018, 2286
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+lilisi_3_2_5_0
+  rotate: false
+  xy: 3854, 2637
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+lilisi_3_2_7_1
+  rotate: false
+  xy: 1212, 530
+  size: 365, 245
+  orig: 373, 252
+  offset: 8, 7
+  index: -1
+lilisi_3_2_7_2
+  rotate: false
+  xy: 3149, 935
+  size: 335, 216
+  orig: 336, 218
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_0
+  rotate: false
+  xy: 2144, 671
+  size: 341, 204
+  orig: 341, 204
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_2
+  rotate: false
+  xy: 2515, 736
+  size: 294, 183
+  orig: 377, 245
+  offset: 49, 6
+  index: -1
+lilisi_3_2_8_3
+  rotate: false
+  xy: 1579, 541
+  size: 319, 185
+  orig: 319, 185
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_4
+  rotate: false
+  xy: 3809, 2675
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_5
+  rotate: false
+  xy: 3554, 2355
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_6
+  rotate: false
+  xy: 1579, 353
+  size: 265, 186
+  orig: 265, 186
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_7
+  rotate: false
+  xy: 2487, 528
+  size: 310, 206
+  orig: 310, 206
+  offset: 0, 0
+  index: -1
+lilisi_3_2_8_8
+  rotate: false
+  xy: 1780, 916
+  size: 365, 246
+  orig: 373, 263
+  offset: 0, 17
+  index: -1
+lilisi_3_2_9_0
+  rotate: false
+  xy: 3268, 2037
+  size: 215, 372
+  orig: 215, 372
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_1
+  rotate: false
+  xy: 2811, 667
+  size: 247, 288
+  orig: 268, 376
+  offset: 0, 88
+  index: -1
+lilisi_3_2_9_10_0
+  rotate: false
+  xy: 3892, 2633
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_10_1
+  rotate: false
+  xy: 3554, 2393
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_10_2
+  rotate: false
+  xy: 3904, 2797
+  size: 63, 122
+  orig: 63, 122
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_10_3
+  rotate: false
+  xy: 3975, 2605
+  size: 115, 175
+  orig: 115, 175
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_0
+  rotate: false
+  xy: 890, 715
+  size: 320, 300
+  orig: 320, 300
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_1
+  rotate: false
+  xy: 4010, 3427
+  size: 79, 190
+  orig: 79, 190
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_3
+  rotate: false
+  xy: 3789, 2359
+  size: 166, 215
+  orig: 166, 215
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_4
+  rotate: false
+  xy: 4010, 3274
+  size: 75, 151
+  orig: 75, 151
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_6
+  rotate: false
+  xy: 443, 936
+  size: 445, 438
+  orig: 508, 438
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_11_7
+  rotate: false
+  xy: 3961, 2329
+  size: 124, 274
+  orig: 124, 303
+  offset: 0, 29
+  index: -1
+lilisi_3_2_9_2
+  rotate: false
+  xy: 3928, 3369
+  size: 80, 448
+  orig: 80, 448
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_3
+  rotate: false
+  xy: 3635, 2664
+  size: 172, 694
+  orig: 184, 694
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_4
+  rotate: false
+  xy: 2, 1806
+  size: 472, 643
+  orig: 472, 643
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_5
+  rotate: false
+  xy: 2109, 1932
+  size: 371, 323
+  orig: 371, 323
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_6
+  rotate: false
+  xy: 3635, 3360
+  size: 291, 733
+  orig: 291, 733
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_7
+  rotate: false
+  xy: 1429, 2404
+  size: 725, 684
+  orig: 763, 711
+  offset: 0, 27
+  index: -1
+lilisi_3_2_9_8
+  rotate: false
+  xy: 3918, 3054
+  size: 65, 152
+  orig: 65, 152
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_9_0
+  rotate: false
+  xy: 1900, 491
+  size: 288, 178
+  orig: 288, 178
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_9_1
+  rotate: false
+  xy: 2811, 957
+  size: 336, 216
+  orig: 336, 216
+  offset: 0, 0
+  index: -1
+lilisi_3_2_9_9_5
+  rotate: false
+  xy: 3493, 2443
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+sbb
+  rotate: false
+  xy: 2156, 2257
+  size: 364, 404
+  orig: 427, 409
+  offset: 63, 0
+  index: -1

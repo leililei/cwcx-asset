@@ -1,0 +1,27 @@
+
+lihui_weilai_dz_frond.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd1
+  rotate: true
+  xy: 2097, 1003
+  size: 2066, 972
+  orig: 2066, 972
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 0, 850
+  size: 1757, 1099
+  orig: 1757, 1099
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 0, 1949
+  size: 2097, 1120
+  orig: 2097, 1120
+  offset: 0, 0
+  index: -1

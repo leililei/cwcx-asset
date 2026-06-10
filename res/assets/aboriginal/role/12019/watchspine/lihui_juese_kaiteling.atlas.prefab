@@ -1,0 +1,326 @@
+
+lihui_juese_kaiteling.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzhi
+  rotate: true
+  xy: 3177, 3569
+  size: 273, 382
+  orig: 273, 382
+  offset: 0, 0
+  index: -1
+bianzhi2
+  rotate: true
+  xy: 408, 3772
+  size: 151, 486
+  orig: 151, 486
+  offset: 0, 0
+  index: -1
+biizhi
+  rotate: true
+  xy: 5, 3981
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 3564, 3509
+  size: 422, 332
+  orig: 422, 332
+  offset: 0, 0
+  index: -1
+erji
+  rotate: true
+  xy: 5, 3419
+  size: 348, 470
+  orig: 348, 470
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 1757, 3904
+  size: 82, 218
+  orig: 82, 218
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 3698, 3846
+  size: 140, 244
+  orig: 140, 244
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 5, 3798
+  size: 154, 398
+  orig: 154, 398
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 2533, 3860
+  size: 126, 229
+  orig: 126, 229
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 2751, 3575
+  size: 268, 421
+  orig: 268, 421
+  offset: 0, 0
+  index: -1
+fayy
+  rotate: false
+  xy: 1548, 3661
+  size: 272, 238
+  orig: 272, 238
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 317, 3957
+  size: 148, 29
+  orig: 148, 29
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: true
+  xy: 899, 3724
+  size: 197, 246
+  orig: 197, 246
+  offset: 0, 0
+  index: -1
+h_fa
+  rotate: true
+  xy: 1147, 3180
+  size: 476, 501
+  orig: 476, 501
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 1221, 3925
+  size: 223, 61
+  orig: 223, 61
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 107, 3959
+  size: 205, 27
+  orig: 205, 27
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: true
+  xy: 735, 3939
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+shouzhi2
+  rotate: true
+  xy: 975, 3926
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+shouzhi3
+  rotate: true
+  xy: 1449, 3920
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+shouzhi4
+  rotate: true
+  xy: 2423, 3890
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+shouzhi5
+  rotate: false
+  xy: 1150, 3712
+  size: 393, 203
+  orig: 393, 203
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 770, 2420
+  size: 731, 2376
+  orig: 731, 2376
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 1077, 3926
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: true
+  xy: 650, 3942
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 3543, 3847
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+tongkong
+  rotate: false
+  xy: 815, 3928
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2394, 3577
+  size: 278, 352
+  orig: 278, 352
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: false
+  xy: 1825, 3627
+  size: 564, 263
+  orig: 564, 263
+  offset: 0, 0
+  index: -1
+waitao3
+  rotate: true
+  xy: 1778, 1261
+  size: 1154, 1231
+  orig: 1154, 1231
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 5, 72
+  size: 1184, 2529
+  orig: 1184, 2529
+  offset: 0, 0
+  index: -1
+xiaoyanpi
+  rotate: false
+  xy: 470, 3946
+  size: 175, 40
+  orig: 175, 40
+  offset: 0, 0
+  index: -1
+xiuzhi
+  rotate: false
+  xy: 5, 2538
+  size: 760, 729
+  orig: 760, 729
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: true
+  xy: 2767, 3848
+  size: 138, 771
+  orig: 138, 771
+  offset: 0, 0
+  index: -1
+y_tui
+  rotate: true
+  xy: 5, 1672
+  size: 743, 1768
+  orig: 743, 1768
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 1567, 3913
+  size: 185, 73
+  orig: 185, 73
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2200, 3895
+  size: 218, 91
+  orig: 218, 91
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: true
+  xy: 480, 3272
+  size: 447, 662
+  orig: 447, 662
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: false
+  xy: 1980, 3897
+  size: 215, 89
+  orig: 215, 89
+  offset: 0, 0
+  index: -1
+z_tui
+  rotate: true
+  xy: 1653, 3156
+  size: 408, 1877
+  orig: 408, 1877
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 48, 3975
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+zui_jingya
+  rotate: false
+  xy: 80, 3968
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+zui_shangxing
+  rotate: false
+  xy: 19, 3977
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+
+lihui_juese_kaiteling2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waitou2
+  rotate: true
+  xy: 5, 195
+  size: 1780, 1970
+  orig: 1780, 1970
+  offset: 0, 0
+  index: -1
+
+lihui_juese_kaiteling3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 5, 163
+  size: 3264, 3106
+  orig: 3264, 3106
+  offset: 0, 0
+  index: -1

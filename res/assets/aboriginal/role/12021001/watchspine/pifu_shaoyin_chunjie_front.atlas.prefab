@@ -1,0 +1,88 @@
+
+pifu_shaoyin_chunjie_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_guang
+  rotate: false
+  xy: 4, 2329
+  size: 2217, 1008
+  orig: 2219, 1009
+  offset: 1, 1
+  index: -1
+Q_huaban
+  rotate: true
+  xy: 4, 3762
+  size: 46, 77
+  orig: 3404, 1632
+  offset: 668, 518
+  index: -1
+Q_shitou
+  rotate: false
+  xy: 2586, 3271
+  size: 897, 537
+  orig: 897, 537
+  offset: 0, 0
+  index: -1
+Q_wu
+  rotate: false
+  xy: 4, 1114
+  size: 3804, 1211
+  orig: 3804, 1211
+  offset: 0, 0
+  index: -1
+Q_zhuzi2
+  rotate: false
+  xy: 912, 3341
+  size: 1670, 467
+  orig: 1670, 467
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 85, 3669
+  size: 306, 139
+  orig: 307, 140
+  offset: 0, 1
+  index: -1
+zuojiao2
+  rotate: true
+  xy: 395, 3492
+  size: 316, 513
+  orig: 317, 514
+  offset: 0, 0
+  index: -1
+
+pifu_shaoyin_chunjie_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_xuemo
+  rotate: false
+  xy: 4, 336
+  size: 2184, 1743
+  orig: 2184, 1743
+  offset: 0, 0
+  index: -1
+Q_xuemo2
+  rotate: false
+  xy: 4, 2083
+  size: 3804, 1725
+  orig: 3804, 1726
+  offset: 0, 1
+  index: -1
+
+pifu_shaoyin_chunjie_front3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_langhua
+  rotate: false
+  xy: 4, 2052
+  size: 3804, 1756
+  orig: 3804, 1756
+  offset: 0, 0
+  index: -1

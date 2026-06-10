@@ -1,0 +1,243 @@
+
+lihui_weisipaer_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: false
+  xy: 665, 3535
+  size: 710, 216
+  orig: 710, 216
+  offset: 0, 0
+  index: -1
+houlang01
+  rotate: false
+  xy: 3635, 3629
+  size: 403, 232
+  orig: 403, 232
+  offset: 0, 0
+  index: -1
+houlang02
+  rotate: false
+  xy: 994, 3931
+  size: 189, 139
+  orig: 189, 139
+  offset: 0, 0
+  index: -1
+houlang03
+  rotate: false
+  xy: 829, 3941
+  size: 163, 129
+  orig: 163, 129
+  offset: 0, 0
+  index: -1
+hua01
+  rotate: false
+  xy: 351, 4021
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+hua02
+  rotate: false
+  xy: 447, 4017
+  size: 162, 53
+  orig: 162, 53
+  offset: 0, 0
+  index: -1
+hua03
+  rotate: false
+  xy: 228, 4022
+  size: 121, 48
+  orig: 121, 48
+  offset: 0, 0
+  index: -1
+hua04
+  rotate: false
+  xy: 611, 4005
+  size: 216, 65
+  orig: 216, 65
+  offset: 0, 0
+  index: -1
+hua05
+  rotate: false
+  xy: 76, 4029
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1
+lang01
+  rotate: false
+  xy: 2, 2742
+  size: 2050, 350
+  orig: 2050, 350
+  offset: 0, 0
+  index: -1
+lang02
+  rotate: false
+  xy: 2257, 3083
+  size: 1509, 339
+  orig: 1509, 339
+  offset: 0, 0
+  index: -1
+lang03
+  rotate: false
+  xy: 2257, 3724
+  size: 914, 203
+  orig: 914, 203
+  offset: 0, 0
+  index: -1
+lang04
+  rotate: false
+  xy: 1377, 3534
+  size: 725, 217
+  orig: 725, 217
+  offset: 0, 0
+  index: -1
+lang05_1
+  rotate: false
+  xy: 2, 2296
+  size: 1450, 444
+  orig: 1450, 444
+  offset: 0, 0
+  index: -1
+lang06
+  rotate: false
+  xy: 2, 3210
+  size: 1172, 323
+  orig: 1172, 323
+  offset: 0, 0
+  index: -1
+lang07
+  rotate: false
+  xy: 1146, 3753
+  size: 1109, 174
+  orig: 1109, 174
+  offset: 0, 0
+  index: -1
+lang08
+  rotate: false
+  xy: 2, 3638
+  size: 661, 212
+  orig: 661, 212
+  offset: 0, 0
+  index: -1
+lang09
+  rotate: false
+  xy: 2054, 2694
+  size: 1387, 387
+  orig: 1387, 387
+  offset: 0, 0
+  index: -1
+lang10
+  rotate: false
+  xy: 2, 3852
+  size: 714, 151
+  orig: 714, 151
+  offset: 0, 0
+  index: -1
+lang11
+  rotate: false
+  xy: 2, 4047
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+lang12
+  rotate: false
+  xy: 718, 3756
+  size: 426, 173
+  orig: 426, 173
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 1185, 3929
+  size: 2302, 141
+  orig: 2302, 141
+  offset: 0, 0
+  index: -1
+youyongquan
+  rotate: false
+  xy: 3678, 3863
+  size: 392, 207
+  orig: 392, 207
+  offset: 0, 0
+  index: -1
+yuanshan
+  rotate: false
+  xy: 2104, 3424
+  size: 1268, 259
+  orig: 1268, 259
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 2, 266
+  size: 3089, 916
+  orig: 3089, 916
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 1184
+  size: 3825, 904
+  orig: 3825, 904
+  offset: 0, 0
+  index: -1
+zt1_dalang01
+  rotate: true
+  xy: 3173, 3685
+  size: 211, 460
+  orig: 211, 460
+  offset: 0, 0
+  index: -1
+zt1_dalang02
+  rotate: false
+  xy: 1176, 3094
+  size: 1079, 328
+  orig: 1079, 328
+  offset: 0, 0
+  index: -1
+zt1_dalang03
+  rotate: true
+  xy: 3489, 3898
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+zt1_dalang04
+  rotate: false
+  xy: 1454, 2090
+  size: 1640, 602
+  orig: 1640, 602
+  offset: 0, 0
+  index: -1
+
+lihui_weisipaer_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haishui
+  rotate: false
+  xy: 2, 2227
+  size: 3332, 1417
+  orig: 3332, 1417
+  offset: 0, 0
+  index: -1
+shatan_1
+  rotate: false
+  xy: 2, 929
+  size: 3339, 1296
+  orig: 3339, 1296
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 2
+  size: 3331, 925
+  orig: 3331, 925
+  offset: 0, 0
+  index: -1

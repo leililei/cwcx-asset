@@ -1,0 +1,151 @@
+
+lihui_huayu_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 3786, 2987
+  size: 281, 412
+  orig: 281, 412
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 3786, 2450
+  size: 532, 174
+  orig: 532, 174
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 3786, 3404
+  size: 675, 293
+  orig: 675, 293
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 5, 2232
+  size: 3511, 1847
+  orig: 3511, 1847
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 5, 380
+  size: 3511, 1847
+  orig: 3511, 1847
+  offset: 0, 0
+  index: -1
+naiyou
+  rotate: true
+  xy: 3521, 617
+  size: 3462, 260
+  orig: 3462, 260
+  offset: 0, 0
+  index: -1
+
+lihui_huayu_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 5, 3335
+  size: 497, 1057
+  orig: 497, 1057
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 5, 495
+  size: 1060, 1243
+  orig: 1060, 1243
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 3053, 3185
+  size: 779, 647
+  orig: 779, 647
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1067, 3327
+  size: 505, 625
+  orig: 505, 625
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1697, 3294
+  size: 664, 538
+  orig: 664, 538
+  offset: 0, 0
+  index: -1
+big
+  rotate: true
+  xy: 1253, 186
+  size: 1369, 1463
+  orig: 2267, 1463
+  offset: 898, 0
+  index: -1
+little
+  rotate: false
+  xy: 2366, 3206
+  size: 682, 626
+  orig: 682, 626
+  offset: 0, 0
+  index: -1
+liu
+  rotate: false
+  xy: 2634, 2234
+  size: 1014, 946
+  orig: 1014, 946
+  offset: 0, 0
+  index: -1
+meigui
+  rotate: false
+  xy: 800, 2509
+  size: 864, 813
+  orig: 864, 813
+  offset: 0, 0
+  index: -1
+meigui2
+  rotate: false
+  xy: 5, 2601
+  size: 790, 729
+  orig: 790, 729
+  offset: 0, 0
+  index: -1
+qiaokelichi
+  rotate: false
+  xy: 5, 1560
+  size: 3378, 669
+  orig: 3378, 669
+  offset: 0, 0
+  index: -1
+ye
+  rotate: true
+  xy: 1669, 2344
+  size: 857, 960
+  orig: 857, 960
+  offset: 0, 0
+  index: -1
+
+lihui_huayu_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 5, 1536
+  size: 3378, 1847
+  orig: 3378, 1847
+  offset: 0, 0
+  index: -1

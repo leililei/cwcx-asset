@@ -1,0 +1,62 @@
+
+lihui_juese_buzhihuo_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 1103
+  size: 2501, 1401
+  orig: 2501, 1401
+  offset: 0, 0
+  index: -1
+dayun
+  rotate: false
+  xy: 0, 2504
+  size: 2953, 1533
+  orig: 2953, 1533
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 3828, 2359
+  size: 209, 313
+  orig: 209, 313
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 2501, 1973
+  size: 400, 531
+  orig: 400, 531
+  offset: 0, 0
+  index: -1
+ta
+  rotate: true
+  xy: 2953, 1418
+  size: 1254, 875
+  orig: 1254, 875
+  offset: 0, 0
+  index: -1
+ta_dianxian
+  rotate: true
+  xy: 2953, 2672
+  size: 1365, 982
+  orig: 1365, 982
+  offset: 0, 0
+  index: -1
+ta_dianxian2
+  rotate: false
+  xy: 2501, 1018
+  size: 919, 400
+  orig: 919, 400
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 3420, 736
+  size: 375, 682
+  orig: 375, 682
+  offset: 0, 0
+  index: -1

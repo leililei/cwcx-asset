@@ -1,0 +1,41 @@
+
+lihui_huameng_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_A
+  rotate: false
+  xy: 737, 3242
+  size: 640, 271
+  orig: 640, 271
+  offset: 0, 0
+  index: -1
+BG_B
+  rotate: false
+  xy: 120, 3361
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+BG_C
+  rotate: false
+  xy: 2, 3397
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+BG_D
+  rotate: false
+  xy: 274, 3272
+  size: 461, 241
+  orig: 461, 241
+  offset: 0, 0
+  index: -1
+BG_F
+  rotate: false
+  xy: 2, 1619
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1

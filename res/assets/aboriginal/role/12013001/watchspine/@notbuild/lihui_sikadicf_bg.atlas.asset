@@ -1,0 +1,62 @@
+
+lihui_sikadicf_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img_BaitianBg
+  rotate: false
+  xy: 2, 2585
+  size: 2345, 1080
+  orig: 2345, 1080
+  offset: 0, 0
+  index: -1
+Img_BaitianFeichuan1
+  rotate: true
+  xy: 2166, 1499
+  size: 1084, 180
+  orig: 1084, 180
+  offset: 0, 0
+  index: -1
+Img_BaitianFeichuan2
+  rotate: false
+  xy: 2166, 519
+  size: 1312, 252
+  orig: 1312, 252
+  offset: 0, 0
+  index: -1
+Img_Baitianceng
+  rotate: true
+  xy: 2349, 1320
+  size: 2345, 1080
+  orig: 2345, 1080
+  offset: 0, 0
+  index: -1
+Img_Baitianyun1
+  rotate: false
+  xy: 2166, 2
+  size: 1064, 515
+  orig: 1064, 515
+  offset: 0, 0
+  index: -1
+Img_Baitianyun2
+  rotate: false
+  xy: 2166, 773
+  size: 1312, 545
+  orig: 1312, 545
+  offset: 0, 0
+  index: -1
+beijing_1
+  rotate: true
+  xy: 2, 238
+  size: 2345, 1080
+  orig: 2345, 1080
+  offset: 0, 0
+  index: -1
+cheng
+  rotate: true
+  xy: 1084, 238
+  size: 2345, 1080
+  orig: 2345, 1080
+  offset: 0, 0
+  index: -1

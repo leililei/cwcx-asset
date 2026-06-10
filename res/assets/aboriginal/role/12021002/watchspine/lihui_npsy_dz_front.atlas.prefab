@@ -1,0 +1,90 @@
+
+lihui_npsy_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default_0_0
+  rotate: false
+  xy: 2930, 2810
+  size: 523, 1066
+  orig: 523, 1066
+  offset: 0, 0
+  index: -1
+default_0_1_0
+  rotate: false
+  xy: 3622, 3372
+  size: 8, 50
+  orig: 8, 50
+  offset: 0, 0
+  index: -1
+default_0_1_1
+  rotate: false
+  xy: 3632, 3354
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+default_0_1_2
+  rotate: false
+  xy: 3632, 3396
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+default_0_1_3
+  rotate: false
+  xy: 3632, 3374
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+default_0_1_4
+  rotate: false
+  xy: 3455, 3269
+  size: 165, 153
+  orig: 165, 153
+  offset: 0, 0
+  index: -1
+default_0_1_5
+  rotate: false
+  xy: 3455, 3424
+  size: 345, 226
+  orig: 345, 226
+  offset: 0, 0
+  index: -1
+default_0_1_6
+  rotate: false
+  xy: 3455, 3211
+  size: 178, 56
+  orig: 178, 56
+  offset: 0, 0
+  index: -1
+default_0_2
+  rotate: false
+  xy: 3455, 3652
+  size: 421, 224
+  orig: 421, 224
+  offset: 0, 0
+  index: -1
+default_0_3
+  rotate: false
+  xy: 2930, 2497
+  size: 585, 311
+  orig: 585, 311
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 2, 2525
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1
+special_0_0
+  rotate: false
+  xy: 2, 1144
+  size: 2926, 1351
+  orig: 2926, 1351
+  offset: 0, 0
+  index: -1

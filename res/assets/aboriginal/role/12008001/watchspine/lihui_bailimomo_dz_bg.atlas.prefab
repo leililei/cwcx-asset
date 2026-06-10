@@ -1,0 +1,13 @@
+
+lihui_bailimomo_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2050
+  size: 3804, 1756
+  orig: 3804, 1756
+  offset: 0, 0
+  index: -1

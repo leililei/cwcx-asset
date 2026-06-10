@@ -1,0 +1,27 @@
+
+lihui_yfgny_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi1
+  rotate: false
+  xy: 2, 1928
+  size: 907, 1069
+  orig: 920, 1080
+  offset: 9, 7
+  index: -1
+beizi2
+  rotate: false
+  xy: 911, 2188
+  size: 1023, 809
+  orig: 1037, 844
+  offset: 9, 0
+  index: -1
+qianjzhuiz
+  rotate: false
+  xy: 2, 2999
+  size: 3883, 886
+  orig: 3893, 1430
+  offset: 9, 0
+  index: -1

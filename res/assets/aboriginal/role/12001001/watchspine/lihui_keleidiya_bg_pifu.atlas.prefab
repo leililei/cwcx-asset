@@ -1,0 +1,145 @@
+
+lihui_keleidiya_bg_pifu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanghuan
+  rotate: true
+  xy: 0, 389
+  size: 714, 723
+  orig: 715, 723
+  offset: 0, 0
+  index: -1
+niao10
+  rotate: false
+  xy: 67, 2030
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+niao11
+  rotate: false
+  xy: 107, 2027
+  size: 22, 17
+  orig: 37, 26
+  offset: 5, 3
+  index: -1
+niao2
+  rotate: false
+  xy: 337, 1949
+  size: 153, 95
+  orig: 153, 95
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: true
+  xy: 51, 2031
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+niao4
+  rotate: false
+  xy: 92, 2029
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+niao5
+  rotate: false
+  xy: 19, 2034
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+niao6
+  rotate: false
+  xy: 0, 2035
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+niao7
+  rotate: true
+  xy: 35, 2033
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+niao8
+  rotate: true
+  xy: 251, 1968
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+niao9
+  rotate: false
+  xy: 129, 2026
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+rihun
+  rotate: false
+  xy: 1529, 1575
+  size: 515, 469
+  orig: 515, 469
+  offset: 0, 0
+  index: -1
+tengwan
+  rotate: true
+  xy: 155, 1984
+  size: 60, 96
+  orig: 62, 96
+  offset: 1, 0
+  index: -1
+touying2
+  rotate: false
+  xy: 0, 1103
+  size: 930, 572
+  orig: 930, 572
+  offset: 0, 0
+  index: -1
+touying3
+  rotate: false
+  xy: 490, 1675
+  size: 1039, 369
+  orig: 1039, 369
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: true
+  xy: 930, 906
+  size: 669, 729
+  orig: 676, 731
+  offset: 1, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 723, 147
+  size: 769, 759
+  orig: 769, 759
+  offset: 0, 0
+  index: -1
+
+lihui_keleidiya_bg_pifu2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 261
+  size: 1648, 762
+  orig: 1672, 762
+  offset: 24, 0
+  index: -1
+jianzhu
+  rotate: false
+  xy: 0, 1023
+  size: 1818, 795
+  orig: 1818, 795
+  offset: 0, 0
+  index: -1

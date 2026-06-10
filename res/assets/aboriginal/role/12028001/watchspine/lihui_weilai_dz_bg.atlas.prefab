@@ -1,0 +1,62 @@
+
+lihui_weilai_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 2100
+  size: 2236, 1120
+  orig: 2236, 1120
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 0, 818
+  size: 604, 600
+  orig: 604, 600
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: true
+  xy: 2236, 1081
+  size: 2139, 984
+  orig: 2139, 984
+  offset: 0, 0
+  index: -1
+hdj1
+  rotate: true
+  xy: 600, 1003
+  size: 211, 144
+  orig: 211, 144
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 600, 1722
+  size: 375, 378
+  orig: 375, 378
+  offset: 0, 0
+  index: -1
+tuzi
+  rotate: true
+  xy: 0, 1422
+  size: 678, 600
+  orig: 678, 600
+  offset: 0, 0
+  index: -1
+xt1
+  rotate: false
+  xy: 600, 1477
+  size: 165, 245
+  orig: 167, 245
+  offset: 2, 0
+  index: -1
+xt2
+  rotate: false
+  xy: 600, 1214
+  size: 163, 263
+  orig: 163, 263
+  offset: 0, 0
+  index: -1
