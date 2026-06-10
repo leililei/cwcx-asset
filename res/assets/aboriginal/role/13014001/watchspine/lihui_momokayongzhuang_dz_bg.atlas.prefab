@@ -1,0 +1,97 @@
+
+lihui_momokayongzhuang_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boguang
+  rotate: true
+  xy: 1844, 1863
+  size: 860, 522
+  orig: 860, 522
+  offset: 0, 0
+  index: -1
+jiaoshi
+  rotate: false
+  xy: 2, 208
+  size: 2671, 1216
+  orig: 2671, 1216
+  offset: 0, 0
+  index: -1
+jiaoshi-2
+  rotate: true
+  xy: 2675, 2
+  size: 1422, 456
+  orig: 1422, 456
+  offset: 0, 0
+  index: -1
+langhua-1
+  rotate: true
+  xy: 1844, 1477
+  size: 223, 54
+  orig: 223, 54
+  offset: 0, 0
+  index: -1
+langhua-2
+  rotate: true
+  xy: 2412, 1611
+  size: 98, 176
+  orig: 98, 176
+  offset: 0, 0
+  index: -1
+langhua-3
+  rotate: false
+  xy: 2072, 1711
+  size: 357, 150
+  orig: 357, 150
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 1844, 1702
+  size: 226, 159
+  orig: 226, 159
+  offset: 0, 0
+  index: -1
+shouzhi-1
+  rotate: true
+  xy: 1900, 1556
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+shouzhi-6
+  rotate: true
+  xy: 2412, 1510
+  size: 99, 172
+  orig: 99, 172
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 2763, 1426
+  size: 2651, 1268
+  orig: 2651, 1268
+  offset: 0, 0
+  index: -1
+shuiguang
+  rotate: false
+  xy: 2, 2725
+  size: 2759, 1352
+  orig: 2759, 1352
+  offset: 0, 0
+  index: -1
+yeti-2
+  rotate: true
+  xy: 2072, 1563
+  size: 146, 338
+  orig: 146, 338
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 1589
+  size: 1840, 1134
+  orig: 1840, 1134
+  offset: 0, 0
+  index: -1

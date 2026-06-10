@@ -1,0 +1,54 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai
+  rotate: false
+  xy: 2, 923
+  size: 3993, 1658
+  orig: 3993, 1658
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2, 2583
+  size: 3977, 946
+  orig: 3977, 946
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: false
+  xy: 262, 3531
+  size: 466, 464
+  orig: 466, 464
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: false
+  xy: 2, 3774
+  size: 258, 221
+  orig: 258, 221
+  offset: 0, 0
+  index: -1
+
+front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang0
+  rotate: false
+  xy: 2, 1676
+  size: 3161, 1705
+  orig: 3163, 1705
+  offset: 2, 0
+  index: -1
+guochangqi
+  rotate: false
+  xy: 2, 2
+  size: 2921, 1672
+  orig: 2921, 1672
+  offset: 0, 0
+  index: -1

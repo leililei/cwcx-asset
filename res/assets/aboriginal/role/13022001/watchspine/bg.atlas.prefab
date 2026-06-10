@@ -1,0 +1,68 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: false
+  xy: 2, 1993
+  size: 3952, 701
+  orig: 3954, 702
+  offset: 2, 0
+  index: -1
+che_1
+  rotate: false
+  xy: 2, 3734
+  size: 93, 266
+  orig: 96, 269
+  offset: 2, 1
+  index: -1
+che_2
+  rotate: false
+  xy: 97, 3349
+  size: 3283, 651
+  orig: 3283, 651
+  offset: 0, 0
+  index: -1
+che_22
+  rotate: false
+  xy: 2, 2696
+  size: 3283, 651
+  orig: 3283, 651
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 869
+  size: 3998, 1122
+  orig: 4002, 1302
+  offset: 3, 1
+  index: -1
+qi
+  rotate: false
+  xy: 3382, 3191
+  size: 560, 809
+  orig: 560, 809
+  offset: 0, 0
+  index: -1
+
+bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2299
+  size: 4002, 1705
+  orig: 4002, 1705
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 592
+  size: 4002, 1705
+  orig: 4002, 1705
+  offset: 0, 0
+  index: -1

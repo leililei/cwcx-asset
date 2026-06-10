@@ -1,0 +1,74 @@
+
+lihui_juese_aiyiwafan_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 5, 2151
+  size: 3511, 1801
+  orig: 3511, 1801
+  offset: 0, 0
+  index: -1
+T_guangxiao10
+  rotate: true
+  xy: 3521, 3368
+  size: 584, 431
+  orig: 584, 431
+  offset: 0, 0
+  index: -1
+T_guangxiao5
+  rotate: false
+  xy: 5, 736
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+T_guangxiao7
+  rotate: false
+  xy: 5, 872
+  size: 3323, 1274
+  orig: 3323, 1274
+  offset: 0, 0
+  index: -1
+
+lihui_juese_aiyiwafan_pifu_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_guangxiao4
+  rotate: false
+  xy: 5, 2761
+  size: 3340, 1103
+  orig: 3340, 1103
+  offset: 0, 0
+  index: -1
+T_guangxiao6
+  rotate: false
+  xy: 5, 1326
+  size: 1741, 1430
+  orig: 1741, 1430
+  offset: 0, 0
+  index: -1
+tantacle8
+  rotate: false
+  xy: 1751, 1135
+  size: 2113, 1621
+  orig: 2113, 1621
+  offset: 0, 0
+  index: -1
+
+lihui_juese_aiyiwafan_pifu_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_guangxiao9
+  rotate: false
+  xy: 5, 1417
+  size: 2946, 1534
+  orig: 2946, 1534
+  offset: 0, 0
+  index: -1

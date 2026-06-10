@@ -1,0 +1,382 @@
+
+shengnvfulanka_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-99
+  rotate: false
+  xy: 1105, 3763
+  size: 326, 146
+  orig: 327, 147
+  offset: 1, 0
+  index: -1
+0
+  rotate: false
+  xy: 1433, 3762
+  size: 137, 147
+  orig: 139, 147
+  offset: 1, 0
+  index: -1
+100
+  rotate: false
+  xy: 1572, 3762
+  size: 381, 147
+  orig: 381, 147
+  offset: 0, 0
+  index: -1
+50
+  rotate: false
+  xy: 1955, 3761
+  size: 261, 148
+  orig: 262, 148
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 1806, 2867
+  size: 731, 807
+  orig: 731, 807
+  offset: 0, 0
+  index: -1
+dd_0
+  rotate: false
+  xy: 425, 3858
+  size: 59, 51
+  orig: 61, 54
+  offset: 1, 2
+  index: -1
+dd_1
+  rotate: false
+  xy: 15, 3897
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+dd_10
+  rotate: false
+  xy: 540, 3854
+  size: 24, 55
+  orig: 26, 56
+  offset: 1, 0
+  index: -1
+dd_11
+  rotate: false
+  xy: 124, 3886
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+dd_12
+  rotate: false
+  xy: 149, 3885
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+dd_13
+  rotate: false
+  xy: 607, 3829
+  size: 74, 80
+  orig: 78, 84
+  offset: 2, 2
+  index: -1
+dd_14
+  rotate: false
+  xy: 566, 3850
+  size: 39, 59
+  orig: 41, 61
+  offset: 1, 1
+  index: -1
+dd_15
+  rotate: false
+  xy: 56, 3894
+  size: 10, 15
+  orig: 11, 16
+  offset: 1, 0
+  index: -1
+dd_16
+  rotate: false
+  xy: 385, 3868
+  size: 38, 41
+  orig: 40, 43
+  offset: 1, 1
+  index: -1
+dd_17
+  rotate: false
+  xy: 486, 3858
+  size: 52, 51
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+dd_18
+  rotate: false
+  xy: 175, 3883
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+dd_19
+  rotate: false
+  xy: 265, 3878
+  size: 29, 31
+  orig: 31, 33
+  offset: 1, 1
+  index: -1
+dd_2
+  rotate: false
+  xy: 103, 3890
+  size: 19, 19
+  orig: 20, 21
+  offset: 0, 1
+  index: -1
+dd_20
+  rotate: false
+  xy: 683, 3806
+  size: 80, 103
+  orig: 110, 110
+  offset: 14, 7
+  index: -1
+dd_3
+  rotate: false
+  xy: 68, 3892
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+dd_4
+  rotate: false
+  xy: 29, 3897
+  size: 11, 12
+  orig: 13, 14
+  offset: 1, 1
+  index: -1
+dd_5
+  rotate: false
+  xy: 42, 3897
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+dd_6
+  rotate: false
+  xy: 296, 3872
+  size: 34, 37
+  orig: 36, 40
+  offset: 1, 2
+  index: -1
+dd_7
+  rotate: false
+  xy: 201, 3882
+  size: 27, 27
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+dd_8
+  rotate: false
+  xy: 2, 3900
+  size: 11, 9
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dd_9
+  rotate: false
+  xy: 230, 3879
+  size: 33, 30
+  orig: 35, 32
+  offset: 1, 1
+  index: -1
+guang01
+  rotate: false
+  xy: 700, 2101
+  size: 588, 910
+  orig: 643, 958
+  offset: 28, 0
+  index: -1
+guang02
+  rotate: false
+  xy: 1883, 1680
+  size: 1844, 982
+  orig: 2040, 1213
+  offset: 65, 231
+  index: -1
+guang03
+  rotate: false
+  xy: 2, 2290
+  size: 696, 895
+  orig: 696, 895
+  offset: 0, 0
+  index: -1
+huaban_0
+  rotate: false
+  xy: 2342, 3707
+  size: 71, 202
+  orig: 73, 205
+  offset: 1, 1
+  index: -1
+huaban_1
+  rotate: false
+  xy: 880, 3799
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+huaban_3
+  rotate: false
+  xy: 765, 3802
+  size: 113, 107
+  orig: 116, 111
+  offset: 1, 2
+  index: -1
+huaban_4
+  rotate: false
+  xy: 2415, 3676
+  size: 160, 233
+  orig: 166, 241
+  offset: 4, 5
+  index: -1
+huaban_5
+  rotate: false
+  xy: 2218, 3735
+  size: 122, 174
+  orig: 127, 182
+  offset: 2, 5
+  index: -1
+huaban_6
+  rotate: false
+  xy: 332, 3869
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+huakuai
+  rotate: false
+  xy: 1013, 3794
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+huifufox-a-0
+  rotate: false
+  xy: 3863, 3278
+  size: 46, 631
+  orig: 109, 631
+  offset: 63, 0
+  index: -1
+huifufox-b-0
+  rotate: false
+  xy: 84, 3891
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+qianjing03
+  rotate: false
+  xy: 1086, 3013
+  size: 718, 747
+  orig: 718, 747
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 2, 3308
+  size: 516, 548
+  orig: 516, 548
+  offset: 0, 0
+  index: -1
+shui01
+  rotate: false
+  xy: 2539, 2664
+  size: 1148, 734
+  orig: 1148, 734
+  offset: 0, 0
+  index: -1
+shui02
+  rotate: false
+  xy: 2, 731
+  size: 1749, 1093
+  orig: 1750, 1095
+  offset: 1, 2
+  index: -1
+shui03
+  rotate: false
+  xy: 2577, 3459
+  size: 967, 450
+  orig: 1038, 478
+  offset: 71, 28
+  index: -1
+shui04
+  rotate: false
+  xy: 1753, 432
+  size: 1469, 1246
+  orig: 1482, 1249
+  offset: 13, 3
+  index: -1
+shuye01
+  rotate: false
+  xy: 1290, 1826
+  size: 591, 1039
+  orig: 591, 1039
+  offset: 0, 0
+  index: -1
+shuye02
+  rotate: false
+  xy: 3546, 3400
+  size: 315, 509
+  orig: 315, 509
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 520, 3187
+  size: 564, 605
+  orig: 582, 631
+  offset: 11, 13
+  index: -1
+yy
+  rotate: false
+  xy: 921, 3799
+  size: 90, 110
+  orig: 92, 112
+  offset: 1, 1
+  index: -1
+
+shengnvfulanka_front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 2, 1807
+  size: 3136, 1414
+  orig: 3139, 1415
+  offset: 1, 0
+  index: -1
+qianjing01
+  rotate: false
+  xy: 2, 319
+  size: 3219, 1486
+  orig: 3219, 1486
+  offset: 0, 0
+  index: -1
+
+shengnvfulanka_front3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianjing02
+  rotate: false
+  xy: 2, 1735
+  size: 3219, 1486
+  orig: 3219, 1486
+  offset: 0, 0
+  index: -1
+rusheguang
+  rotate: false
+  xy: 2, 150
+  size: 2536, 1583
+  orig: 2536, 1583
+  offset: 0, 0
+  index: -1

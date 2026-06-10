@@ -1,0 +1,34 @@
+
+lihui_dina_pifu_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_zhu
+  rotate: false
+  xy: 2, 1301
+  size: 2776, 1297
+  orig: 2776, 1297
+  offset: 0, 0
+  index: -1
+che
+  rotate: false
+  xy: 2, 3360
+  size: 1547, 348
+  orig: 1547, 348
+  offset: 0, 0
+  index: -1
+guangyao
+  rotate: true
+  xy: 1551, 2600
+  size: 1108, 1297
+  orig: 1161, 1297
+  offset: 21, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 2
+  size: 2809, 1297
+  orig: 2809, 1297
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 0, 1558
+  size: 911, 913
+  orig: 911, 913
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 2341, 1482
+  size: 2341, 980
+  orig: 2341, 980
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: true
+  xy: 911, 1925
+  size: 546, 1124
+  orig: 546, 1124
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: true
+  xy: 3321, 1212
+  size: 1259, 502
+  orig: 1260, 502
+  offset: 1, 0
+  index: -1
+bg5
+  rotate: false
+  xy: 3321, 2471
+  size: 491, 1352
+  orig: 491, 1352
+  offset: 0, 0
+  index: -1
+bg6
+  rotate: true
+  xy: 1195, 1480
+  size: 445, 743
+  orig: 445, 743
+  offset: 0, 0
+  index: -1
+bg7
+  rotate: false
+  xy: 1938, 1023
+  size: 498, 459
+  orig: 498, 459
+  offset: 0, 0
+  index: -1
+bg8
+  rotate: false
+  xy: 0, 130
+  size: 1195, 1352
+  orig: 2269, 1352
+  offset: 0, 0
+  index: -1
+bg9
+  rotate: false
+  xy: 0, 2471
+  size: 2341, 1352
+  orig: 2341, 1352
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+reniya_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxiao
+  rotate: false
+  xy: 5, 5
+  size: 571, 748
+  orig: 571, 748
+  offset: 0, 0
+  index: -1
+guangxiao2
+  rotate: false
+  xy: 1134, 1281
+  size: 659, 674
+  orig: 659, 674
+  offset: 0, 0
+  index: -1
+guangxiao3
+  rotate: false
+  xy: 1373, 177
+  size: 659, 674
+  orig: 659, 674
+  offset: 0, 0
+  index: -1
+guangxiao4
+  rotate: false
+  xy: 1282, 3399
+  size: 659, 674
+  orig: 659, 674
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 581, 12
+  size: 787, 741
+  orig: 787, 741
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 1134, 856
+  size: 610, 420
+  orig: 610, 420
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 796, 1960
+  size: 697, 590
+  orig: 697, 590
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 5, 758
+  size: 800, 634
+  orig: 800, 634
+  offset: 0, 0
+  index: -1
+hua_yingyin
+  rotate: false
+  xy: 5, 1563
+  size: 786, 1094
+  orig: 786, 1094
+  offset: 0, 0
+  index: -1
+huatan
+  rotate: false
+  xy: 644, 781
+  size: 485, 777
+  orig: 485, 777
+  offset: 0, 0
+  index: -1
+huatan2
+  rotate: true
+  xy: 1282, 2745
+  size: 649, 611
+  orig: 649, 611
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 5, 2662
+  size: 1272, 1411
+  orig: 1272, 1411
+  offset: 0, 0
+  index: -1

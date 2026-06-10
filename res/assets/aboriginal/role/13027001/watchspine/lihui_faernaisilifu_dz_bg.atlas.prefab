@@ -1,0 +1,89 @@
+
+lihui_faernaisilifu_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fens_100
+  rotate: false
+  xy: 1555, 3149
+  size: 511, 403
+  orig: 511, 403
+  offset: 0, 0
+  index: -1
+fens_101
+  rotate: false
+  xy: 2391, 2803
+  size: 700, 749
+  orig: 700, 749
+  offset: 0, 0
+  index: -1
+fens_102
+  rotate: false
+  xy: 2, 62
+  size: 3023, 1462
+  orig: 3023, 1462
+  offset: 0, 0
+  index: -1
+fens_94
+  rotate: false
+  xy: 2068, 3130
+  size: 321, 422
+  orig: 321, 422
+  offset: 0, 0
+  index: -1
+fens_95
+  rotate: false
+  xy: 140, 3238
+  size: 1163, 314
+  orig: 1163, 314
+  offset: 0, 0
+  index: -1
+fens_96
+  rotate: false
+  xy: 1305, 3149
+  size: 248, 403
+  orig: 248, 403
+  offset: 0, 0
+  index: -1
+fens_97
+  rotate: false
+  xy: 2, 3425
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+fens_98
+  rotate: false
+  xy: 3093, 2266
+  size: 459, 1286
+  orig: 459, 1286
+  offset: 0, 0
+  index: -1
+fens_99
+  rotate: false
+  xy: 2, 1526
+  size: 1715, 1621
+  orig: 1715, 1621
+  offset: 0, 0
+  index: -1
+
+lihui_faernaisilifu_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fens_103
+  rotate: false
+  xy: 2, 250
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1
+fens_104
+  rotate: false
+  xy: 2, 1873
+  size: 3511, 1640
+  orig: 3511, 1640
+  offset: 0, 0
+  index: -1

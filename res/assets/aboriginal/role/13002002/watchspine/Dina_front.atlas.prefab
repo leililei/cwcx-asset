@@ -1,0 +1,27 @@
+
+Dina_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dn_0
+  rotate: false
+  xy: 2137, 472
+  size: 906, 1152
+  orig: 911, 1158
+  offset: 0, 0
+  index: -1
+dn_1
+  rotate: false
+  xy: 2137, 1626
+  size: 1613, 2124
+  orig: 1613, 2124
+  offset: 0, 0
+  index: -1
+dn_2
+  rotate: false
+  xy: 2, 1452
+  size: 2133, 2298
+  orig: 2234, 2412
+  offset: 24, 113
+  index: -1

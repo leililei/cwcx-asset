@@ -1,0 +1,69 @@
+
+lihui_ysbl_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 1344, 2819
+  size: 376, 606
+  orig: 377, 606
+  offset: 0, 0
+  index: -1
+baobao
+  rotate: false
+  xy: 223, 3311
+  size: 488, 114
+  orig: 488, 114
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 1413
+  size: 3043, 1404
+  orig: 3043, 1409
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 815, 3246
+  size: 165, 179
+  orig: 165, 180
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 713, 3285
+  size: 100, 140
+  orig: 100, 146
+  offset: 0, 5
+  index: -1
+mtl
+  rotate: false
+  xy: 2, 2
+  size: 3043, 1409
+  orig: 3043, 1409
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 114, 3319
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: false
+  xy: 2, 3367
+  size: 110, 58
+  orig: 112, 60
+  offset: 0, 1
+  index: -1
+xie
+  rotate: false
+  xy: 982, 3190
+  size: 360, 235
+  orig: 361, 235
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+lihui_jsjhyz_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 2660
+  size: 2745, 1007
+  orig: 2747, 1015
+  offset: 2, 8
+  index: -1
+guang2
+  rotate: false
+  xy: 2452, 4
+  size: 868, 507
+  orig: 869, 508
+  offset: 0, 1
+  index: -1
+guang3
+  rotate: false
+  xy: 2749, 2876
+  size: 803, 791
+  orig: 809, 792
+  offset: 6, 1
+  index: -1
+guang4
+  rotate: false
+  xy: 1441, 2
+  size: 1009, 509
+  orig: 1014, 524
+  offset: 4, 14
+  index: -1
+guang5
+  rotate: false
+  xy: 2, 1361
+  size: 1920, 1297
+  orig: 1951, 1297
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: false
+  xy: 1441, 513
+  size: 1835, 846
+  orig: 1894, 972
+  offset: 2, 58
+  index: -1
+men1
+  rotate: false
+  xy: 2, 62
+  size: 1437, 1297
+  orig: 1437, 1297
+  offset: 0, 0
+  index: -1
+men2
+  rotate: false
+  xy: 1924, 1361
+  size: 1452, 1297
+  orig: 1452, 1297
+  offset: 0, 0
+  index: -1

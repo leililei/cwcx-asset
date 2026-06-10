@@ -1,0 +1,1042 @@
+
+lihui_momoka_dz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+momoka_01
+  rotate: false
+  xy: 1903, 901
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+momoka_02
+  rotate: false
+  xy: 44, 4
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+momoka_03
+  rotate: false
+  xy: 439, 173
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+momoka_04
+  rotate: true
+  xy: 1746, 792
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+momoka_05
+  rotate: false
+  xy: 148, 9
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+momoka_06
+  rotate: true
+  xy: 845, 1264
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+momoka_07
+  rotate: false
+  xy: 736, 468
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+momoka_08
+  rotate: true
+  xy: 1538, 515
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+momoka_09
+  rotate: true
+  xy: 1086, 18
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+momoka_10
+  rotate: true
+  xy: 1818, 951
+  size: 48, 127
+  orig: 69, 127
+  offset: 0, 0
+  index: -1
+momoka_100
+  rotate: true
+  xy: 1402, 954
+  size: 292, 158
+  orig: 292, 158
+  offset: 0, 0
+  index: -1
+momoka_101
+  rotate: true
+  xy: 1621, 1244
+  size: 358, 353
+  orig: 358, 353
+  offset: 0, 0
+  index: -1
+momoka_102
+  rotate: false
+  xy: 1264, 1246
+  size: 357, 356
+  orig: 357, 356
+  offset: 0, 0
+  index: -1
+momoka_103
+  rotate: true
+  xy: 1964, 1667
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+momoka_104
+  rotate: false
+  xy: 362, 15
+  size: 77, 183
+  orig: 77, 183
+  offset: 0, 0
+  index: -1
+momoka_105
+  rotate: false
+  xy: 1820, 1662
+  size: 144, 209
+  orig: 144, 209
+  offset: 0, 0
+  index: -1
+momoka_106
+  rotate: false
+  xy: 1167, 373
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+momoka_107
+  rotate: false
+  xy: 1167, 235
+  size: 134, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+momoka_108
+  rotate: true
+  xy: 1479, 420
+  size: 95, 88
+  orig: 97, 90
+  offset: 0, 2
+  index: -1
+momoka_109
+  rotate: false
+  xy: 1343, 515
+  size: 100, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+momoka_11
+  rotate: false
+  xy: 615, 1380
+  size: 254, 668
+  orig: 254, 668
+  offset: 0, 0
+  index: -1
+momoka_112
+  rotate: false
+  xy: 869, 1612
+  size: 456, 436
+  orig: 462, 436
+  offset: 6, 0
+  index: -1
+momoka_113
+  rotate: true
+  xy: 0, 22
+  size: 176, 362
+  orig: 176, 369
+  offset: 0, 0
+  index: -1
+momoka_114
+  rotate: false
+  xy: 736, 482
+  size: 139, 350
+  orig: 139, 354
+  offset: 0, 0
+  index: -1
+momoka_12
+  rotate: false
+  xy: 615, 832
+  size: 230, 548
+  orig: 230, 548
+  offset: 0, 0
+  index: -1
+momoka_13
+  rotate: false
+  xy: 1470, 721
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+momoka_14
+  rotate: false
+  xy: 1470, 632
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+momoka_15
+  rotate: false
+  xy: 630, 4
+  size: 156, 169
+  orig: 156, 169
+  offset: 0, 0
+  index: -1
+momoka_16
+  rotate: false
+  xy: 1941, 1050
+  size: 33, 194
+  orig: 33, 194
+  offset: 0, 0
+  index: -1
+momoka_17
+  rotate: true
+  xy: 1191, 515
+  size: 109, 152
+  orig: 109, 152
+  offset: 0, 0
+  index: -1
+momoka_18
+  rotate: true
+  xy: 1325, 1602
+  size: 269, 495
+  orig: 269, 495
+  offset: 0, 0
+  index: -1
+momoka_19
+  rotate: false
+  xy: 1149, 594
+  size: 42, 276
+  orig: 42, 276
+  offset: 0, 0
+  index: -1
+momoka_20
+  rotate: true
+  xy: 1582, 766
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+momoka_21
+  rotate: true
+  xy: 913, 131
+  size: 86, 274
+  orig: 86, 283
+  offset: 0, 0
+  index: -1
+momoka_22
+  rotate: false
+  xy: 0, 198
+  size: 453, 622
+  orig: 453, 622
+  offset: 0, 0
+  index: -1
+momoka_25
+  rotate: false
+  xy: 0, 820
+  size: 615, 1228
+  orig: 615, 1228
+  offset: 0, 0
+  index: -1
+momoka_26
+  rotate: false
+  xy: 761, 468
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+momoka_27
+  rotate: true
+  xy: 1167, 217
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+momoka_28
+  rotate: false
+  xy: 827, 0
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+momoka_29
+  rotate: true
+  xy: 1761, 871
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+momoka_30
+  rotate: false
+  xy: 1514, 895
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+momoka_31
+  rotate: true
+  xy: 439, 0
+  size: 34, 120
+  orig: 34, 120
+  offset: 0, 0
+  index: -1
+momoka_32
+  rotate: false
+  xy: 1974, 1228
+  size: 71, 121
+  orig: 71, 121
+  offset: 0, 0
+  index: -1
+momoka_33
+  rotate: false
+  xy: 1900, 878
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+momoka_34
+  rotate: true
+  xy: 1941, 1002
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+momoka_35
+  rotate: false
+  xy: 1817, 861
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+momoka_36
+  rotate: false
+  xy: 1488, 330
+  size: 85, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+momoka_37
+  rotate: true
+  xy: 1488, 272
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+momoka_38
+  rotate: false
+  xy: 1964, 1732
+  size: 62, 146
+  orig: 71, 146
+  offset: 0, 0
+  index: -1
+momoka_39
+  rotate: true
+  xy: 910, 20
+  size: 111, 176
+  orig: 111, 176
+  offset: 0, 0
+  index: -1
+momoka_40
+  rotate: true
+  xy: 981, 0
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+momoka_41
+  rotate: true
+  xy: 1167, 515
+  size: 17, 19
+  orig: 20, 19
+  offset: 3, 0
+  index: -1
+momoka_42
+  rotate: true
+  xy: 590, 15
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+momoka_43
+  rotate: true
+  xy: 0, 0
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+momoka_44
+  rotate: true
+  xy: 1357, 624
+  size: 23, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+momoka_45
+  rotate: false
+  xy: 1760, 824
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+momoka_46
+  rotate: false
+  xy: 1538, 837
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+momoka_47
+  rotate: true
+  xy: 1149, 532
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+momoka_48
+  rotate: true
+  xy: 1582, 892
+  size: 67, 87
+  orig: 67, 91
+  offset: 0, 4
+  index: -1
+momoka_49
+  rotate: false
+  xy: 1301, 248
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+momoka_50
+  rotate: true
+  xy: 1193, 810
+  size: 137, 203
+  orig: 137, 203
+  offset: 0, 0
+  index: -1
+momoka_51
+  rotate: false
+  xy: 453, 468
+  size: 283, 352
+  orig: 292, 352
+  offset: 9, 0
+  index: -1
+momoka_52
+  rotate: false
+  xy: 1560, 959
+  size: 139, 285
+  orig: 139, 292
+  offset: 0, 7
+  index: -1
+momoka_53
+  rotate: false
+  xy: 1583, 857
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+momoka_54
+  rotate: false
+  xy: 1817, 909
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+momoka_55
+  rotate: false
+  xy: 875, 492
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+momoka_56
+  rotate: false
+  xy: 776, 175
+  size: 137, 307
+  orig: 151, 307
+  offset: 0, 0
+  index: -1
+momoka_57
+  rotate: true
+  xy: 1820, 1612
+  size: 50, 158
+  orig: 93, 158
+  offset: 43, 0
+  index: -1
+momoka_58
+  rotate: false
+  xy: 1194, 14
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+momoka_59
+  rotate: false
+  xy: 1974, 1349
+  size: 71, 134
+  orig: 71, 134
+  offset: 0, 0
+  index: -1
+momoka_60
+  rotate: false
+  xy: 1669, 908
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+momoka_61
+  rotate: false
+  xy: 1538, 535
+  size: 45, 97
+  orig: 45, 99
+  offset: 0, 2
+  index: -1
+momoka_62
+  rotate: true
+  xy: 1582, 807
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+momoka_63
+  rotate: false
+  xy: 1396, 810
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+momoka_64
+  rotate: true
+  xy: 1978, 1617
+  size: 50, 58
+  orig: 53, 64
+  offset: 3, 6
+  index: -1
+momoka_65
+  rotate: false
+  xy: 1426, 388
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+momoka_66
+  rotate: true
+  xy: 1974, 1483
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+momoka_67
+  rotate: false
+  xy: 1553, 731
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+momoka_68
+  rotate: false
+  xy: 1873, 865
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+momoka_69
+  rotate: false
+  xy: 1193, 947
+  size: 209, 293
+  orig: 209, 293
+  offset: 0, 0
+  index: -1
+momoka_70
+  rotate: false
+  xy: 1431, 276
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+momoka_71
+  rotate: true
+  xy: 1325, 1871
+  size: 177, 595
+  orig: 177, 595
+  offset: 0, 0
+  index: -1
+momoka_73
+  rotate: false
+  xy: 1699, 955
+  size: 119, 289
+  orig: 119, 289
+  offset: 0, 0
+  index: -1
+momoka_74
+  rotate: false
+  xy: 1313, 131
+  size: 112, 117
+  orig: 112, 117
+  offset: 0, 0
+  index: -1
+momoka_75
+  rotate: false
+  xy: 1309, 377
+  size: 117, 138
+  orig: 117, 138
+  offset: 0, 0
+  index: -1
+momoka_76
+  rotate: true
+  xy: 1402, 889
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+momoka_77
+  rotate: true
+  xy: 1763, 906
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+momoka_78
+  rotate: true
+  xy: 1444, 821
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+momoka_79
+  rotate: false
+  xy: 786, 15
+  size: 124, 160
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+momoka_80
+  rotate: true
+  xy: 1920, 1878
+  size: 170, 118
+  orig: 170, 118
+  offset: 0, 0
+  index: -1
+momoka_81
+  rotate: true
+  xy: 439, 34
+  size: 139, 191
+  orig: 139, 199
+  offset: 0, 8
+  index: -1
+momoka_82
+  rotate: true
+  xy: 1974, 1044
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+momoka_83
+  rotate: false
+  xy: 1664, 791
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+momoka_84
+  rotate: false
+  xy: 1394, 258
+  size: 37, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+momoka_85
+  rotate: false
+  xy: 1669, 847
+  size: 91, 25
+  orig: 91, 25
+  offset: 0, 0
+  index: -1
+momoka_86
+  rotate: false
+  xy: 1443, 515
+  size: 95, 28
+  orig: 95, 28
+  offset: 0, 0
+  index: -1
+momoka_87
+  rotate: false
+  xy: 1443, 543
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+momoka_88
+  rotate: false
+  xy: 453, 173
+  size: 323, 295
+  orig: 323, 295
+  offset: 0, 0
+  index: -1
+momoka_89
+  rotate: true
+  xy: 913, 217
+  size: 306, 254
+  orig: 306, 254
+  offset: 0, 0
+  index: -1
+momoka_90
+  rotate: true
+  xy: 1818, 999
+  size: 245, 123
+  orig: 245, 123
+  offset: 0, 0
+  index: -1
+momoka_91
+  rotate: false
+  xy: 845, 870
+  size: 348, 370
+  orig: 348, 370
+  offset: 0, 0
+  index: -1
+momoka_92
+  rotate: false
+  xy: 1357, 647
+  size: 113, 163
+  orig: 113, 163
+  offset: 0, 0
+  index: -1
+momoka_93
+  rotate: false
+  xy: 1191, 624
+  size: 166, 186
+  orig: 166, 202
+  offset: 0, 0
+  index: -1
+momoka_94
+  rotate: false
+  xy: 1974, 1112
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+momoka_95
+  rotate: false
+  xy: 1187, 139
+  size: 126, 96
+  orig: 126, 148
+  offset: 0, 52
+  index: -1
+momoka_96
+  rotate: true
+  xy: 1313, 0
+  size: 31, 119
+  orig: 31, 119
+  offset: 0, 0
+  index: -1
+momoka_98
+  rotate: true
+  xy: 869, 1240
+  size: 372, 395
+  orig: 372, 395
+  offset: 0, 0
+  index: -1
+momoka_99
+  rotate: false
+  xy: 875, 523
+  size: 274, 347
+  orig: 274, 347
+  offset: 0, 0
+  index: -1
+momoka_bq1_meimao_01
+  rotate: false
+  xy: 105, 6
+  size: 43, 16
+  orig: 43, 20
+  offset: 0, 4
+  index: -1
+momoka_bq1_meimao_02
+  rotate: true
+  xy: 559, 0
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+momoka_bq1_zuiba_01
+  rotate: true
+  xy: 190, 0
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+momoka_bq1_zuiba_02
+  rotate: true
+  xy: 1746, 822
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+momoka_bq1_zuiba_03
+  rotate: true
+  xy: 1475, 257
+  size: 19, 13
+  orig: 22, 14
+  offset: 3, 0
+  index: -1
+momoka_bq2_meimao_01
+  rotate: true
+  xy: 845, 1343
+  size: 37, 24
+  orig: 37, 30
+  offset: 0, 6
+  index: -1
+momoka_bq2_meimao_02
+  rotate: false
+  xy: 1432, 639
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+momoka_bq2_zuiba_01
+  rotate: false
+  xy: 1264, 1240
+  size: 12, 6
+  orig: 27, 10
+  offset: 14, 4
+  index: -1
+momoka_bq3_meimao_01
+  rotate: false
+  xy: 1023, 4
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+momoka_bq3_meimao_02
+  rotate: false
+  xy: 845, 840
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+momoka_bq3_zuiba_01
+  rotate: false
+  xy: 808, 0
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+momoka_bq3_zuiba_02
+  rotate: true
+  xy: 1565, 516
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+momoka_bq3_zuiba_03
+  rotate: false
+  xy: 1062, 4
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+momoka_bq4_meimao_01
+  rotate: false
+  xy: 1431, 260
+  size: 44, 16
+  orig: 44, 18
+  offset: 0, 2
+  index: -1
+momoka_bq4_meimao_02
+  rotate: true
+  xy: 2016, 1011
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+momoka_bq4_zuiba_01
+  rotate: false
+  xy: 845, 1300
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+momoka_bq4_zuiba_02
+  rotate: false
+  xy: 786, 0
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+momoka_bq4_zuiba_03
+  rotate: true
+  xy: 1004, 0
+  size: 20, 19
+  orig: 27, 26
+  offset: 3, 4
+  index: -1
+momoka_bq4_zuiba_04
+  rotate: true
+  xy: 1560, 954
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+momoka_qiu_01
+  rotate: false
+  xy: 1812, 822
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+momoka_qiu_02
+  rotate: false
+  xy: 1432, 625
+  size: 11, 14
+  orig: 11, 15
+  offset: 0, 1
+  index: -1
+momoka_qiu_03
+  rotate: true
+  xy: 845, 832
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+momoka_qiu_04
+  rotate: true
+  xy: 1444, 810
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+momoka_qiu_05
+  rotate: true
+  xy: 910, 0
+  size: 20, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+momoka_qiu_06
+  rotate: false
+  xy: 1313, 31
+  size: 109, 100
+  orig: 109, 100
+  offset: 0, 0
+  index: -1
+momoka_zc_aixin_01
+  rotate: true
+  xy: 1479, 408
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+momoka_zc_biyan_01
+  rotate: false
+  xy: 590, 0
+  size: 31, 15
+  orig: 48, 50
+  offset: 5, 5
+  index: -1
+momoka_zc_biyan_02
+  rotate: false
+  xy: 1663, 774
+  size: 35, 17
+  orig: 55, 26
+  offset: 20, 0
+  index: -1
+momoka_zc_meimao_01
+  rotate: false
+  xy: 615, 820
+  size: 40, 12
+  orig: 40, 13
+  offset: 0, 1
+  index: -1
+momoka_zc_meimao_02
+  rotate: false
+  xy: 1580, 739
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+momoka_zc_saihong_01
+  rotate: false
+  xy: 1669, 872
+  size: 92, 36
+  orig: 92, 36
+  offset: 0, 0
+  index: -1
+momoka_zc_yanjing_01
+  rotate: true
+  xy: 1553, 775
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+momoka_zc_yanjing_02
+  rotate: false
+  xy: 1967, 1006
+  size: 49, 38
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+momoka_zc_yanjing_03
+  rotate: true
+  xy: 1642, 771
+  size: 36, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+momoka_zc_yanjing_04
+  rotate: false
+  xy: 1610, 741
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+momoka_zc_yanjing_05
+  rotate: false
+  xy: 956, 0
+  size: 25, 20
+  orig: 37, 20
+  offset: 7, 0
+  index: -1
+momoka_zc_yanjing_06
+  rotate: false
+  xy: 1923, 878
+  size: 23, 23
+  orig: 46, 40
+  offset: 4, 17
+  index: -1
+momoka_zc_yanjing_07
+  rotate: false
+  xy: 1399, 624
+  size: 33, 23
+  orig: 37, 23
+  offset: 2, 0
+  index: -1
+momoka_zc_yanjing_08
+  rotate: true
+  xy: 845, 1316
+  size: 27, 24
+  orig: 36, 40
+  offset: 0, 16
+  index: -1
+momoka_zc_zuiba_01
+  rotate: false
+  xy: 1920, 1871
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1

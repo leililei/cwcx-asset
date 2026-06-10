@@ -1,0 +1,27 @@
+
+Dina_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dn_81
+  rotate: false
+  xy: 141, 3092
+  size: 424, 986
+  orig: 426, 986
+  offset: 0, 0
+  index: -1
+dn_82
+  rotate: false
+  xy: 2, 3155
+  size: 137, 923
+  orig: 137, 923
+  offset: 0, 0
+  index: -1
+dn_83
+  rotate: false
+  xy: 567, 2457
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1

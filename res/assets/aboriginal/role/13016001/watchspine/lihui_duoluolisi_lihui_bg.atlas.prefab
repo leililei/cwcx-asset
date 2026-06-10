@@ -1,0 +1,13 @@
+
+lihui_duoluolisi_lihui_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 1611
+  size: 3981, 2370
+  orig: 3981, 2370
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+lihui_zhaowu_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shan
+  rotate: false
+  xy: 0, 266
+  size: 3104, 1509
+  orig: 3104, 1509
+  offset: 0, 0
+  index: -1
+yun
+  rotate: true
+  xy: 1303, 1775
+  size: 1329, 1433
+  orig: 1329, 1433
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: true
+  xy: 0, 2222
+  size: 882, 1303
+  orig: 882, 1303
+  offset: 0, 0
+  index: -1
+
+lihui_zhaowu_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 0, 1422
+  size: 3992, 2570
+  orig: 3992, 2570
+  offset: 0, 0
+  index: -1

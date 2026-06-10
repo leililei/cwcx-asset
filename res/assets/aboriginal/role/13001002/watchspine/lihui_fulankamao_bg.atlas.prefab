@@ -1,0 +1,153 @@
+
+lihui_fulankamao_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baisehuaduo
+  rotate: false
+  xy: 0, 1011
+  size: 1780, 743
+  orig: 1780, 743
+  offset: 0, 0
+  index: -1
+cangcong2
+  rotate: false
+  xy: 338, 3935
+  size: 264, 150
+  orig: 264, 150
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 0, 2390
+  size: 1556, 550
+  orig: 1556, 550
+  offset: 0, 0
+  index: -1
+caocong1
+  rotate: true
+  xy: 2674, 3837
+  size: 248, 322
+  orig: 248, 322
+  offset: 0, 0
+  index: -1
+caocong3
+  rotate: true
+  xy: 0, 3985
+  size: 100, 230
+  orig: 100, 230
+  offset: 0, 0
+  index: -1
+caocong4
+  rotate: false
+  xy: 0, 3734
+  size: 262, 251
+  orig: 262, 251
+  offset: 0, 0
+  index: -1
+caocong5
+  rotate: false
+  xy: 1449, 3889
+  size: 1225, 196
+  orig: 1225, 196
+  offset: 0, 0
+  index: -1
+caocong6
+  rotate: false
+  xy: 2996, 3837
+  size: 1050, 248
+  orig: 1050, 248
+  offset: 0, 0
+  index: -1
+caocong7
+  rotate: false
+  xy: 1511, 3496
+  size: 604, 393
+  orig: 604, 394
+  offset: 0, 1
+  index: -1
+caocong8
+  rotate: false
+  xy: 262, 3578
+  size: 618, 349
+  orig: 618, 349
+  offset: 0, 0
+  index: -1
+caocong9
+  rotate: true
+  xy: 3507, 1886
+  size: 1951, 578
+  orig: 1951, 579
+  offset: 0, 0
+  index: -1
+caocongguodu
+  rotate: false
+  xy: 0, 3083
+  size: 1313, 436
+  orig: 1313, 436
+  offset: 0, 0
+  index: -1
+caodi
+  rotate: false
+  xy: 1780, 335
+  size: 1951, 901
+  orig: 1951, 901
+  offset: 0, 0
+  index: -1
+hengmu
+  rotate: false
+  xy: 0, 1754
+  size: 1985, 635
+  orig: 1985, 635
+  offset: 0, 0
+  index: -1
+mogu
+  rotate: false
+  xy: 1985, 1236
+  size: 1946, 650
+  orig: 1946, 650
+  offset: 0, 0
+  index: -1
+mogu2
+  rotate: false
+  xy: 2115, 3408
+  size: 979, 429
+  orig: 979, 429
+  offset: 0, 0
+  index: -1
+mogu3
+  rotate: false
+  xy: 602, 3927
+  size: 847, 158
+  orig: 847, 158
+  offset: 0, 0
+  index: -1
+renwutouying
+  rotate: false
+  xy: 1313, 2940
+  size: 1711, 468
+  orig: 1711, 468
+  offset: 0, 0
+  index: -1
+shushuang
+  rotate: false
+  xy: 1556, 2389
+  size: 1951, 551
+  orig: 1951, 551
+  offset: 0, 0
+  index: -1
+songshu
+  rotate: true
+  xy: 230, 3985
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+woning
+  rotate: true
+  xy: 880, 3519
+  size: 370, 631
+  orig: 370, 631
+  offset: 0, 0
+  index: -1

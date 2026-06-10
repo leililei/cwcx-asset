@@ -1,0 +1,20 @@
+
+lihui_qiaoke_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 1886
+  size: 3878, 1994
+  orig: 3878, 1994
+  offset: 0, 0
+  index: -1
+teng
+  rotate: false
+  xy: 2, 991
+  size: 694, 893
+  orig: 694, 901
+  offset: 0, 8
+  index: -1

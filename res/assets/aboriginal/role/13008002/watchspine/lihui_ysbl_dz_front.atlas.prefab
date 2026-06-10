@@ -1,0 +1,27 @@
+
+lihui_ysbl_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G6
+  rotate: false
+  xy: 2, 1640
+  size: 3043, 1405
+  orig: 3043, 1405
+  offset: 0, 0
+  index: -1
+shadow4
+  rotate: false
+  xy: 2, 1478
+  size: 280, 160
+  orig: 280, 160
+  offset: 0, 0
+  index: -1
+shadow5
+  rotate: false
+  xy: 284, 1478
+  size: 280, 160
+  orig: 280, 160
+  offset: 0, 0
+  index: -1

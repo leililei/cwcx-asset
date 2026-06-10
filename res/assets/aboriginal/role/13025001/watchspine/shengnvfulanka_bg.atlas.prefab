@@ -1,0 +1,54 @@
+
+shengnvfulanka_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban01
+  rotate: false
+  xy: 2, 2177
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1
+shizhu
+  rotate: false
+  xy: 3515, 3181
+  size: 283, 617
+  orig: 283, 617
+  offset: 0, 0
+  index: -1
+shuixia
+  rotate: false
+  xy: 2, 554
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1
+
+shengnvfulanka_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 981
+  size: 2438, 1408
+  orig: 2439, 1408
+  offset: 1, 0
+  index: -1
+shui
+  rotate: false
+  xy: 2, 2391
+  size: 2811, 1621
+  orig: 2875, 1621
+  offset: 64, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 2, 2
+  size: 1522, 977
+  orig: 2249, 1091
+  offset: 726, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+lihui_dina_pifu_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiqi
+  rotate: false
+  xy: 2, 3645
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 1128
+  size: 3724, 1684
+  orig: 3724, 1684
+  offset: 0, 0
+  index: -1
+weiqi
+  rotate: false
+  xy: 106, 2814
+  size: 1979, 912
+  orig: 1979, 912
+  offset: 0, 0
+  index: -1

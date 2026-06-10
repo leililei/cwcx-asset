@@ -1,0 +1,48 @@
+
+lihui_momokayongzhuang_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: false
+  xy: 2545, 1828
+  size: 441, 503
+  orig: 441, 503
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 1519
+  size: 2541, 1824
+  orig: 2541, 1824
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 2545, 2333
+  size: 1010, 798
+  orig: 1010, 798
+  offset: 0, 0
+  index: -1
+yumao-1
+  rotate: true
+  xy: 2545, 1324
+  size: 502, 257
+  orig: 502, 257
+  offset: 0, 0
+  index: -1
+yumao-2
+  rotate: true
+  xy: 2988, 2099
+  size: 232, 291
+  orig: 232, 291
+  offset: 0, 0
+  index: -1
+yumao-3
+  rotate: false
+  xy: 2804, 1279
+  size: 200, 547
+  orig: 200, 547
+  offset: 0, 0
+  index: -1

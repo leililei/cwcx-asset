@@ -1,0 +1,118 @@
+
+lihui_fulankamao_qj.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bishangzui
+  rotate: true
+  xy: 4060, 4022
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+languang1
+  rotate: true
+  xy: 0, 2
+  size: 49, 44
+  orig: 50, 46
+  offset: 1, 1
+  index: -1
+languang10
+  rotate: false
+  xy: 2533, 2893
+  size: 1527, 1188
+  orig: 1528, 1190
+  offset: 1, 1
+  index: -1
+languang11
+  rotate: false
+  xy: 2251, 2965
+  size: 252, 209
+  orig: 253, 209
+  offset: 0, 0
+  index: -1
+languang12
+  rotate: false
+  xy: 2251, 257
+  size: 779, 1231
+  orig: 780, 1232
+  offset: 0, 1
+  index: -1
+languang13
+  rotate: false
+  xy: 3030, 964
+  size: 890, 524
+  orig: 891, 526
+  offset: 0, 1
+  index: -1
+languang2
+  rotate: true
+  xy: 357, 89
+  size: 94, 77
+  orig: 96, 77
+  offset: 1, 0
+  index: -1
+languang3
+  rotate: false
+  xy: 261, 30
+  size: 96, 153
+  orig: 97, 154
+  offset: 1, 0
+  index: -1
+languang4
+  rotate: false
+  xy: 2251, 1488
+  size: 1746, 556
+  orig: 1748, 558
+  offset: 1, 1
+  index: -1
+languang5
+  rotate: false
+  xy: 2251, 2044
+  size: 1538, 849
+  orig: 1539, 850
+  offset: 0, 1
+  index: -1
+languang6
+  rotate: false
+  xy: 0, 224
+  size: 1744, 370
+  orig: 1745, 372
+  offset: 1, 1
+  index: -1
+languang7
+  rotate: false
+  xy: 0, 2157
+  size: 1783, 1017
+  orig: 1784, 1017
+  offset: 0, 0
+  index: -1
+languang8
+  rotate: true
+  xy: 1783, 183
+  size: 2991, 468
+  orig: 2992, 470
+  offset: 1, 1
+  index: -1
+languang9
+  rotate: false
+  xy: 0, 3174
+  size: 2533, 907
+  orig: 2535, 909
+  offset: 1, 1
+  index: -1
+lianhong
+  rotate: false
+  xy: 0, 51
+  size: 261, 132
+  orig: 263, 134
+  offset: 1, 1
+  index: -1
+qianjing1
+  rotate: true
+  xy: 434, 594
+  size: 1563, 920
+  orig: 2940, 920
+  offset: 1377, 0
+  index: -1

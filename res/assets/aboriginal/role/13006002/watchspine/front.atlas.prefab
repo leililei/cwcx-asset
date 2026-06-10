@@ -1,0 +1,41 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_zhiwu
+  rotate: false
+  xy: 2391, 1277
+  size: 864, 824
+  orig: 869, 824
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 0, 0
+  size: 2713, 884
+  orig: 2713, 884
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: false
+  xy: 0, 884
+  size: 2391, 1217
+  orig: 2392, 1217
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: false
+  xy: 0, 2101
+  size: 3424, 1978
+  orig: 3424, 1978
+  offset: 0, 0
+  index: -1
+zui6
+  rotate: true
+  xy: 3424, 4063
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

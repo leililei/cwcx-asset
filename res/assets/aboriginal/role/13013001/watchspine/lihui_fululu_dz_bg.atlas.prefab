@@ -1,0 +1,165 @@
+
+lihui_fululu_dz_bg.png
+size: 4095,4095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caocong1
+  rotate: false
+  xy: 1028, 3168
+  size: 771, 554
+  orig: 771, 568
+  offset: 0, 14
+  index: -1
+caocong2
+  rotate: false
+  xy: 2894, 3659
+  size: 1026, 434
+  orig: 1026, 434
+  offset: 0, 0
+  index: -1
+fengye
+  rotate: false
+  xy: 2, 4031
+  size: 71, 62
+  orig: 408, 202
+  offset: 337, 0
+  index: -1
+fy3
+  rotate: false
+  xy: 1556, 3724
+  size: 918, 369
+  orig: 918, 369
+  offset: 0, 0
+  index: -1
+mensong
+  rotate: true
+  xy: 1167, 3781
+  size: 312, 387
+  orig: 312, 387
+  offset: 0, 0
+  index: -1
+shugan
+  rotate: true
+  xy: 75, 3803
+  size: 290, 1090
+  orig: 290, 1090
+  offset: 0, 0
+  index: -1
+shuiqi1
+  rotate: false
+  xy: 2476, 3722
+  size: 416, 371
+  orig: 416, 371
+  offset: 0, 0
+  index: -1
+shuiqi2
+  rotate: false
+  xy: 1801, 2872
+  size: 1922, 785
+  orig: 1922, 785
+  offset: 0, 0
+  index: -1
+shuwuqi1
+  rotate: false
+  xy: 1892, 952
+  size: 2046, 996
+  orig: 2046, 996
+  offset: 0, 0
+  index: -1
+shuzhi1
+  rotate: false
+  xy: 2, 1101
+  size: 1888, 944
+  orig: 2439, 1126
+  offset: 551, 182
+  index: -1
+shuzhi2
+  rotate: false
+  xy: 2, 3361
+  size: 1024, 440
+  orig: 1094, 440
+  offset: 70, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 2047
+  size: 2024, 823
+  orig: 2024, 823
+  offset: 0, 0
+  index: -1
+xizhi
+  rotate: false
+  xy: 2028, 1950
+  size: 2065, 920
+  orig: 2065, 920
+  offset: 0, 0
+  index: -1
+
+lihui_fululu_dz_bg2.png
+size: 3873,3873
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fy1
+  rotate: false
+  xy: 2, 1794
+  size: 2439, 1011
+  orig: 2439, 1011
+  offset: 0, 0
+  index: -1
+fy2
+  rotate: false
+  xy: 2, 666
+  size: 2439, 1126
+  orig: 2439, 1126
+  offset: 0, 0
+  index: -1
+fy4
+  rotate: true
+  xy: 2443, 509
+  size: 2296, 1126
+  orig: 2296, 1126
+  offset: 0, 0
+  index: -1
+shuiqi
+  rotate: false
+  xy: 2, 2874
+  size: 1915, 997
+  orig: 1915, 997
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 1919, 2807
+  size: 1952, 1064
+  orig: 1952, 1064
+  offset: 0, 0
+  index: -1
+
+lihui_fululu_dz_bg3.png
+size: 3708,3708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing
+  rotate: false
+  xy: 2, 2479
+  size: 2558, 1227
+  orig: 2558, 1227
+  offset: 0, 0
+  index: -1
+weilan
+  rotate: true
+  xy: 2, 176
+  size: 2301, 1340
+  orig: 2301, 1340
+  offset: 0, 0
+  index: -1
+xiongkong
+  rotate: true
+  xy: 1344, 2
+  size: 2475, 1165
+  orig: 2475, 1165
+  offset: 0, 0
+  index: -1

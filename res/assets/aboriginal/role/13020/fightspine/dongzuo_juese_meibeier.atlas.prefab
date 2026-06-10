@@ -1,0 +1,559 @@
+
+dongzuo_juese_meibeier.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+82_21
+  rotate: false
+  xy: 171, 1009
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+82_22
+  rotate: false
+  xy: 100, 1010
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+82_23
+  rotate: false
+  xy: 19, 1012
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+82_28
+  rotate: false
+  xy: 366, 1002
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+82_29
+  rotate: false
+  xy: 279, 1004
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+meibeier_13
+  rotate: true
+  xy: 606, 956
+  size: 42, 113
+  orig: 42, 113
+  offset: 0, 0
+  index: -1
+meibeier_14
+  rotate: true
+  xy: 0, 849
+  size: 78, 123
+  orig: 78, 123
+  offset: 0, 0
+  index: -1
+meibeier_15
+  rotate: true
+  xy: 404, 964
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+meibeier_16
+  rotate: true
+  xy: 838, 996
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+meibeier_17
+  rotate: true
+  xy: 36, 1012
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+meibeier_18
+  rotate: true
+  xy: 242, 808
+  size: 99, 140
+  orig: 99, 140
+  offset: 0, 0
+  index: -1
+meibeier_29
+  rotate: false
+  xy: 382, 794
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+meibeier_30
+  rotate: true
+  xy: 255, 968
+  size: 35, 95
+  orig: 35, 95
+  offset: 0, 0
+  index: -1
+meibeier_31
+  rotate: false
+  xy: 104, 978
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+meibeier_32
+  rotate: false
+  xy: 543, 961
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+meibeier_33
+  rotate: true
+  xy: 745, 501
+  size: 142, 203
+  orig: 142, 203
+  offset: 0, 0
+  index: -1
+meibeier_34
+  rotate: false
+  xy: 0, 452
+  size: 190, 155
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+meibeier_35
+  rotate: true
+  xy: 382, 672
+  size: 117, 191
+  orig: 117, 191
+  offset: 0, 0
+  index: -1
+meibeier_36
+  rotate: false
+  xy: 190, 551
+  size: 145, 143
+  orig: 145, 143
+  offset: 0, 0
+  index: -1
+meibeier_37
+  rotate: true
+  xy: 116, 1010
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+meibeier_39
+  rotate: true
+  xy: 904, 996
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+meibeier_40
+  rotate: true
+  xy: 0, 982
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+meibeier_41
+  rotate: false
+  xy: 123, 842
+  size: 119, 79
+  orig: 119, 79
+  offset: 0, 0
+  index: -1
+meibeier_42
+  rotate: true
+  xy: 699, 998
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+meibeier_43
+  rotate: true
+  xy: 468, 963
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+meibeier_44
+  rotate: true
+  xy: 148, 921
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+meibeier_45
+  rotate: true
+  xy: 702, 875
+  size: 76, 121
+  orig: 76, 121
+  offset: 0, 0
+  index: -1
+meibeier_46
+  rotate: true
+  xy: 412, 1001
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+meibeier_47
+  rotate: true
+  xy: 760, 997
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
+meibeier_48
+  rotate: true
+  xy: 0, 932
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+meibeier_49
+  rotate: true
+  xy: 134, 1010
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+meibeier_51
+  rotate: true
+  xy: 151, 973
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+meibeier_52
+  rotate: true
+  xy: 55, 979
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+meibeier_53
+  rotate: true
+  xy: 350, 965
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+meibeier_54
+  rotate: true
+  xy: 95, 927
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+meibeier_55
+  rotate: false
+  xy: 463, 900
+  size: 114, 61
+  orig: 114, 61
+  offset: 0, 0
+  index: -1
+meibeier_56
+  rotate: true
+  xy: 719, 951
+  size: 45, 130
+  orig: 45, 130
+  offset: 0, 0
+  index: -1
+meibeier_57
+  rotate: true
+  xy: 849, 950
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1
+meibeier_58
+  rotate: false
+  xy: 257, 98
+  size: 237, 221
+  orig: 237, 221
+  offset: 0, 0
+  index: -1
+meibeier_59
+  rotate: true
+  xy: 494, 38
+  size: 268, 292
+  orig: 268, 292
+  offset: 0, 0
+  index: -1
+meibeier_60
+  rotate: true
+  xy: 245, 908
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+meibeier_61
+  rotate: true
+  xy: 197, 971
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+meibeier_74
+  rotate: false
+  xy: 786, 643
+  size: 155, 121
+  orig: 155, 121
+  offset: 0, 0
+  index: -1
+meibeier_eye19
+  rotate: false
+  xy: 953, 995
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+meibeier_eye20
+  rotate: false
+  xy: 469, 1001
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+meibeier_eye21
+  rotate: false
+  xy: 545, 1000
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+meibeier_eye22
+  rotate: true
+  xy: 60, 1011
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+meibeier_eye23
+  rotate: false
+  xy: 152, 1010
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+meibeier_eye24
+  rotate: true
+  xy: 189, 1008
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+meibeier_eye25
+  rotate: false
+  xy: 77, 1011
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+meibeier_eye27
+  rotate: false
+  xy: 632, 999
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+meibeier_shou0
+  rotate: false
+  xy: 299, 1004
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+meibeier_shou1
+  rotate: false
+  xy: 580, 1000
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+meibeier_shou2
+  rotate: false
+  xy: 494, 1001
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+meibeier_shou3
+  rotate: false
+  xy: 345, 1003
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+meibeier_shou4
+  rotate: true
+  xy: 208, 1006
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+meibeier_shou5
+  rotate: true
+  xy: 235, 1006
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+meibeier_shou50
+  rotate: true
+  xy: 607, 1000
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+meibeier_shou6
+  rotate: false
+  xy: 258, 1006
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+meibeier_shou7
+  rotate: true
+  xy: 322, 1004
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+meibeier_shou8
+  rotate: true
+  xy: 521, 1001
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+meibeier_shou9
+  rotate: true
+  xy: 388, 1002
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+meibeier_shu10
+  rotate: false
+  xy: 823, 874
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+meibeier_wuqi11
+  rotate: true
+  xy: 696, 764
+  size: 110, 219
+  orig: 110, 219
+  offset: 0, 0
+  index: -1
+meibeier_wuqi12
+  rotate: true
+  xy: 573, 647
+  size: 117, 213
+  orig: 117, 213
+  offset: 0, 0
+  index: -1
+meibeier_wuqi62
+  rotate: true
+  xy: 488, 789
+  size: 105, 208
+  orig: 105, 208
+  offset: 0, 0
+  index: -1
+meibeier_wuqi63
+  rotate: true
+  xy: 0, 730
+  size: 112, 202
+  orig: 112, 202
+  offset: 0, 0
+  index: -1
+meibeier_wuqi64
+  rotate: true
+  xy: 335, 545
+  size: 127, 199
+  orig: 127, 199
+  offset: 0, 0
+  index: -1
+meibeier_wuqi65
+  rotate: true
+  xy: 654, 306
+  size: 195, 259
+  orig: 195, 259
+  offset: 0, 0
+  index: -1
+meibeier_wuqi66
+  rotate: true
+  xy: 577, 894
+  size: 62, 125
+  orig: 62, 125
+  offset: 0, 0
+  index: -1
+meibeier_wuqi67
+  rotate: false
+  xy: 534, 511
+  size: 211, 136
+  orig: 211, 136
+  offset: 0, 0
+  index: -1
+meibeier_wuqi68
+  rotate: false
+  xy: 0, 172
+  size: 257, 199
+  orig: 257, 199
+  offset: 0, 0
+  index: -1
+meibeier_wuqi69
+  rotate: true
+  xy: 202, 694
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1
+meibeier_wuqi70
+  rotate: true
+  xy: 190, 371
+  size: 174, 234
+  orig: 174, 234
+  offset: 0, 0
+  index: -1
+meibeier_wuqi71
+  rotate: true
+  xy: 350, 907
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+meibeier_wuqi72
+  rotate: false
+  xy: 0, 607
+  size: 190, 123
+  orig: 190, 123
+  offset: 0, 0
+  index: -1
+meibeier_wuqi73
+  rotate: false
+  xy: 424, 319
+  size: 230, 192
+  orig: 230, 192
+  offset: 0, 0
+  index: -1
+meibeier_zui26
+  rotate: false
+  xy: 8, 1016
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+meibeier_zui28
+  rotate: false
+  xy: 0, 1021
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1

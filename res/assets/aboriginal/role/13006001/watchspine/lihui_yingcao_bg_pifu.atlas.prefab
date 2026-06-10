@@ -1,0 +1,27 @@
+
+lihui_yingcao_bg_pifu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_1
+  rotate: false
+  xy: 2, 2369
+  size: 3460, 1093
+  orig: 3460, 1093
+  offset: 0, 0
+  index: -1
+C_2
+  rotate: false
+  xy: 2, 852
+  size: 2701, 570
+  orig: 2701, 570
+  offset: 0, 0
+  index: -1
+C_3
+  rotate: false
+  xy: 2, 1424
+  size: 2701, 943
+  orig: 2701, 943
+  offset: 0, 0
+  index: -1

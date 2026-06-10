@@ -1,0 +1,48 @@
+
+lihui_reniyahushi_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2406
+  size: 3043, 1405
+  orig: 3043, 1405
+  offset: 0, 0
+  index: -1
+guashui
+  rotate: false
+  xy: 1782, 1504
+  size: 537, 900
+  orig: 538, 900
+  offset: 0, 0
+  index: -1
+lianzi1
+  rotate: false
+  xy: 3047, 2656
+  size: 669, 1155
+  orig: 669, 1155
+  offset: 0, 0
+  index: -1
+lianzi2
+  rotate: false
+  xy: 3047, 1768
+  size: 764, 886
+  orig: 764, 886
+  offset: 0, 0
+  index: -1
+yaogui
+  rotate: false
+  xy: 2321, 2000
+  size: 548, 404
+  orig: 550, 404
+  offset: 1, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2, 999
+  size: 1778, 1405
+  orig: 1779, 1405
+  offset: 1, 0
+  index: -1

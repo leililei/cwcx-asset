@@ -1,0 +1,13 @@
+
+dccn2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1752
+  size: 4000, 2250
+  orig: 4000, 2250
+  offset: 0, 0
+  index: -1

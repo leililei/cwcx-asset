@@ -1,0 +1,83 @@
+
+lihui_buzhihuo_yz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buzhihuo174
+  rotate: false
+  xy: 672, 3506
+  size: 179, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+buzhihuo175
+  rotate: false
+  xy: 334, 3578
+  size: 213, 107
+  orig: 218, 112
+  offset: 4, 2
+  index: -1
+buzhihuo176
+  rotate: false
+  xy: 549, 3565
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+buzhihuo178
+  rotate: false
+  xy: 853, 3392
+  size: 270, 293
+  orig: 272, 295
+  offset: 1, 1
+  index: -1
+buzhihuo179
+  rotate: false
+  xy: 1482, 2659
+  size: 1854, 1026
+  orig: 2342, 1130
+  offset: 488, 0
+  index: -1
+buzhihuo182
+  rotate: false
+  xy: 89, 3614
+  size: 105, 71
+  orig: 107, 73
+  offset: 1, 1
+  index: -1
+buzhihuo183
+  rotate: false
+  xy: 2, 3629
+  size: 85, 56
+  orig: 85, 57
+  offset: 0, 1
+  index: -1
+buzhihuo184
+  rotate: false
+  xy: 1125, 3311
+  size: 355, 374
+  orig: 355, 376
+  offset: 0, 1
+  index: -1
+buzhihuo186
+  rotate: false
+  xy: 196, 3589
+  size: 136, 96
+  orig: 145, 106
+  offset: 9, 6
+  index: -1
+buzhihuo188
+  rotate: false
+  xy: 2, 1753
+  size: 3392, 904
+  orig: 3392, 917
+  offset: 0, 4
+  index: -1
+buzhihuo189
+  rotate: false
+  xy: 2, 2
+  size: 3392, 1749
+  orig: 3392, 1749
+  offset: 0, 0
+  index: -1

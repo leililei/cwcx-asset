@@ -1,0 +1,41 @@
+
+lihui_duoluolisi_lihui_frond.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 0, 2318
+  size: 3006, 1739
+  orig: 3006, 1739
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 0, 596
+  size: 2702, 1722
+  orig: 2702, 1722
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: true
+  xy: 3006, 2677
+  size: 1380, 1051
+  orig: 1380, 1051
+  offset: 0, 0
+  index: -1
+huichen1
+  rotate: false
+  xy: 0, 123
+  size: 2628, 473
+  orig: 2628, 473
+  offset: 0, 0
+  index: -1
+huichen2
+  rotate: true
+  xy: 2702, 514
+  size: 1804, 562
+  orig: 1804, 562
+  offset: 0, 0
+  index: -1

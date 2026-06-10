@@ -1,0 +1,34 @@
+
+lihui_qiaoke_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_Eff_huaban
+  rotate: false
+  xy: 2, 3496
+  size: 186, 154
+  orig: 3760, 1670
+  offset: 13, 817
+  index: -1
+Q_Eff_lizi
+  rotate: false
+  xy: 2, 521
+  size: 3648, 1636
+  orig: 3648, 1636
+  offset: 0, 0
+  index: -1
+Q_tm1
+  rotate: false
+  xy: 509, 2159
+  size: 1328, 1491
+  orig: 1330, 1498
+  offset: 2, 7
+  index: -1
+black
+  rotate: false
+  xy: 190, 3438
+  size: 317, 212
+  orig: 317, 212
+  offset: 0, 0
+  index: -1

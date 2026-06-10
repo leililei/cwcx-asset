@@ -1,0 +1,55 @@
+
+lihui_yingcao_front_pifu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_1
+  rotate: true
+  xy: 608, 488
+  size: 1024, 402
+  orig: 1024, 402
+  offset: 0, 0
+  index: -1
+A_2
+  rotate: false
+  xy: 2, 1514
+  size: 1024, 415
+  orig: 1024, 415
+  offset: 0, 0
+  index: -1
+A_3
+  rotate: true
+  xy: 2, 741
+  size: 771, 604
+  orig: 771, 604
+  offset: 0, 0
+  index: -1
+A_4
+  rotate: false
+  xy: 1012, 745
+  size: 435, 266
+  orig: 435, 266
+  offset: 0, 0
+  index: -1
+A_5
+  rotate: false
+  xy: 567, 89
+  size: 1024, 397
+  orig: 1024, 397
+  offset: 0, 0
+  index: -1
+B_1
+  rotate: false
+  xy: 2, 2
+  size: 563, 737
+  orig: 619, 886
+  offset: 56, 0
+  index: -1
+B_2
+  rotate: true
+  xy: 1028, 1013
+  size: 916, 846
+  orig: 1012, 868
+  offset: 0, 0
+  index: -1

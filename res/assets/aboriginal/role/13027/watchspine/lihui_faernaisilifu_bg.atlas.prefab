@@ -1,0 +1,13 @@
+
+lihui_faernaisilifu_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 789
+  size: 1800, 1013
+  orig: 1800, 1013
+  offset: 0, 0
+  index: -1
