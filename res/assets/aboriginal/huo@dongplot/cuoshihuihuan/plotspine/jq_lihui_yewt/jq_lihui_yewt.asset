@@ -1,0 +1,274 @@
+{
+"skeleton": {
+	"hash": "SoYEoZybeYcA4owbYzq0D8UagGI",
+	"spine": "3.8.99",
+	"x": -1575.18,
+	"y": -1820.5,
+	"width": 3154,
+	"height": 3184,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\yewtcf\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\yewtcf"
+},
+"bones": [
+	{ "name": "root", "x": -2027.18, "y": 1877.5 }
+],
+"slots": [
+	{ "name": "backhair", "bone": "root", "attachment": "backhair" },
+	{ "name": "back", "bone": "root" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "kuang", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "wuyan", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "nose", "bone": "root", "attachment": "nose" },
+	{ "name": "light", "bone": "root" },
+	{ "name": "light2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2026, "y": -935, "width": 152, "height": 202 }
+			},
+			"back": {
+				"back": { "x": 2000, "y": -1597, "width": 4002, "height": 3196 }
+			},
+			"backhair": {
+				"backhair": { "x": 2030, "y": -1984.5, "width": 2550, "height": 2429 }
+			},
+			"biyan": {
+				"biyan": { "x": 2025, "y": -941, "width": 150, "height": 190 }
+			},
+			"body": {
+				"body": { "x": 2029, "y": -2106, "width": 3154, "height": 3184 }
+			},
+			"daiji": {
+				"daiji": { "x": 2027, "y": -942, "width": 150, "height": 188 }
+			},
+			"kuang": {
+				"kuang": { "x": 2027, "y": -942, "width": 150, "height": 188 }
+			},
+			"light": {
+				"light": { "x": 1900, "y": -2016.5, "width": 2412, "height": 2551 }
+			},
+			"light2": {
+				"light2": { "x": 2140, "y": -2197, "width": 2084, "height": 754 }
+			},
+			"nose": {
+				"nose": { "x": 2026, "y": -942.5, "width": 32, "height": 25 }
+			},
+			"sad": {
+				"sad": { "x": 2027, "y": -942, "width": 150, "height": 188 }
+			},
+			"smile": {
+				"smile": { "x": 2027, "y": -940, "width": 150, "height": 192 }
+			},
+			"wuyan": {
+				"wuyan": { "x": 2026, "y": -941, "width": 152, "height": 190 }
+			},
+			"yansu": {
+				"yansu": { "x": 2026, "y": -935, "width": 152, "height": 202 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			}
+		}
+	},
+	"kuang": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"kuang": {
+				"attachment": [
+					{ "name": "kuang" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wuyan": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			},
+			"wuyan": {
+				"attachment": [
+					{ "name": "wuyan" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"back": {
+				"attachment": [
+					{ "name": "back" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"light2": {
+				"attachment": [
+					{ "name": "light2" }
+				]
+			},
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

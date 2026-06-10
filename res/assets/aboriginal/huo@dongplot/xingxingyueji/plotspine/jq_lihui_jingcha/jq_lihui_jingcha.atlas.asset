@@ -1,0 +1,41 @@
+
+jq_lihui_jingcha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 275, 1809
+  size: 274, 237
+  orig: 274, 237
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 380
+  size: 1407, 2046
+  orig: 1407, 2046
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 549, 1801
+  size: 273, 245
+  orig: 273, 245
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 822, 1787
+  size: 277, 259
+  orig: 277, 259
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 0, 1830
+  size: 275, 216
+  orig: 275, 216
+  offset: 0, 0
+  index: -1

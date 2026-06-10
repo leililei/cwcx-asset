@@ -1,0 +1,146 @@
+
+jq_lihui_990cf.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 176, 518
+  size: 222, 154
+  orig: 222, 154
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 174, 19
+  size: 222, 168
+  orig: 222, 168
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1910
+  size: 1054, 2171
+  orig: 1054, 2171
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 0, 241
+  size: 219, 176
+  orig: 219, 176
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 176, 324
+  size: 194, 173
+  orig: 194, 173
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: true
+  xy: 322, 1557
+  size: 353, 303
+  orig: 353, 303
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 1400
+  size: 322, 510
+  orig: 322, 510
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 494, 0
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 0, 685
+  size: 281, 169
+  orig: 281, 169
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 322, 1403
+  size: 280, 154
+  orig: 280, 154
+  offset: 0, 0
+  index: -1
+simada
+  rotate: true
+  xy: 0, 22
+  size: 219, 174
+  orig: 219, 174
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 169, 740
+  size: 226, 173
+  orig: 226, 173
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: true
+  xy: 342, 114
+  size: 210, 152
+  orig: 210, 152
+  offset: 0, 0
+  index: -1
+smile3
+  rotate: true
+  xy: 330, 518
+  size: 222, 146
+  orig: 222, 146
+  offset: 0, 0
+  index: -1
+smile4
+  rotate: true
+  xy: 0, 460
+  size: 225, 176
+  orig: 225, 176
+  offset: 0, 0
+  index: -1
+think
+  rotate: true
+  xy: 494, 138
+  size: 187, 141
+  orig: 187, 141
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 349, 325
+  size: 193, 159
+  orig: 193, 159
+  offset: 0, 0
+  index: -1
+yabee
+  rotate: false
+  xy: 476, 601
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+yabee2
+  rotate: false
+  xy: 0, 966
+  size: 348, 434
+  orig: 348, 434
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 342, 771
+  size: 195, 164
+  orig: 195, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jq_lihui_zhuliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 190
+  size: 4002, 3426
+  orig: 4002, 3426
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 676, 3728
+  size: 342, 274
+  orig: 342, 274
+  offset: 0, 0
+  index: -1
+heihua
+  rotate: false
+  xy: 342, 3733
+  size: 334, 269
+  orig: 334, 269
+  offset: 0, 0
+  index: -1
+huai
+  rotate: false
+  xy: 1518, 3616
+  size: 502, 386
+  orig: 502, 386
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 1018, 3715
+  size: 500, 287
+  orig: 500, 287
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 0, 3743
+  size: 342, 259
+  orig: 342, 259
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "Cuh6d33HbdRrGXScGJuZGMxFfMU",
+	"spine": "3.8.99",
+	"x": -2029,
+	"y": -1109,
+	"width": 4002,
+	"height": 3801,
+	"images": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\伊莎贝拉\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\伊莎贝拉"
+},
+"bones": [
+	{ "name": "root", "x": -2028, "y": 2892 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "gaochao", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1986.5, "y": -1551, "width": 223, "height": 176 }
+			},
+			"body": {
+				"body": { "x": 2000, "y": -2100.5, "width": 4002, "height": 3801 }
+			},
+			"body2": {
+				"body2": { "x": 1929, "y": -1881, "width": 1650, "height": 1084 }
+			},
+			"daiji": {
+				"daiji": { "x": 1992, "y": -1548, "width": 234, "height": 156 }
+			},
+			"gaochao": {
+				"gaochao": { "x": 1994.5, "y": -1560.5, "width": 239, "height": 189 }
+			},
+			"happy": {
+				"happy": { "x": 1986.5, "y": -1563.5, "width": 223, "height": 165 }
+			},
+			"sad": {
+				"sad": { "x": 1986.5, "y": -1557.5, "width": 223, "height": 137 }
+			},
+			"shy": {
+				"shy": { "x": 1992, "y": -1556, "width": 234, "height": 156 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gaochao": {
+		"slots": {
+			"gaochao": {
+				"attachment": [
+					{ "name": "gaochao" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

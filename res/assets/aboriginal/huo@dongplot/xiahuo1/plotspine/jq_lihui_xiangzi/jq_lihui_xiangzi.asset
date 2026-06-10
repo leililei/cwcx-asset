@@ -1,0 +1,179 @@
+{
+"skeleton": {
+	"hash": "fbWL4INALqW+7IROtLNna9LV+b4",
+	"spine": "3.8.99",
+	"x": -239.86,
+	"y": -819.42,
+	"width": 470,
+	"height": 2021,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_xiangzi\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_xiangzi"
+},
+"bones": [
+	{ "name": "root", "x": -937.86, "y": 1392.58 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "normal2", "bone": "root" },
+	{ "name": "happy1", "bone": "root" },
+	{ "name": "happy2", "bone": "root" },
+	{ "name": "blood", "bone": "root" },
+	{ "name": "nothappy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "black-hearted", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 943, "y": -489.5, "width": 208, "height": 161 }
+			},
+			"black-hearted": {
+				"black-hearted": { "x": 944, "y": -484, "width": 208, "height": 150 }
+			},
+			"blood": {
+				"blood": { "x": 930, "y": -457, "width": 222, "height": 258 }
+			},
+			"body": {
+				"body": { "x": 933, "y": -1201.5, "width": 470, "height": 2021 }
+			},
+			"daiji": {
+				"daiji": { "x": 943.5, "y": -483, "width": 209, "height": 152 }
+			},
+			"happy1": {
+				"happy1": { "x": 943, "y": -483, "width": 208, "height": 152 }
+			},
+			"happy2": {
+				"happy2": { "x": 943.5, "y": -483, "width": 193, "height": 152 }
+			},
+			"normal2": {
+				"normal2": { "x": 943, "y": -483.5, "width": 208, "height": 151 }
+			},
+			"nothappy": {
+				"nothappy": { "x": 943.5, "y": -484, "width": 209, "height": 150 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"black": {
+		"slots": {
+			"black-hearted": {
+				"attachment": [
+					{ "name": "black-hearted" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"blood": {
+		"slots": {
+			"blood": {
+				"attachment": [
+					{ "name": "blood" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy1": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy1": {
+				"attachment": [
+					{ "name": "happy1" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": "happy2" }
+				]
+			}
+		}
+	},
+	"normal1": {
+		"slots": {
+			"blood": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"normal2": {
+				"attachment": [
+					{ "name": "normal2" }
+				]
+			}
+		}
+	},
+	"nothappy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"nothappy": {
+				"attachment": [
+					{ "name": "nothappy" }
+				]
+			}
+		}
+	}
+}
+}

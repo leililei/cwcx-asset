@@ -1,0 +1,62 @@
+
+jq_lihui_suofeiya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 762
+  size: 3278, 2882
+  orig: 3278, 2882
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 3278, 3180
+  size: 366, 464
+  orig: 366, 464
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 3278, 2484
+  size: 242, 322
+  orig: 242, 322
+  offset: 0, 0
+  index: -1
+hot
+  rotate: false
+  xy: 3278, 2806
+  size: 254, 374
+  orig: 254, 374
+  offset: 0, 0
+  index: -1
+nervous
+  rotate: true
+  xy: 3278, 2228
+  size: 256, 242
+  orig: 256, 242
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 3278, 1487
+  size: 250, 192
+  orig: 250, 192
+  offset: 0, 0
+  index: -1
+sex
+  rotate: true
+  xy: 3278, 1737
+  size: 242, 202
+  orig: 242, 202
+  offset: 0, 0
+  index: -1
+surp
+  rotate: true
+  xy: 3278, 1979
+  size: 249, 210
+  orig: 249, 210
+  offset: 0, 0
+  index: -1

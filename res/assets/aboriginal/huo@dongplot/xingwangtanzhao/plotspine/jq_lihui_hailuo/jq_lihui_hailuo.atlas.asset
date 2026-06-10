@@ -1,0 +1,62 @@
+
+jq_lihui_hailuo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1487
+  size: 818, 2144
+  orig: 818, 2144
+  offset: 0, 0
+  index: -1
+closeeye
+  rotate: true
+  xy: 0, 0
+  size: 193, 138
+  orig: 193, 138
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 0, 193
+  size: 200, 149
+  orig: 200, 149
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 0, 611
+  size: 216, 153
+  orig: 216, 153
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 827
+  size: 629, 660
+  orig: 629, 660
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: true
+  xy: 153, 627
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 0, 393
+  size: 218, 142
+  orig: 218, 142
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 142, 408
+  size: 203, 142
+  orig: 203, 142
+  offset: 0, 0
+  index: -1

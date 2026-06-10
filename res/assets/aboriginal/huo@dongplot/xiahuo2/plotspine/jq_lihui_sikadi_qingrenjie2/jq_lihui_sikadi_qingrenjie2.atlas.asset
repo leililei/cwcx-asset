@@ -1,0 +1,146 @@
+
+jq_lihui_sikadi_qingrenjie2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: true
+  xy: 482, 444
+  size: 261, 195
+  orig: 263, 197
+  offset: 1, 1
+  index: -1
+angry2
+  rotate: false
+  xy: 1179, 950
+  size: 261, 221
+  orig: 263, 223
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 1171
+  size: 2377, 2472
+  orig: 2379, 2474
+  offset: 1, 1
+  index: -1
+buman
+  rotate: false
+  xy: 1962, 967
+  size: 261, 204
+  orig: 263, 206
+  offset: 1, 1
+  index: -1
+chensi
+  rotate: false
+  xy: 834, 774
+  size: 243, 167
+  orig: 245, 169
+  offset: 1, 1
+  index: -1
+ci
+  rotate: false
+  xy: 2223, 968
+  size: 270, 203
+  orig: 272, 205
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 2223, 767
+  size: 261, 201
+  orig: 263, 203
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: false
+  xy: 573, 937
+  size: 261, 234
+  orig: 263, 236
+  offset: 1, 1
+  index: -1
+jidong
+  rotate: false
+  xy: 1701, 964
+  size: 261, 207
+  orig: 263, 209
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 573, 743
+  size: 261, 194
+  orig: 263, 196
+  offset: 1, 1
+  index: -1
+sad
+  rotate: true
+  xy: 198, 199
+  size: 261, 189
+  orig: 263, 191
+  offset: 1, 1
+  index: -1
+shy1
+  rotate: false
+  xy: 834, 941
+  size: 345, 230
+  orig: 347, 232
+  offset: 1, 1
+  index: -1
+shy2
+  rotate: false
+  xy: 0, 506
+  size: 281, 199
+  orig: 283, 201
+  offset: 1, 1
+  index: -1
+wuyu
+  rotate: true
+  xy: 0, 0
+  size: 261, 176
+  orig: 263, 178
+  offset: 1, 1
+  index: -1
+xiao1
+  rotate: true
+  xy: 281, 460
+  size: 245, 201
+  orig: 247, 203
+  offset: 1, 1
+  index: -1
+xiao2
+  rotate: true
+  xy: 677, 482
+  size: 261, 176
+  orig: 263, 178
+  offset: 1, 1
+  index: -1
+xiao3
+  rotate: true
+  xy: 0, 261
+  size: 245, 198
+  orig: 247, 200
+  offset: 1, 1
+  index: -1
+xiao4
+  rotate: false
+  xy: 1440, 953
+  size: 261, 218
+  orig: 263, 220
+  offset: 1, 1
+  index: -1
+yanzhao
+  rotate: false
+  xy: 0, 705
+  size: 573, 466
+  orig: 575, 468
+  offset: 1, 1
+  index: -1
+zaogao
+  rotate: true
+  xy: 1179, 689
+  size: 261, 201
+  orig: 263, 203
+  offset: 1, 1
+  index: -1

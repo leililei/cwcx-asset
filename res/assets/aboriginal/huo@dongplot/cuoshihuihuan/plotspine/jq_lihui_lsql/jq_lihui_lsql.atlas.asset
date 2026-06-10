@@ -1,0 +1,34 @@
+
+jq_lihui_lsql.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 422
+  size: 1351, 1414
+  orig: 1351, 1414
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 422, 422
+  orig: 422, 422
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 422, 0
+  size: 422, 422
+  orig: 422, 422
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 844, 0
+  size: 422, 422
+  orig: 422, 422
+  offset: 0, 0
+  index: -1

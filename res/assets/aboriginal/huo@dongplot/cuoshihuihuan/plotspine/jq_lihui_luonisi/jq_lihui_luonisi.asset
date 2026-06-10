@@ -1,0 +1,184 @@
+{
+"skeleton": {
+	"hash": "3Gf8UVILtOkGl/9Q4ZoK9LAKoKI",
+	"spine": "3.8.99",
+	"x": -607.3,
+	"y": -1703.36,
+	"width": 1239,
+	"height": 2786,
+	"images": "C:\\Users\\tingzhou\\Desktop\\spine（3.899）\\jq_lihui_luonisi\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\spine（3.899）\\jq_lihui_luonisi"
+},
+"bones": [
+	{ "name": "root", "x": -1001.3, "y": 1222.64 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "say", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "blue", "bone": "root" },
+	{ "name": "red", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"blue": {
+				"blue": { "x": 1166.5, "y": -322, "width": 89, "height": 98 }
+			},
+			"body": {
+				"body": { "x": 1013.5, "y": -1533, "width": 1239, "height": 2786 }
+			},
+			"happy": {
+				"happy": { "x": 988.5, "y": -414.5, "width": 201, "height": 177 }
+			},
+			"red": {
+				"red": { "x": 1166.5, "y": -322, "width": 89, "height": 98 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 989.5, "y": -416, "width": 195, "height": 174 }
+			},
+			"sad": {
+				"sad": { "x": 992, "y": -416, "width": 196, "height": 174 }
+			},
+			"say": {
+				"say": { "x": 989.5, "y": -416, "width": 195, "height": 174 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"blue": {
+				"attachment": [
+					{ "name": "blue" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"red": {
+				"attachment": [
+					{ "name": "red" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"blue": {
+				"attachment": [
+					{ "name": "blue" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			},
+			"red": {
+				"attachment": [
+					{ "name": "red" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"blue": {
+				"attachment": [
+					{ "name": "blue" }
+				]
+			},
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"renzhen2": {
+		"slots": {
+			"red": {
+				"attachment": [
+					{ "name": "red" }
+				]
+			},
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"blue": {
+				"attachment": [
+					{ "name": "blue" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"red": {
+				"attachment": [
+					{ "name": "red" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"say": {
+		"slots": {
+			"blue": {
+				"attachment": [
+					{ "name": "blue" }
+				]
+			},
+			"say": {
+				"attachment": [
+					{ "name": "say" }
+				]
+			}
+		}
+	},
+	"say2": {
+		"slots": {
+			"red": {
+				"attachment": [
+					{ "name": "red" }
+				]
+			},
+			"say": {
+				"attachment": [
+					{ "name": "say" }
+				]
+			}
+		}
+	}
+}
+}

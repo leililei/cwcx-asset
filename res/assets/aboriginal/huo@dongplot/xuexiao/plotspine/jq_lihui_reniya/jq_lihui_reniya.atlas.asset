@@ -1,0 +1,55 @@
+
+jq_lihui_reniya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 769, 40
+  size: 190, 119
+  orig: 190, 119
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 159
+  size: 2037, 2050
+  orig: 2037, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 384, 23
+  size: 202, 136
+  orig: 202, 136
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 959, 86
+  size: 211, 73
+  orig: 211, 73
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 193, 159
+  orig: 193, 159
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 193, 20
+  size: 191, 139
+  orig: 191, 139
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 586, 36
+  size: 183, 123
+  orig: 183, 123
+  offset: 0, 0
+  index: -1

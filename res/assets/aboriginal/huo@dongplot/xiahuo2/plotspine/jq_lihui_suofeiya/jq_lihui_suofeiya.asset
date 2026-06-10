@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "3SI3YeAkLSXiJYOpg0kes5Bqybo",
+	"spine": "3.8.99",
+	"x": -2076.64,
+	"y": -1301.24,
+	"width": 4098,
+	"height": 3602,
+	"images": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\索菲亚\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\索菲亚"
+},
+"bones": [
+	{ "name": "root", "x": -2075.64, "y": 2795.76 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "surp", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "nervous", "bone": "root" },
+	{ "name": "sex", "bone": "root" },
+	{ "name": "hot", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 2048, "y": -2296, "width": 4098, "height": 3602 }
+			},
+			"daiji": {
+				"daiji": { "x": 1999, "y": -1378, "width": 458, "height": 580 }
+			},
+			"ganga": {
+				"ganga": { "x": 2076.5, "y": -1486.5, "width": 303, "height": 403 }
+			},
+			"hot": {
+				"hot": { "x": 2080, "y": -1471, "width": 318, "height": 468 }
+			},
+			"nervous": {
+				"nervous": { "x": 2068, "y": -1525, "width": 320, "height": 302 }
+			},
+			"sad": {
+				"sad": { "x": 2083, "y": -1548, "width": 312, "height": 240 }
+			},
+			"sex": {
+				"sex": { "x": 2077, "y": -1546, "width": 302, "height": 252 }
+			},
+			"surp": {
+				"surp": { "x": 2072.5, "y": -1533.5, "width": 311, "height": 263 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"hot": {
+		"slots": {
+			"hot": {
+				"attachment": [
+					{ "name": "hot" }
+				]
+			}
+		}
+	},
+	"nervous": {
+		"slots": {
+			"nervous": {
+				"attachment": [
+					{ "name": "nervous" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sex": {
+		"slots": {
+			"sex": {
+				"attachment": [
+					{ "name": "sex" }
+				]
+			}
+		}
+	},
+	"surp": {
+		"slots": {
+			"surp": {
+				"attachment": [
+					{ "name": "surp" }
+				]
+			}
+		}
+	}
+}
+}

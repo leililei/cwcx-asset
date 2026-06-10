@@ -1,0 +1,55 @@
+
+jq_lihui_NPC_weilaimama.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 270, 289
+  size: 247, 188
+  orig: 247, 188
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 825
+  size: 900, 3249
+  orig: 900, 3249
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 272, 576
+  size: 247, 166
+  orig: 247, 166
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: true
+  xy: 2, 2
+  size: 247, 203
+  orig: 247, 203
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 207, 71
+  size: 275, 178
+  orig: 275, 178
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 2, 251
+  size: 266, 285
+  orig: 266, 285
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2, 538
+  size: 268, 285
+  orig: 268, 285
+  offset: 0, 0
+  index: -1

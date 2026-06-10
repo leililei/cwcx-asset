@@ -1,0 +1,48 @@
+
+jq_lihui_zhinvxing_past.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 117
+  size: 1004, 2133
+  orig: 1004, 2133
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 274, 39
+  size: 78, 117
+  orig: 78, 117
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 0, 0
+  size: 153, 117
+  orig: 153, 117
+  offset: 0, 0
+  index: -1
+kunhuo
+  rotate: true
+  xy: 391, 45
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 504, 45
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 153, 35
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1

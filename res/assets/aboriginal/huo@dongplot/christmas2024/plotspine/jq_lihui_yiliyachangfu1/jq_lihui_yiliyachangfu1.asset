@@ -1,0 +1,262 @@
+{
+"skeleton": {
+	"hash": "MZ8KEFpS7UtOA3Tirwd7eYO73SQ",
+	"spine": "3.8.99",
+	"x": -1093.95,
+	"y": -1967.85,
+	"width": 2499,
+	"height": 3314,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\yiliyachangfu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\yiliyachangfu"
+},
+"bones": [
+	{ "name": "root", "x": -1501.95, "y": 1764.15 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "machine", "bone": "root", "attachment": "machine" },
+	{ "name": "ears", "bone": "root", "attachment": "ears" },
+	{ "name": "chritmas hat", "bone": "root" },
+	{ "name": "nose", "bone": "root", "attachment": "nose" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "carzy", "bone": "root" },
+	{ "name": "cry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1555, "y": -723.5, "width": 148, "height": 149 }
+			},
+			"body": {
+				"body": { "x": 1657.5, "y": -2083, "width": 2499, "height": 3298 }
+			},
+			"carzy": {
+				"carzy": { "x": 1526.5, "y": -746.5, "width": 209, "height": 225 }
+			},
+			"chritmas hat": {
+				"chritmas hat": { "x": 1548.5, "y": -419, "width": 517, "height": 306 }
+			},
+			"cry": {
+				"cry": { "x": 1525.5, "y": -731, "width": 207, "height": 176 }
+			},
+			"daiji": {
+				"daiji": { "x": 1556.5, "y": -722.5, "width": 145, "height": 157 }
+			},
+			"ears": {
+				"ears": { "x": 1504, "y": -788.5, "width": 602, "height": 741 }
+			},
+			"ganga": {
+				"ganga": { "x": 1544, "y": -650.5, "width": 340, "height": 387 }
+			},
+			"happy": {
+				"happy": { "x": 1552, "y": -722.5, "width": 152, "height": 157 }
+			},
+			"machine": {
+				"machine": { "x": 1949.5, "y": -1046, "width": 543, "height": 444 }
+			},
+			"nose": {
+				"nose": { "x": 1486.5, "y": -745.5, "width": 21, "height": 33 }
+			},
+			"sad": {
+				"sad": { "x": 1555, "y": -720.5, "width": 148, "height": 155 }
+			},
+			"surprise": {
+				"surprise": { "x": 1556.5, "y": -722.5, "width": 145, "height": 157 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			}
+		}
+	},
+	"carzy": {
+		"slots": {
+			"carzy": {
+				"attachment": [
+					{ "name": "carzy" }
+				]
+			}
+		}
+	},
+	"carzy2": {
+		"slots": {
+			"carzy": {
+				"attachment": [
+					{ "name": "carzy" }
+				]
+			},
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"cry2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	},
+	"surprise2": {
+		"slots": {
+			"chritmas hat": {
+				"attachment": [
+					{ "name": "chritmas hat" }
+				]
+			},
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

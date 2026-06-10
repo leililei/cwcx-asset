@@ -1,0 +1,122 @@
+
+jq_lihui_yewt.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 978, 3504
+  size: 152, 202
+  orig: 152, 202
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 32, 3506
+  size: 150, 190
+  orig: 150, 190
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 222, 3506
+  size: 150, 188
+  orig: 150, 188
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 410, 3506
+  size: 150, 188
+  orig: 150, 188
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 0, 490
+  size: 2412, 2551
+  orig: 2412, 2551
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1572, 2902
+  size: 2084, 754
+  orig: 2084, 754
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 0, 3631
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 598, 3506
+  size: 150, 188
+  orig: 150, 188
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 786, 3506
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+wuyan
+  rotate: true
+  xy: 1180, 3504
+  size: 152, 190
+  orig: 152, 190
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1370, 3504
+  size: 152, 202
+  orig: 152, 202
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yewt2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhair
+  rotate: false
+  xy: 0, 121
+  size: 2550, 2429
+  orig: 2550, 2429
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yewt3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 30
+  size: 3154, 3184
+  orig: 3154, 3184
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yewt4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 0, 806
+  size: 4002, 3196
+  orig: 4002, 3196
+  offset: 0, 0
+  index: -1

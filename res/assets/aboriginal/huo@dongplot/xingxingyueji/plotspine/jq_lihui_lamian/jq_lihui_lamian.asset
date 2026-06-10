@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "77qJ9d7LtQ3KpQ4I1QRy/JEka5k",
+	"spine": "3.8.99",
+	"x": -732.82,
+	"y": -719.73,
+	"width": 1498,
+	"height": 2032,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘\\jq_lihui_lamian"
+},
+"bones": [
+	{ "name": "root", "x": -731.82, "y": 1311.27 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 748, "y": -1015, "width": 1498, "height": 2032 }
+			},
+			"happy": {
+				"happy": { "x": 702, "y": -298, "width": 276, "height": 394 }
+			},
+			"sad": {
+				"sad": { "x": 689.5, "y": -303, "width": 255, "height": 380 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	}
+}
+}

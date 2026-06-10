@@ -1,0 +1,122 @@
+{
+"skeleton": {
+	"hash": "IQL2oTliWrCXTLy1Z8YGmTjLCVw",
+	"spine": "3.8.99",
+	"x": -625.18,
+	"y": -1256.4,
+	"width": 1257,
+	"height": 2561,
+	"images": "C:\\Users\\Plan123\\Desktop\\学生b\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\学生b"
+},
+"bones": [
+	{ "name": "root", "x": -794.18, "y": 1303.6 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "tuxue", "bone": "root" },
+	{ "name": "sad", "bone": "root", "attachment": "sad" },
+	{ "name": "xiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 797.5, "y": -1279.5, "width": 1257, "height": 2561 }
+			},
+			"daiji": {
+				"daiji": { "x": 797, "y": -282.5, "width": 186, "height": 171 }
+			},
+			"sad": {
+				"sad": { "x": 797, "y": -283.5, "width": 184, "height": 171 }
+			},
+			"tuxue": {
+				"tuxue": { "x": 804.5, "y": -299, "width": 225, "height": 204 }
+			},
+			"xiao": {
+				"xiao": { "x": 791.5, "y": -286.5, "width": 171, "height": 179 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			},
+			"tuxue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"tuxue": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tuxue": {
+				"attachment": [
+					{ "name": "tuxue" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

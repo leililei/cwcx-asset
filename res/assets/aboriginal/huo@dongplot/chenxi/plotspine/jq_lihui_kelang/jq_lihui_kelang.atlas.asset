@@ -1,0 +1,69 @@
+
+jq_lihui_kelang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 587, 2327
+  size: 272, 162
+  orig: 272, 162
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 192, 2330
+  size: 198, 159
+  orig: 198, 159
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 306
+  size: 1807, 2489
+  orig: 1807, 2489
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 390, 2328
+  size: 197, 161
+  orig: 197, 161
+  offset: 0, 0
+  index: -1
+kunhuo
+  rotate: false
+  xy: 859, 2326
+  size: 190, 163
+  orig: 190, 163
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1573, 2113
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1
+weixiao1
+  rotate: false
+  xy: 0, 2332
+  size: 192, 157
+  orig: 192, 157
+  offset: 0, 0
+  index: -1
+weixiao2
+  rotate: true
+  xy: 1297, 2247
+  size: 242, 276
+  orig: 242, 276
+  offset: 0, 0
+  index: -1
+weixiao3
+  rotate: false
+  xy: 1049, 2315
+  size: 248, 174
+  orig: 248, 174
+  offset: 0, 0
+  index: -1

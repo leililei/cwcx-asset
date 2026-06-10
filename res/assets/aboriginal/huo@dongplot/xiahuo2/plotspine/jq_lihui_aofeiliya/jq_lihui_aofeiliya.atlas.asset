@@ -1,0 +1,167 @@
+
+jq_lihui_aofeiliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 0, 3843
+  size: 255, 140
+  orig: 255, 140
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1050
+  size: 1670, 3050
+  orig: 1670, 3050
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2443, 3525
+  size: 246, 1437
+  orig: 246, 1437
+  offset: 0, 0
+  index: -1
+chengsi
+  rotate: false
+  xy: 255, 3794
+  size: 324, 189
+  orig: 324, 189
+  offset: 0, 0
+  index: -1
+cry1
+  rotate: false
+  xy: 1257, 3782
+  size: 324, 201
+  orig: 324, 201
+  offset: 0, 0
+  index: -1
+cry2
+  rotate: false
+  xy: 1405, 3561
+  size: 316, 221
+  orig: 316, 221
+  offset: 0, 0
+  index: -1
+cry3
+  rotate: false
+  xy: 1581, 3782
+  size: 275, 201
+  orig: 275, 201
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 579, 3794
+  size: 354, 189
+  orig: 354, 189
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 2915, 3771
+  size: 360, 212
+  orig: 360, 212
+  offset: 0, 0
+  index: -1
+huwahuwa
+  rotate: false
+  xy: 1721, 3554
+  size: 361, 222
+  orig: 361, 222
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 3275, 3771
+  size: 348, 212
+  orig: 348, 212
+  offset: 0, 0
+  index: -1
+laji1
+  rotate: false
+  xy: 354, 3581
+  size: 348, 213
+  orig: 348, 213
+  offset: 0, 0
+  index: -1
+laji2
+  rotate: false
+  xy: 0, 3267
+  size: 558, 314
+  orig: 558, 314
+  offset: 0, 0
+  index: -1
+lei
+  rotate: false
+  xy: 933, 3787
+  size: 324, 196
+  orig: 324, 196
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 2211, 3775
+  size: 348, 208
+  orig: 348, 208
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 3623, 3771
+  size: 360, 212
+  orig: 360, 212
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 702, 3571
+  size: 361, 216
+  orig: 361, 216
+  offset: 0, 0
+  index: -1
+toutao
+  rotate: false
+  xy: 558, 2720
+  size: 1132, 841
+  orig: 1132, 841
+  offset: 0, 0
+  index: -1
+wa
+  rotate: false
+  xy: 1063, 3564
+  size: 342, 218
+  orig: 342, 218
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 1856, 3776
+  size: 355, 207
+  orig: 355, 207
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 0, 3582
+  size: 354, 212
+  orig: 354, 212
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 2559, 3775
+  size: 356, 208
+  orig: 356, 208
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 2082, 3553
+  size: 361, 222
+  orig: 361, 222
+  offset: 0, 0
+  index: -1

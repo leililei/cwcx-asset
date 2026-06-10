@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "FscJ9pLZ8huaS/263tAsFjNOKMM",
+	"spine": "3.8.99",
+	"x": -371.18,
+	"y": -338.46,
+	"width": 601,
+	"height": 1855,
+	"images": "E:\\十二月活动spine\\images",
+	"audio": "E:\\十二月活动spine"
+},
+"bones": [
+	{ "name": "root", "x": -463.18, "y": 1515.54 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "nanguo", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "cap", "bone": "root", "attachment": "cap" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			},
+			"body": {
+				"body": { "x": 175, "y": -1593.5, "width": 166, "height": 521 }
+			},
+			"cap": {
+				"cap": { "x": 440, "y": -177, "width": 506, "height": 356 }
+			},
+			"daiji": {
+				"daiji": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			},
+			"happy": {
+				"happy": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			},
+			"nanguo": {
+				"nanguo": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			},
+			"shy": {
+				"shy": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 631, "y": -1053.5, "width": 1264, "height": 1895 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"nanguo": {
+		"slots": {
+			"nanguo": {
+				"attachment": [
+					{ "name": "nanguo" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

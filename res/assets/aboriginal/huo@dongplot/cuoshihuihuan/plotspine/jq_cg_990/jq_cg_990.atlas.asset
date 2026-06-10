@@ -1,0 +1,90 @@
+
+jq_cg_990.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afraid
+  rotate: true
+  xy: 1428, 2040
+  size: 300, 305
+  orig: 300, 305
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1080, 1977
+  size: 348, 363
+  orig: 348, 363
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 2340
+  size: 2342, 1082
+  orig: 2342, 1082
+  offset: 0, 0
+  index: -1
+closeeyes
+  rotate: false
+  xy: 1080, 1313
+  size: 318, 331
+  orig: 318, 331
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1396, 992
+  size: 304, 321
+  orig: 304, 321
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 0, 822
+  size: 1518, 1080
+  orig: 1518, 1080
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1080, 1644
+  size: 333, 330
+  orig: 333, 330
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2342, 1082
+  size: 2340, 1080
+  orig: 2340, 1080
+  offset: 0, 0
+  index: -1
+see
+  rotate: true
+  xy: 1700, 1076
+  size: 300, 295
+  orig: 300, 295
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1080, 987
+  size: 326, 316
+  orig: 326, 316
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: true
+  xy: 1410, 1676
+  size: 301, 308
+  orig: 301, 308
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1410, 1376
+  size: 300, 301
+  orig: 300, 301
+  offset: 0, 0
+  index: -1

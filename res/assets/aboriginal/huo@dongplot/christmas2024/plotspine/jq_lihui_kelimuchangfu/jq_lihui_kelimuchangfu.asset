@@ -1,0 +1,156 @@
+{
+"skeleton": {
+	"hash": "D3LQQrI/BVtiZyGSMnb1jri8CaQ",
+	"spine": "3.8.99",
+	"x": -854.97,
+	"y": -1522.66,
+	"width": 2357,
+	"height": 2867,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\kelimu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\kelimu"
+},
+"bones": [
+	{ "name": "root", "x": -1772.97, "y": 1872.34 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "heart", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "drunk", "bone": "root" },
+	{ "name": "drunk2", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "cry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1775, "y": -917.5, "width": 408, "height": 333 }
+			},
+			"body": {
+				"body": { "x": 2096.5, "y": -1961.5, "width": 2357, "height": 2867 }
+			},
+			"cry": {
+				"cry": { "x": 1775, "y": -934.5, "width": 408, "height": 299 }
+			},
+			"daiji": {
+				"daiji": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			},
+			"drunk": {
+				"drunk": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			},
+			"drunk2": {
+				"drunk2": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			},
+			"ganga": {
+				"ganga": { "x": 1775, "y": -934.5, "width": 408, "height": 299 }
+			},
+			"heart": {
+				"heart": { "x": 1291, "y": -989.5, "width": 142, "height": 137 }
+			},
+			"sad": {
+				"sad": { "x": 1775, "y": -934.5, "width": 408, "height": 299 }
+			},
+			"smile": {
+				"smile": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			},
+			"surprise": {
+				"surprise": { "x": 1775, "y": -929, "width": 408, "height": 310 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"drunk": {
+		"slots": {
+			"drunk": {
+				"attachment": [
+					{ "name": "drunk" }
+				]
+			}
+		}
+	},
+	"drunk2": {
+		"slots": {
+			"drunk2": {
+				"attachment": [
+					{ "name": "drunk2" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"heart": {
+				"attachment": [
+					{ "name": "heart" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

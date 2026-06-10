@@ -1,0 +1,104 @@
+
+lihui_linghang_summer.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 0, 904
+  size: 234, 452
+  orig: 234, 452
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: false
+  xy: 0, 452
+  size: 234, 452
+  orig: 234, 452
+  offset: 0, 0
+  index: -1
+angry3
+  rotate: false
+  xy: 701, 230
+  size: 229, 449
+  orig: 229, 449
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1356
+  size: 915, 2610
+  orig: 915, 2610
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 237, 23
+  size: 232, 445
+  orig: 232, 445
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 915, 683
+  size: 227, 442
+  orig: 227, 442
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 701, 0
+  size: 230, 445
+  orig: 230, 445
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 702, 1125
+  size: 231, 446
+  orig: 231, 446
+  offset: 0, 0
+  index: -1
+noeye
+  rotate: false
+  xy: 234, 911
+  size: 236, 445
+  orig: 236, 445
+  offset: 0, 0
+  index: -1
+normal1
+  rotate: false
+  xy: 469, 23
+  size: 232, 445
+  orig: 232, 445
+  offset: 0, 0
+  index: -1
+normal2
+  rotate: false
+  xy: 470, 911
+  size: 232, 445
+  orig: 232, 445
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 470, 679
+  size: 232, 445
+  orig: 232, 445
+  offset: 0, 0
+  index: -1
+sad2
+  rotate: false
+  xy: 0, 7
+  size: 237, 445
+  orig: 237, 445
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 234, 468
+  size: 236, 443
+  orig: 236, 443
+  offset: 0, 0
+  index: -1

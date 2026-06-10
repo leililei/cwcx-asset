@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "buhPWH7EXs1r20az2G0j6SLl/vM",
+	"spine": "3.8.99",
+	"x": -1087.03,
+	"y": -1702.22,
+	"width": 2853,
+	"height": 3222,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\bolinna\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\bolinna"
+},
+"bones": [
+	{ "name": "root", "x": -1927.03, "y": 1573.78 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "cry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "serious", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2035, "y": -1052, "width": 158, "height": 128 }
+			},
+			"body": {
+				"body": { "x": 2266.5, "y": -1665, "width": 2853, "height": 3222 }
+			},
+			"cry": {
+				"cry": { "x": 2029.5, "y": -1056.5, "width": 177, "height": 121 }
+			},
+			"daiji": {
+				"daiji": { "x": 2034.5, "y": -1049.5, "width": 157, "height": 109 }
+			},
+			"sad": {
+				"sad": { "x": 2029.5, "y": -1056.5, "width": 177, "height": 121 }
+			},
+			"serious": {
+				"serious": { "x": 2036.5, "y": -1046.5, "width": 161, "height": 115 }
+			},
+			"smile": {
+				"smile": { "x": 2039, "y": -1050, "width": 150, "height": 110 }
+			},
+			"surprise": {
+				"surprise": { "x": 2035.5, "y": -1051.5, "width": 159, "height": 129 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"serious": {
+		"slots": {
+			"serious": {
+				"attachment": [
+					{ "name": "serious" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

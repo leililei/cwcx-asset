@@ -1,0 +1,34 @@
+
+jq_lihui_sikadi_summer_zhansun.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2347, 1842
+  size: 224, 189
+  orig: 224, 189
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 195
+  size: 2347, 2342
+  orig: 2347, 2342
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2347, 2066
+  size: 233, 190
+  orig: 233, 190
+  offset: 0, 0
+  index: -1
+normal2
+  rotate: true
+  xy: 2347, 2299
+  size: 238, 190
+  orig: 238, 190
+  offset: 0, 0
+  index: -1

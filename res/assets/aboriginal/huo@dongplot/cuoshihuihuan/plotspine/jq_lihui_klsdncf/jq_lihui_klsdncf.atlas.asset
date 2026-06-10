@@ -1,0 +1,118 @@
+
+jq_lihui_klsdncf.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 0, 386
+  size: 221, 160
+  orig: 221, 160
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 0
+  size: 211, 158
+  orig: 211, 158
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: true
+  xy: 160, 459
+  size: 218, 149
+  orig: 218, 149
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1630
+  size: 1220, 2451
+  orig: 1220, 2451
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 0, 158
+  size: 228, 150
+  orig: 228, 150
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 0, 889
+  size: 356, 361
+  orig: 356, 361
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 0, 607
+  size: 282, 129
+  orig: 282, 129
+  offset: 0, 0
+  index: -1
+glass2
+  rotate: true
+  xy: 429, 18
+  size: 227, 134
+  orig: 227, 134
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: true
+  xy: 0, 1250
+  size: 380, 347
+  orig: 380, 347
+  offset: 0, 0
+  index: -1
+know
+  rotate: true
+  xy: 297, 245
+  size: 214, 149
+  orig: 214, 149
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: true
+  xy: 347, 1334
+  size: 296, 214
+  orig: 296, 214
+  offset: 0, 0
+  index: -1
+laugh2
+  rotate: true
+  xy: 129, 677
+  size: 212, 163
+  orig: 212, 163
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 309, 537
+  size: 204, 144
+  orig: 204, 144
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 150, 161
+  size: 225, 147
+  orig: 225, 147
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: false
+  xy: 211, 11
+  size: 218, 150
+  orig: 218, 150
+  offset: 0, 0
+  index: -1
+zhuomei
+  rotate: false
+  xy: 292, 741
+  size: 218, 148
+  orig: 218, 148
+  offset: 0, 0
+  index: -1

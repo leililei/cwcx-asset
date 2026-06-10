@@ -1,0 +1,76 @@
+
+lihui_ling_summer.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2298, 2437
+  size: 267, 184
+  orig: 267, 184
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 0
+  size: 1182, 2450
+  orig: 1182, 2450
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1492, 2143
+  size: 274, 176
+  orig: 274, 176
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 0, 1182
+  size: 1492, 2463
+  orig: 1492, 2463
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1492, 2417
+  size: 258, 204
+  orig: 258, 204
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1750, 2424
+  size: 274, 197
+  orig: 274, 197
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 2024, 2437
+  size: 274, 184
+  orig: 274, 184
+  offset: 0, 0
+  index: -1
+shangxing
+  rotate: true
+  xy: 1668, 2159
+  size: 258, 161
+  orig: 258, 161
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 2024, 2258
+  size: 275, 179
+  orig: 275, 179
+  offset: 0, 0
+  index: -1
+waitao
+  rotate: true
+  xy: 1492, 2621
+  size: 1024, 1270
+  orig: 1024, 1270
+  offset: 0, 0
+  index: -1

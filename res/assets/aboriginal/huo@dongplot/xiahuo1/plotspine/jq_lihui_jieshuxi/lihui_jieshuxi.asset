@@ -1,0 +1,156 @@
+{
+"skeleton": {
+	"hash": "PheNv8zF/MpNE/BO3//wFdbsM6U",
+	"spine": "3.8.99",
+	"x": -1290.97,
+	"y": -1192.67,
+	"width": 2492,
+	"height": 2393,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\还没拆的\\lihui_jieshuxi\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\还没拆的\\lihui_jieshuxi"
+},
+"bones": [
+	{ "name": "root", "x": -1507.97, "y": 1511.33 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "yiban", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "happy2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1463, "y": -1507.5, "width": 2492, "height": 2393 }
+			},
+			"daiji": {
+				"daiji": { "x": 1561.5, "y": -612.5, "width": 207, "height": 147 }
+			},
+			"happy": {
+				"happy": { "x": 1563.5, "y": -617.5, "width": 205, "height": 151 }
+			},
+			"happy2": {
+				"happy2": { "x": 1563, "y": -614, "width": 210, "height": 158 }
+			},
+			"jingya": {
+				"jingya": { "x": 1560.5, "y": -615.5, "width": 205, "height": 151 }
+			},
+			"sad": {
+				"sad": { "x": 1558.5, "y": -615.5, "width": 205, "height": 137 }
+			},
+			"yansu": {
+				"yansu": { "x": 1560.5, "y": -614, "width": 205, "height": 144 }
+			},
+			"yiban": {
+				"yiban": { "x": 1561.5, "y": -615, "width": 207, "height": 146 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": "happy2" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	},
+	"yiban": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"yiban": {
+				"attachment": [
+					{ "name": "yiban" }
+				]
+			}
+		}
+	}
+}
+}

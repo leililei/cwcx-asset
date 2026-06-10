@@ -1,0 +1,55 @@
+
+jq_lihui_lidiya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 2026
+  size: 2026, 1934
+  orig: 2026, 1934
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2026, 1934
+  size: 2026, 1934
+  orig: 2026, 1934
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 291, 1850
+  size: 176, 132
+  orig: 176, 132
+  offset: 0, 0
+  index: -1
+rage
+  rotate: true
+  xy: 0, 1850
+  size: 176, 146
+  orig: 176, 146
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 0, 1675
+  size: 175, 139
+  orig: 175, 139
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 146, 1846
+  size: 180, 145
+  orig: 180, 145
+  offset: 0, 0
+  index: -1
+tong
+  rotate: true
+  xy: 423, 1853
+  size: 173, 123
+  orig: 173, 123
+  offset: 0, 0
+  index: -1

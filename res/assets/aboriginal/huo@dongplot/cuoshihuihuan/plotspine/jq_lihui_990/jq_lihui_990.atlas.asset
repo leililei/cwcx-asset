@@ -1,0 +1,132 @@
+
+jq_lihui_990.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2891, 2833
+  size: 209, 166
+  orig: 209, 166
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 2599, 1675
+  size: 228, 180
+  orig: 228, 180
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 993
+  size: 2599, 2175
+  orig: 2599, 2175
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 2599, 1057
+  size: 208, 177
+  orig: 208, 177
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2599, 2519
+  size: 209, 184
+  orig: 209, 184
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: true
+  xy: 2599, 2728
+  size: 440, 292
+  orig: 440, 292
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2979, 2523
+  size: 189, 150
+  orig: 189, 150
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 2599, 2090
+  size: 235, 182
+  orig: 235, 182
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 2780, 1934
+  size: 232, 156
+  orig: 232, 156
+  offset: 0, 0
+  index: -1
+simada
+  rotate: true
+  xy: 2599, 1903
+  size: 187, 181
+  orig: 187, 181
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 2599, 1484
+  size: 191, 178
+  orig: 191, 178
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: true
+  xy: 2775, 849
+  size: 208, 172
+  orig: 208, 172
+  offset: 0, 0
+  index: -1
+smile3
+  rotate: false
+  xy: 2891, 2673
+  size: 199, 160
+  orig: 199, 160
+  offset: 0, 0
+  index: -1
+smile4
+  rotate: true
+  xy: 2599, 1265
+  size: 219, 177
+  orig: 219, 177
+  offset: 0, 0
+  index: -1
+think
+  rotate: false
+  xy: 2783, 2518
+  size: 196, 155
+  orig: 196, 155
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 2599, 2325
+  size: 194, 184
+  orig: 194, 184
+  offset: 0, 0
+  index: -1
+yabee
+  rotate: true
+  xy: 2599, 827
+  size: 230, 176
+  orig: 230, 176
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 2891, 2999
+  size: 209, 169
+  orig: 209, 169
+  offset: 0, 0
+  index: -1

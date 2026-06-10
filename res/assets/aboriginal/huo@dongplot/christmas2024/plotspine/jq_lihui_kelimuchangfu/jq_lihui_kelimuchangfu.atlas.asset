@@ -1,0 +1,83 @@
+
+jq_lihui_kelimuchangfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2, 2
+  size: 408, 333
+  orig: 408, 333
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 337
+  size: 2357, 2867
+  orig: 2357, 2867
+  offset: 0, 0
+  index: -1
+cry
+  rotate: true
+  xy: 2361, 2796
+  size: 408, 299
+  orig: 408, 299
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 412, 25
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+drunk
+  rotate: false
+  xy: 822, 25
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+drunk2
+  rotate: false
+  xy: 1232, 25
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 2361, 2386
+  size: 408, 299
+  orig: 408, 299
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 2361, 1837
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 2361, 1976
+  size: 408, 299
+  orig: 408, 299
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1642, 25
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 2052, 25
+  size: 408, 310
+  orig: 408, 310
+  offset: 0, 0
+  index: -1

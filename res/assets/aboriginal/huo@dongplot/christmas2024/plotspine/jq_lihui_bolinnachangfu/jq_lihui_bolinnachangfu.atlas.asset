@@ -1,0 +1,96 @@
+
+jq_lihui_bolinnachangfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Christmas hat
+  rotate: false
+  xy: 1181, 3776
+  size: 268, 185
+  orig: 268, 185
+  offset: 0, 0
+  index: -1
+afraid
+  rotate: false
+  xy: 853, 3830
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1017, 3830
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2082, 3173
+  size: 788, 1879
+  orig: 788, 1879
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 1451, 3420
+  size: 629, 541
+  orig: 629, 541
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 487, 3837
+  size: 181, 124
+  orig: 181, 124
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2, 3850
+  size: 161, 111
+  orig: 161, 111
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 670, 3837
+  size: 181, 124
+  orig: 181, 124
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 320, 3843
+  size: 165, 118
+  orig: 165, 118
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 165, 3849
+  size: 153, 112
+  orig: 153, 112
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 1801
+  size: 2049, 1617
+  orig: 2049, 1617
+  offset: 0, 0
+  index: -1
+
+jq_lihui_bolinnachangfu2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wings
+  rotate: false
+  xy: 2, 2
+  size: 2922, 3299
+  orig: 2922, 3299
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+
+jq_lihui_newlifa.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 165, 8
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 137
+  size: 2050, 2050
+  orig: 2050, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 330, 9
+  size: 177, 128
+  orig: 177, 128
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 672, 18
+  size: 165, 119
+  orig: 165, 119
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 507, 10
+  size: 165, 127
+  orig: 165, 127
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 837, 18
+  size: 165, 119
+  orig: 165, 119
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 0, 0
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+
+jq_lihui_newlifa2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: false
+  xy: 0, 0
+  size: 2050, 2050
+  orig: 2050, 2050
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+jq_lihui_duoluoxi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 3255, 2103
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 936
+  size: 2639, 2630
+  orig: 2639, 2630
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 2639, 1374
+  size: 1211, 616
+  orig: 1211, 616
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 3102, 1174
+  size: 241, 200
+  orig: 241, 200
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 2861, 1172
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 2639, 892
+  size: 241, 213
+  orig: 241, 213
+  offset: 0, 0
+  index: -1
+ganga2
+  rotate: true
+  xy: 2852, 892
+  size: 241, 211
+  orig: 241, 211
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 3255, 2344
+  size: 241, 196
+  orig: 241, 196
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 2639, 1133
+  size: 241, 222
+  orig: 241, 222
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2639, 2585
+  size: 927, 981
+  orig: 927, 981
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 3255, 1912
+  size: 241, 191
+  orig: 241, 191
+  offset: 0, 0
+  index: -1
+tears
+  rotate: true
+  xy: 3063, 931
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1

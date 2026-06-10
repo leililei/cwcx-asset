@@ -1,0 +1,76 @@
+
+jq_lihui_yewtcf.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 946, 2519
+  size: 183, 241
+  orig: 183, 241
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 42, 2525
+  size: 177, 227
+  orig: 177, 227
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 856
+  size: 2702, 1660
+  orig: 2702, 1660
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 495, 2521
+  size: 181, 226
+  orig: 181, 226
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 269, 2522
+  size: 180, 226
+  orig: 180, 226
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 0, 2669
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1658, 2516
+  size: 186, 241
+  orig: 186, 241
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1187, 2519
+  size: 183, 230
+  orig: 183, 230
+  offset: 0, 0
+  index: -1
+wuyan
+  rotate: true
+  xy: 721, 2520
+  size: 182, 225
+  orig: 182, 225
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1417, 2519
+  size: 183, 241
+  orig: 183, 241
+  offset: 0, 0
+  index: -1

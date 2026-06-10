@@ -1,0 +1,84 @@
+{
+"skeleton": {
+	"hash": "VudQJzKnWdTcZCMHtFFLYNUegiE",
+	"spine": "3.8.99",
+	"x": -474.46,
+	"y": -1304.15,
+	"width": 1061,
+	"height": 2615,
+	"images": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine"
+},
+"bones": [
+	{ "name": "root", "x": -573.46, "y": 1317.85 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "kunhuo", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 629.5, "y": -1314.5, "width": 1061, "height": 2615 }
+			},
+			"daiji": {
+				"daiji": { "x": 599, "y": -270, "width": 202, "height": 156 }
+			},
+			"kunhuo": {
+				"kunhuo": { "x": 600, "y": -273, "width": 202, "height": 156 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 604.5, "y": -267.5, "width": 189, "height": 165 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"kunhuo": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"kunhuo": {
+				"attachment": [
+					{ "name": "kunhuo" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	}
+}
+}

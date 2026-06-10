@@ -1,0 +1,281 @@
+{
+"skeleton": {
+	"hash": "QM2wJrifIonylIq8KsHo8y7B5+c",
+	"spine": "3.8.99",
+	"x": -1202.63,
+	"y": -582.13,
+	"width": 2342,
+	"height": 1082,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\990cg\\990\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\990cg\\990"
+},
+"bones": [
+	{ "name": "root", "x": -1201.63, "y": 498.87 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "see", "bone": "root" },
+	{ "name": "closeeyes", "bone": "root" },
+	{ "name": "smile2", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "afraid", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "hand", "bone": "root" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"afraid": {
+				"afraid": { "x": 1449, "y": -431.5, "width": 300, "height": 305 }
+			},
+			"angry": {
+				"angry": { "x": 1473, "y": -398.5, "width": 348, "height": 363 }
+			},
+			"body": {
+				"body": { "x": 1170, "y": -540, "width": 2342, "height": 1082 }
+			},
+			"closeeyes": {
+				"closeeyes": { "x": 1453, "y": -415.5, "width": 318, "height": 331 }
+			},
+			"daiji": {
+				"daiji": { "x": 1451, "y": -426.5, "width": 304, "height": 321 }
+			},
+			"hand": {
+				"hand": { "x": 1582, "y": -541, "width": 1518, "height": 1080 }
+			},
+			"happy": {
+				"happy": { "x": 1465.5, "y": -411, "width": 333, "height": 330 }
+			},
+			"head": {
+				"head": { "x": 1170, "y": -540, "width": 2340, "height": 1080 }
+			},
+			"see": {
+				"see": { "x": 1449, "y": -432.5, "width": 300, "height": 295 }
+			},
+			"smile": {
+				"smile": { "x": 1462, "y": -424, "width": 326, "height": 316 }
+			},
+			"smile2": {
+				"smile2": { "x": 1449.5, "y": -429, "width": 301, "height": 308 }
+			},
+			"surprise": {
+				"surprise": { "x": 1449, "y": -429.5, "width": 300, "height": 301 }
+			}
+		}
+	}
+],
+"animations": {
+	"afraid": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			}
+		}
+	},
+	"afraid2": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			},
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			}
+		}
+	},
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			}
+		}
+	},
+	"closeeyes": {
+		"slots": {
+			"closeeyes": {
+				"attachment": [
+					{ "name": "closeeyes" }
+				]
+			}
+		}
+	},
+	"closeeyes2": {
+		"slots": {
+			"closeeyes": {
+				"attachment": [
+					{ "name": "closeeyes" }
+				]
+			},
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"see": {
+		"slots": {
+			"see": {
+				"attachment": [
+					{ "name": "see" }
+				]
+			}
+		}
+	},
+	"see2": {
+		"slots": {
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			},
+			"see": {
+				"attachment": [
+					{ "name": "see" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"smile2": {
+				"attachment": [
+					{ "name": "smile2" }
+				]
+			}
+		}
+	},
+	"smile3": {
+		"slots": {
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile4": {
+		"slots": {
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			},
+			"smile2": {
+				"attachment": [
+					{ "name": "smile2" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	},
+	"surprise2": {
+		"slots": {
+			"hand": {
+				"attachment": [
+					{ "name": "hand" }
+				]
+			},
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

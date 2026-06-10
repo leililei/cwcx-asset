@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "O47eizjZOX922FTEpyG2v/GCsok",
+	"spine": "3.8.99",
+	"x": -1325.62,
+	"y": -1419.64,
+	"width": 3126,
+	"height": 3332,
+	"images": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\珑\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\珑"
+},
+"bones": [
+	{ "name": "root", "x": -2049.62, "y": 2581.36 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "benghuai", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"benghuai": {
+				"benghuai": { "x": 2052.5, "y": -1877.5, "width": 361, "height": 255 }
+			},
+			"body": {
+				"body": { "x": 2287, "y": -2335, "width": 3126, "height": 3332 }
+			},
+			"daiji": {
+				"daiji": { "x": 2130.5, "y": -1776.5, "width": 517, "height": 503 }
+			},
+			"happy": {
+				"happy": { "x": 2045.5, "y": -1888, "width": 311, "height": 282 }
+			},
+			"jingya": {
+				"jingya": { "x": 2052.5, "y": -1878, "width": 351, "height": 246 }
+			},
+			"shy": {
+				"shy": { "x": 2066.5, "y": -1908, "width": 433, "height": 314 }
+			}
+		}
+	}
+],
+"animations": {
+	"benghuai": {
+		"slots": {
+			"benghuai": {
+				"attachment": [
+					{ "name": "benghuai" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

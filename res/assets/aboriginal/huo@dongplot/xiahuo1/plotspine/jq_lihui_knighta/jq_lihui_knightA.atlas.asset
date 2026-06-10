@@ -1,0 +1,41 @@
+
+jq_lihui_knightA.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 150
+  size: 1499, 2524
+  orig: 1499, 2526
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 437, 15
+  size: 186, 135
+  orig: 186, 137
+  offset: 0, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 221, 15
+  size: 216, 135
+  orig: 216, 137
+  offset: 0, 1
+  index: -1
+tianshe
+  rotate: false
+  xy: 0, 0
+  size: 221, 150
+  orig: 221, 152
+  offset: 0, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 623, 17
+  size: 186, 133
+  orig: 186, 135
+  offset: 0, 1
+  index: -1

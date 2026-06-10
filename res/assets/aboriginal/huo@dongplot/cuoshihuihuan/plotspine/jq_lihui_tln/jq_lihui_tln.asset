@@ -1,0 +1,106 @@
+{
+"skeleton": {
+	"hash": "g/mpWhtEhsLCP2IJ/79N3yTCWs8",
+	"spine": "3.8.99",
+	"x": -457.28,
+	"y": -1129.97,
+	"width": 850,
+	"height": 2289,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\tls\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\tls"
+},
+"bones": [
+	{ "name": "root", "x": -1272.28, "y": 1301.03 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "heilian", "bone": "root" },
+	{ "name": "heilian_2", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1240, "y": -1286.5, "width": 850, "height": 2289 }
+			},
+			"daiji": {
+				"daiji": { "x": 1248.5, "y": -401, "width": 217, "height": 148 }
+			},
+			"heilian": {
+				"heilian": { "x": 1232.5, "y": -405, "width": 179, "height": 150 }
+			},
+			"heilian_2": {
+				"heilian_2": { "x": 1257.5, "y": -362.5, "width": 229, "height": 175 }
+			},
+			"jingya": {
+				"jingya": { "x": 1248.5, "y": -409.5, "width": 217, "height": 139 }
+			},
+			"sad": {
+				"sad": { "x": 1248.5, "y": -405.5, "width": 217, "height": 139 }
+			},
+			"yansu": {
+				"yansu": { "x": 1232.5, "y": -401, "width": 179, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"heilian": {
+		"slots": {
+			"heilian": {
+				"attachment": [
+					{ "name": "heilian" }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"offsets": [
+					{ "slot": "heilian", "offset": 1 }
+				]
+			}
+		]
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

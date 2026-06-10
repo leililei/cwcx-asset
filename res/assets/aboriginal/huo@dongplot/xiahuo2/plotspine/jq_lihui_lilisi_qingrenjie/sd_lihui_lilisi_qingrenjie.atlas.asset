@@ -1,0 +1,132 @@
+
+sd_lihui_lilisi_qingrenjie.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: true
+  xy: 1206, 55
+  size: 233, 208
+  orig: 235, 210
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 1321
+  size: 1635, 2654
+  orig: 1637, 2656
+  offset: 1, 1
+  index: -1
+body2
+  rotate: false
+  xy: 1, 0
+  size: 850, 1321
+  orig: 852, 1323
+  offset: 1, 1
+  index: -1
+chensi
+  rotate: true
+  xy: 1238, 610
+  size: 227, 178
+  orig: 229, 180
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 1298, 1081
+  size: 240, 179
+  orig: 242, 181
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: true
+  xy: 1026, 30
+  size: 235, 180
+  orig: 237, 182
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: true
+  xy: 850, 27
+  size: 238, 176
+  orig: 240, 178
+  offset: 1, 1
+  index: -1
+sad
+  rotate: true
+  xy: 1234, 290
+  size: 233, 178
+  orig: 235, 180
+  offset: 1, 1
+  index: -1
+shy1
+  rotate: true
+  xy: 1036, 523
+  size: 240, 202
+  orig: 242, 204
+  offset: 1, 1
+  index: -1
+shy2
+  rotate: true
+  xy: 850, 762
+  size: 254, 175
+  orig: 256, 177
+  offset: 1, 1
+  index: -1
+shy3
+  rotate: true
+  xy: 850, 509
+  size: 253, 186
+  orig: 255, 188
+  offset: 1, 1
+  index: -1
+shy4
+  rotate: true
+  xy: 1025, 763
+  size: 253, 181
+  orig: 255, 183
+  offset: 1, 1
+  index: -1
+wunai
+  rotate: true
+  xy: 1389, 855
+  size: 226, 200
+  orig: 228, 202
+  offset: 1, 1
+  index: -1
+wuyu
+  rotate: true
+  xy: 1061, 288
+  size: 235, 173
+  orig: 237, 175
+  offset: 1, 1
+  index: -1
+xiao1
+  rotate: true
+  xy: 1206, 837
+  size: 240, 183
+  orig: 242, 185
+  offset: 1, 1
+  index: -1
+xiao2
+  rotate: true
+  xy: 850, 265
+  size: 244, 211
+  orig: 246, 213
+  offset: 1, 1
+  index: -1
+xiao3
+  rotate: true
+  xy: 1082, 1077
+  size: 244, 216
+  orig: 246, 218
+  offset: 1, 1
+  index: -1
+yanwu
+  rotate: true
+  xy: 850, 1016
+  size: 305, 232
+  orig: 307, 234
+  offset: 1, 1
+  index: -1

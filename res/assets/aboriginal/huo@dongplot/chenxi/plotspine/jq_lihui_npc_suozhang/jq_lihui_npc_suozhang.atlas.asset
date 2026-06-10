@@ -1,0 +1,20 @@
+
+jq_lihui_npc_suozhang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 0
+  size: 180, 86
+  orig: 180, 86
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 86
+  size: 1457, 2440
+  orig: 1457, 2440
+  offset: 0, 0
+  index: -1

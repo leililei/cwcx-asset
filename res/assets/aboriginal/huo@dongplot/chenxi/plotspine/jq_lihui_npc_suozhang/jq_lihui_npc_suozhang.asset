@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "poX0NdheGcngBtSPS4ouSGpWjoY",
+	"spine": "3.8.99",
+	"x": -652.92,
+	"y": -1422.04,
+	"width": 1457,
+	"height": 2440,
+	"images": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine"
+},
+"bones": [
+	{ "name": "root", "x": -696.92, "y": 1068.96 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "biyan", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 724, "y": -316, "width": 180, "height": 86 }
+			},
+			"body": {
+				"body": { "x": 772.5, "y": -1271, "width": 1457, "height": 2440 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	}
+}
+}

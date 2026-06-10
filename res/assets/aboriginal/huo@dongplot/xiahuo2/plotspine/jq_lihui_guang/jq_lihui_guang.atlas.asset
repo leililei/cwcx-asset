@@ -1,0 +1,62 @@
+
+jq_lihui_guang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1033, 3290
+  size: 276, 190
+  orig: 276, 190
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1819
+  size: 1461, 3478
+  orig: 1461, 3478
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 754, 3292
+  size: 277, 188
+  orig: 277, 188
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 475, 3297
+  size: 277, 183
+  orig: 277, 183
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1311, 3286
+  size: 277, 194
+  orig: 277, 194
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1590, 3282
+  size: 279, 198
+  orig: 279, 198
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 196, 3300
+  size: 277, 180
+  orig: 277, 180
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 3406
+  size: 192, 74
+  orig: 192, 74
+  offset: 0, 0
+  index: -1

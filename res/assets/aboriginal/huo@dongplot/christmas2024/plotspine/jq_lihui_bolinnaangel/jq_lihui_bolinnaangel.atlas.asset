@@ -1,0 +1,62 @@
+
+jq_lihui_bolinnaangel.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 163, 3
+  size: 158, 128
+  orig: 158, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 133
+  size: 2853, 3222
+  orig: 2853, 3222
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 323, 10
+  size: 177, 121
+  orig: 177, 121
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 996, 22
+  size: 157, 109
+  orig: 157, 109
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 502, 10
+  size: 177, 121
+  orig: 177, 121
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 681, 16
+  size: 161, 115
+  orig: 161, 115
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 844, 21
+  size: 150, 110
+  orig: 150, 110
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 2, 2
+  size: 159, 129
+  orig: 159, 129
+  offset: 0, 0
+  index: -1

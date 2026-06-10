@@ -1,0 +1,226 @@
+{
+"skeleton": {
+	"hash": "TGlgIBH0jlRxdbyd3i/9pUWZStM",
+	"spine": "3.8.99",
+	"x": -1559.77,
+	"y": -1565.7,
+	"width": 2414,
+	"height": 3317,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\忍心社\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\忍心社"
+},
+"bones": [
+	{ "name": "root", "x": -1782.77, "y": 1992.3 }
+],
+"slots": [
+	{ "name": "wuqi2", "bone": "root" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "wuqi1", "bone": "root" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "texiao2", "bone": "root" },
+	{ "name": "texiao1", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1623.5, "y": -1001, "width": 119, "height": 112 }
+			},
+			"biyan": {
+				"biyan": { "x": 1627.5, "y": -1007.5, "width": 113, "height": 81 }
+			},
+			"body": {
+				"body": { "x": 1430, "y": -1899.5, "width": 2414, "height": 3317 }
+			},
+			"daiji": {
+				"daiji": { "x": 1626, "y": -1005.5, "width": 110, "height": 103 }
+			},
+			"sad": {
+				"sad": { "x": 1626, "y": -1012, "width": 110, "height": 90 }
+			},
+			"texiao1": {
+				"texiao1": { "x": 1487.5, "y": -776, "width": 521, "height": 376 }
+			},
+			"texiao2": {
+				"texiao2": { "x": 1427.5, "y": -1721, "width": 2857, "height": 2444 }
+			},
+			"wuqi1": {
+				"wuqi1": { "x": 1437.5, "y": -2602, "width": 1455, "height": 1894 }
+			},
+			"wuqi2": {
+				"wuqi2": { "x": 1770.5, "y": -1030.5, "width": 2527, "height": 1979 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry1": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"texiao1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"texiao2": {
+				"attachment": [
+					{ "name": "texiao2" }
+				]
+			},
+			"wuqi1": {
+				"attachment": [
+					{ "name": "wuqi1" }
+				]
+			},
+			"wuqi2": {
+				"attachment": [
+					{ "name": "wuqi2" }
+				]
+			}
+		}
+	},
+	"biyan1": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"texiao2": {
+				"attachment": [
+					{ "name": "texiao2" }
+				]
+			},
+			"wuqi1": {
+				"attachment": [
+					{ "name": "wuqi1" }
+				]
+			},
+			"wuqi2": {
+				"attachment": [
+					{ "name": "wuqi2" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"texiao1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"texiao2": {
+				"attachment": [
+					{ "name": "texiao2" }
+				]
+			},
+			"wuqi1": {
+				"attachment": [
+					{ "name": "wuqi1" }
+				]
+			},
+			"wuqi2": {
+				"attachment": [
+					{ "name": "wuqi2" }
+				]
+			}
+		}
+	},
+	"sad1": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			},
+			"texiao1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"texiao2": {
+				"attachment": [
+					{ "name": "texiao2" }
+				]
+			},
+			"wuqi1": {
+				"attachment": [
+					{ "name": "wuqi1" }
+				]
+			},
+			"wuqi2": {
+				"attachment": [
+					{ "name": "wuqi2" }
+				]
+			}
+		}
+	}
+}
+}

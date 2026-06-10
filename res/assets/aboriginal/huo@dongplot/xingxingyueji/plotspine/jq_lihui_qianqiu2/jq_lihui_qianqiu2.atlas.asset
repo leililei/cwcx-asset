@@ -1,0 +1,124 @@
+
+jq_lihui_qianqiu2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 5
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+lenku
+  rotate: true
+  xy: 1864, 1750
+  size: 262, 148
+  orig: 262, 148
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu22.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu23.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu24.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jixiao
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu25.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laugh
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu26.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lenmo
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu27.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sad
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu28.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shy
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu29.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weixiao
+  rotate: false
+  xy: 0, 0
+  size: 1864, 2007
+  orig: 1864, 2007
+  offset: 0, 0
+  index: -1

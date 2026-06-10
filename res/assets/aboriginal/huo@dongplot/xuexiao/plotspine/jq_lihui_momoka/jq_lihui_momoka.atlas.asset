@@ -1,0 +1,55 @@
+
+jq_lihui_momoka.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 0
+  size: 2024, 2047
+  orig: 2024, 2047
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 0, 2024
+  size: 2027, 2050
+  orig: 2027, 2050
+  offset: 0, 0
+  index: -1
+cry
+  rotate: true
+  xy: 2027, 3552
+  size: 261, 186
+  orig: 261, 186
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2027, 2772
+  size: 260, 144
+  orig: 260, 144
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 2027, 3292
+  size: 260, 172
+  orig: 260, 172
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 2027, 3032
+  size: 260, 150
+  orig: 260, 150
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: true
+  xy: 2027, 3813
+  size: 261, 192
+  orig: 261, 192
+  offset: 0, 0
+  index: -1

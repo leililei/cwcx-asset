@@ -1,0 +1,125 @@
+{
+"skeleton": {
+	"hash": "8fxB1lP1wvaAvwJuNxCKLP2LNmM",
+	"spine": "3.8.99",
+	"x": -588.61,
+	"y": -1300.19,
+	"width": 1107,
+	"height": 2394,
+	"images": "G:\\文案的活2\\5月spine\\aerita\\images",
+	"audio": "G:\\文案的活2\\5月spine\\aerita"
+},
+"bones": [
+	{ "name": "root", "x": -1000.61, "y": 1293.81 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "peace", "bone": "root" },
+	{ "name": "close", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "cry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 965.5, "y": -1397, "width": 1107, "height": 2394 }
+			},
+			"close": {
+				"close": { "x": 1014.5, "y": -433.5, "width": 105, "height": 129 }
+			},
+			"cry": {
+				"cry": { "x": 1014.5, "y": -435, "width": 105, "height": 126 }
+			},
+			"daiji": {
+				"daiji": { "x": 1014.5, "y": -432.5, "width": 105, "height": 131 }
+			},
+			"peace": {
+				"peace": { "x": 1014.5, "y": -431.5, "width": 105, "height": 129 }
+			},
+			"sad": {
+				"sad": { "x": 1014.5, "y": -433, "width": 105, "height": 130 }
+			},
+			"smile": {
+				"smile": { "x": 1014.5, "y": -434.5, "width": 105, "height": 123 }
+			}
+		}
+	}
+],
+"animations": {
+	"close": {
+		"slots": {
+			"close": {
+				"attachment": [
+					{ "name": "close" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"peace": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"peace": {
+				"attachment": [
+					{ "name": "peace" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

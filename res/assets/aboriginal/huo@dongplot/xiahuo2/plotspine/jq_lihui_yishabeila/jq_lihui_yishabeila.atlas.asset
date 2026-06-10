@@ -1,0 +1,68 @@
+
+jq_lihui_yishabeila.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 914, 2850
+  size: 223, 176
+  orig: 223, 176
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1376, 1942
+  size: 1650, 1084
+  orig: 1650, 1084
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 223, 2870
+  size: 234, 156
+  orig: 234, 156
+  offset: 0, 0
+  index: -1
+gaochao
+  rotate: false
+  xy: 1137, 2837
+  size: 239, 189
+  orig: 239, 189
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 691, 2861
+  size: 223, 165
+  orig: 223, 165
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 0, 2889
+  size: 223, 137
+  orig: 223, 137
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 457, 2870
+  size: 234, 156
+  orig: 234, 156
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yishabeila2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 201
+  size: 4002, 3801
+  orig: 4002, 3801
+  offset: 0, 0
+  index: -1

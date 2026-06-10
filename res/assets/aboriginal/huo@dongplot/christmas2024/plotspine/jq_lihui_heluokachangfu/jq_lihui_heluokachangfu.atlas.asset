@@ -1,0 +1,69 @@
+
+jq_lihui_heluokachangfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2277, 2497
+  size: 330, 359
+  orig: 330, 359
+  offset: 0, 0
+  index: -1
+bad
+  rotate: false
+  xy: 296, 2596
+  size: 322, 231
+  orig: 322, 231
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 497
+  size: 1998, 2825
+  orig: 1998, 2825
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 949, 2575
+  size: 330, 252
+  orig: 330, 252
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 2631
+  size: 292, 196
+  orig: 292, 196
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 620, 2580
+  size: 327, 247
+  orig: 327, 247
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1281, 2575
+  size: 330, 252
+  orig: 330, 252
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1613, 2575
+  size: 330, 252
+  orig: 330, 252
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1945, 2575
+  size: 330, 252
+  orig: 330, 252
+  offset: 0, 0
+  index: -1

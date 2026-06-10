@@ -1,0 +1,86 @@
+{
+"skeleton": { "hash": "t488f9R8q199V44yP0T1TgbT99M", "spine": "3.8.99", "images": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\卡洛琳\\images", "audio": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\卡洛琳" },
+"bones": [
+	{ "name": "root", "x": -950.55, "y": 1618.52 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "happy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 957, "y": -730.5, "width": 316, "height": 251 }
+			},
+			"body": {
+				"body": { "x": 1050, "y": -1275, "width": 2102, "height": 2252 }
+			},
+			"daiji": {
+				"daiji": { "x": 955, "y": -746.5, "width": 320, "height": 297 }
+			},
+			"happy": {
+				"happy": { "x": 955, "y": -741, "width": 320, "height": 306 }
+			},
+			"sad": {
+				"sad": { "x": 957, "y": -742, "width": 316, "height": 304 }
+			},
+			"surprise": {
+				"surprise": { "x": 965.5, "y": -731, "width": 333, "height": 282 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"surp": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

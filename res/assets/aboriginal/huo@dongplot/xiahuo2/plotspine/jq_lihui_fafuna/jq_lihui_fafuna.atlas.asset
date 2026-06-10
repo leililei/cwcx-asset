@@ -1,0 +1,61 @@
+
+jq_lihui_fafuna.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1317, 1350
+  size: 272, 239
+  orig: 272, 239
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 261, 1370
+  size: 264, 219
+  orig: 264, 219
+  offset: 0, 0
+  index: -1
+gaochao
+  rotate: false
+  xy: 1053, 1353
+  size: 264, 236
+  orig: 264, 236
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 0, 1381
+  size: 261, 208
+  orig: 261, 208
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 789, 1366
+  size: 264, 223
+  orig: 264, 223
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 525, 1370
+  size: 264, 219
+  orig: 264, 219
+  offset: 0, 0
+  index: -1
+
+jq_lihui_fafuna2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 4002, 4002
+  orig: 4002, 4002
+  offset: 0, 0
+  index: -1

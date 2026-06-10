@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "fAps5FHyElyTQAav0M3+XqvJgTo",
+	"spine": "3.8.99",
+	"x": -1388.54,
+	"y": -113.23,
+	"width": 2702,
+	"height": 1660,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\yewtcf2\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\yewtcf2"
+},
+"bones": [
+	{ "name": "root", "x": -1387.54, "y": 1545.77 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "kuang", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "wuyan", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "nose", "bone": "root", "attachment": "nose" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1390.5, "y": -491.5, "width": 183, "height": 241 }
+			},
+			"biyan": {
+				"biyan": { "x": 1390.5, "y": -496.5, "width": 177, "height": 227 }
+			},
+			"body": {
+				"body": { "x": 1350, "y": -829, "width": 2702, "height": 1660 }
+			},
+			"daiji": {
+				"daiji": { "x": 1392.5, "y": -499, "width": 181, "height": 226 }
+			},
+			"kuang": {
+				"kuang": { "x": 1392, "y": -499, "width": 180, "height": 226 }
+			},
+			"nose": {
+				"nose": { "x": 1391, "y": -500.5, "width": 42, "height": 33 }
+			},
+			"sad": {
+				"sad": { "x": 1390, "y": -491.5, "width": 186, "height": 241 }
+			},
+			"smile": {
+				"smile": { "x": 1390.5, "y": -497, "width": 183, "height": 230 }
+			},
+			"wuyan": {
+				"wuyan": { "x": 1391, "y": -499.5, "width": 182, "height": 225 }
+			},
+			"yansu": {
+				"yansu": { "x": 1390.5, "y": -491.5, "width": 183, "height": 241 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"kuang": {
+		"slots": {
+			"kuang": {
+				"attachment": [
+					{ "name": "kuang" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wuyan": {
+		"slots": {
+			"wuyan": {
+				"attachment": [
+					{ "name": "wuyan" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

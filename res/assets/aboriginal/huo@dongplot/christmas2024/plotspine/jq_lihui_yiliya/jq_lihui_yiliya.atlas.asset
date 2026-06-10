@@ -1,0 +1,83 @@
+
+jq_lihui_yiliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 298, 3853
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 3638, 2911
+  orig: 3638, 2911
+  offset: 0, 0
+  index: -1
+crazy
+  rotate: true
+  xy: 860, 3803
+  size: 173, 186
+  orig: 173, 186
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 687, 3830
+  size: 171, 146
+  orig: 171, 146
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 32, 3856
+  size: 120, 131
+  orig: 120, 131
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 1371, 2915
+  size: 1061, 1136
+  orig: 1061, 1136
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 1048, 3695
+  size: 281, 321
+  orig: 281, 321
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 554, 3850
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 3958
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 424, 3853
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 165, 3856
+  size: 120, 131
+  orig: 120, 131
+  offset: 0, 0
+  index: -1

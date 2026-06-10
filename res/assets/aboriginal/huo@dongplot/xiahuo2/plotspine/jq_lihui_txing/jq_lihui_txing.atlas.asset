@@ -1,0 +1,54 @@
+
+jq_lihui_txing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 2519
+  size: 1142, 907
+  orig: 1142, 907
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1142, 2519
+  size: 1142, 907
+  orig: 1142, 907
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 1142, 1253
+  size: 1387, 1266
+  orig: 1387, 1266
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2284, 2519
+  size: 1142, 907
+  orig: 1142, 907
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 0, 1612
+  size: 1142, 907
+  orig: 1142, 907
+  offset: 0, 0
+  index: -1
+
+jq_lihui_txing2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 4002, 4002
+  orig: 4002, 4002
+  offset: 0, 0
+  index: -1

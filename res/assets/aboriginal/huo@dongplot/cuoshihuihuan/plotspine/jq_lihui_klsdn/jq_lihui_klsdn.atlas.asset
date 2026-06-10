@@ -1,0 +1,131 @@
+
+jq_lihui_klsdn.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2245, 3555
+  size: 221, 160
+  orig: 221, 160
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2034, 3557
+  size: 211, 158
+  orig: 211, 158
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: false
+  xy: 1156, 3566
+  size: 218, 149
+  orig: 218, 149
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 2335
+  size: 1220, 2451
+  orig: 1220, 2451
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1588, 3565
+  size: 228, 150
+  orig: 228, 150
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 3354, 3359
+  size: 356, 361
+  orig: 356, 361
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 0, 3586
+  size: 282, 129
+  orig: 282, 129
+  offset: 0, 0
+  index: -1
+glass2
+  rotate: false
+  xy: 282, 3581
+  size: 227, 134
+  orig: 227, 134
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: false
+  xy: 2974, 3368
+  size: 380, 347
+  orig: 380, 347
+  offset: 0, 0
+  index: -1
+know
+  rotate: false
+  xy: 1374, 3566
+  size: 214, 149
+  orig: 214, 149
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 2678, 3501
+  size: 296, 214
+  orig: 296, 214
+  offset: 0, 0
+  index: -1
+laugh2
+  rotate: false
+  xy: 2466, 3552
+  size: 212, 163
+  orig: 212, 163
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 509, 3571
+  size: 204, 144
+  orig: 204, 144
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 713, 3568
+  size: 225, 147
+  orig: 225, 147
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: false
+  xy: 1816, 3565
+  size: 218, 150
+  orig: 218, 150
+  offset: 0, 0
+  index: -1
+zhuomei
+  rotate: false
+  xy: 938, 3567
+  size: 218, 148
+  orig: 218, 148
+  offset: 0, 0
+  index: -1
+
+jq_lihui_klsdn2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon
+  rotate: false
+  xy: 0, 0
+  size: 4000, 4000
+  orig: 4000, 4000
+  offset: 0, 0
+  index: -1

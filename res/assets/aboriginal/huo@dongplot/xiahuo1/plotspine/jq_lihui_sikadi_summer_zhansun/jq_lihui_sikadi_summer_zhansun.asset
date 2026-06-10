@@ -1,0 +1,84 @@
+{
+"skeleton": {
+	"hash": "ncKi/fHHh3DhY62ujJmgNVVyLpQ",
+	"spine": "3.8.99",
+	"x": -1264.8,
+	"y": -1035.95,
+	"width": 2347,
+	"height": 2342,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_sikadi_summer_zhansun\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_sikadi_summer_zhansun"
+},
+"bones": [
+	{ "name": "root", "x": -1438.8, "y": 1621.05 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "normal2", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1317, "y": -786.5, "width": 224, "height": 189 }
+			},
+			"body": {
+				"body": { "x": 1347.5, "y": -1486, "width": 2347, "height": 2342 }
+			},
+			"daiji": {
+				"daiji": { "x": 1313.5, "y": -787, "width": 233, "height": 190 }
+			},
+			"normal2": {
+				"normal2": { "x": 1316, "y": -787, "width": 238, "height": 190 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"normal": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"normal2": {
+				"attachment": [
+					{ "name": "normal2" }
+				]
+			}
+		}
+	}
+}
+}

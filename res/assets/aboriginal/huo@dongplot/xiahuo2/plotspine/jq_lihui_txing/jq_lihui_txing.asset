@@ -1,0 +1,86 @@
+{
+"skeleton": {
+	"hash": "+S1bVrO5srLTjGEab/9wSJRJIXc",
+	"spine": "3.8.99",
+	"x": -1992.98,
+	"y": -1150.21,
+	"width": 4002,
+	"height": 4002,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\幽灵\\T型\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\幽灵\\T型"
+},
+"bones": [
+	{ "name": "root", "x": -1991.98, "y": 2850.79 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "guangdian", "bone": "root", "attachment": "guangdian" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2470, "y": -1665.5, "width": 1142, "height": 907 }
+			},
+			"body": {
+				"body": { "x": 2000, "y": -2000, "width": 4002, "height": 4002 }
+			},
+			"daiji": {
+				"daiji": { "x": 2470, "y": -1665.5, "width": 1142, "height": 907 }
+			},
+			"guangdian": {
+				"guangdian": { "x": 2087.5, "y": -1085, "width": 1387, "height": 1266 }
+			},
+			"sad": {
+				"sad": { "x": 2470, "y": -1665.5, "width": 1142, "height": 907 }
+			},
+			"xiao": {
+				"xiao": { "x": 2470, "y": -1665.5, "width": 1142, "height": 907 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

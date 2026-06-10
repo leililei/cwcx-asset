@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "X6GBOOjtcElkPYi1NyZ+2TLtnkQ",
+	"spine": "3.8.99",
+	"x": -787,
+	"y": -1291,
+	"width": 1956,
+	"height": 2568,
+	"images": "C:\\Users\\Plan123\\Desktop\\骑士b\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\骑士b"
+},
+"bones": [
+	{ "name": "root", "x": -1446, "y": 1710 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1475, "y": -912, "width": 196, "height": 160 }
+			},
+			"body": {
+				"body": { "x": 1637, "y": -1717, "width": 1956, "height": 2568 }
+			},
+			"daiji": {
+				"daiji": { "x": 1475, "y": -910.5, "width": 196, "height": 143 }
+			},
+			"happy": {
+				"happy": { "x": 1475, "y": -910.5, "width": 196, "height": 155 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1475, "y": -908.5, "width": 196, "height": 151 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

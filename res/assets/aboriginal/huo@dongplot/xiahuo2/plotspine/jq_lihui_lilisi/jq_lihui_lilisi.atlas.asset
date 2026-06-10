@@ -1,0 +1,132 @@
+
+jq_lihui_lilisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2209, 3841
+  size: 308, 245
+  orig: 308, 245
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 3822, 3778
+  size: 308, 264
+  orig: 308, 264
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 3957
+  size: 301, 129
+  orig: 301, 129
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 735, 1173
+  size: 2033, 3132
+  orig: 2033, 3132
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 590, 3206
+  size: 629, 3065
+  orig: 629, 3065
+  offset: 0, 0
+  index: -1
+chengsi
+  rotate: false
+  xy: 301, 3889
+  size: 301, 197
+  orig: 301, 197
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2517, 3841
+  size: 317, 245
+  orig: 317, 245
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 916, 3851
+  size: 316, 235
+  orig: 316, 235
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 273, 3629
+  size: 317, 260
+  orig: 317, 260
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 3510, 3835
+  size: 312, 251
+  orig: 312, 251
+  offset: 0, 0
+  index: -1
+laji
+  rotate: true
+  xy: 0, 2509
+  size: 697, 735
+  orig: 697, 735
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 602, 3868
+  size: 314, 218
+  orig: 314, 218
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 3151, 3840
+  size: 359, 246
+  orig: 359, 246
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1232, 3848
+  size: 341, 238
+  orig: 341, 238
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 1573, 3844
+  size: 317, 242
+  orig: 317, 242
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1890, 3844
+  size: 319, 242
+  orig: 319, 242
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: true
+  xy: 0, 3642
+  size: 315, 273
+  orig: 315, 273
+  offset: 0, 0
+  index: -1
+xiao4
+  rotate: false
+  xy: 2834, 3841
+  size: 317, 245
+  orig: 317, 245
+  offset: 0, 0
+  index: -1

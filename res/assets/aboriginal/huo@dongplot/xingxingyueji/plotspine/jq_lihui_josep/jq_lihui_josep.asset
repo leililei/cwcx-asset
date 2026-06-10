@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "RsZ/2JspTlysy31gDS6dwBn+yhA",
+	"spine": "3.8.99",
+	"x": -737.54,
+	"y": -959.3,
+	"width": 1475,
+	"height": 2036,
+	"images": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -736.54, "y": 1075.7 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "shy2", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "lenmo", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 704.5, "y": -275.5, "width": 193, "height": 197 }
+			},
+			"body": {
+				"body": { "x": 736.5, "y": -1017, "width": 1475, "height": 2036 }
+			},
+			"daiji": {
+				"daiji": { "x": 711, "y": -276.5, "width": 196, "height": 181 }
+			},
+			"happy": {
+				"happy": { "x": 732, "y": -271, "width": 246, "height": 180 }
+			},
+			"lenmo": {
+				"lenmo": { "x": 704, "y": -271.5, "width": 186, "height": 179 }
+			},
+			"sad": {
+				"sad": { "x": 711.5, "y": -273.5, "width": 193, "height": 177 }
+			},
+			"shy": {
+				"shy": { "x": 732, "y": -273, "width": 246, "height": 178 }
+			},
+			"shy2": {
+				"shy2": { "x": 732, "y": -277.5, "width": 246, "height": 193 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"lenmo": {
+		"slots": {
+			"lenmo": {
+				"attachment": [
+					{ "name": "lenmo" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	}
+}
+}

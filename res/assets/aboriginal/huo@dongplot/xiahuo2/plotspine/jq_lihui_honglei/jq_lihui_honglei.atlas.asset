@@ -1,0 +1,81 @@
+
+jq_lihui_honglei.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 333, 3322
+  size: 119, 112
+  orig: 119, 112
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 3353
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 223, 3331
+  size: 110, 103
+  orig: 110, 103
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 113, 3344
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 452, 3058
+  size: 521, 376
+  orig: 521, 376
+  offset: 0, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 973, 1979
+  size: 1455, 1894
+  orig: 1455, 1894
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 0, 0
+  size: 2527, 1979
+  orig: 2527, 1979
+  offset: 0, 0
+  index: -1
+
+jq_lihui_honglei2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 2414, 3317
+  orig: 2414, 3317
+  offset: 0, 0
+  index: -1
+
+jq_lihui_honglei3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao2
+  rotate: false
+  xy: 0, 413
+  size: 2857, 2444
+  orig: 2857, 2444
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jq_lihui_long.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+benghuai
+  rotate: false
+  xy: 1261, 248
+  size: 361, 255
+  orig: 361, 255
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 503
+  size: 3126, 3332
+  orig: 3126, 3332
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 517, 503
+  orig: 517, 503
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 950, 221
+  size: 311, 282
+  orig: 311, 282
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1622, 257
+  size: 351, 246
+  orig: 351, 246
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 517, 189
+  size: 433, 314
+  orig: 433, 314
+  offset: 0, 0
+  index: -1

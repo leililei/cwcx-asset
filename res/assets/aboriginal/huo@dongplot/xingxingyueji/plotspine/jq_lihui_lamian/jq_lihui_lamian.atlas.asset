@@ -1,0 +1,27 @@
+
+jq_lihui_lamian.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1498, 2032
+  orig: 1498, 2032
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1498, 1638
+  size: 276, 394
+  orig: 276, 394
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1498, 1258
+  size: 255, 380
+  orig: 255, 380
+  offset: 0, 0
+  index: -1

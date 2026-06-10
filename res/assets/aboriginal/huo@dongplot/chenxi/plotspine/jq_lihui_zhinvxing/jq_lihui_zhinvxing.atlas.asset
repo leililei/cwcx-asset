@@ -1,0 +1,69 @@
+
+jq_lihui_zhinvxing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1292
+  size: 1839, 2536
+  orig: 1839, 2536
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1839, 1292
+  size: 1839, 2536
+  orig: 1839, 2536
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 3678, 2585
+  size: 163, 127
+  orig: 163, 127
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: true
+  xy: 3678, 3573
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+kunhuo
+  rotate: true
+  xy: 3678, 3074
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: true
+  xy: 3678, 3236
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 3678, 2748
+  size: 161, 129
+  orig: 161, 129
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 3678, 2909
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+weixiao2
+  rotate: true
+  xy: 3678, 3404
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1

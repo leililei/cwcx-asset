@@ -1,0 +1,83 @@
+
+jq_lihui_dllsqd.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 228, 0
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 0, 168
+  size: 228, 138
+  orig: 228, 138
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1677
+  size: 2129, 2382
+  orig: 2129, 2382
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 496, 71
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 623, 71
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 0, 36
+  size: 228, 132
+  orig: 228, 132
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 361, 76
+  size: 195, 135
+  orig: 195, 135
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: false
+  xy: 276, 271
+  size: 211, 125
+  orig: 211, 125
+  offset: 0, 0
+  index: -1
+think
+  rotate: true
+  xy: 138, 200
+  size: 196, 138
+  orig: 196, 138
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 396
+  size: 2229, 1281
+  orig: 2229, 1281
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 487, 271
+  size: 200, 125
+  orig: 200, 125
+  offset: 0, 0
+  index: -1

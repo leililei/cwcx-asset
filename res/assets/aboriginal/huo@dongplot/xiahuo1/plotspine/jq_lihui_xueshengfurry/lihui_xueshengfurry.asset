@@ -1,0 +1,149 @@
+{
+"skeleton": {
+	"hash": "bHeoudOEbiAmzVXMb9/5CiJ3EJM",
+	"spine": "3.8.99",
+	"x": -517.55,
+	"y": -1152.18,
+	"width": 1267,
+	"height": 2542,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\spine-副本\\福瑞学生\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\spine-副本\\福瑞学生"
+},
+"bones": [
+	{ "name": "root", "x": -764.55, "y": 1414.82 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daoji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "tuxue", "bone": "root" },
+	{ "name": "jingxia", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 880.5, "y": -1296, "width": 1267, "height": 2542 }
+			},
+			"body2": {
+				"body2": { "x": 736, "y": -346.5, "width": 286, "height": 255 }
+			},
+			"daoji": {
+				"daoji": { "x": 729, "y": -356, "width": 224, "height": 154 }
+			},
+			"happy": {
+				"happy": { "x": 719, "y": -362.5, "width": 244, "height": 167 }
+			},
+			"jingxia": {
+				"jingxia": { "x": 726.5, "y": -282, "width": 349, "height": 328 }
+			},
+			"sad": {
+				"sad": { "x": 729, "y": -359.5, "width": 224, "height": 153 }
+			},
+			"tuxue": {
+				"tuxue": { "x": 729.5, "y": -382.5, "width": 201, "height": 159 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daoji": {
+				"attachment": [
+					{ "name": "daoji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingxia": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"jingxia": {
+				"attachment": [
+					{ "name": "jingxia" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"tuxue": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"tuxue": {
+				"attachment": [
+					{ "name": "tuxue" }
+				]
+			}
+		}
+	}
+}
+}

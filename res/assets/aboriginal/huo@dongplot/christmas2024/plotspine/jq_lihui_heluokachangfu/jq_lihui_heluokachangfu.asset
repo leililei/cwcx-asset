@@ -1,0 +1,125 @@
+{
+"skeleton": {
+	"hash": "REqfyqAjLigSz3xLhrUWk91b36c",
+	"spine": "3.8.99",
+	"x": -1092.9,
+	"y": -1568,
+	"width": 1998,
+	"height": 2825,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\heluokachangfu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\heluokachangfu"
+},
+"bones": [
+	{ "name": "root", "x": -1302.9, "y": 1892 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "bad", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "eyes", "bone": "root", "attachment": "eyes" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1353, "y": -942.5, "width": 330, "height": 359 }
+			},
+			"bad": {
+				"bad": { "x": 1357, "y": -1006.5, "width": 322, "height": 231 }
+			},
+			"body": {
+				"body": { "x": 1209, "y": -2047.5, "width": 1998, "height": 2825 }
+			},
+			"daiji": {
+				"daiji": { "x": 1353, "y": -996, "width": 330, "height": 252 }
+			},
+			"eyes": {
+				"eyes": { "x": 1341, "y": -981, "width": 292, "height": 196 }
+			},
+			"sad": {
+				"sad": { "x": 1361.5, "y": -998.5, "width": 327, "height": 247 }
+			},
+			"smile": {
+				"smile": { "x": 1353, "y": -996, "width": 330, "height": 252 }
+			},
+			"surprise": {
+				"surprise": { "x": 1353, "y": -996, "width": 330, "height": 252 }
+			},
+			"wink": {
+				"wink": { "x": 1353, "y": -996, "width": 330, "height": 252 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"bad": {
+		"slots": {
+			"bad": {
+				"attachment": [
+					{ "name": "bad" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+jq_lihui_christmasjiya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1299, 892
+  size: 321, 200
+  orig: 321, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 228
+  size: 1295, 3095
+  orig: 1295, 3095
+  offset: 0, 0
+  index: -1
+closeeyes
+  rotate: false
+  xy: 1296, 6
+  size: 288, 220
+  orig: 288, 220
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1586, 1319
+  size: 321, 217
+  orig: 321, 217
+  offset: 0, 0
+  index: -1
+dajing
+  rotate: false
+  xy: 648, 5
+  size: 323, 221
+  orig: 323, 221
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 325, 3
+  size: 321, 223
+  orig: 321, 223
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 2, 2
+  size: 321, 224
+  orig: 321, 224
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1299, 1538
+  size: 1295, 1785
+  orig: 1295, 1785
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1299, 1215
+  size: 321, 217
+  orig: 321, 217
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: true
+  xy: 1501, 919
+  size: 294, 192
+  orig: 294, 192
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 1909, 1177
+  size: 359, 210
+  orig: 359, 210
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1695, 1023
+  size: 294, 186
+  orig: 294, 186
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 973, 6
+  size: 321, 220
+  orig: 321, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,87 @@
+{
+"skeleton": {
+	"hash": "WMy7989erSc/xb1vIF2qWlHZJow",
+	"spine": "3.8.99",
+	"x": -668.32,
+	"y": -448.08,
+	"width": 1407,
+	"height": 2046,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -667.32, "y": 1596.92 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "happy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 625, "y": -360.5, "width": 274, "height": 237 }
+			},
+			"body": {
+				"body": { "x": 702.5, "y": -1022, "width": 1407, "height": 2046 }
+			},
+			"daiji": {
+				"daiji": { "x": 625.5, "y": -363.5, "width": 273, "height": 245 }
+			},
+			"happy": {
+				"happy": { "x": 627.5, "y": -366.5, "width": 277, "height": 259 }
+			},
+			"yansu": {
+				"yansu": { "x": 624.5, "y": -370, "width": 275, "height": 216 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

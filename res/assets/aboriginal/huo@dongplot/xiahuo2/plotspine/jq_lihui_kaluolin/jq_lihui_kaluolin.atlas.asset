@@ -1,0 +1,48 @@
+
+jq_lihui_kaluolin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1289, 55
+  size: 316, 251
+  orig: 316, 251
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 306
+  size: 2102, 2252
+  orig: 2102, 2252
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 636, 9
+  size: 320, 297
+  orig: 320, 297
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 0, 0
+  size: 320, 306
+  orig: 320, 306
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 320, 2
+  size: 316, 304
+  orig: 316, 304
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 956, 24
+  size: 333, 282
+  orig: 333, 282
+  offset: 0, 0
+  index: -1

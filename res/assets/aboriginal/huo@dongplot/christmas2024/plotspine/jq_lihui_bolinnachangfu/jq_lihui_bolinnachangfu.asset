@@ -1,0 +1,235 @@
+{
+"skeleton": {
+	"hash": "/+FfaiYm5M8LoyJYJrw7Lnw6w0s",
+	"spine": "3.8.99",
+	"x": -419.84,
+	"y": -1177.11,
+	"width": 788,
+	"height": 1879,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\bolinna\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\bolinna"
+},
+"bones": [
+	{ "name": "root", "x": -2079.84, "y": 1601.89 }
+],
+"slots": [
+	{ "name": "wings", "bone": "root" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "weapon", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "cry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "serious", "bone": "root" },
+	{ "name": "afraid", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "cloth", "bone": "root", "attachment": "cloth" },
+	{ "name": "Christmas hat", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Christmas hat": {
+				"Christmas hat": { "x": 2081, "y": -945.5, "width": 268, "height": 185 }
+			},
+			"afraid": {
+				"afraid": { "x": 2084, "y": -1076.5, "width": 162, "height": 131 }
+			},
+			"angry": {
+				"angry": { "x": 2084, "y": -1077.5, "width": 162, "height": 131 }
+			},
+			"body": {
+				"body": { "x": 2054, "y": -1839.5, "width": 788, "height": 1879 }
+			},
+			"cloth": {
+				"cloth": { "x": 2044.5, "y": -1444.5, "width": 629, "height": 541 }
+			},
+			"cry": {
+				"cry": { "x": 2078.5, "y": -1082, "width": 181, "height": 124 }
+			},
+			"daiji": {
+				"daiji": { "x": 2083.5, "y": -1074.5, "width": 161, "height": 111 }
+			},
+			"sad": {
+				"sad": { "x": 2078.5, "y": -1082, "width": 181, "height": 124 }
+			},
+			"serious": {
+				"serious": { "x": 2085.5, "y": -1071, "width": 165, "height": 118 }
+			},
+			"smile": {
+				"smile": { "x": 2088.5, "y": -1075, "width": 153, "height": 112 }
+			},
+			"weapon": {
+				"weapon": { "x": 2031.5, "y": -1764.5, "width": 2049, "height": 1617 }
+			},
+			"wings": {
+				"wings": { "x": 2321, "y": -1704.5, "width": 2922, "height": 3299 }
+			}
+		}
+	}
+],
+"animations": {
+	"afraid": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			}
+		}
+	},
+	"afraid2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			}
+		}
+	},
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"cry2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"serious": {
+		"slots": {
+			"serious": {
+				"attachment": [
+					{ "name": "serious" }
+				]
+			}
+		}
+	},
+	"serious2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"serious": {
+				"attachment": [
+					{ "name": "serious" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"Christmas hat": {
+				"attachment": [
+					{ "name": "Christmas hat" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

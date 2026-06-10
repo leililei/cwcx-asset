@@ -1,0 +1,120 @@
+{
+"skeleton": {
+	"hash": "SMhPjm8nLALr88GL6YJ2uhU5474",
+	"spine": "3.8.99",
+	"x": -422.67,
+	"y": -1156.76,
+	"width": 1004,
+	"height": 2133,
+	"images": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\12月活动\\立绘spine"
+},
+"bones": [
+	{ "name": "root", "x": -477.67, "y": 1024.24 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "kunhuo", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 557, "y": -1114.5, "width": 1004, "height": 2133 }
+			},
+			"daiji": {
+				"daiji": { "x": 523, "y": -332.5, "width": 78, "height": 117 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 500.5, "y": -326.5, "width": 153, "height": 117 }
+			},
+			"kunhuo": {
+				"kunhuo": { "x": 525, "y": -332.5, "width": 72, "height": 113 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 525, "y": -333, "width": 72, "height": 108 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 521, "y": -330.5, "width": 82, "height": 121 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"kunhuo": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"kunhuo": {
+				"attachment": [
+					{ "name": "kunhuo" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

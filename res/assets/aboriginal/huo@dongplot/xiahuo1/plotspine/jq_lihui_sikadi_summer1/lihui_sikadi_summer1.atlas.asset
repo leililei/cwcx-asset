@@ -1,0 +1,111 @@
+
+lihui_sikadi_summer1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1876, 1644
+  size: 185, 134
+  orig: 185, 134
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 48
+  size: 1546, 1966
+  orig: 1546, 1966
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1704, 703
+  size: 185, 140
+  orig: 185, 140
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 1546, 1600
+  size: 414, 330
+  orig: 414, 330
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1546, 252
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 1546, 843
+  size: 280, 272
+  orig: 280, 272
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 1546, 1123
+  size: 477, 321
+  orig: 477, 321
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1867, 1415
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+huaiyi
+  rotate: true
+  xy: 1818, 938
+  size: 185, 140
+  orig: 185, 140
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1698, 476
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 1867, 1230
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 1546, 621
+  size: 222, 158
+  orig: 222, 158
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: true
+  xy: 1546, 399
+  size: 222, 152
+  orig: 222, 152
+  offset: 0, 0
+  index: -1
+tears
+  rotate: false
+  xy: 1546, 127
+  size: 183, 125
+  orig: 183, 125
+  offset: 0, 0
+  index: -1
+worry
+  rotate: true
+  xy: 1876, 1829
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1

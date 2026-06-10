@@ -1,0 +1,48 @@
+
+jq_lihui_aerfa.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 235
+  size: 3957, 3420
+  orig: 3957, 3420
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 3751
+  size: 306, 206
+  orig: 306, 206
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 306, 3746
+  size: 306, 211
+  orig: 306, 211
+  offset: 0, 0
+  index: -1
+heihua
+  rotate: false
+  xy: 1197, 3655
+  size: 335, 302
+  orig: 335, 302
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 612, 3745
+  size: 291, 212
+  orig: 291, 212
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 903, 3738
+  size: 294, 219
+  orig: 294, 219
+  offset: 0, 0
+  index: -1

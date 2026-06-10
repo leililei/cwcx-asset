@@ -1,0 +1,250 @@
+{
+"skeleton": {
+	"hash": "aRcgALeBJrI4jamclEK1YwtCeXs",
+	"spine": "3.8.99",
+	"x": -1521.07,
+	"y": -773.71,
+	"width": 2639,
+	"height": 2630,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_duoluoxi\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\jq_lihui_duoluoxi"
+},
+"bones": [
+	{ "name": "root", "x": -1684.07, "y": 2154.29 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "light", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "danyou", "bone": "root" },
+	{ "name": "tears", "bone": "root" },
+	{ "name": "ganga2", "bone": "root" },
+	{ "name": "shen", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1791.5, "y": -1145.5, "width": 241, "height": 193 }
+			},
+			"body": {
+				"body": { "x": 1482.5, "y": -1613, "width": 2639, "height": 2630 }
+			},
+			"body2": {
+				"body2": { "x": 1710.5, "y": -1063, "width": 1211, "height": 616 }
+			},
+			"daiji": {
+				"daiji": { "x": 1791.5, "y": -1142, "width": 241, "height": 200 }
+			},
+			"danyou": {
+				"danyou": { "x": 1791.5, "y": -1141, "width": 241, "height": 202 }
+			},
+			"ganga": {
+				"ganga": { "x": 1791.5, "y": -1146.5, "width": 241, "height": 213 }
+			},
+			"ganga2": {
+				"ganga2": { "x": 1791.5, "y": -1147.5, "width": 241, "height": 211 }
+			},
+			"happy": {
+				"happy": { "x": 1791.5, "y": -1144, "width": 241, "height": 196 }
+			},
+			"jingya": {
+				"jingya": { "x": 1791.5, "y": -1142, "width": 241, "height": 222 }
+			},
+			"light": {
+				"light": { "x": 1445.5, "y": -952.5, "width": 927, "height": 981 }
+			},
+			"shen": {
+				"shen": { "x": 1791.5, "y": -1146.5, "width": 241, "height": 191 }
+			},
+			"tears": {
+				"tears": { "x": 1791.5, "y": -1141, "width": 241, "height": 202 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"ganga2": {
+				"attachment": [
+					{ "name": "ganga2" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shen": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"light": {
+				"attachment": [
+					{ "name": "light" }
+				]
+			},
+			"shen": {
+				"attachment": [
+					{ "name": "shen" }
+				]
+			}
+		}
+	},
+	"tears": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"tears": {
+				"attachment": [
+					{ "name": "tears" }
+				]
+			}
+		}
+	}
+}
+}

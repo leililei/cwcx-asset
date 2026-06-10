@@ -1,0 +1,113 @@
+{
+"skeleton": {
+	"hash": "/cT2x35EQ+dRnfWFQxaYULLFL4o",
+	"spine": "3.8.99",
+	"x": -1047.95,
+	"y": -1366.86,
+	"width": 2268,
+	"height": 2523,
+	"images": "E:\\art\\原画\\立绘\\完成稿\\NPC\\夏活NPC\\jq_lihui_huizhang_zhandou1\\images",
+	"audio": "E:\\art\\原画\\立绘\\完成稿\\NPC\\夏活NPC\\jq_lihui_huizhang_zhandou1"
+},
+"bones": [
+	{ "name": "root", "x": -1619.95, "y": 1356.14 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "yansu1", "bone": "root" },
+	{ "name": "yansu2", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1478.5, "y": -634.5, "width": 369, "height": 175 }
+			},
+			"body": {
+				"body": { "x": 1706, "y": -1461.5, "width": 2268, "height": 2523 }
+			},
+			"daiji": {
+				"daiji": { "x": 1478.5, "y": -633, "width": 369, "height": 176 }
+			},
+			"happy": {
+				"happy": { "x": 1545.5, "y": -626, "width": 209, "height": 160 }
+			},
+			"xiao": {
+				"xiao": { "x": 1478.5, "y": -634, "width": 369, "height": 176 }
+			},
+			"yansu1": {
+				"yansu1": { "x": 1544.5, "y": -632.5, "width": 237, "height": 177 }
+			},
+			"yansu2": {
+				"yansu2": { "x": 1544.5, "y": -632.5, "width": 237, "height": 177 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"yansu1": {
+		"slots": {
+			"yansu1": {
+				"attachment": [
+					{ "name": "yansu1" }
+				]
+			}
+		}
+	},
+	"yansu2": {
+		"slots": {
+			"yansu2": {
+				"attachment": [
+					{ "name": "yansu2" }
+				]
+			}
+		}
+	}
+}
+}

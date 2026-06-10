@@ -1,0 +1,83 @@
+
+jq_lihui_shidifenni.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: true
+  xy: 0, 207
+  size: 203, 139
+  orig: 203, 139
+  offset: 0, 0
+  index: -1
+bi yan
+  rotate: true
+  xy: 997, 1120
+  size: 206, 205
+  orig: 206, 205
+  offset: 0, 0
+  index: -1
+bi yan2
+  rotate: true
+  xy: 277, 205
+  size: 205, 136
+  orig: 205, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 410
+  size: 997, 916
+  orig: 997, 916
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 997, 266
+  size: 211, 139
+  orig: 211, 139
+  offset: 0, 0
+  index: -1
+du qi
+  rotate: true
+  xy: 997, 900
+  size: 220, 144
+  orig: 220, 144
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: true
+  xy: 997, 680
+  size: 220, 142
+  orig: 220, 142
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: true
+  xy: 997, 477
+  size: 203, 141
+  orig: 203, 141
+  offset: 0, 0
+  index: -1
+sheng qi2
+  rotate: true
+  xy: 139, 207
+  size: 203, 138
+  orig: 203, 138
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: true
+  xy: 134, 0
+  size: 207, 129
+  orig: 207, 129
+  offset: 0, 0
+  index: -1
+zi xing
+  rotate: true
+  xy: 0, 0
+  size: 207, 134
+  orig: 207, 134
+  offset: 0, 0
+  index: -1

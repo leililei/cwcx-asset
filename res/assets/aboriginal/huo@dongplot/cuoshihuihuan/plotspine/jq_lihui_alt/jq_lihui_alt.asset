@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "A8AJUeLKpbZlUStrLet9C4ldLq8",
+	"spine": "3.8.99",
+	"x": -1446.08,
+	"y": -1175.03,
+	"width": 2508,
+	"height": 2248,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\alt\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\alt"
+},
+"bones": [
+	{ "name": "root", "x": -1639.08, "y": 1445.97 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "wunai", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1447, "y": -1497, "width": 2508, "height": 2248 }
+			},
+			"daiji": {
+				"daiji": { "x": 1683, "y": -744.5, "width": 172, "height": 145 }
+			},
+			"jingya": {
+				"jingya": { "x": 1683, "y": -745, "width": 172, "height": 146 }
+			},
+			"sad": {
+				"sad": { "x": 1682, "y": -745, "width": 170, "height": 144 }
+			},
+			"smile": {
+				"smile": { "x": 1682, "y": -745, "width": 170, "height": 144 }
+			},
+			"wunai": {
+				"wunai": { "x": 1686.5, "y": -744.5, "width": 163, "height": 143 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wunai": {
+		"slots": {
+			"wunai": {
+				"attachment": [
+					{ "name": "wunai" }
+				]
+			}
+		}
+	}
+}
+}

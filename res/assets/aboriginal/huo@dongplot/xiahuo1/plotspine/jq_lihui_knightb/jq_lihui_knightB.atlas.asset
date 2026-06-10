@@ -1,0 +1,41 @@
+
+jq_lihui_knightB.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 0
+  size: 196, 158
+  orig: 196, 160
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 158
+  size: 1956, 2566
+  orig: 1956, 2568
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 588, 17
+  size: 196, 141
+  orig: 196, 143
+  offset: 0, 1
+  index: -1
+happy
+  rotate: false
+  xy: 196, 5
+  size: 196, 153
+  orig: 196, 155
+  offset: 0, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 392, 9
+  size: 196, 149
+  orig: 196, 151
+  offset: 0, 1
+  index: -1

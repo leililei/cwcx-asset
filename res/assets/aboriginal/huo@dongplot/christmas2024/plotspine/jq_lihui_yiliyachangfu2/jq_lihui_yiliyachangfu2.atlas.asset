@@ -1,0 +1,97 @@
+
+jq_lihui_yiliyachangfu2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1446, 81
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 780
+  size: 2499, 3298
+  orig: 2499, 3298
+  offset: 0, 0
+  index: -1
+carzy
+  rotate: false
+  xy: 606, 8
+  size: 209, 225
+  orig: 209, 225
+  offset: 0, 0
+  index: -1
+chritmas hat
+  rotate: true
+  xy: 1052, 261
+  size: 517, 306
+  orig: 517, 306
+  offset: 0, 0
+  index: -1
+cry
+  rotate: true
+  xy: 817, 26
+  size: 207, 176
+  orig: 207, 176
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1299, 102
+  size: 145, 157
+  orig: 145, 157
+  offset: 0, 0
+  index: -1
+ears
+  rotate: false
+  xy: 2, 37
+  size: 602, 741
+  orig: 602, 741
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1360, 391
+  size: 340, 387
+  orig: 340, 387
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 995, 76
+  size: 152, 157
+  orig: 152, 157
+  offset: 0, 0
+  index: -1
+machine
+  rotate: true
+  xy: 606, 235
+  size: 543, 444
+  orig: 543, 444
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 2
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1149, 104
+  size: 148, 155
+  orig: 148, 155
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1446, 232
+  size: 145, 157
+  orig: 145, 157
+  offset: 0, 0
+  index: -1

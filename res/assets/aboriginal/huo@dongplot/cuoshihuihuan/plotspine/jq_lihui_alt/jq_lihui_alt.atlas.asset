@@ -1,0 +1,48 @@
+
+jq_lihui_alt.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 406
+  size: 2508, 2248
+  orig: 2508, 2248
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2508, 2310
+  size: 172, 145
+  orig: 172, 145
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 2508, 2482
+  size: 172, 146
+  orig: 172, 146
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 2508, 2140
+  size: 170, 144
+  orig: 170, 144
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 2508, 1970
+  size: 170, 144
+  orig: 170, 144
+  offset: 0, 0
+  index: -1
+wunai
+  rotate: true
+  xy: 2508, 1807
+  size: 163, 143
+  orig: 163, 143
+  offset: 0, 0
+  index: -1

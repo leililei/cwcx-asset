@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "Sh0F4/n413fO4+/AA1OjAQOwvEg",
+	"spine": "3.8.99",
+	"x": -2362.97,
+	"y": -1015.54,
+	"width": 4002,
+	"height": 4002,
+	"images": "C:/Users/Administrator/Desktop/2024-xh-spine/法芙娜/images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\2024-xh-spine\\jq_lihui_fafuna"
+},
+"bones": [
+	{ "name": "root", "x": -2361.97, "y": 2985.46 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "gaochao", "bone": "root" },
+	{ "name": "shy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2001, "y": -1771.5, "width": 272, "height": 239 }
+			},
+			"body": {
+				"body": { "x": 2000, "y": -2000, "width": 4002, "height": 4002 }
+			},
+			"daiji": {
+				"daiji": { "x": 1997, "y": -1781.5, "width": 264, "height": 219 }
+			},
+			"gaochao": {
+				"gaochao": { "x": 1997, "y": -1790, "width": 264, "height": 236 }
+			},
+			"happy": {
+				"happy": { "x": 2000.5, "y": -1787, "width": 261, "height": 208 }
+			},
+			"sad": {
+				"sad": { "x": 1997, "y": -1783.5, "width": 264, "height": 223 }
+			},
+			"shy": {
+				"shy": { "x": 1997, "y": -1781.5, "width": 264, "height": 219 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gaochao": {
+		"slots": {
+			"gaochao": {
+				"attachment": [
+					{ "name": "gaochao" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

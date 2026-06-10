@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "P/w1pXQ7QUM9Rs8dz5EPFzmGdtU",
+	"spine": "3.8.99",
+	"x": -494.74,
+	"y": -497.26,
+	"width": 1014,
+	"height": 2047,
+	"images": "E:\\十二月活动spine\\images",
+	"audio": "E:\\十二月活动spine"
+},
+"bones": [
+	{ "name": "root", "x": -493.74, "y": 1548.74 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "unhappy", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 506, "y": -1022.5, "width": 1014, "height": 2047 }
+			},
+			"daiji": {
+				"daiji": { "x": 452, "y": -492, "width": 234, "height": 206 }
+			},
+			"happy": {
+				"happy": { "x": 457, "y": -493, "width": 240, "height": 196 }
+			},
+			"jingya": {
+				"jingya": { "x": 464, "y": -499.5, "width": 242, "height": 191 }
+			},
+			"sad": {
+				"sad": { "x": 467, "y": -502.5, "width": 246, "height": 185 }
+			},
+			"shy": {
+				"shy": { "x": 494, "y": -506.5, "width": 306, "height": 249 }
+			},
+			"unhappy": {
+				"unhappy": { "x": 456, "y": -488.5, "width": 224, "height": 213 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"unhappy": {
+		"slots": {
+			"unhappy": {
+				"attachment": [
+					{ "name": "unhappy" }
+				]
+			}
+		}
+	}
+}
+}

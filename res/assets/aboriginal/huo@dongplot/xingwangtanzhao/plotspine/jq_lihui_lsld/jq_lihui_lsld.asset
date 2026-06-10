@@ -1,0 +1,202 @@
+{
+"skeleton": {
+	"hash": "TbF93vwrSzs5mBOuzo2RJD2s+Rg",
+	"spine": "3.8.99",
+	"x": -1019.99,
+	"y": -1193.71,
+	"width": 2002,
+	"height": 2365,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月spine\\psd导出spine\\lsld\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月spine\\psd导出spine\\lsld"
+},
+"bones": [
+	{ "name": "root", "x": -1018.99, "y": 1230.29 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "hand2", "bone": "root" },
+	{ "name": "hand1", "bone": "root", "attachment": "hand1" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1014, "y": -578, "width": 178, "height": 122 }
+			},
+			"angry2": {
+				"angry2": { "x": 1014, "y": -581, "width": 178, "height": 122 }
+			},
+			"body": {
+				"body": { "x": 1000, "y": -1263.5, "width": 2002, "height": 2321 }
+			},
+			"body2": {
+				"body2": { "x": 1042.5, "y": -1241.5, "width": 1255, "height": 2365 }
+			},
+			"daiji": {
+				"daiji": { "x": 1014.5, "y": -580, "width": 179, "height": 118 }
+			},
+			"hand1": {
+				"hand1": { "x": 1018.5, "y": -863, "width": 719, "height": 548 }
+			},
+			"hand2": {
+				"hand2": { "x": 1137, "y": -886.5, "width": 956, "height": 595 }
+			},
+			"sad": {
+				"sad": { "x": 1014, "y": -579, "width": 178, "height": 120 }
+			},
+			"surprise": {
+				"surprise": { "x": 1014, "y": -581.5, "width": 178, "height": 121 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry-hand": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"hand1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			}
+		}
+	},
+	"angry2-hand": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			},
+			"hand1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji-hand": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"hand1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad-hand": {
+		"slots": {
+			"hand1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	},
+	"surprise-hand": {
+		"slots": {
+			"hand1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

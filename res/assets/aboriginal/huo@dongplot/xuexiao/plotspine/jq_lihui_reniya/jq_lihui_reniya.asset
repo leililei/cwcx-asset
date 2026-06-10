@@ -1,0 +1,169 @@
+{
+"skeleton": {
+	"hash": "VA7IE5wWpzm3CtpHeEE81jF2pi0",
+	"spine": "3.8.99",
+	"x": -1299.31,
+	"y": -769.78,
+	"width": 2240.7,
+	"height": 2255,
+	"images": "C:\\Users\\Plan123\\Desktop\\spine\\reniya\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\spine\\reniya"
+},
+"bones": [
+	{ "name": "root", "x": -1298.21, "y": 1484.12, "scaleX": 1.1, "scaleY": 1.1 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "glass", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1400, "y": -796.5, "width": 190, "height": 119 }
+			},
+			"body": {
+				"body": { "x": 1017.5, "y": -1024, "width": 2037, "height": 2050 }
+			},
+			"daiji": {
+				"daiji": { "x": 1406, "y": -791, "width": 202, "height": 136 }
+			},
+			"glass": {
+				"glass": { "x": 1403.5, "y": -800.5, "width": 211, "height": 73 }
+			},
+			"jingya": {
+				"jingya": { "x": 1401.5, "y": -811.5, "width": 193, "height": 159 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1400.5, "y": -790.5, "width": 191, "height": 139 }
+			},
+			"smile": {
+				"smile": { "x": 1404.5, "y": -796.5, "width": 183, "height": 123 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"biyan1": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"daiji1": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"jingya1": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"shengqi1": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile1": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+lihui_wangnv.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1285, 1865
+  size: 183, 154
+  orig: 183, 156
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 630
+  size: 1082, 1905
+  orig: 1082, 1907
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 915, 1869
+  size: 185, 150
+  orig: 185, 152
+  offset: 0, 1
+  index: -1
+happy
+  rotate: false
+  xy: 1651, 1863
+  size: 184, 156
+  orig: 184, 158
+  offset: 0, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 182, 1877
+  size: 187, 142
+  orig: 187, 144
+  offset: 0, 1
+  index: -1
+nohappy
+  rotate: false
+  xy: 1468, 1865
+  size: 183, 154
+  orig: 183, 156
+  offset: 0, 1
+  index: -1
+sad
+  rotate: false
+  xy: 726, 1872
+  size: 189, 147
+  orig: 189, 149
+  offset: 0, 1
+  index: -1
+shy
+  rotate: false
+  xy: 0, 1712
+  size: 192, 165
+  orig: 192, 167
+  offset: 0, 1
+  index: -1
+superhappy
+  rotate: false
+  xy: 369, 1874
+  size: 175, 145
+  orig: 175, 147
+  offset: 0, 1
+  index: -1
+tiaoxin
+  rotate: false
+  xy: 544, 1873
+  size: 182, 146
+  orig: 182, 148
+  offset: 0, 1
+  index: -1
+yaoya
+  rotate: false
+  xy: 0, 1880
+  size: 182, 139
+  orig: 182, 141
+  offset: 0, 1
+  index: -1
+yihuo
+  rotate: false
+  xy: 1100, 1868
+  size: 185, 151
+  orig: 185, 153
+  offset: 0, 1
+  index: -1
+zhangkou
+  rotate: false
+  xy: 1835, 1862
+  size: 184, 157
+  orig: 184, 159
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "m6B9L/qswjbn7YEWoqh08oxT0QE",
+	"spine": "3.8.99",
+	"x": -1175.62,
+	"y": -623.42,
+	"width": 1941,
+	"height": 2031,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -1187.62, "y": 1406.58 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "happy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1160.5, "y": -787.5, "width": 201, "height": 175 }
+			},
+			"body": {
+				"body": { "x": 982.5, "y": -1014.5, "width": 1941, "height": 2031 }
+			},
+			"daiji": {
+				"daiji": { "x": 1169, "y": -795.5, "width": 184, "height": 159 }
+			},
+			"happy": {
+				"happy": { "x": 1169.5, "y": -792, "width": 185, "height": 166 }
+			},
+			"sad": {
+				"sad": { "x": 1170.5, "y": -792, "width": 181, "height": 166 }
+			},
+			"shy": {
+				"shy": { "x": 1173.5, "y": -795.5, "width": 225, "height": 181 }
+			},
+			"surprise": {
+				"surprise": { "x": 1168, "y": -787.5, "width": 186, "height": 155 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

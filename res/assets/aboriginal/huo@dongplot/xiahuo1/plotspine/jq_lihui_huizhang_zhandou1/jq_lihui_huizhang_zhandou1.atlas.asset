@@ -1,0 +1,55 @@
+
+jq_lihui_huizhang_zhandou1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1212, 2
+  size: 369, 175
+  orig: 369, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 177
+  size: 2268, 2523
+  orig: 2268, 2523
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 474, 1
+  size: 369, 176
+  orig: 369, 176
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1581, 17
+  size: 209, 160
+  orig: 209, 160
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 843, 1
+  size: 369, 176
+  orig: 369, 176
+  offset: 0, 0
+  index: -1
+yansu1
+  rotate: false
+  xy: 0, 0
+  size: 237, 177
+  orig: 237, 177
+  offset: 0, 0
+  index: -1
+yansu2
+  rotate: false
+  xy: 237, 0
+  size: 237, 177
+  orig: 237, 177
+  offset: 0, 0
+  index: -1

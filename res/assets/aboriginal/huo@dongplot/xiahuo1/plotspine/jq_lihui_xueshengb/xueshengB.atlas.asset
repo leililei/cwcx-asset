@@ -1,0 +1,41 @@
+
+xueshengB.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 202
+  size: 1257, 2559
+  orig: 1257, 2561
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 402, 33
+  size: 186, 169
+  orig: 186, 171
+  offset: 0, 1
+  index: -1
+sad
+  rotate: false
+  xy: 588, 33
+  size: 184, 169
+  orig: 184, 171
+  offset: 0, 1
+  index: -1
+tuxue
+  rotate: false
+  xy: 0, 0
+  size: 225, 202
+  orig: 225, 204
+  offset: 0, 1
+  index: -1
+xiao
+  rotate: true
+  xy: 225, 31
+  size: 171, 177
+  orig: 171, 179
+  offset: 0, 1
+  index: -1

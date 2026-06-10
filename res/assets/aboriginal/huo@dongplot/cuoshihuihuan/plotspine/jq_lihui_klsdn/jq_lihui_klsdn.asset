@@ -1,0 +1,437 @@
+{
+"skeleton": {
+	"hash": "Kem5R7D6VXcCN+1/ISQxbOsuNRA",
+	"spine": "3.8.99",
+	"x": -2214.79,
+	"y": -1666.15,
+	"width": 3800,
+	"height": 3800,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\klsdn\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\klsdn"
+},
+"bones": [
+	{ "name": "root", "x": -1233.41, "y": 1200.7 }
+],
+"slots": [
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "zhuomei", "bone": "root" },
+	{ "name": "bizui", "bone": "root" },
+	{ "name": "zhangzui", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "gomi", "bone": "root" },
+	{ "name": "know", "bone": "root" },
+	{ "name": "laugh", "bone": "root" },
+	{ "name": "laugh2", "bone": "root" },
+	{ "name": "glass2", "bone": "root" },
+	{ "name": "daimao", "bone": "root", "attachment": "daimao" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1277.5, "y": -293, "width": 221, "height": 160 }
+			},
+			"biyan": {
+				"biyan": { "x": 1279.5, "y": -292, "width": 211, "height": 158 }
+			},
+			"bizui": {
+				"bizui": { "x": 1276, "y": -287.5, "width": 218, "height": 149 }
+			},
+			"body": {
+				"body": { "x": 1250, "y": -1275.5, "width": 1220, "height": 2451 }
+			},
+			"daiji": {
+				"daiji": { "x": 1274, "y": -287, "width": 228, "height": 150 }
+			},
+			"daimao": {
+				"daimao": { "x": 1297, "y": -190.5, "width": 356, "height": 361 }
+			},
+			"glass": {
+				"glass": { "x": 1254, "y": -109.5, "width": 282, "height": 129 }
+			},
+			"glass2": {
+				"glass2": { "x": 1259.5, "y": -273, "width": 227, "height": 134 }
+			},
+			"gomi": {
+				"gomi": { "x": 1263, "y": -251.5, "width": 380, "height": 347 }
+			},
+			"know": {
+				"know": { "x": 1281, "y": -287.5, "width": 214, "height": 149 }
+			},
+			"laugh": {
+				"laugh": { "x": 1272, "y": -264, "width": 296, "height": 214 }
+			},
+			"laugh2": {
+				"laugh2": { "x": 1270, "y": -290.5, "width": 212, "height": 163 }
+			},
+			"sad": {
+				"sad": { "x": 1269, "y": -290, "width": 204, "height": 144 }
+			},
+			"smile": {
+				"smile": { "x": 1275.5, "y": -287.5, "width": 225, "height": 147 }
+			},
+			"weapon": {
+				"weapon": { "x": 918.62, "y": -966.85, "scaleX": 0.95, "scaleY": 0.95, "width": 4000, "height": 4000 }
+			},
+			"zhangzui": {
+				"zhangzui": { "x": 1276, "y": -288, "width": 218, "height": 150 }
+			},
+			"zhuomei": {
+				"zhuomei": { "x": 1276, "y": -289, "width": 218, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry_glass": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"biyan_glass": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			}
+		}
+	},
+	"bizui": {
+		"slots": {
+			"bizui": {
+				"attachment": [
+					{ "name": "bizui" }
+				]
+			}
+		}
+	},
+	"bizui_glass": {
+		"slots": {
+			"bizui": {
+				"attachment": [
+					{ "name": "bizui" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "y": 7.01 }
+				]
+			}
+		}
+	},
+	"daiji_glass": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			}
+		}
+	},
+	"gomi": {
+		"slots": {
+			"gomi": {
+				"attachment": [
+					{ "name": "gomi" }
+				]
+			}
+		}
+	},
+	"gomi_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"gomi": {
+				"attachment": [
+					{ "name": "gomi" }
+				]
+			}
+		}
+	},
+	"know": {
+		"slots": {
+			"know": {
+				"attachment": [
+					{ "name": "know" }
+				]
+			}
+		}
+	},
+	"know_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"know": {
+				"attachment": [
+					{ "name": "know" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			}
+		}
+	},
+	"laugh2": {
+		"slots": {
+			"laugh2": {
+				"attachment": [
+					{ "name": "laugh2" }
+				]
+			}
+		}
+	},
+	"laugh2_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"laugh2": {
+				"attachment": [
+					{ "name": "laugh2" }
+				]
+			}
+		}
+	},
+	"laugh_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"zhangzui": {
+		"slots": {
+			"zhangzui": {
+				"attachment": [
+					{ "name": "zhangzui" }
+				]
+			}
+		}
+	},
+	"zhangzui_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"zhangzui": {
+				"attachment": [
+					{ "name": "zhangzui" }
+				]
+			}
+		}
+	},
+	"zhoumei": {
+		"slots": {
+			"zhuomei": {
+				"attachment": [
+					{ "name": "zhuomei" }
+				]
+			}
+		}
+	},
+	"zhoumei_glass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass2": {
+				"attachment": [
+					{ "name": "glass2" }
+				]
+			},
+			"zhuomei": {
+				"attachment": [
+					{ "name": "zhuomei" }
+				]
+			}
+		}
+	}
+}
+}

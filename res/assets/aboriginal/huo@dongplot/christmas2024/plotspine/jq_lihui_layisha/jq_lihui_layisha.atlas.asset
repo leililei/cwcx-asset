@@ -1,0 +1,110 @@
+
+jq_lihui_layisha.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afraid
+  rotate: true
+  xy: 1908, 118
+  size: 370, 228
+  orig: 370, 228
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 1428, 123
+  size: 365, 239
+  orig: 365, 239
+  offset: 0, 0
+  index: -1
+badsmile
+  rotate: true
+  xy: 1669, 123
+  size: 365, 237
+  orig: 365, 237
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 490
+  size: 2134, 3586
+  orig: 2134, 3586
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2138, 810
+  size: 761, 3266
+  orig: 761, 3266
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 684, 40
+  size: 378, 235
+  orig: 378, 235
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 118
+  size: 370, 680
+  orig: 370, 680
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 2138, 235
+  size: 573, 542
+  orig: 573, 542
+  offset: 0, 0
+  index: -1
+heat
+  rotate: false
+  xy: 2138, 2
+  size: 365, 231
+  orig: 365, 231
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 684, 277
+  size: 524, 211
+  orig: 524, 211
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1064, 30
+  size: 362, 245
+  orig: 362, 245
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 2682, 446
+  size: 362, 212
+  orig: 362, 212
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 2505, 3
+  size: 362, 230
+  orig: 362, 230
+  offset: 0, 0
+  index: -1
+
+jq_lihui_layisha2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body3
+  rotate: false
+  xy: 2, 2
+  size: 2136, 2845
+  orig: 2136, 2845
+  offset: 0, 0
+  index: -1

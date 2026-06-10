@@ -1,0 +1,139 @@
+
+jq_lihui_990cfty.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 329, 651
+  size: 224, 153
+  orig: 224, 153
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 0, 79
+  size: 224, 168
+  orig: 224, 168
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1889
+  size: 1057, 2188
+  orig: 1057, 2188
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 168, 875
+  size: 221, 176
+  orig: 221, 176
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 174, 383
+  size: 207, 172
+  orig: 207, 172
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: true
+  xy: 0, 1096
+  size: 352, 291
+  orig: 352, 291
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 482, 716
+  size: 185, 138
+  orig: 185, 138
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 0, 814
+  size: 282, 168
+  orig: 282, 168
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: true
+  xy: 0, 533
+  size: 281, 153
+  orig: 281, 153
+  offset: 0, 0
+  index: -1
+simada
+  rotate: true
+  xy: 168, 90
+  size: 213, 174
+  orig: 213, 174
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 0, 303
+  size: 230, 174
+  orig: 230, 174
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: true
+  xy: 342, 173
+  size: 210, 152
+  orig: 210, 152
+  offset: 0, 0
+  index: -1
+smile3
+  rotate: false
+  xy: 291, 1096
+  size: 224, 146
+  orig: 224, 146
+  offset: 0, 0
+  index: -1
+smile4
+  rotate: true
+  xy: 153, 590
+  size: 224, 176
+  orig: 224, 176
+  offset: 0, 0
+  index: -1
+think
+  rotate: true
+  xy: 346, 462
+  size: 189, 140
+  orig: 189, 140
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 291, 1242
+  size: 206, 160
+  orig: 206, 160
+  offset: 0, 0
+  index: -1
+yabee
+  rotate: true
+  xy: 342, 0
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+yabee2
+  rotate: false
+  xy: 0, 1448
+  size: 352, 441
+  orig: 352, 441
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 344, 901
+  size: 195, 164
+  orig: 195, 164
+  offset: 0, 0
+  index: -1

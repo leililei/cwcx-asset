@@ -1,0 +1,62 @@
+
+jq_lihui_josep.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1067, 1843
+  size: 193, 197
+  orig: 193, 197
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 368
+  size: 1475, 2036
+  orig: 1475, 2036
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 871, 1855
+  size: 196, 181
+  orig: 196, 181
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 625, 1856
+  size: 246, 180
+  orig: 246, 180
+  offset: 0, 0
+  index: -1
+lenmo
+  rotate: false
+  xy: 439, 1857
+  size: 186, 179
+  orig: 186, 179
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 0, 1859
+  size: 193, 177
+  orig: 193, 177
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 193, 1858
+  size: 246, 178
+  orig: 246, 178
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1264, 1843
+  size: 246, 193
+  orig: 246, 193
+  offset: 0, 0
+  index: -1

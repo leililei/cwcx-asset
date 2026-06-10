@@ -1,0 +1,55 @@
+
+lihui_xueshengfurry.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 328
+  size: 1267, 2542
+  orig: 1267, 2542
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 349, 73
+  size: 286, 255
+  orig: 286, 255
+  offset: 0, 0
+  index: -1
+daoji
+  rotate: false
+  xy: 1080, 174
+  size: 224, 154
+  orig: 224, 154
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 635, 161
+  size: 244, 167
+  orig: 244, 167
+  offset: 0, 0
+  index: -1
+jingxia
+  rotate: false
+  xy: 0, 0
+  size: 349, 328
+  orig: 349, 328
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1267, 2717
+  size: 224, 153
+  orig: 224, 153
+  offset: 0, 0
+  index: -1
+tuxue
+  rotate: false
+  xy: 879, 169
+  size: 201, 159
+  orig: 201, 159
+  offset: 0, 0
+  index: -1

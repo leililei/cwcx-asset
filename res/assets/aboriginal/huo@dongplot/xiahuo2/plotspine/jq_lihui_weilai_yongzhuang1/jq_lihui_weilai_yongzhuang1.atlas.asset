@@ -1,0 +1,153 @@
+
+jq_lihui_weilai_yongzhuang1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1880, 3837
+  size: 376, 227
+  orig: 376, 227
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: false
+  xy: 0, 3866
+  size: 376, 198
+  orig: 376, 198
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1220
+  size: 1242, 3073
+  orig: 1242, 3073
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 3760, 3710
+  size: 354, 304
+  orig: 354, 304
+  offset: 0, 0
+  index: -1
+chengsi
+  rotate: false
+  xy: 2652, 2749
+  size: 1242, 961
+  orig: 1242, 961
+  offset: 0, 0
+  index: -1
+ci
+  rotate: false
+  xy: 1292, 3579
+  size: 481, 263
+  orig: 481, 263
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 2149, 3423
+  size: 503, 408
+  orig: 503, 408
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 752, 3851
+  size: 376, 213
+  orig: 376, 213
+  offset: 0, 0
+  index: -1
+dajiao
+  rotate: false
+  xy: 2256, 3834
+  size: 376, 230
+  orig: 376, 230
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 1504, 3842
+  size: 376, 222
+  orig: 376, 222
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1773, 3571
+  size: 376, 266
+  orig: 376, 266
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 3384, 3821
+  size: 376, 243
+  orig: 376, 243
+  offset: 0, 0
+  index: -1
+laji
+  rotate: false
+  xy: 1128, 3848
+  size: 376, 216
+  orig: 376, 216
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 376, 3605
+  size: 458, 246
+  orig: 458, 246
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 834, 3602
+  size: 458, 246
+  orig: 458, 246
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 376, 3852
+  size: 376, 212
+  orig: 376, 212
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 0, 2641
+  size: 1242, 961
+  orig: 1242, 961
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2632, 3831
+  size: 376, 233
+  orig: 376, 233
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 1242, 2462
+  size: 1242, 961
+  orig: 1242, 961
+  offset: 0, 0
+  index: -1
+xiao4
+  rotate: false
+  xy: 3008, 3825
+  size: 376, 239
+  orig: 376, 239
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 0, 3620
+  size: 376, 246
+  orig: 376, 246
+  offset: 0, 0
+  index: -1

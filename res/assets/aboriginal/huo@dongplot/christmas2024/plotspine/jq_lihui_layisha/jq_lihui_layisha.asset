@@ -1,0 +1,233 @@
+{
+"skeleton": {
+	"hash": "wh3xITeuv8ofg6rNWtH76bGpEQ4",
+	"spine": "3.8.99",
+	"x": -1194.07,
+	"y": -1939.26,
+	"width": 2136,
+	"height": 3590,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\layisha\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月 spine\\立绘源文件\\layisha"
+},
+"bones": [
+	{ "name": "root", "x": -1493.07, "y": 1855.74 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "laugh", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "afraid", "bone": "root" },
+	{ "name": "badsmile", "bone": "root" },
+	{ "name": "heat", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "body3", "bone": "root", "attachment": "body3" },
+	{ "name": "hand2", "bone": "root" },
+	{ "name": "hand1", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" },
+	{ "name": "jiao", "bone": "root", "attachment": "jiao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"afraid": {
+				"afraid": { "x": 1461, "y": -683, "width": 370, "height": 228 }
+			},
+			"angry": {
+				"angry": { "x": 1468.5, "y": -685.5, "width": 365, "height": 239 }
+			},
+			"badsmile": {
+				"badsmile": { "x": 1468.5, "y": -683.5, "width": 365, "height": 237 }
+			},
+			"body": {
+				"body": { "x": 1367, "y": -2000, "width": 2134, "height": 3586 }
+			},
+			"body2": {
+				"body2": { "x": 1423.5, "y": -2162, "width": 761, "height": 3266 }
+			},
+			"body3": {
+				"body3": { "x": 1367, "y": -1627.5, "width": 2136, "height": 2845 }
+			},
+			"daiji": {
+				"daiji": { "x": 1461, "y": -673.5, "width": 378, "height": 235 }
+			},
+			"hand1": {
+				"hand1": { "x": 1677, "y": -1226, "width": 370, "height": 680 }
+			},
+			"hand2": {
+				"hand2": { "x": 1616.5, "y": -1368, "width": 573, "height": 542 }
+			},
+			"heat": {
+				"heat": { "x": 1468.5, "y": -681.5, "width": 365, "height": 231 }
+			},
+			"jiao": {
+				"jiao": { "x": 1433, "y": -323.5, "width": 524, "height": 211 }
+			},
+			"laugh": {
+				"laugh": { "x": 1453, "y": -687.5, "width": 362, "height": 245 }
+			},
+			"sad": {
+				"sad": { "x": 1453, "y": -685, "width": 362, "height": 212 }
+			},
+			"smile": {
+				"smile": { "x": 1453, "y": -682, "width": 362, "height": 230 }
+			}
+		}
+	}
+],
+"animations": {
+	"afraid": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"jiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			}
+		}
+	},
+	"badsmile": {
+		"slots": {
+			"badsmile": {
+				"attachment": [
+					{ "name": "badsmile" }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			}
+		}
+	},
+	"badsmile-gun": {
+		"slots": {
+			"badsmile": {
+				"attachment": [
+					{ "name": "badsmile" }
+				]
+			},
+			"hand1": {
+				"attachment": [
+					{ "name": "hand1" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"jiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"hate": {
+		"slots": {
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"heat": {
+				"attachment": [
+					{ "name": "heat" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"jiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"jiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"hand2": {
+				"attachment": [
+					{ "name": "hand2" }
+				]
+			},
+			"jiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

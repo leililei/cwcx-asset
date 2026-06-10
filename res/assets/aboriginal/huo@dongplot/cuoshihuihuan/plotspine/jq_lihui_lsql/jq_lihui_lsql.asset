@@ -1,0 +1,69 @@
+{
+"skeleton": {
+	"hash": "o0vGP4PGfzxT7kkE1yr2L60JjaM",
+	"spine": "3.8.99",
+	"x": -596.77,
+	"y": -476.71,
+	"width": 1351,
+	"height": 1414,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\lsqr\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\lsqr"
+},
+"bones": [
+	{ "name": "root", "x": -1008.77, "y": 1230.29 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "jiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1087.5, "y": -1000, "width": 1351, "height": 1414 }
+			},
+			"daiji": {
+				"daiji": { "x": 1016, "y": -611, "width": 422, "height": 422 }
+			},
+			"jiao": {
+				"jiao": { "x": 1016, "y": -611, "width": 422, "height": 422 }
+			},
+			"shame": {
+				"shame": { "x": 1016, "y": -611, "width": 422, "height": 422 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jiao": {
+		"slots": {
+			"jiao": {
+				"attachment": [
+					{ "name": "jiao" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	}
+}
+}

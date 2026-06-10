@@ -1,0 +1,55 @@
+
+jq_lihui_tln.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 175
+  size: 850, 2289
+  orig: 850, 2289
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 408, 27
+  size: 217, 148
+  orig: 217, 148
+  offset: 0, 0
+  index: -1
+heilian
+  rotate: false
+  xy: 229, 25
+  size: 179, 150
+  orig: 179, 150
+  offset: 0, 0
+  index: -1
+heilian_2
+  rotate: false
+  xy: 0, 0
+  size: 229, 175
+  orig: 229, 175
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 804, 36
+  size: 217, 139
+  orig: 217, 139
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 850, 2325
+  size: 217, 139
+  orig: 217, 139
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 625, 35
+  size: 179, 140
+  orig: 179, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,134 @@
+{
+"skeleton": {
+	"hash": "n7ffdznHEyy4pSX5mKM/Y/WOjfo",
+	"spine": "3.8.99",
+	"x": -523.26,
+	"y": -1048.73,
+	"width": 956,
+	"height": 2314,
+	"images": "C:\\Users\\Plan123\\Desktop\\新建文件夹\\weijia\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\新建文件夹\\weijia"
+},
+"bones": [
+	{ "name": "root", "x": -970.26, "y": 1587.27 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "mihuo", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "afraid", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "mihuo2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"afraid": {
+				"afraid": { "x": 958.5, "y": -710, "width": 279, "height": 186 }
+			},
+			"angry": {
+				"angry": { "x": 964, "y": -712.5, "width": 268, "height": 183 }
+			},
+			"body": {
+				"body": { "x": 925, "y": -1479, "width": 956, "height": 2314 }
+			},
+			"daiji": {
+				"daiji": { "x": 965, "y": -704, "width": 266, "height": 192 }
+			},
+			"happy": {
+				"happy": { "x": 960.5, "y": -717.5, "width": 257, "height": 185 }
+			},
+			"mihuo": {
+				"mihuo": { "x": 965.5, "y": -704, "width": 267, "height": 192 }
+			},
+			"mihuo2": {
+				"mihuo2": { "x": 957.5, "y": -710, "width": 285, "height": 184 }
+			},
+			"xiao": {
+				"xiao": { "x": 956.5, "y": -710, "width": 283, "height": 184 }
+			},
+			"yansu": {
+				"yansu": { "x": 964.5, "y": -712.5, "width": 267, "height": 173 }
+			}
+		}
+	}
+],
+"animations": {
+	"afraid": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			}
+		}
+	},
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"mihuo": {
+		"slots": {
+			"mihuo": {
+				"attachment": [
+					{ "name": "mihuo" }
+				]
+			}
+		}
+	},
+	"mihuo2": {
+		"slots": {
+			"mihuo2": {
+				"attachment": [
+					{ "name": "mihuo2" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

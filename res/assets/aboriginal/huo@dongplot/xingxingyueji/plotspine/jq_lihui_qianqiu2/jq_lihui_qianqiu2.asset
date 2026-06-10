@@ -1,0 +1,152 @@
+{
+"skeleton": {
+	"hash": "FF1nYWdEEORjKH0cyoy8awTK3rg",
+	"spine": "3.8.99",
+	"x": -880.49,
+	"y": -982.99,
+	"width": 1864,
+	"height": 2007,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -879.49, "y": 1023.01 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jixiao", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "laugh", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "lenmo", "bone": "root" },
+	{ "name": "lenku", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"body": {
+				"body": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"daiji": {
+				"daiji": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"jixiao": {
+				"jixiao": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"laugh": {
+				"laugh": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"lenku": {
+				"lenku": { "x": 859, "y": -389, "width": 262, "height": 148 }
+			},
+			"lenmo": {
+				"lenmo": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"sad": {
+				"sad": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"shy": {
+				"shy": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 931, "y": -1002.5, "width": 1864, "height": 2007 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jixiao": {
+		"slots": {
+			"jixiao": {
+				"attachment": [
+					{ "name": "jixiao" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			}
+		}
+	},
+	"lenku": {
+		"slots": {
+			"lenku": {
+				"attachment": [
+					{ "name": "lenku" }
+				]
+			}
+		}
+	},
+	"lenmo": {
+		"slots": {
+			"lenmo": {
+				"attachment": [
+					{ "name": "lenmo" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}
