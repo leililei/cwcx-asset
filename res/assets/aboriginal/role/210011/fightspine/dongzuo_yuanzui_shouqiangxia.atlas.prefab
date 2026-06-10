@@ -1,0 +1,209 @@
+
+dongzuo_yuanzui_shouqiangxia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: true
+  xy: 914, 767
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 911, 872
+  size: 152, 102
+  orig: 152, 102
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 914, 616
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 648
+  size: 434, 376
+  orig: 583, 448
+  offset: 0, 72
+  index: -1
+hand
+  rotate: false
+  xy: 297, 330
+  size: 282, 318
+  orig: 282, 318
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 613, 553
+  size: 228, 301
+  orig: 228, 301
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 579, 302
+  size: 251, 289
+  orig: 251, 289
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 297, 213
+  size: 238, 117
+  orig: 238, 118
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 217, 6
+  size: 187, 123
+  orig: 187, 124
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 535, 262
+  size: 40, 263
+  orig: 40, 263
+  offset: 0, 0
+  index: -1
+leg_2_
+  rotate: false
+  xy: 579, 585
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: false
+  xy: 868, 365
+  size: 156, 188
+  orig: 162, 188
+  offset: 0, 0
+  index: -1
+leg_3_
+  rotate: false
+  xy: 452, 9
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+leg_4
+  rotate: false
+  xy: 0, 27
+  size: 217, 166
+  orig: 217, 166
+  offset: 0, 0
+  index: -1
+leg_4_
+  rotate: true
+  xy: 814, 17
+  size: 87, 50
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+leg_5
+  rotate: true
+  xy: 868, 273
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+leg_6
+  rotate: true
+  xy: 723, 18
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+leg_7
+  rotate: true
+  xy: 535, 132
+  size: 130, 212
+  orig: 130, 212
+  offset: 0, 0
+  index: -1
+leg_7_
+  rotate: true
+  xy: 866, 128
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+leg_7_1
+  rotate: false
+  xy: 866, 197
+  size: 68, 76
+  orig: 68, 81
+  offset: 0, 5
+  index: -1
+tail
+  rotate: false
+  xy: 340, 38
+  size: 181, 175
+  orig: 189, 181
+  offset: 0, 6
+  index: -1
+tou_1
+  rotate: false
+  xy: 434, 781
+  size: 477, 243
+  orig: 477, 243
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: false
+  xy: 434, 648
+  size: 179, 133
+  orig: 179, 133
+  offset: 0, 0
+  index: -1
+tou_3
+  rotate: false
+  xy: 747, 104
+  size: 119, 158
+  orig: 119, 158
+  offset: 0, 0
+  index: -1
+tou_4
+  rotate: false
+  xy: 914, 557
+  size: 103, 59
+  orig: 115, 59
+  offset: 12, 0
+  index: -1
+tou_5
+  rotate: false
+  xy: 340, 2
+  size: 112, 36
+  orig: 112, 36
+  offset: 0, 0
+  index: -1
+tou_6
+  rotate: true
+  xy: 0, 193
+  size: 455, 297
+  orig: 455, 297
+  offset: 0, 0
+  index: -1
+tou_7
+  rotate: false
+  xy: 521, 14
+  size: 202, 118
+  orig: 202, 118
+  offset: 0, 0
+  index: -1
+xu
+  rotate: false
+  xy: 868, 320
+  size: 148, 45
+  orig: 148, 45
+  offset: 0, 0
+  index: -1

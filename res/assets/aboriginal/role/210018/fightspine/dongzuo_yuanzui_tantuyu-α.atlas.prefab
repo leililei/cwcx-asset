@@ -1,0 +1,349 @@
+
+dongzuo_yuanzui_tantuyu-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body part 1
+  rotate: true
+  xy: 277, 452
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+body part 10
+  rotate: false
+  xy: 285, 182
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+body part 11
+  rotate: false
+  xy: 285, 276
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+body part 12
+  rotate: false
+  xy: 163, 207
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+body part 13
+  rotate: false
+  xy: 65, 373
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+body part 14
+  rotate: false
+  xy: 0, 104
+  size: 168, 103
+  orig: 168, 103
+  offset: 0, 0
+  index: -1
+body part 15
+  rotate: false
+  xy: 0, 430
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+body part 16
+  rotate: false
+  xy: 146, 294
+  size: 139, 61
+  orig: 139, 61
+  offset: 0, 0
+  index: -1
+body part 17
+  rotate: false
+  xy: 423, 483
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+body part 18
+  rotate: true
+  xy: 278, 487
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+body part 19
+  rotate: false
+  xy: 158, 363
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+body part 2
+  rotate: true
+  xy: 228, 355
+  size: 50, 125
+  orig: 50, 125
+  offset: 0, 0
+  index: -1
+body part 20
+  rotate: false
+  xy: 67, 422
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+body part 21
+  rotate: false
+  xy: 25, 501
+  size: 13, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+body part 22
+  rotate: false
+  xy: 77, 494
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+body part 23
+  rotate: false
+  xy: 38, 501
+  size: 39, 11
+  orig: 39, 12
+  offset: 0, 1
+  index: -1
+body part 3
+  rotate: true
+  xy: 379, 169
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+body part 4
+  rotate: false
+  xy: 0, 468
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+body part 5
+  rotate: true
+  xy: 65, 303
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+body part 6
+  rotate: false
+  xy: 168, 64
+  size: 143, 118
+  orig: 143, 118
+  offset: 0, 0
+  index: -1
+body part 7
+  rotate: false
+  xy: 425, 331
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+body part 8
+  rotate: false
+  xy: 187, 456
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+body part 9
+  rotate: true
+  xy: 315, 486
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+fin1 part 1
+  rotate: true
+  xy: 270, 411
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+fin1 part 10
+  rotate: true
+  xy: 381, 447
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+fin1 part 11
+  rotate: false
+  xy: 452, 390
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+fin1 part 2
+  rotate: true
+  xy: 144, 418
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+fin1 part 3
+  rotate: true
+  xy: 74, 459
+  size: 31, 113
+  orig: 31, 113
+  offset: 0, 0
+  index: -1
+fin1 part 4
+  rotate: true
+  xy: 339, 405
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+fin1 part 6
+  rotate: true
+  xy: 382, 264
+  size: 67, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+fin1 part 7
+  rotate: false
+  xy: 0, 502
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+fin1 part 8
+  rotate: true
+  xy: 80, 214
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+fin1 part 9
+  rotate: false
+  xy: 101, 492
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+fin2 part 1
+  rotate: true
+  xy: 0, 383
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+fin2 part 2
+  rotate: false
+  xy: 124, 491
+  size: 28, 21
+  orig: 28, 22
+  offset: 0, 1
+  index: -1
+fin2 part 3
+  rotate: true
+  xy: 395, 399
+  size: 47, 57
+  orig: 47, 58
+  offset: 0, 1
+  index: -1
+fin2 part 4
+  rotate: false
+  xy: 421, 446
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+fin2 part 5
+  rotate: true
+  xy: 152, 490
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+fin2 part 6
+  rotate: true
+  xy: 344, 485
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+fin2 part 7
+  rotate: true
+  xy: 465, 480
+  size: 32, 41
+  orig: 32, 42
+  offset: 0, 1
+  index: -1
+fin2 part 8
+  rotate: false
+  xy: 33, 467
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+head part 1
+  rotate: true
+  xy: 0, 321
+  size: 62, 65
+  orig: 62, 66
+  offset: 0, 1
+  index: -1
+head part 2
+  rotate: true
+  xy: 377, 484
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+head part 3
+  rotate: false
+  xy: 353, 343
+  size: 72, 56
+  orig: 72, 57
+  offset: 0, 1
+  index: -1
+head part 4
+  rotate: false
+  xy: 190, 417
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+head part 5
+  rotate: true
+  xy: 459, 443
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+head part 6
+  rotate: false
+  xy: 218, 489
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+side fins part 1
+  rotate: true
+  xy: 311, 25
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1
+side fins part 2
+  rotate: false
+  xy: 0, 228
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1

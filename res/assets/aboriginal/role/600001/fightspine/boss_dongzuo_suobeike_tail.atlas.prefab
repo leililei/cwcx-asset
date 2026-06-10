@@ -1,0 +1,13 @@
+
+boss_dongzuo_suobeike_tail.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tail
+  rotate: false
+  xy: 2, 1249
+  size: 1622, 375
+  orig: 3347, 375
+  offset: 1725, 0
+  index: -1

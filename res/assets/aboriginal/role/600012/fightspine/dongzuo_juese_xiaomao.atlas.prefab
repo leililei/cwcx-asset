@@ -1,0 +1,279 @@
+
+dongzuo_juese_xiaomao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+555
+  rotate: false
+  xy: 347, 386
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+ymbody
+  rotate: false
+  xy: 186, 403
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+ymdt1
+  rotate: true
+  xy: 119, 415
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+ymdt2
+  rotate: true
+  xy: 55, 430
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+ymdtm2
+  rotate: true
+  xy: 418, 452
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+ymer1
+  rotate: true
+  xy: 4, 441
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+ymer2
+  rotate: true
+  xy: 370, 455
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+ymface1
+  rotate: true
+  xy: 4, 362
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+ymhf1
+  rotate: true
+  xy: 76, 344
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+ymhf2
+  rotate: true
+  xy: 143, 466
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+ymj1
+  rotate: false
+  xy: 199, 493
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+ymj2
+  rotate: false
+  xy: 373, 492
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+ymj3
+  rotate: false
+  xy: 149, 496
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+ymj4
+  rotate: false
+  xy: 173, 495
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+ymmm1
+  rotate: false
+  xy: 123, 500
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+ymmm2
+  rotate: false
+  xy: 123, 500
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+ymmm4
+  rotate: false
+  xy: 35, 503
+  size: 27, 5
+  orig: 27, 5
+  offset: 0, 0
+  index: -1
+ymqf1
+  rotate: true
+  xy: 259, 392
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+ymqf2
+  rotate: true
+  xy: 227, 493
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+ymsb1
+  rotate: true
+  xy: 68, 474
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+ymsb2
+  rotate: true
+  xy: 447, 491
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+ymtgj1
+  rotate: false
+  xy: 196, 463
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+ymtgj2
+  rotate: true
+  xy: 36, 480
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+ymtgj3
+  rotate: false
+  xy: 114, 473
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+ymtgj4
+  rotate: false
+  xy: 486, 485
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+ymtm1
+  rotate: true
+  xy: 301, 459
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+ymwb1
+  rotate: false
+  xy: 417, 385
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+ymwb2
+  rotate: true
+  xy: 160, 323
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+ymxb1
+  rotate: true
+  xy: 231, 462
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+ymxb2
+  rotate: true
+  xy: 4, 482
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+ymxm
+  rotate: false
+  xy: 266, 461
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+ymyj1
+  rotate: false
+  xy: 399, 492
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+ymyj2
+  rotate: false
+  xy: 290, 493
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+ymyj3
+  rotate: false
+  xy: 338, 493
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+ymyj4
+  rotate: false
+  xy: 82, 501
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+ymzb1
+  rotate: false
+  xy: 23, 504
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+ymzb2
+  rotate: false
+  xy: 66, 502
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+ymzb3
+  rotate: false
+  xy: 4, 506
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+ymzb4
+  rotate: false
+  xy: 13, 505
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1

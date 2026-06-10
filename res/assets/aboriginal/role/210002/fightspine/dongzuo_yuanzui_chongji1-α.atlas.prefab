@@ -1,0 +1,132 @@
+
+dongzuo_yuanzui_chongji1-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzi_1
+  rotate: false
+  xy: 0, 416
+  size: 144, 95
+  orig: 144, 95
+  offset: 0, 0
+  index: -1
+wenzi_10
+  rotate: true
+  xy: 144, 403
+  size: 108, 143
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+wenzi_11
+  rotate: true
+  xy: 287, 307
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+wenzi_12
+  rotate: false
+  xy: 287, 409
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+wenzi_13
+  rotate: true
+  xy: 399, 378
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+wenzi_14
+  rotate: true
+  xy: 460, 344
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+wenzi_15
+  rotate: true
+  xy: 399, 302
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+wenzi_16
+  rotate: true
+  xy: 399, 328
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+wenzi_17
+  rotate: false
+  xy: 441, 305
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+wenzi_18
+  rotate: false
+  xy: 121, 390
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: true
+  xy: 407, 393
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+wenzi_3
+  rotate: false
+  xy: 0, 336
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+wenzi_4
+  rotate: true
+  xy: 399, 340
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+wenzi_5
+  rotate: true
+  xy: 399, 364
+  size: 14, 61
+  orig: 14, 61
+  offset: 0, 0
+  index: -1
+wenzi_6
+  rotate: true
+  xy: 456, 303
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+wenzi_7
+  rotate: true
+  xy: 461, 369
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+wenzi_8
+  rotate: true
+  xy: 456, 329
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+wenzi_9
+  rotate: true
+  xy: 487, 301
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

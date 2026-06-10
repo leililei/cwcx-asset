@@ -1,0 +1,146 @@
+
+dongzuo_yuanzui_jiezhiji6-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scorpion1
+  rotate: false
+  xy: 0, 318
+  size: 298, 188
+  orig: 298, 188
+  offset: 0, 0
+  index: -1
+scorpion10_1
+  rotate: false
+  xy: 272, 275
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+scorpion10_2
+  rotate: false
+  xy: 191, 93
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+scorpion10_3
+  rotate: true
+  xy: 294, 214
+  size: 43, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+scorpion10_4
+  rotate: true
+  xy: 384, 217
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+scorpion1_2
+  rotate: false
+  xy: 228, 49
+  size: 99, 59
+  orig: 99, 59
+  offset: 0, 0
+  index: -1
+scorpion1_3
+  rotate: false
+  xy: 381, 0
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+scorpion2
+  rotate: true
+  xy: 0, 1
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+scorpion2_1
+  rotate: false
+  xy: 449, 220
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+scorpion2_2
+  rotate: true
+  xy: 475, 7
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+scorpion3
+  rotate: true
+  xy: 103, 1
+  size: 172, 88
+  orig: 172, 88
+  offset: 0, 0
+  index: -1
+scorpion3_3
+  rotate: false
+  xy: 272, 233
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+scorpion4
+  rotate: false
+  xy: 415, 58
+  size: 79, 159
+  orig: 79, 159
+  offset: 0, 0
+  index: -1
+scorpion4_2
+  rotate: false
+  xy: 229, 212
+  size: 43, 106
+  orig: 43, 106
+  offset: 0, 0
+  index: -1
+scorpion5
+  rotate: false
+  xy: 103, 173
+  size: 126, 145
+  orig: 126, 145
+  offset: 0, 0
+  index: -1
+scorpion6_2
+  rotate: false
+  xy: 327, 1
+  size: 54, 107
+  orig: 54, 107
+  offset: 0, 0
+  index: -1
+scorpion7
+  rotate: false
+  xy: 229, 108
+  size: 186, 104
+  orig: 186, 104
+  offset: 0, 0
+  index: -1
+scorpion8
+  rotate: false
+  xy: 0, 130
+  size: 103, 188
+  orig: 103, 188
+  offset: 0, 0
+  index: -1
+scorpion9
+  rotate: true
+  xy: 298, 257
+  size: 249, 181
+  orig: 249, 181
+  offset: 0, 0
+  index: -1
+scorpion9_2
+  rotate: false
+  xy: 191, 1
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+dongzuo_yuanzui_chongji2-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhizuo_10
+  rotate: false
+  xy: 496, 479
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+zhizuo_11
+  rotate: false
+  xy: 443, 284
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+zhizuo_12
+  rotate: false
+  xy: 128, 283
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+zhizuo_13
+  rotate: true
+  xy: 128, 259
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+zhizuo_14
+  rotate: true
+  xy: 496, 492
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+zhizuo_15
+  rotate: true
+  xy: 443, 251
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+zhizuo_16
+  rotate: true
+  xy: 293, 288
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+zhizuo_17
+  rotate: false
+  xy: 240, 276
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+zhizuo_18
+  rotate: false
+  xy: 470, 291
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+zhizuo_19
+  rotate: false
+  xy: 0, 300
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+zhizuo_2
+  rotate: true
+  xy: 381, 433
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+zhizuo_20
+  rotate: true
+  xy: 489, 401
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+zhizuo_21
+  rotate: true
+  xy: 65, 276
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+zhizuo_22
+  rotate: false
+  xy: 0, 337
+  size: 205, 174
+  orig: 205, 174
+  offset: 0, 0
+  index: -1
+zhizuo_23
+  rotate: false
+  xy: 185, 256
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+zhizuo_3
+  rotate: true
+  xy: 205, 300
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+zhizuo_4
+  rotate: false
+  xy: 371, 262
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+zhizuo_5
+  rotate: true
+  xy: 205, 358
+  size: 153, 176
+  orig: 153, 176
+  offset: 0, 0
+  index: -1
+zhizuo_6
+  rotate: true
+  xy: 381, 381
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1
+zhizuo_7
+  rotate: true
+  xy: 381, 317
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+zhizuo_8
+  rotate: true
+  xy: 0, 242
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+zhizuo_9
+  rotate: false
+  xy: 489, 370
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

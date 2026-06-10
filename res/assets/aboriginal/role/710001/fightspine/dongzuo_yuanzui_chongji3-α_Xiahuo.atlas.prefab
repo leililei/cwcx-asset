@@ -1,0 +1,195 @@
+
+dongzuo_yuanzui_chongji3-α_Xiahuo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tz01
+  rotate: true
+  xy: 271, 26
+  size: 61, 39
+  orig: 62, 40
+  offset: 1, 1
+  index: -1
+tz02
+  rotate: true
+  xy: 451, 406
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+tz03
+  rotate: true
+  xy: 468, 306
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+tz04
+  rotate: false
+  xy: 116, 41
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+tz05
+  rotate: true
+  xy: 209, 142
+  size: 71, 109
+  orig: 71, 109
+  offset: 0, 0
+  index: -1
+tz06
+  rotate: false
+  xy: 442, 221
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+tz07
+  rotate: false
+  xy: 318, 171
+  size: 123, 66
+  orig: 124, 66
+  offset: 1, 0
+  index: -1
+tz08
+  rotate: false
+  xy: 0, 32
+  size: 116, 130
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+tz09
+  rotate: false
+  xy: 0, 162
+  size: 117, 159
+  orig: 117, 159
+  offset: 0, 0
+  index: -1
+tz10
+  rotate: false
+  xy: 209, 213
+  size: 108, 108
+  orig: 109, 109
+  offset: 0, 1
+  index: -1
+tz11
+  rotate: false
+  xy: 117, 168
+  size: 92, 153
+  orig: 92, 153
+  offset: 0, 0
+  index: -1
+tz12
+  rotate: true
+  xy: 310, 13
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+tz13
+  rotate: true
+  xy: 317, 237
+  size: 84, 125
+  orig: 84, 125
+  offset: 0, 0
+  index: -1
+tz14
+  rotate: false
+  xy: 0, 321
+  size: 298, 191
+  orig: 298, 192
+  offset: 0, 1
+  index: -1
+tz15
+  rotate: true
+  xy: 298, 321
+  size: 71, 170
+  orig: 71, 170
+  offset: 0, 0
+  index: -1
+tz16
+  rotate: true
+  xy: 208, 87
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+tz17
+  rotate: false
+  xy: 310, 51
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+tz18
+  rotate: false
+  xy: 441, 173
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+tz19
+  rotate: true
+  xy: 188, 40
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+tz20
+  rotate: false
+  xy: 503, 200
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+tz21
+  rotate: false
+  xy: 318, 103
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+tz22
+  rotate: true
+  xy: 0, 3
+  size: 29, 89
+  orig: 31, 89
+  offset: 1, 0
+  index: -1
+tz23
+  rotate: false
+  xy: 451, 416
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+tz24
+  rotate: false
+  xy: 420, 84
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+tz26
+  rotate: false
+  xy: 383, 29
+  size: 60, 55
+  orig: 60, 59
+  offset: 0, 1
+  index: -1
+tz27
+  rotate: false
+  xy: 117, 123
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+tz28
+  rotate: false
+  xy: 298, 392
+  size: 153, 120
+  orig: 153, 120
+  offset: 0, 0
+  index: -1

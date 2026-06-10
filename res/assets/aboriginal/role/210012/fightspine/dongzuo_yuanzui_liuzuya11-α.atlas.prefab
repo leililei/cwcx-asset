@@ -1,0 +1,153 @@
+
+dongzuo_yuanzui_liuzuya11-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuzuya11_0
+  rotate: false
+  xy: 311, 409
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+liuzuya11_1
+  rotate: true
+  xy: 435, 314
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+liuzuya11_10
+  rotate: true
+  xy: 380, 266
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+liuzuya11_11
+  rotate: false
+  xy: 151, 332
+  size: 147, 81
+  orig: 147, 81
+  offset: 0, 0
+  index: -1
+liuzuya11_12
+  rotate: false
+  xy: 298, 286
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+liuzuya11_13
+  rotate: false
+  xy: 310, 342
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+liuzuya11_14
+  rotate: false
+  xy: 97, 296
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+liuzuya11_15
+  rotate: false
+  xy: 228, 291
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+liuzuya11_16
+  rotate: true
+  xy: 414, 382
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+liuzuya11_17
+  rotate: false
+  xy: 228, 254
+  size: 57, 37
+  orig: 62, 39
+  offset: 0, 2
+  index: -1
+liuzuya11_18
+  rotate: false
+  xy: 0, 383
+  size: 151, 128
+  orig: 151, 128
+  offset: 0, 0
+  index: -1
+liuzuya11_19
+  rotate: false
+  xy: 151, 413
+  size: 160, 98
+  orig: 160, 98
+  offset: 0, 0
+  index: -1
+liuzuya11_2
+  rotate: false
+  xy: 439, 403
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+liuzuya11_20
+  rotate: false
+  xy: 429, 258
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+liuzuya11_3
+  rotate: false
+  xy: 0, 319
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+liuzuya11_4
+  rotate: false
+  xy: 71, 327
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+liuzuya11_5
+  rotate: false
+  xy: 0, 287
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+liuzuya11_6
+  rotate: false
+  xy: 97, 265
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+liuzuya11_7
+  rotate: true
+  xy: 298, 397
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+liuzuya11_8
+  rotate: true
+  xy: 71, 247
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+liuzuya11_9
+  rotate: false
+  xy: 148, 289
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+dongzuo_juese_langshou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo
+  rotate: false
+  xy: 1003, 3799
+  size: 196, 241
+  orig: 197, 242
+  offset: 1, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 667, 3852
+  size: 335, 188
+  orig: 337, 190
+  offset: 1, 1
+  index: -1
+jixie1
+  rotate: false
+  xy: 3349, 3588
+  size: 345, 452
+  orig: 347, 454
+  offset: 1, 1
+  index: -1
+jixie10
+  rotate: false
+  xy: 2556, 2450
+  size: 492, 780
+  orig: 494, 785
+  offset: 1, 4
+  index: -1
+jixie11
+  rotate: false
+  xy: 1, 2799
+  size: 563, 588
+  orig: 570, 590
+  offset: 5, 1
+  index: -1
+jixie12
+  rotate: false
+  xy: 1437, 2676
+  size: 1118, 554
+  orig: 1120, 556
+  offset: 1, 1
+  index: -1
+jixie2
+  rotate: false
+  xy: 1605, 3681
+  size: 399, 359
+  orig: 401, 364
+  offset: 1, 1
+  index: -1
+jixie3
+  rotate: false
+  xy: 3695, 3573
+  size: 345, 467
+  orig: 347, 469
+  offset: 1, 1
+  index: -1
+jixie4
+  rotate: false
+  xy: 3069, 3071
+  size: 836, 501
+  orig: 838, 503
+  offset: 1, 1
+  index: -1
+jixie5
+  rotate: false
+  xy: 524, 3858
+  size: 142, 182
+  orig: 144, 182
+  offset: 1, 0
+  index: -1
+jixie6
+  rotate: false
+  xy: 565, 2735
+  size: 871, 552
+  orig: 873, 554
+  offset: 1, 1
+  index: -1
+jixie7
+  rotate: false
+  xy: 2005, 3656
+  size: 1047, 384
+  orig: 1049, 385
+  offset: 1, 1
+  index: -1
+jixie8
+  rotate: false
+  xy: 1, 1669
+  size: 375, 1129
+  orig: 377, 1132
+  offset: 1, 2
+  index: -1
+jixie9
+  rotate: false
+  xy: 3441, 2154
+  size: 557, 916
+  orig: 559, 919
+  offset: 1, 2
+  index: -1
+mao1
+  rotate: false
+  xy: 1, 3911
+  size: 522, 129
+  orig: 522, 129
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: false
+  xy: 1, 3388
+  size: 861, 463
+  orig: 861, 463
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: false
+  xy: 3049, 2219
+  size: 391, 851
+  orig: 391, 851
+  offset: 0, 0
+  index: -1
+mao4
+  rotate: false
+  xy: 1908, 423
+  size: 1924, 1730
+  orig: 1924, 1730
+  offset: 0, 0
+  index: -1
+mao5
+  rotate: false
+  xy: 1333, 975
+  size: 574, 1700
+  orig: 574, 1700
+  offset: 0, 0
+  index: -1
+mao6
+  rotate: false
+  xy: 1512, 3231
+  size: 1556, 416
+  orig: 1556, 416
+  offset: 0, 0
+  index: -1
+mao7
+  rotate: false
+  xy: 3053, 3648
+  size: 295, 392
+  orig: 295, 392
+  offset: 0, 0
+  index: -1
+mao8
+  rotate: false
+  xy: 377, 1220
+  size: 955, 1514
+  orig: 955, 1514
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 863, 3288
+  size: 648, 474
+  orig: 650, 476
+  offset: 1, 1
+  index: -1
+tou2
+  rotate: false
+  xy: 1200, 3763
+  size: 404, 277
+  orig: 406, 280
+  offset: 1, 2
+  index: -1

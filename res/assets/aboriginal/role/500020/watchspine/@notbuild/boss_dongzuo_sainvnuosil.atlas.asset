@@ -1,0 +1,272 @@
+
+boss_dongzuo_sainvnuosil.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan
+  rotate: false
+  xy: 1832, 20
+  size: 371, 273
+  orig: 371, 273
+  offset: 0, 0
+  index: -1
+faji
+  rotate: true
+  xy: 1068, 1329
+  size: 123, 474
+  orig: 123, 497
+  offset: 0, 0
+  index: -1
+faji2
+  rotate: false
+  xy: 1120, 1924
+  size: 190, 442
+  orig: 190, 460
+  offset: 0, 18
+  index: -1
+h_datui
+  rotate: true
+  xy: 1007, 748
+  size: 558, 852
+  orig: 558, 852
+  offset: 0, 0
+  index: -1
+h_datui2
+  rotate: false
+  xy: 3683, 1972
+  size: 396, 626
+  orig: 396, 626
+  offset: 0, 0
+  index: -1
+h_fa
+  rotate: false
+  xy: 2, 3348
+  size: 2111, 742
+  orig: 2111, 742
+  offset: 0, 0
+  index: -1
+h_fa2
+  rotate: false
+  xy: 2115, 2600
+  size: 1868, 1490
+  orig: 1868, 1490
+  offset: 0, 0
+  index: -1
+h_fa3
+  rotate: false
+  xy: 2100, 1821
+  size: 1581, 777
+  orig: 1581, 777
+  offset: 0, 0
+  index: -1
+h_mao
+  rotate: true
+  xy: 483, 746
+  size: 560, 522
+  orig: 560, 522
+  offset: 0, 0
+  index: -1
+h_xiaotui
+  rotate: true
+  xy: 1787, 295
+  size: 451, 757
+  orig: 451, 757
+  offset: 0, 0
+  index: -1
+h_xiaotui2
+  rotate: false
+  xy: 2, 1748
+  size: 348, 618
+  orig: 348, 618
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 1861, 1057
+  size: 184, 395
+  orig: 184, 410
+  offset: 0, 15
+  index: -1
+huo2
+  rotate: false
+  xy: 1767, 3033
+  size: 334, 313
+  orig: 334, 313
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: false
+  xy: 3683, 1739
+  size: 396, 231
+  orig: 396, 231
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: true
+  xy: 2376, 778
+  size: 171, 358
+  orig: 171, 358
+  offset: 0, 0
+  index: -1
+huo5
+  rotate: false
+  xy: 1020, 13
+  size: 311, 237
+  orig: 311, 237
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 2977, 1453
+  size: 429, 366
+  orig: 429, 366
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 483, 1308
+  size: 583, 473
+  orig: 583, 473
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 156, 106
+  size: 564, 862
+  orig: 564, 862
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 2, 2368
+  size: 1763, 978
+  orig: 1763, 1006
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2205, 34
+  size: 368, 259
+  orig: 368, 259
+  offset: 0, 0
+  index: -1
+q_datui1
+  rotate: false
+  xy: 1767, 1911
+  size: 318, 566
+  orig: 318, 566
+  offset: 0, 0
+  index: -1
+q_datui2
+  rotate: false
+  xy: 2546, 345
+  size: 429, 431
+  orig: 436, 797
+  offset: 7, 0
+  index: -1
+q_xiaotui2
+  rotate: false
+  xy: 2, 2
+  size: 152, 668
+  orig: 152, 668
+  offset: 0, 0
+  index: -1
+q_xiaotui3
+  rotate: true
+  xy: 1312, 1974
+  size: 392, 435
+  orig: 392, 435
+  offset: 0, 0
+  index: -1
+shiping
+  rotate: false
+  xy: 2076, 786
+  size: 298, 951
+  orig: 298, 951
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 1020, 252
+  size: 494, 765
+  orig: 494, 765
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1333, 16
+  size: 193, 234
+  orig: 193, 234
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 352, 1783
+  size: 766, 583
+  orig: 766, 583
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1767, 2479
+  size: 331, 552
+  orig: 620, 725
+  offset: 155, 97
+  index: -1
+toufa4
+  rotate: false
+  xy: 3985, 3665
+  size: 91, 279
+  orig: 91, 279
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 2, 672
+  size: 1065, 479
+  orig: 1065, 479
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2376, 951
+  size: 786, 348
+  orig: 786, 348
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 2726, 1037
+  size: 414, 347
+  orig: 414, 354
+  offset: 0, 7
+  index: -1
+xiongjian
+  rotate: false
+  xy: 1528, 25
+  size: 302, 225
+  orig: 302, 225
+  offset: 0, 0
+  index: -1
+xiongmao
+  rotate: true
+  xy: 2575, 28
+  size: 315, 307
+  orig: 315, 307
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 3985, 3946
+  size: 93, 144
+  orig: 93, 144
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 1120, 1454
+  size: 954, 455
+  orig: 954, 455
+  offset: 0, 0
+  index: -1

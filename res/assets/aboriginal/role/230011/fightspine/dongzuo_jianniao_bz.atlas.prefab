@@ -1,0 +1,251 @@
+
+dongzuo_jianniao_bz.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang part 1
+  rotate: false
+  xy: 0, 238
+  size: 130, 57
+  orig: 130, 57
+  offset: 0, 0
+  index: -1
+chibang part 2
+  rotate: false
+  xy: 0, 295
+  size: 159, 78
+  orig: 159, 78
+  offset: 0, 0
+  index: -1
+jiao1 part 1
+  rotate: true
+  xy: 274, 232
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+jiao1 part 2
+  rotate: false
+  xy: 428, 264
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+jiao1 part 3
+  rotate: true
+  xy: 130, 232
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+jiao1 part 4
+  rotate: true
+  xy: 162, 367
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+jiao1 part 5
+  rotate: true
+  xy: 493, 407
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+jiao1 part 6
+  rotate: false
+  xy: 105, 182
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+jiao1 part 7
+  rotate: true
+  xy: 468, 214
+  size: 25, 23
+  orig: 25, 24
+  offset: 0, 1
+  index: -1
+jiao2 part 1
+  rotate: true
+  xy: 191, 218
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+jiao2 part 2
+  rotate: true
+  xy: 492, 235
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+jiao2 part 3
+  rotate: true
+  xy: 491, 200
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+jiao2 part 4
+  rotate: true
+  xy: 406, 230
+  size: 49, 21
+  orig: 49, 22
+  offset: 0, 1
+  index: -1
+jiao2 part 5
+  rotate: true
+  xy: 493, 375
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+jiao2 part 6
+  rotate: true
+  xy: 426, 179
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+jiao2 part 7
+  rotate: false
+  xy: 468, 194
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+shenti part 1
+  rotate: true
+  xy: 0, 373
+  size: 50, 162
+  orig: 50, 162
+  offset: 0, 0
+  index: -1
+shenti part 10
+  rotate: false
+  xy: 357, 442
+  size: 153, 70
+  orig: 153, 70
+  offset: 0, 0
+  index: -1
+shenti part 11
+  rotate: true
+  xy: 191, 271
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+shenti part 12
+  rotate: false
+  xy: 192, 356
+  size: 165, 156
+  orig: 165, 156
+  offset: 0, 0
+  index: -1
+shenti part 2
+  rotate: true
+  xy: 357, 279
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+shenti part 3
+  rotate: true
+  xy: 130, 271
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+shenti part 4
+  rotate: true
+  xy: 344, 206
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+shenti part 5
+  rotate: false
+  xy: 130, 211
+  size: 60, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+shenti part 6
+  rotate: false
+  xy: 357, 348
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+shenti part 7
+  rotate: false
+  xy: 0, 423
+  size: 192, 89
+  orig: 192, 89
+  offset: 0, 0
+  index: -1
+shenti part 8
+  rotate: true
+  xy: 0, 168
+  size: 70, 105
+  orig: 70, 106
+  offset: 0, 1
+  index: -1
+shenti part 9
+  rotate: false
+  xy: 344, 241
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+tou part 1
+  rotate: false
+  xy: 427, 239
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+tou part 2
+  rotate: true
+  xy: 159, 234
+  size: 133, 32
+  orig: 133, 32
+  offset: 0, 0
+  index: -1
+tou part 3
+  rotate: false
+  xy: 191, 333
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+tou part 4
+  rotate: false
+  xy: 289, 297
+  size: 68, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+tou part 5
+  rotate: false
+  xy: 428, 290
+  size: 67, 58
+  orig: 70, 58
+  offset: 3, 0
+  index: -1
+tou part 6
+  rotate: false
+  xy: 427, 204
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+tou part 7
+  rotate: false
+  xy: 399, 195
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1

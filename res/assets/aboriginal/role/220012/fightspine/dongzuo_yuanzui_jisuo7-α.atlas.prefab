@@ -1,0 +1,111 @@
+
+dongzuo_yuanzui_jisuo7-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 189, 314
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 77, 91
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 0, 72
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 0, 0
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 189, 189
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 175, 31
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 0, 320
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 61, 58
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 113, 46
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 186, 115
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 77, 133
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 291, 69
+  size: 53, 120
+  orig: 53, 120
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 118, 123
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 0, 185
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 118, 217
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1

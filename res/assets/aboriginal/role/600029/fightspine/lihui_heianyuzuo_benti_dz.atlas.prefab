@@ -1,0 +1,153 @@
+
+lihui_heianyuzuo_benti_dz.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_2
+  rotate: false
+  xy: 2, 896
+  size: 1442, 1056
+  orig: 2173, 1874
+  offset: 552, 818
+  index: -1
+boss_3
+  rotate: false
+  xy: 1600, 2114
+  size: 1358, 1014
+  orig: 1948, 1832
+  offset: 0, 818
+  index: -1
+boss_4_0
+  rotate: false
+  xy: 3313, 237
+  size: 298, 535
+  orig: 298, 535
+  offset: 0, 0
+  index: -1
+boss_4_1
+  rotate: false
+  xy: 2624, 1350
+  size: 402, 762
+  orig: 482, 762
+  offset: 80, 0
+  index: -1
+boss_4_2
+  rotate: false
+  xy: 2960, 2185
+  size: 431, 943
+  orig: 431, 943
+  offset: 0, 0
+  index: -1
+boss_4_3
+  rotate: false
+  xy: 1025, 98
+  size: 369, 796
+  orig: 369, 919
+  offset: 0, 55
+  index: -1
+boss_4_4
+  rotate: false
+  xy: 3120, 3132
+  size: 495, 342
+  orig: 611, 464
+  offset: 116, 0
+  index: -1
+boss_4_5
+  rotate: false
+  xy: 1600, 3130
+  size: 1518, 937
+  orig: 4238, 1976
+  offset: 2720, 452
+  index: -1
+boss_5_0
+  rotate: false
+  xy: 2189, 274
+  size: 248, 671
+  orig: 248, 671
+  offset: 0, 0
+  index: -1
+boss_5_1
+  rotate: false
+  xy: 3091, 774
+  size: 357, 663
+  orig: 625, 663
+  offset: 268, 0
+  index: -1
+boss_5_2
+  rotate: false
+  xy: 3393, 2433
+  size: 394, 697
+  orig: 394, 697
+  offset: 0, 0
+  index: -1
+boss_5_3
+  rotate: false
+  xy: 3120, 3476
+  size: 805, 591
+  orig: 805, 591
+  offset: 0, 0
+  index: -1
+boss_5_4
+  rotate: false
+  xy: 2946, 194
+  size: 365, 578
+  orig: 365, 578
+  offset: 0, 0
+  index: -1
+boss_5_5
+  rotate: false
+  xy: 2, 2
+  size: 1021, 892
+  orig: 1828, 2134
+  offset: 0, 780
+  index: -1
+boss_6_0
+  rotate: false
+  xy: 2458, 779
+  size: 631, 569
+  orig: 631, 569
+  offset: 0, 0
+  index: -1
+boss_6_1
+  rotate: false
+  xy: 2439, 251
+  size: 505, 526
+  orig: 505, 526
+  offset: 0, 0
+  index: -1
+boss_6_2
+  rotate: false
+  xy: 3028, 1439
+  size: 460, 744
+  orig: 460, 744
+  offset: 0, 0
+  index: -1
+boss_6_3
+  rotate: false
+  xy: 1446, 336
+  size: 741, 609
+  orig: 791, 644
+  offset: 50, 0
+  index: -1
+boss_6_4
+  rotate: false
+  xy: 1446, 947
+  size: 1010, 552
+  orig: 2001, 1969
+  offset: 157, 278
+  index: -1
+boss_8
+  rotate: false
+  xy: 1600, 1501
+  size: 1022, 611
+  orig: 1022, 611
+  offset: 0, 0
+  index: -1
+boss_9
+  rotate: false
+  xy: 2, 1954
+  size: 1596, 2113
+  orig: 2157, 2244
+  offset: 474, 124
+  index: -1

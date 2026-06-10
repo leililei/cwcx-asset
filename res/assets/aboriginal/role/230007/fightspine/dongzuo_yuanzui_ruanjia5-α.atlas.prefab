@@ -1,0 +1,146 @@
+
+dongzuo_yuanzui_ruanjia5-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruanjia5-α10
+  rotate: true
+  xy: 479, 489
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+ruanjia5-α11
+  rotate: true
+  xy: 177, 323
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+ruanjia5-α12
+  rotate: true
+  xy: 281, 381
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+ruanjia5-α13
+  rotate: false
+  xy: 436, 363
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+ruanjia5-α14
+  rotate: true
+  xy: 0, 244
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+ruanjia5-α15
+  rotate: false
+  xy: 436, 279
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+ruanjia5-α16
+  rotate: true
+  xy: 281, 322
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+ruanjia5-α17
+  rotate: false
+  xy: 247, 275
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+ruanjia5-α18
+  rotate: false
+  xy: 91, 257
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+ruanjia5-α19
+  rotate: false
+  xy: 0, 358
+  size: 177, 153
+  orig: 177, 153
+  offset: 0, 0
+  index: -1
+ruanjia5-α2
+  rotate: true
+  xy: 177, 368
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+ruanjia5-α20
+  rotate: true
+  xy: 336, 404
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+ruanjia5-α21
+  rotate: true
+  xy: 0, 288
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+ruanjia5-α3
+  rotate: true
+  xy: 177, 426
+  size: 85, 159
+  orig: 85, 159
+  offset: 0, 0
+  index: -1
+ruanjia5-α4
+  rotate: true
+  xy: 333, 309
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+ruanjia5-α5
+  rotate: false
+  xy: 479, 429
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+ruanjia5-α6
+  rotate: true
+  xy: 336, 350
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+ruanjia5-α7
+  rotate: true
+  xy: 173, 285
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+ruanjia5-α8
+  rotate: true
+  xy: 91, 308
+  size: 50, 82
+  orig: 58, 100
+  offset: 5, 11
+  index: -1
+ruanjia5-α9
+  rotate: false
+  xy: 479, 385
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1

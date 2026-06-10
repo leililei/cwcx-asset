@@ -1,0 +1,13 @@
+
+dongzuo_juese_mao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan
+  rotate: false
+  xy: 4, 11
+  size: 160, 153
+  orig: 160, 153
+  offset: 0, 0
+  index: -1

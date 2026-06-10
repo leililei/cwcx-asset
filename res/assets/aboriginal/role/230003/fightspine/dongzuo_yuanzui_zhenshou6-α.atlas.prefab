@@ -1,0 +1,181 @@
+
+dongzuo_yuanzui_zhenshou6-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: true
+  xy: 174, 382
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+body1_2
+  rotate: false
+  xy: 388, 483
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 101, 299
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 431, 408
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 378, 338
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+hornb
+  rotate: false
+  xy: 0, 325
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+hornf
+  rotate: false
+  xy: 261, 361
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+legb1_1
+  rotate: true
+  xy: 279, 429
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+legb1_2
+  rotate: true
+  xy: 64, 491
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+legb1_3
+  rotate: true
+  xy: 126, 490
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+legb1_4
+  rotate: true
+  xy: 268, 485
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+legb2_1
+  rotate: true
+  xy: 0, 402
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+legb2_2
+  rotate: true
+  xy: 0, 492
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+legb2_3
+  rotate: true
+  xy: 94, 456
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+legb2_4
+  rotate: true
+  xy: 418, 482
+  size: 30, 94
+  orig: 30, 94
+  offset: 0, 0
+  index: -1
+legf1_1
+  rotate: true
+  xy: 355, 426
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+legf1_2
+  rotate: true
+  xy: 95, 491
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+legf1_3
+  rotate: true
+  xy: 197, 490
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+legf1_4
+  rotate: true
+  xy: 328, 485
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+legf2_1
+  rotate: true
+  xy: 87, 397
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+legf2_2
+  rotate: true
+  xy: 32, 492
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+legf2_3
+  rotate: true
+  xy: 157, 456
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+legf2_4
+  rotate: true
+  xy: 0, 461
+  size: 30, 94
+  orig: 30, 94
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 187, 272
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: true
+  xy: 220, 444
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1

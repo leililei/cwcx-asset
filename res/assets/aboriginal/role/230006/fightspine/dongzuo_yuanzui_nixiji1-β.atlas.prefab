@@ -1,0 +1,160 @@
+
+dongzuo_yuanzui_nixiji1-β.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsk1
+  rotate: false
+  xy: 0, 273
+  size: 356, 238
+  orig: 356, 238
+  offset: 0, 0
+  index: -1
+bsk10
+  rotate: true
+  xy: 85, 103
+  size: 22, 31
+  orig: 23, 31
+  offset: 1, 0
+  index: -1
+bsk11
+  rotate: false
+  xy: 246, 132
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+bsk12
+  rotate: true
+  xy: 0, 188
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+bsk121
+  rotate: true
+  xy: 194, 199
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+bsk12_1
+  rotate: false
+  xy: 307, 190
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+bsk13
+  rotate: false
+  xy: 0, 96
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+bsk14
+  rotate: true
+  xy: 356, 242
+  size: 269, 125
+  orig: 348, 184
+  offset: 79, 59
+  index: -1
+bsk15
+  rotate: false
+  xy: 307, 147
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+bsk16
+  rotate: false
+  xy: 85, 125
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+bsk17
+  rotate: false
+  xy: 86, 78
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bsk18
+  rotate: false
+  xy: 171, 101
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+bsk19
+  rotate: true
+  xy: 86, 60
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+bsk2
+  rotate: false
+  xy: 251, 184
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+bsk20
+  rotate: false
+  xy: 102, 36
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+bsk3
+  rotate: true
+  xy: 120, 127
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+bsk4
+  rotate: false
+  xy: 0, 0
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+bsk5
+  rotate: false
+  xy: 0, 46
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+bsk6
+  rotate: true
+  xy: 194, 118
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+bsk7
+  rotate: false
+  xy: 120, 41
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+bsk8
+  rotate: true
+  xy: 71, 16
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bsk9
+  rotate: true
+  xy: 359, 193
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1

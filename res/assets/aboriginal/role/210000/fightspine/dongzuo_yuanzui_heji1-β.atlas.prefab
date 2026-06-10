@@ -1,0 +1,83 @@
+
+dongzuo_yuanzui_heji1-β.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feixingpao1
+  rotate: false
+  xy: 0, 274
+  size: 251, 183
+  orig: 251, 183
+  offset: 0, 0
+  index: -1
+feixingpao10
+  rotate: false
+  xy: 177, 26
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+feixingpao11
+  rotate: true
+  xy: 240, 139
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+feixingpao2
+  rotate: false
+  xy: 177, 74
+  size: 148, 61
+  orig: 148, 61
+  offset: 0, 0
+  index: -1
+feixingpao3
+  rotate: true
+  xy: 177, 135
+  size: 139, 63
+  orig: 139, 63
+  offset: 0, 0
+  index: -1
+feixingpao4
+  rotate: false
+  xy: 325, 60
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1
+feixingpao5
+  rotate: true
+  xy: 240, 182
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+feixingpao6
+  rotate: true
+  xy: 0, 24
+  size: 250, 177
+  orig: 250, 177
+  offset: 0, 0
+  index: -1
+feixingpao7
+  rotate: false
+  xy: 251, 244
+  size: 206, 213
+  orig: 206, 213
+  offset: 0, 0
+  index: -1
+feixingpao8
+  rotate: false
+  xy: 304, 137
+  size: 122, 51
+  orig: 122, 51
+  offset: 0, 0
+  index: -1
+feixingpao9
+  rotate: true
+  xy: 304, 188
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1

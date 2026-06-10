@@ -1,0 +1,27 @@
+
+boss_dongzuo_luaneye.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball1
+  rotate: false
+  xy: 2, 678
+  size: 330, 332
+  orig: 330, 332
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 334, 672
+  size: 337, 338
+  orig: 337, 338
+  offset: 0, 0
+  index: -1
+ball3
+  rotate: false
+  xy: 673, 672
+  size: 337, 338
+  orig: 337, 338
+  offset: 0, 0
+  index: -1

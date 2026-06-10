@@ -1,0 +1,111 @@
+
+dongzuo_yuanzui_nilinji1-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: false
+  xy: 98, 70
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+ns
+  rotate: false
+  xy: 198, 55
+  size: 41, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+ns 2
+  rotate: true
+  xy: 103, 117
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+nt jio
+  rotate: true
+  xy: 103, 143
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+nt tui
+  rotate: false
+  xy: 141, 46
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 154, 193
+  size: 111, 123
+  orig: 112, 123
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 0, 225
+  size: 154, 91
+  orig: 154, 91
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 0, 113
+  size: 112, 103
+  orig: 112, 103
+  offset: 0, 0
+  index: -1
+ws
+  rotate: false
+  xy: 98, 35
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+ws 2
+  rotate: false
+  xy: 98, 10
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+wt jio
+  rotate: false
+  xy: 0, 51
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+wt tui
+  rotate: false
+  xy: 0, 0
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+xz
+  rotate: true
+  xy: 151, 87
+  size: 106, 93
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+xz2
+  rotate: false
+  xy: 53, 2
+  size: 45, 111
+  orig: 45, 111
+  offset: 0, 0
+  index: -1
+xz3
+  rotate: false
+  xy: 239, 30
+  size: 16, 57
+  orig: 16, 57
+  offset: 0, 0
+  index: -1

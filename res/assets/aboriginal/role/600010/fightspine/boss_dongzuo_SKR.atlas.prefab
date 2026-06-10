@@ -1,0 +1,90 @@
+
+boss_dongzuo_SKR.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-D-arm
+  rotate: 180
+  xy: 733, 257
+  size: 1093, 624
+  orig: 1093, 624
+  offset: 0, 0
+  index: -1
+B-G-eye
+  rotate: false
+  xy: 377, 264
+  size: 202, 421
+  orig: 202, 421
+  offset: 0, 0
+  index: -1
+B-U-arm
+  rotate: false
+  xy: 581, 367
+  size: 212, 318
+  orig: 212, 318
+  offset: 0, 0
+  index: -1
+D-arm
+  rotate: false
+  xy: 2, 1001
+  size: 1626, 825
+  orig: 1627, 825
+  offset: 1, 0
+  index: -1
+G-eye
+  rotate: false
+  xy: 1313, 1265
+  size: 322, 513
+  orig: 322, 513
+  offset: 0, 0
+  index: -1
+U-arm
+  rotate: false
+  xy: 689, 1554
+  size: 622, 272
+  orig: 622, 272
+  offset: 0, 0
+  index: -1
+body-B
+  rotate: false
+  xy: 2, 996
+  size: 477, 426
+  orig: 477, 426
+  offset: 0, 0
+  index: -1
+body-U
+  rotate: false
+  xy: 2, 585
+  size: 373, 409
+  orig: 373, 409
+  offset: 0, 0
+  index: -1
+head
+  rotate: 180
+  xy: 481, 802
+  size: 615, 527
+  orig: 615, 527
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 1072, 564
+  size: 615, 527
+  orig: 615, 527
+  offset: 0, 0
+  index: -1
+lighting
+  rotate: false
+  xy: 2, 325
+  size: 277, 258
+  orig: 277, 258
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 377, 687
+  size: 354, 307
+  orig: 354, 307
+  offset: 0, 0
+  index: -1

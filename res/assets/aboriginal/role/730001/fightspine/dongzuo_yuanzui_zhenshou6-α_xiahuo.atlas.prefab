@@ -1,0 +1,195 @@
+
+dongzuo_yuanzui_zhenshou6-α_xiahuo.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 74, 39
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+body1_2
+  rotate: false
+  xy: 115, 70
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 0, 39
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 35, 99
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 66, 74
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hornb
+  rotate: false
+  xy: 34, 43
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+hornf
+  rotate: false
+  xy: 66, 102
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+legb1_1
+  rotate: true
+  xy: 35, 77
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+legb1_2
+  rotate: true
+  xy: 46, 0
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+legf1_2
+  rotate: true
+  xy: 46, 0
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+legb1_3
+  rotate: true
+  xy: 99, 49
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+legf1_3
+  rotate: true
+  xy: 99, 49
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+legb1_4
+  rotate: false
+  xy: 113, 104
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+legf1_4
+  rotate: false
+  xy: 113, 104
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+legb2_1
+  rotate: false
+  xy: 46, 8
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+legb2_2
+  rotate: true
+  xy: 12, 1
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+legf2_2
+  rotate: true
+  xy: 12, 1
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+legb2_3
+  rotate: true
+  xy: 97, 2
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+legf2_3
+  rotate: true
+  xy: 97, 2
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+legb2_4
+  rotate: false
+  xy: 34, 6
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+legf1_1
+  rotate: false
+  xy: 12, 9
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+legf2_1
+  rotate: true
+  xy: 70, 15
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+legf2_4
+  rotate: false
+  xy: 0, 2
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+mojing
+  rotate: false
+  xy: 70, 1
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 0, 72
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: false
+  xy: 99, 58
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+xiangrikui
+  rotate: false
+  xy: 99, 82
+  size: 20, 20
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+dongzuo_yuanzui_fuzu5-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 0, 290
+  size: 217, 189
+  orig: 217, 189
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 217, 300
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 321, 337
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 389, 335
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 362, 397
+  size: 82, 117
+  orig: 82, 117
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 217, 347
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 217, 429
+  size: 145, 50
+  orig: 145, 50
+  offset: 0, 0
+  index: -1

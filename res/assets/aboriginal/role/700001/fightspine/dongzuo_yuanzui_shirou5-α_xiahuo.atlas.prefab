@@ -1,0 +1,188 @@
+
+dongzuo_yuanzui_shirou5-α_xiahuo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 125, 221
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 150, 262
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 28, 141
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 119, 239
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 93, 255
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 84, 146
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 0, 148
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 56, 237
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 0, 182
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 0, 122
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 109, 183
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 142, 241
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 56, 156
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 93, 234
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 84, 173
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 125, 206
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 56, 201
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+98
+  rotate: false
+  xy: 182, 182
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+99
+  rotate: false
+  xy: 0, 277
+  size: 182, 82
+  orig: 182, 82
+  offset: 0, 0
+  index: -1
+bl
+  rotate: true
+  xy: 109, 166
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: true
+  xy: 86, 222
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: true
+  xy: 54, 133
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 144, 226
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 119, 258
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: true
+  xy: 86, 204
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+yeziquan
+  rotate: true
+  xy: 93, 214
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

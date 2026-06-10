@@ -1,0 +1,237 @@
+
+jiechong5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti-1
+  rotate: false
+  xy: 317, 423
+  size: 427, 188
+  orig: 427, 188
+  offset: 0, 0
+  index: -1
+shenti-2
+  rotate: false
+  xy: 0, 72
+  size: 964, 319
+  orig: 964, 319
+  offset: 0, 0
+  index: -1
+shenti-2-1
+  rotate: false
+  xy: 0, 684
+  size: 583, 90
+  orig: 583, 90
+  offset: 0, 0
+  index: -1
+shenti-3
+  rotate: false
+  xy: 583, 611
+  size: 154, 144
+  orig: 154, 144
+  offset: 0, 0
+  index: -1
+zhi-hou-1
+  rotate: true
+  xy: 0, 541
+  size: 143, 317
+  orig: 143, 317
+  offset: 0, 0
+  index: -1
+zhi-hou-2
+  rotate: false
+  xy: 66, 984
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+zhi-hou-3
+  rotate: true
+  xy: 0, 810
+  size: 96, 122
+  orig: 97, 123
+  offset: 1, 1
+  index: -1
+zhi-hou-4
+  rotate: false
+  xy: 228, 972
+  size: 66, 49
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+zhi-qian-1
+  rotate: false
+  xy: 744, 391
+  size: 197, 361
+  orig: 197, 362
+  offset: 0, 1
+  index: -1
+zhi-qian-2
+  rotate: true
+  xy: 294, 971
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+zhi-qian-3
+  rotate: true
+  xy: 798, 856
+  size: 95, 139
+  orig: 107, 140
+  offset: 12, 1
+  index: -1
+zhi-qian-4
+  rotate: false
+  xy: 626, 959
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+zhi1-hou-1
+  rotate: true
+  xy: 270, 787
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+zhi1-hou-2
+  rotate: true
+  xy: 288, 890
+  size: 77, 131
+  orig: 77, 131
+  offset: 0, 0
+  index: -1
+zhi1-hou-3
+  rotate: true
+  xy: 32, 988
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+zhi1-hou-4
+  rotate: false
+  xy: 0, 911
+  size: 103, 73
+  orig: 103, 73
+  offset: 0, 0
+  index: -1
+zhi1-qian-1
+  rotate: true
+  xy: 625, 857
+  size: 94, 173
+  orig: 94, 173
+  offset: 0, 0
+  index: -1
+zhi1-qian-2
+  rotate: true
+  xy: 541, 962
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+zhi1-qian-3
+  rotate: true
+  xy: 122, 799
+  size: 97, 148
+  orig: 97, 148
+  offset: 0, 0
+  index: -1
+zhi1-qian-4
+  rotate: false
+  xy: 108, 983
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zhi2-hou-1
+  rotate: true
+  xy: 419, 888
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+zhi2-hou-2
+  rotate: false
+  xy: 0, 989
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zhi2-hou-3
+  rotate: true
+  xy: 705, 951
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+zhi2-hou-4
+  rotate: true
+  xy: 103, 906
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+zhi2-qian-1
+  rotate: true
+  xy: 397, 774
+  size: 102, 211
+  orig: 102, 211
+  offset: 0, 0
+  index: -1
+zhi2-qian-2
+  rotate: true
+  xy: 872, 951
+  size: 70, 149
+  orig: 70, 149
+  offset: 0, 0
+  index: -1
+zhi2-qian-3
+  rotate: true
+  xy: 520, 876
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+zhi2-qian-4
+  rotate: false
+  xy: 185, 978
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+zhi3-hou-1
+  rotate: true
+  xy: 349, 967
+  size: 54, 192
+  orig: 54, 192
+  offset: 0, 0
+  index: -1
+zhi3-qian-1
+  rotate: true
+  xy: 608, 755
+  size: 102, 173
+  orig: 102, 173
+  offset: 0, 0
+  index: -1
+zhi3-qian-2
+  rotate: false
+  xy: 781, 752
+  size: 162, 104
+  orig: 162, 104
+  offset: 0, 0
+  index: -1
+zhi3-qian-3
+  rotate: false
+  xy: 182, 896
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+zhi3-qian-4
+  rotate: true
+  xy: 146, 983
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1

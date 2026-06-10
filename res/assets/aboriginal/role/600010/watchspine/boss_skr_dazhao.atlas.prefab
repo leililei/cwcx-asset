@@ -1,0 +1,69 @@
+
+boss_skr_dazhao.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: 270
+  xy: 1119, 335
+  size: 706, 298
+  orig: 2024, 1820
+  offset: 578, 1135
+  index: -1
+右大臂
+  rotate: true
+  xy: 2, 875
+  size: 386, 328
+  orig: 2024, 1820
+  offset: 502, 1064
+  index: -1
+右小臂
+  rotate: false
+  xy: 509, 231
+  size: 651, 1584
+  orig: 2024, 1820
+  offset: 104, 236
+  index: -1
+右腿
+  rotate: true
+  xy: 1002, 4
+  size: 409, 591
+  orig: 2024, 1820
+  offset: 744, 470
+  index: -1
+头
+  rotate: 180
+  xy: 1303, 1041
+  size: 306, 733
+  orig: 2024, 1820
+  offset: 688, 732
+  index: -1
+左大臂
+  rotate: 270
+  xy: 953, 1005
+  size: 747, 367
+  orig: 2024, 1820
+  offset: 984, 1043
+  index: -1
+左小臂
+  rotate: false
+  xy: 2, 138
+  size: 1014, 1745
+  orig: 2024, 1820
+  offset: 971, 75
+  index: -1
+左腿
+  rotate: 180
+  xy: 1394, 409
+  size: 299, 682
+  orig: 2024, 1820
+  offset: 1223, 389
+  index: -1
+躯干
+  rotate: true
+  xy: 2, 119
+  size: 655, 810
+  orig: 2024, 1820
+  offset: 657, 783
+  index: -1

@@ -1,0 +1,202 @@
+
+dongzuo_yuanzui_liangqigang1-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1 part1
+  rotate: true
+  xy: 455, 121
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+jiao1 part2
+  rotate: false
+  xy: 325, 161
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+jiao2 part1
+  rotate: true
+  xy: 154, 325
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+jiao2 part2
+  rotate: false
+  xy: 476, 399
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+jiao2 part3
+  rotate: true
+  xy: 474, 245
+  size: 49, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+jiao3 part1
+  rotate: false
+  xy: 154, 209
+  size: 56, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+jiao3 part2
+  rotate: false
+  xy: 154, 282
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+jiao3 part3
+  rotate: true
+  xy: 474, 333
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+jiao3 part4
+  rotate: false
+  xy: 474, 221
+  size: 34, 24
+  orig: 36, 24
+  offset: 2, 0
+  index: -1
+jiao3 part5
+  rotate: false
+  xy: 274, 161
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+jiao4 part1
+  rotate: false
+  xy: 210, 166
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+jiao4 part2
+  rotate: false
+  xy: 476, 375
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+jiao4 part3
+  rotate: true
+  xy: 474, 294
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+jiao4 part4
+  rotate: true
+  xy: 0, 73
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 217, 386
+  size: 168, 126
+  orig: 168, 126
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 244
+  size: 154, 133
+  orig: 154, 133
+  offset: 0, 0
+  index: -1
+wei part1
+  rotate: false
+  xy: 301, 269
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+wei part2
+  rotate: false
+  xy: 385, 398
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+wei part3
+  rotate: false
+  xy: 384, 200
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+wei part4
+  rotate: false
+  xy: 210, 210
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+wei part5
+  rotate: false
+  xy: 460, 176
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+wei part6
+  rotate: true
+  xy: 385, 231
+  size: 167, 89
+  orig: 167, 89
+  offset: 0, 0
+  index: -1
+wei part7
+  rotate: false
+  xy: 0, 377
+  size: 217, 135
+  orig: 217, 135
+  offset: 0, 0
+  index: -1
+wei part8
+  rotate: false
+  xy: 217, 320
+  size: 166, 66
+  orig: 166, 66
+  offset: 0, 0
+  index: -1
+yuqi1
+  rotate: false
+  xy: 213, 256
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+yuqi2
+  rotate: true
+  xy: 384, 133
+  size: 67, 71
+  orig: 67, 72
+  offset: 0, 1
+  index: -1
+yuqi3
+  rotate: false
+  xy: 301, 194
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+yuqi4
+  rotate: false
+  xy: 385, 440
+  size: 115, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1

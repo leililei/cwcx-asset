@@ -1,0 +1,299 @@
+
+lihui_haibingweilai_benti_dz.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daimao
+  rotate: true
+  xy: 888, 3545
+  size: 359, 568
+  orig: 359, 568
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 5, 3067
+  size: 539, 686
+  orig: 539, 686
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 2278, 362
+  size: 944, 1323
+  orig: 944, 1323
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 1815, 1563
+  size: 634, 629
+  orig: 634, 629
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 2454, 1311
+  size: 745, 774
+  orig: 745, 774
+  offset: 0, 0
+  index: -1
+fashi2
+  rotate: true
+  xy: 3215, 3299
+  size: 424, 770
+  orig: 424, 770
+  offset: 0, 0
+  index: -1
+fayy
+  rotate: false
+  xy: 5, 985
+  size: 1346, 746
+  orig: 1346, 746
+  offset: 0, 0
+  index: -1
+h_fa
+  rotate: false
+  xy: 5, 1736
+  size: 1805, 530
+  orig: 1805, 530
+  offset: 0, 0
+  index: -1
+han
+  rotate: true
+  xy: 5, 3967
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 274, 3961
+  size: 690, 125
+  orig: 690, 125
+  offset: 0, 0
+  index: -1
+texiao_yun
+  rotate: false
+  xy: 1356, 657
+  size: 917, 901
+  orig: 917, 901
+  offset: 0, 0
+  index: -1
+texiao_yun3
+  rotate: true
+  xy: 2222, 3881
+  size: 205, 317
+  orig: 205, 317
+  offset: 0, 0
+  index: -1
+texiaoyun2
+  rotate: true
+  xy: 1570, 3895
+  size: 191, 300
+  orig: 191, 300
+  offset: 0, 0
+  index: -1
+y_yan_ganga
+  rotate: true
+  xy: 2301, 3435
+  size: 387, 425
+  orig: 387, 425
+  offset: 0, 0
+  index: -1
+y_yan_kaixing
+  rotate: false
+  xy: 501, 3611
+  size: 382, 345
+  orig: 382, 345
+  offset: 0, 0
+  index: -1
+y_yan_ku
+  rotate: false
+  xy: 1461, 3522
+  size: 404, 368
+  orig: 404, 368
+  offset: 0, 0
+  index: -1
+y_yan_yun
+  rotate: true
+  xy: 2731, 3361
+  size: 388, 479
+  orig: 388, 479
+  offset: 0, 0
+  index: -1
+y_yanlei
+  rotate: false
+  xy: 969, 3928
+  size: 229, 158
+  orig: 229, 158
+  offset: 0, 0
+  index: -1
+yan_texiao
+  rotate: false
+  xy: 696, 2926
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 1315, 2890
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z10
+  rotate: false
+  xy: 3100, 2061
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 1934, 2816
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 2553, 2742
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 3172, 2680
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 5, 2448
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 624, 2307
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z7
+  rotate: false
+  xy: 1243, 2271
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z8
+  rotate: false
+  xy: 1862, 2197
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z9
+  rotate: false
+  xy: 2481, 2123
+  size: 614, 614
+  orig: 614, 614
+  offset: 0, 0
+  index: -1
+z_yan_ganga
+  rotate: true
+  xy: 2883, 3754
+  size: 332, 470
+  orig: 332, 470
+  offset: 0, 0
+  index: -1
+z_yan_kaixing
+  rotate: false
+  xy: 3722, 3728
+  size: 364, 358
+  orig: 364, 358
+  offset: 0, 0
+  index: -1
+z_yan_ku
+  rotate: false
+  xy: 1870, 3509
+  size: 426, 367
+  orig: 426, 367
+  offset: 0, 0
+  index: -1
+z_yan_yun
+  rotate: true
+  xy: 5, 3615
+  size: 341, 491
+  orig: 341, 491
+  offset: 0, 0
+  index: -1
+zui_ganga
+  rotate: false
+  xy: 1203, 3909
+  size: 362, 177
+  orig: 362, 177
+  offset: 0, 0
+  index: -1
+zui_kaixing
+  rotate: false
+  xy: 3358, 3754
+  size: 359, 332
+  orig: 359, 332
+  offset: 0, 0
+  index: -1
+zui_ku
+  rotate: true
+  xy: 2544, 3827
+  size: 259, 334
+  orig: 259, 334
+  offset: 0, 0
+  index: -1
+zui_yun
+  rotate: true
+  xy: 1875, 3893
+  size: 193, 342
+  orig: 193, 342
+  offset: 0, 0
+  index: -1
+
+lihui_haibingweilai_benti_dz2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa3
+  rotate: true
+  xy: 1854, 663
+  size: 1004, 1339
+  orig: 1004, 1339
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: true
+  xy: 2633, 2585
+  size: 1411, 1363
+  orig: 1411, 1363
+  offset: 0, 0
+  index: -1
+texiao_guang
+  rotate: false
+  xy: 5, 1672
+  size: 2623, 2324
+  orig: 2623, 2324
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 5, 74
+  size: 1844, 1593
+  orig: 1844, 1593
+  offset: 0, 0
+  index: -1

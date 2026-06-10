@@ -1,0 +1,286 @@
+
+dongzuo_yuanzui_nixiji1-α.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsl_01
+  rotate: true
+  xy: 0, 927
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+bsl_02
+  rotate: false
+  xy: 453, 961
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+bsl_03
+  rotate: false
+  xy: 92, 976
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+bsl_04
+  rotate: false
+  xy: 0, 979
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bsl_05
+  rotate: true
+  xy: 597, 958
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+bsl_06
+  rotate: true
+  xy: 513, 961
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+bsl_07
+  rotate: false
+  xy: 14, 979
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bsl_08
+  rotate: true
+  xy: 862, 948
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+bsl_09
+  rotate: false
+  xy: 550, 959
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+bsl_10
+  rotate: true
+  xy: 113, 976
+  size: 17, 59
+  orig: 17, 59
+  offset: 0, 0
+  index: -1
+bsl_11
+  rotate: true
+  xy: 351, 963
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+bsl_12
+  rotate: false
+  xy: 0, 619
+  size: 351, 141
+  orig: 351, 141
+  offset: 0, 0
+  index: -1
+bsl_13
+  rotate: false
+  xy: 351, 570
+  size: 304, 161
+  orig: 304, 161
+  offset: 0, 0
+  index: -1
+bsl_17
+  rotate: false
+  xy: 494, 731
+  size: 274, 134
+  orig: 274, 134
+  offset: 0, 0
+  index: -1
+bsl_18
+  rotate: false
+  xy: 0, 795
+  size: 269, 118
+  orig: 296, 118
+  offset: 27, 0
+  index: -1
+bsl_19
+  rotate: false
+  xy: 662, 880
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+bsl_20
+  rotate: false
+  xy: 28, 979
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+bsl_21
+  rotate: false
+  xy: 282, 965
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+bsl_22
+  rotate: false
+  xy: 526, 889
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+bsl_23
+  rotate: false
+  xy: 350, 899
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+bsl_24
+  rotate: false
+  xy: 205, 913
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+bsl_25
+  rotate: true
+  xy: 66, 925
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+bsl_26
+  rotate: true
+  xy: 389, 963
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bsl_27
+  rotate: true
+  xy: 918, 944
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+bsl_28
+  rotate: true
+  xy: 226, 970
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+bsl_29
+  rotate: true
+  xy: 736, 955
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+bsl_30
+  rotate: true
+  xy: 849, 859
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+bsl_31
+  rotate: false
+  xy: 153, 919
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+bsl_32
+  rotate: true
+  xy: 757, 865
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+bsl_33
+  rotate: false
+  xy: 768, 702
+  size: 225, 157
+  orig: 225, 157
+  offset: 0, 0
+  index: -1
+bsl_34
+  rotate: true
+  xy: 269, 760
+  size: 131, 225
+  orig: 131, 225
+  offset: 0, 0
+  index: -1
+bsl_35
+  rotate: false
+  xy: 787, 950
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+bsl_36
+  rotate: true
+  xy: 673, 956
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+bsl_37
+  rotate: false
+  xy: 257, 968
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bsl_38
+  rotate: true
+  xy: 200, 971
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+bsl_39
+  rotate: true
+  xy: 172, 975
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+bsl_40
+  rotate: true
+  xy: 68, 978
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+bsl_41
+  rotate: true
+  xy: 427, 891
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+bsl_42
+  rotate: true
+  xy: 420, 962
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+bsl_43
+  rotate: false
+  xy: 285, 908
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1

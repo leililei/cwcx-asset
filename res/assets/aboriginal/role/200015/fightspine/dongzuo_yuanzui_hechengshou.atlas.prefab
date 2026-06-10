@@ -1,0 +1,209 @@
+
+dongzuo_yuanzui_hechengshou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 111, 138
+  size: 70, 124
+  orig: 70, 124
+  offset: 0, 0
+  index: -1
+daw1
+  rotate: true
+  xy: 178, 265
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+daw2
+  rotate: false
+  xy: 447, 465
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 301, 442
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 181, 124
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: true
+  xy: 254, 204
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: false
+  xy: 370, 269
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+hand5
+  rotate: false
+  xy: 416, 404
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+hand6
+  rotate: true
+  xy: 251, 269
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 178, 297
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 270, 43
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 318, 354
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 368, 456
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 370, 312
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 181, 176
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+leg5
+  rotate: true
+  xy: 315, 206
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+leg6
+  rotate: true
+  xy: 251, 411
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+neck1
+  rotate: false
+  xy: 278, 137
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: true
+  xy: 369, 367
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 262
+  size: 178, 247
+  orig: 178, 247
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 0, 13
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: true
+  xy: 0, 108
+  size: 154, 111
+  orig: 154, 111
+  offset: 0, 0
+  index: -1
+wing3
+  rotate: false
+  xy: 270, 0
+  size: 116, 43
+  orig: 116, 43
+  offset: 0, 0
+  index: -1
+wing4
+  rotate: false
+  xy: 125, 22
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+wing5
+  rotate: true
+  xy: 211, 14
+  size: 110, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1
+wing6
+  rotate: false
+  xy: 178, 396
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+wing7
+  rotate: true
+  xy: 251, 305
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+wing8
+  rotate: true
+  xy: 111, 118
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+wing9
+  rotate: false
+  xy: 251, 343
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1

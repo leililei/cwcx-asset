@@ -1,0 +1,409 @@
+
+panduola.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hezi
+  rotate: true
+  xy: 2251, 3559
+  size: 292, 293
+  orig: 372, 307
+  offset: 29, 9
+  index: -1
+pdlmh_11
+  rotate: true
+  xy: 2, 15
+  size: 952, 2069
+  orig: 1021, 2069
+  offset: 0, 0
+  index: -1
+pdlmh_12
+  rotate: true
+  xy: 733, 2020
+  size: 626, 910
+  orig: 626, 943
+  offset: 0, 0
+  index: -1
+pdlmh_13
+  rotate: true
+  xy: 3452, 3483
+  size: 346, 371
+  orig: 346, 377
+  offset: 0, 0
+  index: -1
+pdlmh_14
+  rotate: true
+  xy: 2906, 3538
+  size: 300, 544
+  orig: 300, 575
+  offset: 0, 0
+  index: -1
+pdlmh_15
+  rotate: false
+  xy: 3601, 3831
+  size: 244, 203
+  orig: 244, 203
+  offset: 0, 0
+  index: -1
+pdlmh_16
+  rotate: false
+  xy: 2898, 3846
+  size: 218, 188
+  orig: 218, 188
+  offset: 0, 0
+  index: -1
+pdlmh_17
+  rotate: true
+  xy: 2225, 277
+  size: 1007, 1407
+  orig: 1047, 1632
+  offset: 40, 0
+  index: -1
+pdlmh_19
+  rotate: false
+  xy: 405, 3321
+  size: 434, 383
+  orig: 434, 383
+  offset: 0, 0
+  index: -1
+pdlmh_20
+  rotate: true
+  xy: 2, 2889
+  size: 374, 1269
+  orig: 374, 1269
+  offset: 0, 0
+  index: -1
+pdlmh_21
+  rotate: false
+  xy: 2547, 3852
+  size: 349, 182
+  orig: 349, 182
+  offset: 0, 0
+  index: -1
+pdlmh_22
+  rotate: false
+  xy: 3118, 3840
+  size: 481, 194
+  orig: 481, 194
+  offset: 0, 0
+  index: -1
+pdlmh_23
+  rotate: false
+  xy: 1152, 3659
+  size: 362, 253
+  orig: 362, 253
+  offset: 0, 0
+  index: -1
+pdlmh_24
+  rotate: false
+  xy: 1516, 3607
+  size: 298, 282
+  orig: 298, 282
+  offset: 0, 0
+  index: -1
+pdlmh_25
+  rotate: true
+  xy: 2, 3372
+  size: 376, 401
+  orig: 376, 401
+  offset: 0, 0
+  index: -1
+pdlmh_26
+  rotate: false
+  xy: 2070, 2541
+  size: 940, 566
+  orig: 940, 566
+  offset: 0, 0
+  index: -1
+pdlmh_28
+  rotate: true
+  xy: 1816, 3565
+  size: 287, 433
+  orig: 287, 433
+  offset: 0, 0
+  index: -1
+pdlmh_29
+  rotate: true
+  xy: 1324, 3191
+  size: 366, 1114
+  orig: 366, 1114
+  offset: 0, 0
+  index: -1
+pdlmh_30
+  rotate: false
+  xy: 888, 3676
+  size: 262, 254
+  orig: 262, 254
+  offset: 0, 0
+  index: -1
+pdlmh_31
+  rotate: false
+  xy: 2315, 3853
+  size: 230, 181
+  orig: 230, 181
+  offset: 0, 0
+  index: -1
+pdlmh_32
+  rotate: false
+  xy: 408, 3973
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+pdlmh_35
+  rotate: false
+  xy: 3202, 1286
+  size: 733, 1154
+  orig: 733, 1154
+  offset: 0, 0
+  index: -1
+pdlmh_36
+  rotate: true
+  xy: 1273, 2648
+  size: 541, 795
+  orig: 541, 795
+  offset: 0, 0
+  index: -1
+pdlmh_37
+  rotate: false
+  xy: 446, 3706
+  size: 440, 225
+  orig: 440, 225
+  offset: 0, 0
+  index: -1
+pdlmh_38
+  rotate: true
+  xy: 2546, 3548
+  size: 296, 358
+  orig: 296, 358
+  offset: 0, 0
+  index: -1
+pdlmh_39
+  rotate: true
+  xy: 2031, 3854
+  size: 180, 282
+  orig: 180, 282
+  offset: 0, 0
+  index: -1
+pdlmh_40
+  rotate: true
+  xy: 482, 3947
+  size: 87, 191
+  orig: 87, 191
+  offset: 0, 0
+  index: -1
+pdlmh_41
+  rotate: true
+  xy: 1175, 3924
+  size: 110, 269
+  orig: 110, 269
+  offset: 0, 0
+  index: -1
+pdlmh_42
+  rotate: true
+  xy: 3012, 2442
+  size: 576, 1022
+  orig: 576, 1022
+  offset: 0, 0
+  index: -1
+pdlmh_43
+  rotate: true
+  xy: 952, 3932
+  size: 102, 221
+  orig: 102, 221
+  offset: 0, 0
+  index: -1
+pdlmh_44
+  rotate: true
+  xy: 1227, 969
+  size: 900, 996
+  orig: 900, 996
+  offset: 0, 0
+  index: -1
+pdlmh_45
+  rotate: false
+  xy: 2, 3750
+  size: 442, 221
+  orig: 442, 221
+  offset: 0, 0
+  index: -1
+pdlmh_46
+  rotate: true
+  xy: 2, 2296
+  size: 591, 729
+  orig: 591, 729
+  offset: 0, 0
+  index: -1
+pdlmh_47
+  rotate: true
+  xy: 3343, 3020
+  size: 461, 625
+  orig: 461, 625
+  offset: 0, 0
+  index: -1
+pdlmh_48
+  rotate: true
+  xy: 2440, 3122
+  size: 424, 442
+  orig: 424, 442
+  offset: 0, 0
+  index: -1
+pdlmh_49
+  rotate: false
+  xy: 1828, 3876
+  size: 201, 158
+  orig: 201, 158
+  offset: 0, 0
+  index: -1
+pdlmh_50
+  rotate: false
+  xy: 1446, 3914
+  size: 224, 120
+  orig: 224, 120
+  offset: 0, 0
+  index: -1
+pdlmh_53
+  rotate: true
+  xy: 2, 1192
+  size: 826, 1223
+  orig: 826, 1223
+  offset: 0, 0
+  index: -1
+pdlmh_56
+  rotate: true
+  xy: 2884, 3109
+  size: 427, 457
+  orig: 427, 457
+  offset: 0, 0
+  index: -1
+pdlmh_57
+  rotate: true
+  xy: 841, 3265
+  size: 392, 481
+  orig: 408, 513
+  offset: 16, 32
+  index: -1
+pdlmh_58
+  rotate: true
+  xy: 2, 3982
+  size: 52, 173
+  orig: 52, 173
+  offset: 0, 0
+  index: -1
+pdlmh_59
+  rotate: true
+  xy: 1672, 3891
+  size: 143, 154
+  orig: 143, 154
+  offset: 0, 0
+  index: -1
+pdlmh_61
+  rotate: true
+  xy: 177, 3981
+  size: 53, 229
+  orig: 53, 229
+  offset: 0, 0
+  index: -1
+pdlmh_62
+  rotate: true
+  xy: 791, 3933
+  size: 101, 159
+  orig: 101, 159
+  offset: 0, 0
+  index: -1
+pdlmh_63
+  rotate: true
+  xy: 675, 3936
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+pdlmh_65
+  rotate: true
+  xy: 1645, 1871
+  size: 569, 1555
+  orig: 569, 1555
+  offset: 0, 0
+  index: -1
+
+panduola2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pdlmh_34
+  rotate: false
+  xy: 1864, 351
+  size: 1795, 1309
+  orig: 1795, 1396
+  offset: 0, 87
+  index: -1
+pdlmh_55
+  rotate: false
+  xy: 2, 2
+  size: 1860, 1658
+  orig: 1860, 1658
+  offset: 0, 0
+  index: -1
+pdlmh_60
+  rotate: false
+  xy: 2, 1662
+  size: 3081, 2144
+  orig: 3081, 2144
+  offset: 0, 0
+  index: -1
+
+panduola3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pdlmh_10
+  rotate: true
+  xy: 1779, 1450
+  size: 1282, 2240
+  orig: 1282, 2240
+  offset: 0, 0
+  index: -1
+pdlmh_18
+  rotate: true
+  xy: 2, 411
+  size: 1404, 1775
+  orig: 1404, 1775
+  offset: 0, 0
+  index: -1
+pdlmh_27
+  rotate: true
+  xy: 2, 1817
+  size: 1101, 1775
+  orig: 1101, 1775
+  offset: 0, 0
+  index: -1
+pdlmh_54
+  rotate: true
+  xy: 2448, 2734
+  size: 1285, 1547
+  orig: 1345, 1547
+  offset: 0, 0
+  index: -1
+pdlmh_64
+  rotate: false
+  xy: 2, 2920
+  size: 2444, 1099
+  orig: 2444, 1099
+  offset: 0, 0
+  index: -1
+
+panduola4.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pdlmh_33
+  rotate: false
+  xy: 2, 1547
+  size: 2859, 1314
+  orig: 2861, 1315
+  offset: 1, 0
+  index: -1

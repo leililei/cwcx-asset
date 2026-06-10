@@ -1,0 +1,90 @@
+
+dongzuo_yuanzui_fuqiyugang1-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_fish1
+  rotate: false
+  xy: 352, 349
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+L_fish10
+  rotate: false
+  xy: 0, 139
+  size: 165, 131
+  orig: 165, 131
+  offset: 0, 0
+  index: -1
+L_fish11
+  rotate: true
+  xy: 165, 161
+  size: 109, 162
+  orig: 109, 162
+  offset: 0, 0
+  index: -1
+L_fish12
+  rotate: false
+  xy: 341, 409
+  size: 140, 72
+  orig: 140, 72
+  offset: 0, 0
+  index: -1
+L_fish2
+  rotate: false
+  xy: 208, 399
+  size: 133, 82
+  orig: 133, 82
+  offset: 0, 0
+  index: -1
+L_fish3
+  rotate: true
+  xy: 300, 285
+  size: 33, 45
+  orig: 33, 46
+  offset: 0, 1
+  index: -1
+L_fish4
+  rotate: false
+  xy: 327, 150
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+L_fish5
+  rotate: false
+  xy: 208, 278
+  size: 92, 40
+  orig: 92, 40
+  offset: 0, 0
+  index: -1
+L_fish6
+  rotate: false
+  xy: 0, 270
+  size: 208, 211
+  orig: 208, 212
+  offset: 0, 1
+  index: -1
+L_fish7
+  rotate: false
+  xy: 208, 318
+  size: 144, 81
+  orig: 144, 82
+  offset: 0, 1
+  index: -1
+L_fish8
+  rotate: false
+  xy: 352, 299
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+L_fish9
+  rotate: true
+  xy: 327, 183
+  size: 102, 71
+  orig: 102, 71
+  offset: 0, 0
+  index: -1

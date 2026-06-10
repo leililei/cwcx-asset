@@ -1,0 +1,153 @@
+
+boss_dongzuo_ABR.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LW1
+  rotate: false
+  xy: 0, 73
+  size: 109, 1339
+  orig: 109, 1340
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 0, 15
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 1472, 106
+  size: 210, 289
+  orig: 210, 289
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 258, 136
+  size: 296, 693
+  orig: 296, 693
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 1848, 1622
+  size: 166, 398
+  orig: 166, 398
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1100, 1530
+  size: 748, 490
+  orig: 748, 490
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 0, 1412
+  size: 1100, 608
+  orig: 1100, 611
+  offset: 0, 3
+  index: -1
+b3
+  rotate: true
+  xy: 1031, 933
+  size: 395, 566
+  orig: 395, 566
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 258, 966
+  size: 773, 446
+  orig: 774, 446
+  offset: 1, 0
+  index: -1
+l1
+  rotate: false
+  xy: 109, 87
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 951, 90
+  size: 521, 551
+  orig: 521, 552
+  offset: 0, 1
+  index: -1
+l3
+  rotate: true
+  xy: 827, 641
+  size: 292, 590
+  orig: 293, 591
+  offset: 0, 1
+  index: -1
+l4
+  rotate: false
+  xy: 1597, 910
+  size: 298, 418
+  orig: 298, 418
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 1866, 415
+  size: 154, 275
+  orig: 154, 275
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 1031, 1362
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+r3
+  rotate: true
+  xy: 1100, 1328
+  size: 202, 609
+  orig: 202, 609
+  offset: 0, 0
+  index: -1
+r4
+  rotate: false
+  xy: 1781, 334
+  size: 85, 356
+  orig: 85, 356
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 258, 432
+  size: 569, 534
+  orig: 569, 534
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 1417, 690
+  size: 220, 544
+  orig: 220, 544
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 1472, 316
+  size: 309, 374
+  orig: 309, 374
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 109, 145
+  size: 149, 1267
+  orig: 149, 1267
+  offset: 0, 0
+  index: -1

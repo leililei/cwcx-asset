@@ -1,0 +1,69 @@
+
+dongzuo_yuanzui_heji3-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiuqiu1
+  rotate: false
+  xy: 23, 48
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+qiuqiu2
+  rotate: false
+  xy: 0, 47
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+qiuqiu3
+  rotate: false
+  xy: 211, 170
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+qiuqiu4
+  rotate: false
+  xy: 0, 90
+  size: 211, 189
+  orig: 211, 189
+  offset: 0, 0
+  index: -1
+qiuqiu5
+  rotate: false
+  xy: 44, 52
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+qiuqiu6
+  rotate: false
+  xy: 98, 56
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+qiuqiu7
+  rotate: false
+  xy: 63, 56
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+qiuqiu8
+  rotate: false
+  xy: 81, 59
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+qiuqiu9
+  rotate: false
+  xy: 211, 81
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1

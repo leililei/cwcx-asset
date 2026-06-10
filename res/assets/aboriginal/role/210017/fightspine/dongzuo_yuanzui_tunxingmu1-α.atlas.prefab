@@ -1,0 +1,69 @@
+
+dongzuo_yuanzui_tunxingmu1-α.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+puffer_1
+  rotate: true
+  xy: 802, 312
+  size: 322, 175
+  orig: 322, 175
+  offset: 0, 0
+  index: -1
+puffer_2
+  rotate: false
+  xy: 264, 391
+  size: 205, 167
+  orig: 205, 167
+  offset: 0, 0
+  index: -1
+puffer_3
+  rotate: false
+  xy: 487, 405
+  size: 315, 229
+  orig: 315, 229
+  offset: 0, 0
+  index: -1
+puffer_4
+  rotate: false
+  xy: 892, 671
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+puffer_5
+  rotate: false
+  xy: 0, 558
+  size: 487, 439
+  orig: 487, 439
+  offset: 0, 0
+  index: -1
+puffer_6
+  rotate: true
+  xy: 487, 634
+  size: 363, 405
+  orig: 363, 405
+  offset: 0, 0
+  index: -1
+puffer_7
+  rotate: true
+  xy: 892, 758
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+puffer_8
+  rotate: false
+  xy: 892, 850
+  size: 105, 147
+  orig: 105, 147
+  offset: 0, 0
+  index: -1
+puffer_9
+  rotate: false
+  xy: 0, 369
+  size: 264, 189
+  orig: 264, 189
+  offset: 0, 0
+  index: -1

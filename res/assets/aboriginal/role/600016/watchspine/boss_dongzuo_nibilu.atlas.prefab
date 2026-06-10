@@ -1,0 +1,195 @@
+
+boss_dongzuo_nibilu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 880, 198
+  size: 270, 222
+  orig: 270, 222
+  offset: 0, 0
+  index: -1
+开火光球
+  rotate: false
+  xy: 1337, 565
+  size: 502, 311
+  orig: 502, 311
+  offset: 0, 0
+  index: -1
+核心
+  rotate: true
+  xy: 1703, 1158
+  size: 194, 140
+  orig: 194, 140
+  offset: 0, 0
+  index: -1
+球1（包括开火FX）
+  rotate: false
+  xy: 860, 132
+  size: 308, 66
+  orig: 308, 66
+  offset: 0, 0
+  index: -1
+球2（包括开火FX）
+  rotate: false
+  xy: 508, 220
+  size: 372, 200
+  orig: 372, 200
+  offset: 0, 0
+  index: -1
+球3（包括开火FX）
+  rotate: true
+  xy: 1703, 1352
+  size: 314, 170
+  orig: 314, 170
+  offset: 0, 0
+  index: -1
+球4（包括开火FX）
+  rotate: false
+  xy: 1137, 463
+  size: 181, 143
+  orig: 181, 143
+  offset: 0, 0
+  index: -1
+球5（包括开火FX）
+  rotate: false
+  xy: 1602, 340
+  size: 171, 122
+  orig: 171, 122
+  offset: 0, 0
+  index: -1
+球6（包括开火FX）
+  rotate: false
+  xy: 1150, 389
+  size: 157, 74
+  orig: 157, 74
+  offset: 0, 0
+  index: -1
+瓣1
+  rotate: false
+  xy: 1602, 462
+  size: 204, 103
+  orig: 204, 103
+  offset: 0, 0
+  index: -1
+瓣2
+  rotate: false
+  xy: 1843, 1203
+  size: 205, 149
+  orig: 205, 149
+  offset: 0, 0
+  index: -1
+瓣3
+  rotate: true
+  xy: 1839, 595
+  size: 281, 194
+  orig: 281, 194
+  offset: 0, 0
+  index: -1
+瓣4
+  rotate: false
+  xy: 1318, 347
+  size: 284, 218
+  orig: 284, 218
+  offset: 0, 0
+  index: -1
+瓣5
+  rotate: false
+  xy: 508, 106
+  size: 352, 114
+  orig: 352, 114
+  offset: 0, 0
+  index: -1
+瓣6
+  rotate: true
+  xy: 1879, 1696
+  size: 352, 116
+  orig: 352, 116
+  offset: 0, 0
+  index: -1
+翼1（包括开火FX）
+  rotate: false
+  xy: 519, 606
+  size: 818, 270
+  orig: 818, 270
+  offset: 0, 0
+  index: -1
+翼2（包括开火FX）
+  rotate: true
+  xy: 519, 876
+  size: 279, 1450
+  orig: 279, 1450
+  offset: 0, 0
+  index: -1
+翼3（包括开火FX）
+  rotate: true
+  xy: 519, 1666
+  size: 382, 1360
+  orig: 382, 1360
+  offset: 0, 0
+  index: -1
+翼4（包括开火FX）
+  rotate: false
+  xy: 0, 766
+  size: 519, 1282
+  orig: 519, 1282
+  offset: 0, 0
+  index: -1
+翼5（包括开火FX）
+  rotate: true
+  xy: 519, 1155
+  size: 511, 1184
+  orig: 511, 1184
+  offset: 0, 0
+  index: -1
+翼6（包括开火FX）
+  rotate: true
+  xy: 0, 42
+  size: 724, 396
+  orig: 724, 396
+  offset: 0, 0
+  index: -1
+须1
+  rotate: true
+  xy: 471, 98
+  size: 668, 37
+  orig: 668, 37
+  offset: 0, 0
+  index: -1
+须2
+  rotate: false
+  xy: 508, 495
+  size: 609, 40
+  orig: 609, 40
+  offset: 0, 0
+  index: -1
+须3
+  rotate: false
+  xy: 508, 535
+  size: 629, 71
+  orig: 629, 71
+  offset: 0, 0
+  index: -1
+须4
+  rotate: false
+  xy: 508, 420
+  size: 588, 34
+  orig: 588, 34
+  offset: 0, 0
+  index: -1
+须5
+  rotate: true
+  xy: 396, 122
+  size: 644, 75
+  orig: 644, 75
+  offset: 0, 0
+  index: -1
+须6
+  rotate: false
+  xy: 508, 454
+  size: 602, 41
+  orig: 602, 41
+  offset: 0, 0
+  index: -1

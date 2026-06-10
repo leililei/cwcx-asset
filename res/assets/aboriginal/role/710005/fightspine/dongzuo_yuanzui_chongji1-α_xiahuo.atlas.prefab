@@ -1,0 +1,146 @@
+
+dongzuo_yuanzui_chongji1-α_xiahuo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 122, 169
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mj
+  rotate: false
+  xy: 232, 244
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+wenzi_1
+  rotate: false
+  xy: 0, 213
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+wenzi_10
+  rotate: false
+  xy: 159, 154
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+wenzi_11
+  rotate: true
+  xy: 159, 211
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+wenzi_12
+  rotate: false
+  xy: 80, 183
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+wenzi_13
+  rotate: true
+  xy: 217, 148
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+wenzi_14
+  rotate: true
+  xy: 217, 190
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+wenzi_15
+  rotate: true
+  xy: 232, 222
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+wenzi_16
+  rotate: true
+  xy: 217, 203
+  size: 8, 38
+  orig: 8, 38
+  offset: 0, 0
+  index: -1
+wenzi_17
+  rotate: true
+  xy: 232, 211
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+wenzi_18
+  rotate: true
+  xy: 217, 158
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: true
+  xy: 0, 158
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+wenzi_3
+  rotate: false
+  xy: 73, 141
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+wenzi_4
+  rotate: true
+  xy: 232, 231
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+wenzi_5
+  rotate: false
+  xy: 248, 165
+  size: 8, 25
+  orig: 8, 26
+  offset: 0, 1
+  index: -1
+wenzi_6
+  rotate: false
+  xy: 246, 140
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+wenzi_7
+  rotate: true
+  xy: 217, 169
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+wenzi_8
+  rotate: true
+  xy: 217, 179
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+wenzi_9
+  rotate: true
+  xy: 247, 153
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1

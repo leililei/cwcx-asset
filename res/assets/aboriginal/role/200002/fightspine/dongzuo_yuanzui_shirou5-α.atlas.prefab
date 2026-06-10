@@ -1,0 +1,139 @@
+
+dongzuo_yuanzui_shirou5-α.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 305, 31
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 231, 10
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 165, 9
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 336, 209
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 231, 48
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 336, 174
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 204, 156
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 0, 13
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 204, 331
+  size: 238, 139
+  orig: 238, 139
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 280, 266
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 346, 120
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 204, 114
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 94, 0
+  size: 71, 113
+  orig: 71, 113
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 284, 118
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 274, 171
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 287, 80
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 204, 242
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+98
+  rotate: false
+  xy: 0, 569
+  size: 442, 444
+  orig: 442, 444
+  offset: 0, 0
+  index: -1
+99
+  rotate: true
+  xy: 0, 113
+  size: 456, 204
+  orig: 456, 204
+  offset: 0, 0
+  index: -1

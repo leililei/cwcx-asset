@@ -1,0 +1,216 @@
+
+dongzuo_boss_Mao_Hip1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ADA1
+  rotate: true
+  xy: 8, 1212
+  size: 287, 438
+  orig: 287, 438
+  offset: 0, 0
+  index: -1
+ADA10
+  rotate: false
+  xy: 1496, 2946
+  size: 263, 166
+  orig: 264, 166
+  offset: 0, 0
+  index: -1
+ADA11
+  rotate: false
+  xy: 8, 2561
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+ADA12
+  rotate: false
+  xy: 3294, 3106
+  size: 287, 560
+  orig: 287, 560
+  offset: 0, 0
+  index: -1
+ADA13
+  rotate: false
+  xy: 943, 463
+  size: 389, 150
+  orig: 389, 150
+  offset: 0, 0
+  index: -1
+ADA14
+  rotate: 180
+  xy: 3261, 1732
+  size: 458, 562
+  orig: 458, 602
+  offset: 0, 17
+  index: -1
+ADA15
+  rotate: false
+  xy: 114, 2533
+  size: 211, 128
+  orig: 211, 128
+  offset: 0, 0
+  index: -1
+ADA16
+  rotate: false
+  xy: 595, 1047
+  size: 343, 497
+  orig: 343, 510
+  offset: 0, 13
+  index: -1
+ADA17
+  rotate: false
+  xy: 2088, 1830
+  size: 1412, 904
+  orig: 1412, 904
+  offset: 0, 0
+  index: -1
+ADA18
+  rotate: false
+  xy: 1211, 602
+  size: 682, 608
+  orig: 682, 608
+  offset: 0, 0
+  index: -1
+ADA2
+  rotate: false
+  xy: 3508, 2302
+  size: 205, 796
+  orig: 205, 796
+  offset: 0, 0
+  index: -1
+ADA3
+  rotate: false
+  xy: 632, 2247
+  size: 229, 414
+  orig: 229, 414
+  offset: 0, 0
+  index: -1
+ADA4
+  rotate: false
+  xy: 1025, 649
+  size: 142, 389
+  orig: 142, 389
+  offset: 0, 0
+  index: -1
+ADA5
+  rotate: false
+  xy: 1072, 1529
+  size: 242, 324
+  orig: 242, 324
+  offset: 0, 0
+  index: -1
+ADA6
+  rotate: false
+  xy: 3523, 1008
+  size: 193, 475
+  orig: 193, 475
+  offset: 0, 0
+  index: -1
+ADA7
+  rotate: 270
+  xy: 8, 1401
+  size: 1111, 906
+  orig: 1111, 906
+  offset: 0, 0
+  index: -1
+ADA9
+  rotate: false
+  xy: 922, 1509
+  size: 142, 448
+  orig: 142, 448
+  offset: 0, 0
+  index: -1
+GG1
+  rotate: false
+  xy: 8, 1917
+  size: 108, 165
+  orig: 338, 280
+  offset: 0, 72
+  index: -1
+GG2
+  rotate: false
+  xy: 303, 2575
+  size: 66, 41
+  orig: 338, 280
+  offset: 112, 3
+  index: -1
+GG3
+  rotate: false
+  xy: 383, 2502
+  size: 224, 160
+  orig: 338, 280
+  offset: 114, 95
+  index: -1
+mm
+  rotate: false
+  xy: 158, 2521
+  size: 179, 88
+  orig: 337, 280
+  offset: 9, 192
+  index: -1
+图层 65
+  rotate: true
+  xy: 2297, 1306
+  size: 856, 958
+  orig: 856, 958
+  offset: 0, 0
+  index: -1
+图层 68
+  rotate: false
+  xy: 1867, 2742
+  size: 1419, 979
+  orig: 1419, 979
+  offset: 0, 0
+  index: -1
+图层 69
+  rotate: false
+  xy: 8, 1052
+  size: 354, 152
+  orig: 354, 152
+  offset: 0, 0
+  index: -1
+外手
+  rotate: 270
+  xy: 991, 1047
+  size: 887, 1298
+  orig: 887, 1298
+  offset: 0, 0
+  index: -1
+组 11
+  rotate: 270
+  xy: 870, 1862
+  size: 1077, 1210
+  orig: 1077, 1210
+  offset: 0, 0
+  index: -1
+组 12
+  rotate: false
+  xy: 8, 2668
+  size: 1851, 1053
+  orig: 1851, 1053
+  offset: 0, 0
+  index: -1
+组 13
+  rotate: false
+  xy: 8, 606
+  size: 1009, 432
+  orig: 1009, 432
+  offset: 0, 0
+  index: -1
+组 17
+  rotate: 270
+  xy: 2994, 456
+  size: 545, 569
+  orig: 545, 569
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: true
+  xy: 1997, 542
+  size: 893, 1445
+  orig: 893, 1445
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+dongzuo_yuanzui_jiciji1-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04
+  rotate: true
+  xy: 197, 328
+  size: 182, 122
+  orig: 182, 122
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 0, 0
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 319, 375
+  size: 135, 119
+  orig: 135, 120
+  offset: 0, 1
+  index: -1
+07
+  rotate: true
+  xy: 268, 192
+  size: 136, 152
+  orig: 136, 152
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 0, 302
+  size: 197, 208
+  orig: 197, 208
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 0, 101
+  size: 134, 201
+  orig: 138, 203
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 161, 11
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 134, 108
+  size: 134, 194
+  orig: 144, 196
+  offset: 5, 0
+  index: -1

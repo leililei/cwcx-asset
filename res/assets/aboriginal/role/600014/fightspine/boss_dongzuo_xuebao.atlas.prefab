@@ -1,0 +1,76 @@
+
+boss_dongzuo_xuebao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shoulder
+  rotate: true
+  xy: 0, 97
+  size: 2333, 1653
+  orig: 2335, 1655
+  offset: 1, 1
+  index: -1
+上
+  rotate: true
+  xy: 1653, 221
+  size: 801, 297
+  orig: 1108, 931
+  offset: 307, 634
+  index: -1
+下
+  rotate: true
+  xy: 2899, 1022
+  size: 1408, 951
+  orig: 1408, 951
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 1653, 1161
+  size: 578, 1205
+  orig: 578, 1205
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 1653, 1739
+  size: 1246, 814
+  orig: 3046, 2551
+  offset: 0, 0
+  index: -1
+头（向前）
+  rotate: true
+  xy: 1950, 119
+  size: 518, 652
+  orig: 519, 652
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 0, 2553
+  size: 2924, 1534
+  orig: 2924, 1821
+  offset: 0, 287
+  index: -1
+左腿
+  rotate: true
+  xy: 2636, 311
+  size: 711, 1451
+  orig: 2050, 2318
+  offset: 742, 0
+  index: -1
+脖子
+  rotate: false
+  xy: 1950, 637
+  size: 686, 524
+  orig: 1644, 1362
+  offset: 157, 569
+  index: -1
+身体（后）
+  rotate: true
+  xy: 2924, 2430
+  size: 1657, 1155
+  orig: 2909, 2577
+  offset: 301, 382
+  index: -1

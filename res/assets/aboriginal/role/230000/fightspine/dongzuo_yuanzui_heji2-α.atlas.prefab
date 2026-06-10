@@ -1,0 +1,146 @@
+
+dongzuo_yuanzui_heji2-α.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lifang1
+  rotate: false
+  xy: 277, 252
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+lifang10
+  rotate: false
+  xy: 470, 265
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+lifang11
+  rotate: false
+  xy: 0, 496
+  size: 419, 16
+  orig: 419, 16
+  offset: 0, 0
+  index: -1
+lifang12
+  rotate: false
+  xy: 415, 356
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+lifang13
+  rotate: false
+  xy: 218, 324
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+lifang14
+  rotate: true
+  xy: 192, 425
+  size: 71, 106
+  orig: 71, 106
+  offset: 0, 0
+  index: -1
+lifang15
+  rotate: true
+  xy: 0, 421
+  size: 75, 121
+  orig: 75, 121
+  offset: 0, 0
+  index: -1
+lifang16
+  rotate: false
+  xy: 218, 269
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+lifang17
+  rotate: true
+  xy: 354, 298
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+lifang18
+  rotate: false
+  xy: 287, 303
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+lifang19
+  rotate: true
+  xy: 298, 360
+  size: 136, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1
+lifang2
+  rotate: false
+  xy: 472, 295
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+lifang20
+  rotate: true
+  xy: 413, 318
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+lifang3
+  rotate: true
+  xy: 483, 331
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+lifang4
+  rotate: true
+  xy: 121, 421
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+lifang5
+  rotate: false
+  xy: 0, 166
+  size: 218, 232
+  orig: 218, 232
+  offset: 0, 0
+  index: -1
+lifang6
+  rotate: false
+  xy: 419, 398
+  size: 81, 114
+  orig: 81, 114
+  offset: 0, 0
+  index: -1
+lifang7
+  rotate: false
+  xy: 192, 399
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+lifang8
+  rotate: true
+  xy: 413, 265
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+lifang9
+  rotate: false
+  xy: 218, 365
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1

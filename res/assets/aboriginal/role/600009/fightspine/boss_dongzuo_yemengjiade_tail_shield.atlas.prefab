@@ -1,0 +1,13 @@
+
+boss_dongzuo_yemengjiade_tail_shield.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiba1
+  rotate: false
+  xy: 0, 28
+  size: 995, 967
+  orig: 995, 1253
+  offset: 0, 286
+  index: -1

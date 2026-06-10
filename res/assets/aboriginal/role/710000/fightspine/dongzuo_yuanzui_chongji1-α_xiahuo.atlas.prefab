@@ -1,0 +1,146 @@
+
+dongzuo_yuanzui_chongji1-α_xiahuo.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: true
+  xy: 67, 0
+  size: 17, 18
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+mjing
+  rotate: false
+  xy: 41, 0
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+wenzi_1
+  rotate: true
+  xy: 0, 13
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+wenzi_10
+  rotate: false
+  xy: 0, 71
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+wenzi_11
+  rotate: false
+  xy: 79, 26
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+wenzi_12
+  rotate: true
+  xy: 38, 23
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+wenzi_13
+  rotate: true
+  xy: 57, 17
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+wenzi_14
+  rotate: true
+  xy: 23, 3
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+wenzi_15
+  rotate: true
+  xy: 67, 71
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+wenzi_16
+  rotate: false
+  xy: 84, 111
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+wenzi_17
+  rotate: true
+  xy: 113, 74
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+wenzi_18
+  rotate: true
+  xy: 103, 71
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: true
+  xy: 43, 81
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+wenzi_3
+  rotate: true
+  xy: 92, 80
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+wenzi_4
+  rotate: true
+  xy: 0, 4
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+wenzi_5
+  rotate: true
+  xy: 43, 75
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+wenzi_6
+  rotate: true
+  xy: 80, 71
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+wenzi_7
+  rotate: true
+  xy: 38, 14
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+wenzi_8
+  rotate: true
+  xy: 82, 20
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+wenzi_9
+  rotate: false
+  xy: 92, 71
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

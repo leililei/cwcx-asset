@@ -1,0 +1,90 @@
+
+dongzuo_yuanzui_jiciji1-α_xiahuo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+04
+  rotate: false
+  xy: 78, 15
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 109, 131
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 133, 203
+  size: 53, 48
+  orig: 54, 48
+  offset: 1, 0
+  index: -1
+07
+  rotate: false
+  xy: 79, 195
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 0, 173
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 55, 96
+  size: 54, 77
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 55, 64
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 0, 8
+  size: 54, 78
+  orig: 58, 78
+  offset: 2, 0
+  index: -1
+13
+  rotate: true
+  xy: 0, 62
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 94, 77
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 0, 0
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 12, 2
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1

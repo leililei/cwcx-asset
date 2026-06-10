@@ -1,0 +1,251 @@
+
+dongzuo_jianniao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianniao_0
+  rotate: false
+  xy: 165, 186
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+jianniao_1
+  rotate: true
+  xy: 294, 221
+  size: 73, 28
+  orig: 73, 28
+  offset: 0, 0
+  index: -1
+jianniao_10
+  rotate: true
+  xy: 75, 207
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+jianniao_11
+  rotate: false
+  xy: 168, 428
+  size: 133, 78
+  orig: 133, 78
+  offset: 0, 0
+  index: -1
+jianniao_12
+  rotate: true
+  xy: 110, 292
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+jianniao_13
+  rotate: true
+  xy: 382, 303
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+jianniao_14
+  rotate: false
+  xy: 75, 185
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+jianniao_15
+  rotate: true
+  xy: 259, 276
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+jianniao_16
+  rotate: true
+  xy: 279, 250
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+jianniao_17
+  rotate: true
+  xy: 174, 222
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+jianniao_18
+  rotate: true
+  xy: 204, 193
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+jianniao_19
+  rotate: false
+  xy: 110, 188
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+jianniao_2
+  rotate: true
+  xy: 0, 164
+  size: 131, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+jianniao_20
+  rotate: false
+  xy: 104, 168
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+jianniao_21
+  rotate: false
+  xy: 184, 253
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+jianniao_22
+  rotate: false
+  xy: 414, 318
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+jianniao_23
+  rotate: true
+  xy: 420, 394
+  size: 112, 81
+  orig: 112, 81
+  offset: 0, 0
+  index: -1
+jianniao_24
+  rotate: false
+  xy: 168, 358
+  size: 129, 70
+  orig: 129, 70
+  offset: 0, 0
+  index: -1
+jianniao_25
+  rotate: false
+  xy: 0, 295
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+jianniao_26
+  rotate: true
+  xy: 34, 187
+  size: 108, 41
+  orig: 108, 41
+  offset: 0, 0
+  index: -1
+jianniao_27
+  rotate: false
+  xy: 0, 358
+  size: 168, 148
+  orig: 168, 196
+  offset: 0, 0
+  index: -1
+jianniao_28
+  rotate: false
+  xy: 110, 248
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+jianniao_29
+  rotate: true
+  xy: 294, 294
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+jianniao_3
+  rotate: true
+  xy: 382, 271
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+jianniao_30
+  rotate: true
+  xy: 396, 296
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+jianniao_31
+  rotate: true
+  xy: 322, 249
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+jianniao_32
+  rotate: true
+  xy: 250, 208
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+jianniao_33
+  rotate: true
+  xy: 279, 227
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+jianniao_34
+  rotate: true
+  xy: 110, 217
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+jianniao_4
+  rotate: true
+  xy: 398, 330
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+jianniao_5
+  rotate: true
+  xy: 139, 182
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+jianniao_6
+  rotate: false
+  xy: 184, 300
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+jianniao_7
+  rotate: true
+  xy: 301, 426
+  size: 80, 119
+  orig: 80, 119
+  offset: 0, 0
+  index: -1
+jianniao_8
+  rotate: false
+  xy: 297, 343
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+jianniao_9
+  rotate: true
+  xy: 349, 268
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
