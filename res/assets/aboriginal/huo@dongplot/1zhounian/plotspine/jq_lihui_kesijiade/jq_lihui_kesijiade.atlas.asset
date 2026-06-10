@@ -1,0 +1,102 @@
+
+jq_lihui_kesijiade.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 1575, 1863
+  size: 208, 156
+  orig: 208, 156
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 484, 1148
+  size: 715, 1535
+  orig: 715, 1535
+  offset: 0, 0
+  index: -1
+buyue
+  rotate: false
+  xy: 0, 1864
+  size: 214, 155
+  orig: 214, 155
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 214, 1598
+  size: 270, 266
+  orig: 270, 266
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1783, 1863
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+wubiaoqing
+  rotate: false
+  xy: 0, 1708
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 214, 1864
+  size: 214, 155
+  orig: 214, 155
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 0, 326
+  size: 822, 1849
+  orig: 822, 1849
+  offset: 0, 0
+  index: -1
+zixin
+  rotate: false
+  xy: 428, 1864
+  size: 214, 155
+  orig: 214, 155
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 642, 1864
+  size: 155, 933
+  orig: 155, 933
+  offset: 0, 0
+  index: -1
+
+jq_lihui_kesijiade2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianjing
+  rotate: true
+  xy: 0, 763
+  size: 981, 1744
+  orig: 981, 1744
+  offset: 0, 0
+  index: -1
+
+jq_lihui_kesijiade3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjing
+  rotate: false
+  xy: 0, 0
+  size: 1431, 1799
+  orig: 1431, 1799
+  offset: 0, 0
+  index: -1

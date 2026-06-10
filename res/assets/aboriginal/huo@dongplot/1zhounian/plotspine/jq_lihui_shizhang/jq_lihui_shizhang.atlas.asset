@@ -1,0 +1,34 @@
+
+jq_lihui_shizhang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 1855
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 911
+  size: 944, 2042
+  orig: 944, 2042
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 195, 1855
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+zhoumei
+  rotate: false
+  xy: 390, 1855
+  size: 197, 187
+  orig: 197, 187
+  offset: 0, 0
+  index: -1

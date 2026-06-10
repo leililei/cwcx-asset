@@ -1,0 +1,159 @@
+
+jq_lihui_sikadi_qingrenjie.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 1287, 3845
+  size: 261, 195
+  orig: 263, 197
+  offset: 1, 1
+  index: -1
+angry2
+  rotate: false
+  xy: 0, 3643
+  size: 261, 221
+  orig: 263, 223
+  offset: 1, 1
+  index: -1
+buman
+  rotate: false
+  xy: 3111, 3836
+  size: 261, 204
+  orig: 263, 206
+  offset: 1, 1
+  index: -1
+chensi
+  rotate: false
+  xy: 0, 3873
+  size: 243, 167
+  orig: 245, 169
+  offset: 1, 1
+  index: -1
+ci
+  rotate: false
+  xy: 2841, 3837
+  size: 270, 203
+  orig: 272, 205
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 2074, 3839
+  size: 261, 201
+  orig: 263, 203
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: false
+  xy: 606, 3617
+  size: 261, 234
+  orig: 263, 236
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 867, 3396
+  size: 806, 446
+  orig: 808, 448
+  offset: 1, 1
+  index: -1
+jidong
+  rotate: false
+  xy: 3372, 3833
+  size: 261, 207
+  orig: 263, 209
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 1026, 3846
+  size: 261, 194
+  orig: 263, 196
+  offset: 1, 1
+  index: -1
+lvjing
+  rotate: true
+  xy: 1673, 1968
+  size: 1854, 2367
+  orig: 1856, 2369
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 765, 3851
+  size: 261, 189
+  orig: 263, 191
+  offset: 1, 1
+  index: -1
+shy1
+  rotate: false
+  xy: 261, 3634
+  size: 345, 230
+  orig: 347, 232
+  offset: 1, 1
+  index: -1
+shy2
+  rotate: false
+  xy: 1793, 3841
+  size: 281, 199
+  orig: 283, 201
+  offset: 1, 1
+  index: -1
+wuyu
+  rotate: false
+  xy: 243, 3864
+  size: 261, 176
+  orig: 263, 178
+  offset: 1, 1
+  index: -1
+xiao1
+  rotate: false
+  xy: 2335, 3839
+  size: 245, 201
+  orig: 247, 203
+  offset: 1, 1
+  index: -1
+xiao2
+  rotate: false
+  xy: 504, 3864
+  size: 261, 176
+  orig: 263, 178
+  offset: 1, 1
+  index: -1
+xiao3
+  rotate: false
+  xy: 1548, 3842
+  size: 245, 198
+  orig: 247, 200
+  offset: 1, 1
+  index: -1
+xiao4
+  rotate: false
+  xy: 3633, 3822
+  size: 261, 218
+  orig: 263, 220
+  offset: 1, 1
+  index: -1
+zaogao
+  rotate: false
+  xy: 2580, 3839
+  size: 261, 201
+  orig: 263, 203
+  offset: 1, 1
+  index: -1
+
+jq_lihui_sikadi_qingrenjie2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 2377, 2472
+  orig: 2379, 2474
+  offset: 1, 1
+  index: -1

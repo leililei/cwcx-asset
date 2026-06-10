@@ -1,0 +1,125 @@
+
+jq_lihui_guang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 2115
+  size: 1501, 1954
+  orig: 1501, 1954
+  offset: 0, 0
+  index: -1
+dai zhi
+  rotate: true
+  xy: 646, 423
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 785, 1023
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+gougou tushe
+  rotate: false
+  xy: 432, 16
+  size: 216, 151
+  orig: 216, 151
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: true
+  xy: 646, 1643
+  size: 216, 151
+  orig: 216, 151
+  offset: 0, 0
+  index: -1
+huang zhang
+  rotate: true
+  xy: 646, 1427
+  size: 216, 151
+  orig: 216, 151
+  offset: 0, 0
+  index: -1
+ku qi1
+  rotate: false
+  xy: 0, 0
+  size: 216, 167
+  orig: 216, 167
+  offset: 0, 0
+  index: -1
+ku qi2
+  rotate: false
+  xy: 216, 0
+  size: 216, 167
+  orig: 216, 167
+  offset: 0, 0
+  index: -1
+nu
+  rotate: true
+  xy: 781, 823
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+shuang si
+  rotate: true
+  xy: 646, 1211
+  size: 216, 151
+  orig: 216, 151
+  offset: 0, 0
+  index: -1
+upbody
+  rotate: false
+  xy: 0, 167
+  size: 646, 1948
+  orig: 646, 1948
+  offset: 0, 0
+  index: -1
+xiao 3-1
+  rotate: true
+  xy: 648, 47
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+xiao 4
+  rotate: true
+  xy: 646, 611
+  size: 188, 143
+  orig: 188, 143
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 646, 235
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: true
+  xy: 646, 1005
+  size: 206, 139
+  orig: 206, 139
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: true
+  xy: 646, 799
+  size: 206, 135
+  orig: 206, 135
+  offset: 0, 0
+  index: -1
+yan e
+  rotate: true
+  xy: 646, 1859
+  size: 256, 249
+  orig: 256, 249
+  offset: 0, 0
+  index: -1

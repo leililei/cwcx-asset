@@ -1,0 +1,268 @@
+{
+"skeleton": {
+	"hash": "zlwD+vAlJpDRx8/wiy+abXDRU3g",
+	"spine": "3.8.99",
+	"x": -489.36,
+	"y": -1150.2,
+	"width": 1054,
+	"height": 2183,
+	"images": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\990cgf\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\半周年spine\\psd导出\\990cgf"
+},
+"bones": [
+	{ "name": "root", "x": -1266.36, "y": 1141.8 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "shy2", "bone": "root" },
+	{ "name": "simada", "bone": "root" },
+	{ "name": "gomi", "bone": "root" },
+	{ "name": "ci", "bone": "root" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "yabee", "bone": "root" },
+	{ "name": "yabee2", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "smile2", "bone": "root" },
+	{ "name": "smile3", "bone": "root" },
+	{ "name": "smile4", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "angry2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1267, "y": -386, "width": 222, "height": 154 }
+			},
+			"angry2": {
+				"angry2": { "x": 1267, "y": -393, "width": 222, "height": 168 }
+			},
+			"body": {
+				"body": { "x": 1304, "y": -1206.5, "width": 1054, "height": 2171 }
+			},
+			"ci": {
+				"ci": { "x": 1265.5, "y": -387, "width": 219, "height": 176 }
+			},
+			"daiji": {
+				"daiji": { "x": 1250, "y": -385.5, "width": 194, "height": 173 }
+			},
+			"gomi": {
+				"gomi": { "x": 1247.5, "y": -328.5, "width": 353, "height": 303 }
+			},
+			"hair": {
+				"hair": { "x": 1244, "y": -364, "width": 322, "height": 510 }
+			},
+			"sad": {
+				"sad": { "x": 1249.5, "y": -396, "width": 185, "height": 138 }
+			},
+			"shy": {
+				"shy": { "x": 1294.5, "y": -383.5, "width": 281, "height": 169 }
+			},
+			"shy2": {
+				"shy2": { "x": 1291, "y": -390, "width": 280, "height": 154 }
+			},
+			"simada": {
+				"simada": { "x": 1262.5, "y": -386, "width": 219, "height": 174 }
+			},
+			"smile": {
+				"smile": { "x": 1260, "y": -389.5, "width": 226, "height": 173 }
+			},
+			"smile2": {
+				"smile2": { "x": 1261, "y": -384, "width": 210, "height": 152 }
+			},
+			"smile3": {
+				"smile3": { "x": 1267, "y": -389, "width": 222, "height": 146 }
+			},
+			"smile4": {
+				"smile4": { "x": 1265.5, "y": -389, "width": 225, "height": 176 }
+			},
+			"think": {
+				"think": { "x": 1250.5, "y": -394.5, "width": 187, "height": 141 }
+			},
+			"wink": {
+				"wink": { "x": 1249.5, "y": -392.5, "width": 193, "height": 159 }
+			},
+			"yabee": {
+				"yabee": { "x": 1251, "y": -393, "width": 170, "height": 170 }
+			},
+			"yabee2": {
+				"yabee2": { "x": 1249, "y": -417, "width": 348, "height": 434 }
+			},
+			"yansu": {
+				"yansu": { "x": 1248.5, "y": -390, "width": 195, "height": 164 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			}
+		}
+	},
+	"ci": {
+		"slots": {
+			"ci": {
+				"attachment": [
+					{ "name": "ci" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gomi": {
+		"slots": {
+			"gomi": {
+				"attachment": [
+					{ "name": "gomi" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	},
+	"simada": {
+		"slots": {
+			"simada": {
+				"attachment": [
+					{ "name": "simada" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"smile2": {
+				"attachment": [
+					{ "name": "smile2" }
+				]
+			}
+		}
+	},
+	"smile3": {
+		"slots": {
+			"smile3": {
+				"attachment": [
+					{ "name": "smile3" }
+				]
+			}
+		}
+	},
+	"smile4": {
+		"slots": {
+			"smile4": {
+				"attachment": [
+					{ "name": "smile4" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"yabee": {
+		"slots": {
+			"yabee": {
+				"attachment": [
+					{ "name": "yabee" }
+				]
+			}
+		}
+	},
+	"yabee2": {
+		"slots": {
+			"yabee2": {
+				"attachment": [
+					{ "name": "yabee2" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

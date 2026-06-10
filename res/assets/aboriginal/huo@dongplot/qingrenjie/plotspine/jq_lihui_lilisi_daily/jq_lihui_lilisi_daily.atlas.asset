@@ -1,0 +1,97 @@
+
+jq_lihui_lilisi_daily.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1787, 2412
+  size: 192, 171
+  orig: 194, 173
+  offset: 1, 1
+  index: -1
+angry2
+  rotate: false
+  xy: 1979, 2406
+  size: 192, 177
+  orig: 194, 179
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 1272
+  size: 1126, 2583
+  orig: 1128, 2585
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 1129, 2419
+  size: 192, 164
+  orig: 194, 166
+  offset: 1, 1
+  index: -1
+daiji2
+  rotate: false
+  xy: 1321, 2419
+  size: 192, 164
+  orig: 194, 166
+  offset: 1, 1
+  index: -1
+danxin
+  rotate: false
+  xy: 176, 2435
+  size: 192, 148
+  orig: 194, 150
+  offset: 1, 1
+  index: -1
+happy
+  rotate: false
+  xy: 739, 2420
+  size: 194, 163
+  orig: 196, 165
+  offset: 1, 1
+  index: -1
+happy2
+  rotate: false
+  xy: 933, 2420
+  size: 196, 163
+  orig: 198, 165
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 0, 2443
+  size: 176, 140
+  orig: 178, 142
+  offset: 1, 1
+  index: -1
+shy
+  rotate: false
+  xy: 1513, 2418
+  size: 274, 165
+  orig: 276, 167
+  offset: 1, 1
+  index: -1
+think
+  rotate: false
+  xy: 550, 2425
+  size: 189, 158
+  orig: 191, 160
+  offset: 1, 1
+  index: -1
+wunai
+  rotate: false
+  xy: 368, 2432
+  size: 182, 151
+  orig: 184, 153
+  offset: 1, 1
+  index: -1
+yanwu
+  rotate: false
+  xy: 2171, 2398
+  size: 192, 185
+  orig: 194, 187
+  offset: 1, 1
+  index: -1

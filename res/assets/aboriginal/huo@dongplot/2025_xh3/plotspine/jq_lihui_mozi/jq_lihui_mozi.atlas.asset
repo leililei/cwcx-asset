@@ -1,0 +1,75 @@
+
+jq_lihui_mozi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 1776
+  size: 2089, 4092
+  orig: 2089, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 350, 3885
+  size: 384, 207
+  orig: 384, 207
+  offset: 0, 0
+  index: -1
+fafeng
+  rotate: false
+  xy: 1802, 3865
+  size: 382, 227
+  orig: 382, 227
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 1418, 3868
+  size: 384, 224
+  orig: 384, 224
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 2184, 3865
+  size: 347, 227
+  orig: 347, 227
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1073, 3881
+  size: 345, 211
+  orig: 345, 211
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 734, 3883
+  size: 339, 209
+  orig: 339, 209
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 3937
+  size: 350, 155
+  orig: 350, 155
+  offset: 0, 0
+  index: -1
+
+jq_lihui_mozi2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiantiao
+  rotate: false
+  xy: 0, 0
+  size: 2100, 2239
+  orig: 2100, 2239
+  offset: 0, 0
+  index: -1

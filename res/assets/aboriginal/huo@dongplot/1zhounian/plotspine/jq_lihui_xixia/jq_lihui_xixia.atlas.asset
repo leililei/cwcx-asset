@@ -1,0 +1,88 @@
+
+jq_lihui_xixia.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: true
+  xy: 219, 1878
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+fuza
+  rotate: true
+  xy: 316, 1878
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 27, 1882
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: true
+  xy: 662, 1016
+  size: 955, 1309
+  orig: 955, 1309
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 128, 1880
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+touming
+  rotate: true
+  xy: 0, 1951
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 536, 1865
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+xinwei
+  rotate: false
+  xy: 412, 1874
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+
+jq_lihui_xixia2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 268
+  size: 1207, 1475
+  orig: 1207, 1475
+  offset: 0, 0
+  index: -1
+
+jq_lihui_xixia3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 0, 160
+  size: 1914, 1754
+  orig: 1914, 1754
+  offset: 0, 0
+  index: -1

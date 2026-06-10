@@ -1,0 +1,89 @@
+
+jq_lihui_meibeer.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 179, 2518
+  size: 178, 123
+  orig: 178, 123
+  offset: 0, 0
+  index: -1
+biyansad
+  rotate: false
+  xy: 537, 2514
+  size: 177, 127
+  orig: 177, 127
+  offset: 0, 0
+  index: -1
+biyansmlie
+  rotate: false
+  xy: 1070, 2512
+  size: 178, 129
+  orig: 178, 129
+  offset: 0, 0
+  index: -1
+biyanzhangzui
+  rotate: false
+  xy: 714, 2513
+  size: 177, 128
+  orig: 177, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 456
+  size: 2056, 2641
+  orig: 2056, 2641
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 357, 2518
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1248, 2512
+  size: 180, 129
+  orig: 180, 129
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1428, 2512
+  size: 178, 129
+  orig: 178, 129
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: false
+  xy: 891, 2513
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+yihuo
+  rotate: false
+  xy: 0, 2520
+  size: 179, 121
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+
+jq_lihui_meibeer2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair
+  rotate: false
+  xy: 0, 1299
+  size: 3958, 2659
+  orig: 3958, 2659
+  offset: 0, 0
+  index: -1

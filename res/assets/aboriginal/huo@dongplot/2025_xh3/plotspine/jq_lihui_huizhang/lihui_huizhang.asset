@@ -1,0 +1,241 @@
+{
+"skeleton": {
+	"hash": "gD3ZR/o+VfZBMseV3h2KCc+Hqi0",
+	"spine": "3.8.99",
+	"x": -948.46,
+	"y": -1292.98,
+	"width": 1930,
+	"height": 2725,
+	"images": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\spine-副本\\会长\\images",
+	"audio": "C:\\Users\\Administrator\\Desktop\\立绘spine用差分\\拆好的\\spine-副本\\会长"
+},
+"bones": [
+	{ "name": "root", "x": -1164.46, "y": 1527.02 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy1", "bone": "root" },
+	{ "name": "nohappy1", "bone": "root" },
+	{ "name": "angry1", "bone": "root" },
+	{ "name": "sad1", "bone": "root" },
+	{ "name": "shy1", "bone": "root" },
+	{ "name": "daiji2", "bone": "root" },
+	{ "name": "happy2", "bone": "root" },
+	{ "name": "nohappy2", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "sad2", "bone": "root" },
+	{ "name": "shy2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry1": {
+				"angry1": { "x": 1142, "y": -394.5, "width": 244, "height": 173 }
+			},
+			"angry2": {
+				"angry2": { "x": 1142, "y": -394.5, "width": 244, "height": 173 }
+			},
+			"body": {
+				"body": { "x": 1181, "y": -1457.5, "width": 1930, "height": 2725 }
+			},
+			"daiji": {
+				"daiji": { "x": 1143.5, "y": -389.5, "width": 241, "height": 159 }
+			},
+			"daiji2": {
+				"daiji2": { "x": 1143.5, "y": -389.5, "width": 241, "height": 159 }
+			},
+			"happy1": {
+				"happy1": { "x": 1146, "y": -391, "width": 246, "height": 162 }
+			},
+			"happy2": {
+				"happy2": { "x": 1146, "y": -391, "width": 246, "height": 162 }
+			},
+			"nohappy1": {
+				"nohappy1": { "x": 1142, "y": -398, "width": 244, "height": 176 }
+			},
+			"nohappy2": {
+				"nohappy2": { "x": 1142, "y": -398, "width": 244, "height": 176 }
+			},
+			"sad1": {
+				"sad1": { "x": 1142.5, "y": -395, "width": 243, "height": 170 }
+			},
+			"sad2": {
+				"sad2": { "x": 1142.5, "y": -395, "width": 243, "height": 170 }
+			},
+			"shy1": {
+				"shy1": { "x": 1143.5, "y": -392.5, "width": 241, "height": 165 }
+			},
+			"shy2": {
+				"shy2": { "x": 1143.5, "y": -392.5, "width": 241, "height": 165 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry1": {
+				"attachment": [
+					{ "name": "angry1" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji2": {
+				"attachment": [
+					{ "name": "daiji2" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy1": {
+				"attachment": [
+					{ "name": "happy1" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": "happy2" }
+				]
+			}
+		}
+	},
+	"nohappy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"nohappy1": {
+				"attachment": [
+					{ "name": "nohappy1" }
+				]
+			}
+		}
+	},
+	"nohappy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"nohappy2": {
+				"attachment": [
+					{ "name": "nohappy2" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"sad1": {
+				"attachment": [
+					{ "name": "sad1" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"sad2": {
+				"attachment": [
+					{ "name": "sad2" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shy1": {
+				"attachment": [
+					{ "name": "shy1" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	}
+}
+}

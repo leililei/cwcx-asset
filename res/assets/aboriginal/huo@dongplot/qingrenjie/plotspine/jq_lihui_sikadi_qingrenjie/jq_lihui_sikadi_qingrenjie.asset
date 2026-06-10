@@ -1,0 +1,362 @@
+{
+"skeleton": {
+	"hash": "/CbF2X7H8t4QnuQa97uCUBU2FRE",
+	"spine": "3.8.99",
+	"x": -1055.63,
+	"y": -1177.57,
+	"width": 2539,
+	"height": 2644,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\2024.2情人节\\斯卡蒂-情人节\\jq_lihui_sikadi_qingrenjie\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\2024.2情人节\\斯卡蒂-情人节\\jq_lihui_sikadi_qingrenjie"
+},
+"bones": [
+	{ "name": "root", "x": -1920.63, "y": 1465.43 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry1", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "shy1", "bone": "root" },
+	{ "name": "shy2", "bone": "root" },
+	{ "name": "zaogao", "bone": "root" },
+	{ "name": "buman", "bone": "root" },
+	{ "name": "ci", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "xiao1", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "xiao3", "bone": "root" },
+	{ "name": "xiao4", "bone": "root" },
+	{ "name": "jidong", "bone": "root" },
+	{ "name": "wuyu", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" },
+	{ "name": "lvjing", "bone": "root", "attachment": "lvjing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry1": {
+				"angry1": { "x": 1931.5, "y": -533.5, "width": 263, "height": 197 }
+			},
+			"angry2": {
+				"angry2": { "x": 1931.5, "y": -546.5, "width": 263, "height": 223 }
+			},
+			"body": {
+				"body": { "x": 2214.5, "y": -1406, "width": 2379, "height": 2474 }
+			},
+			"buman": {
+				"buman": { "x": 1931.5, "y": -538, "width": 263, "height": 206 }
+			},
+			"chensi": {
+				"chensi": { "x": 1933.5, "y": -539.5, "width": 245, "height": 169 }
+			},
+			"ci": {
+				"ci": { "x": 1936, "y": -549.5, "width": 272, "height": 205 }
+			},
+			"daiji": {
+				"daiji": { "x": 1931.5, "y": -550.5, "width": 263, "height": 203 }
+			},
+			"ganga": {
+				"ganga": { "x": 1931.5, "y": -573, "width": 263, "height": 236 }
+			},
+			"glass": {
+				"glass": { "x": 1938, "y": -535, "width": 808, "height": 448 }
+			},
+			"jidong": {
+				"jidong": { "x": 1931.5, "y": -539.5, "width": 263, "height": 209 }
+			},
+			"jingya": {
+				"jingya": { "x": 1931.5, "y": -540, "width": 263, "height": 196 }
+			},
+			"lvjing": {
+				"lvjing": { "x": 1793, "y": -1183.5, "width": 1856, "height": 2369 }
+			},
+			"sad": {
+				"sad": { "x": 1931.5, "y": -550.5, "width": 263, "height": 191 }
+			},
+			"shy1": {
+				"shy1": { "x": 1945.5, "y": -558, "width": 347, "height": 232 }
+			},
+			"shy2": {
+				"shy2": { "x": 1941.5, "y": -552.5, "width": 283, "height": 201 }
+			},
+			"wuyu": {
+				"wuyu": { "x": 1931.5, "y": -538, "width": 263, "height": 178 }
+			},
+			"xiao1": {
+				"xiao1": { "x": 1935.5, "y": -548.5, "width": 247, "height": 203 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 1931.5, "y": -538, "width": 263, "height": 178 }
+			},
+			"xiao3": {
+				"xiao3": { "x": 1935.5, "y": -547, "width": 247, "height": 200 }
+			},
+			"xiao4": {
+				"xiao4": { "x": 1931.5, "y": -545, "width": 263, "height": 220 }
+			},
+			"zaogao": {
+				"zaogao": { "x": 1931.5, "y": -556.5, "width": 263, "height": 203 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry1": {
+		"slots": {
+			"angry1": {
+				"attachment": [
+					{ "name": "angry1" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"buman": {
+		"slots": {
+			"buman": {
+				"attachment": [
+					{ "name": "buman" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ci": {
+		"slots": {
+			"ci": {
+				"attachment": [
+					{ "name": "ci" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jidong": {
+		"slots": {
+			"jidong": {
+				"attachment": [
+					{ "name": "jidong" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			},
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy1": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy1": {
+				"attachment": [
+					{ "name": "shy1" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	},
+	"wuyu": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wuyu": {
+				"attachment": [
+					{ "name": "wuyu" }
+				]
+			}
+		}
+	},
+	"xiao1": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			}
+		}
+	},
+	"xiao3": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao3": {
+				"attachment": [
+					{ "name": "xiao3" }
+				]
+			}
+		}
+	},
+	"xiao4": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao4": {
+				"attachment": [
+					{ "name": "xiao4" }
+				]
+			}
+		}
+	},
+	"zaogao": {
+		"slots": {
+			"lvjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zaogao": {
+				"attachment": [
+					{ "name": "zaogao" }
+				]
+			}
+		}
+	}
+}
+}

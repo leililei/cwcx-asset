@@ -1,0 +1,76 @@
+
+jq_lihui_kafuka.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 1810, 175
+  size: 225, 181
+  orig: 225, 181
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 356
+  size: 2756, 3138
+  orig: 2756, 3138
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2264, 188
+  size: 229, 168
+  orig: 229, 168
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 0, 0
+  size: 356, 390
+  orig: 356, 390
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 390, 87
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1
+look
+  rotate: false
+  xy: 2035, 182
+  size: 229, 174
+  orig: 229, 174
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 674, 87
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1
+shame
+  rotate: true
+  xy: 958, 87
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1242, 87
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: true
+  xy: 1526, 87
+  size: 269, 284
+  orig: 269, 284
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+{
+"skeleton": {
+	"hash": "9236n8ZmRNdSywzUskQ7Z9xIPZA",
+	"spine": "3.8.99",
+	"x": -1069,
+	"y": -2111,
+	"width": 1986,
+	"height": 4091,
+	"images": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_ajlk_child\\images",
+	"audio": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_ajlk_child"
+},
+"bones": [
+	{ "name": "root", "x": -1068, "y": 1980 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "megnban", "bone": "root", "attachment": "megnban" },
+	{ "name": "xiantiao", "bone": "root", "attachment": "xiantiao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1088, "y": -463, "width": 386, "height": 246 }
+			},
+			"body": {
+				"body": { "x": 993, "y": -2045.5, "width": 1984, "height": 4091 }
+			},
+			"daiji": {
+				"daiji": { "x": 1088.5, "y": -450.5, "width": 395, "height": 267 }
+			},
+			"jingya": {
+				"jingya": { "x": 1083.5, "y": -434, "width": 401, "height": 356 }
+			},
+			"megnban": {
+				"megnban": { "x": 1086.5, "y": -391.5, "width": 407, "height": 283 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1086, "y": -441.5, "width": 394, "height": 299 }
+			},
+			"xiantiao": {
+				"xiantiao": { "x": 980, "y": -1467, "width": 1962, "height": 2934 }
+			},
+			"xiao": {
+				"xiao": { "x": 1086.5, "y": -452.5, "width": 399, "height": 271 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

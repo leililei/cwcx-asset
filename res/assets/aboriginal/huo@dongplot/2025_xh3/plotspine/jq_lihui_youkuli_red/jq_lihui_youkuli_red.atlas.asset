@@ -1,0 +1,104 @@
+
+jq_lihui_youkuli_red.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1025
+  size: 1202, 968
+  orig: 1202, 968
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 1413, 476
+  size: 478, 216
+  orig: 478, 216
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 0, 135
+  size: 541, 285
+  orig: 541, 285
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: true
+  xy: 541, 484
+  size: 541, 309
+  orig: 541, 309
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 0, 676
+  size: 541, 349
+  orig: 541, 349
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 539, 0
+  size: 484, 239
+  orig: 484, 239
+  offset: 0, 0
+  index: -1
+ku
+  rotate: true
+  xy: 1202, 1452
+  size: 541, 361
+  orig: 541, 361
+  offset: 0, 0
+  index: -1
+kuangxiao
+  rotate: true
+  xy: 850, 88
+  size: 485, 267
+  orig: 485, 267
+  offset: 0, 0
+  index: -1
+maimeng
+  rotate: true
+  xy: 285, 237
+  size: 439, 254
+  orig: 439, 254
+  offset: 0, 0
+  index: -1
+meibanfa
+  rotate: true
+  xy: 1138, 366
+  size: 539, 275
+  orig: 539, 275
+  offset: 0, 0
+  index: -1
+nu
+  rotate: true
+  xy: 1202, 905
+  size: 547, 352
+  orig: 547, 352
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: true
+  xy: 850, 573
+  size: 452, 288
+  orig: 452, 288
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 1413, 692
+  size: 483, 213
+  orig: 483, 213
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1117, 139
+  size: 488, 227
+  orig: 488, 227
+  offset: 0, 0
+  index: -1

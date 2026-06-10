@@ -1,0 +1,92 @@
+{
+"skeleton": {
+	"hash": "1UDa4k1l1EjpnsVsSWS92369y48",
+	"spine": "3.8.99",
+	"x": -1197.24,
+	"y": -1188.6,
+	"width": 2265.6,
+	"height": 2425.2,
+	"images": "../游隼PSD与spine数据/images/",
+	"audio": "C:/Users/1/Desktop/一周年spine/游隼PSD与spine数据"
+},
+"bones": [
+	{ "name": "root", "x": -1297.44, "y": 1266, "scaleX": 0.6, "scaleY": 0.6 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "24", "bone": "root" },
+	{ "name": "37", "bone": "root" },
+	{ "name": "guang2", "bone": "root", "attachment": "guang2" },
+	{ "name": "guang", "bone": "root", "attachment": "guang" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"24": {
+				"24": { "x": 3552.5, "y": -1449.5, "width": 781, "height": 1685 }
+			},
+			"37": {
+				"37": { "x": 3552.5, "y": -1449.5, "width": 781, "height": 1685 }
+			},
+			"body": {
+				"body": { "x": 2055, "y": -2070, "width": 3776, "height": 4042 }
+			},
+			"guang": {
+				"guang": { "x": 2426.5, "y": -2068.5, "width": 2995, "height": 3039 }
+			},
+			"guang2": {
+				"guang2": { "x": 2084.5, "y": -1294.5, "width": 1417, "height": 181 }
+			}
+		}
+	}
+],
+"animations": {
+	"371": {
+		"slots": {
+			"37": {
+				"attachment": [
+					{ "name": "37" }
+				]
+			}
+		}
+	},
+	"372": {
+		"slots": {
+			"37": {
+				"attachment": [
+					{ "name": "37" }
+				]
+			},
+			"guang2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"24": {
+				"attachment": [
+					{ "name": "24" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"24": {
+				"attachment": [
+					{ "name": "24" }
+				]
+			},
+			"guang2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

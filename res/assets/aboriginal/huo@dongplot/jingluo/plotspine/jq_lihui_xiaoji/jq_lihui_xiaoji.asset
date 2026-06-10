@@ -1,0 +1,126 @@
+{
+"skeleton": {
+	"hash": "lDZlA2IZ3yH+nbBqBw3dJGLem0o",
+	"spine": "3.8.99",
+	"x": -405.8,
+	"y": -1053.57,
+	"width": 1001,
+	"height": 2007,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\小霽\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\小霽"
+},
+"bones": [
+	{ "name": "root", "x": -1124.8, "y": 995.43 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "xingfen", "bone": "root" },
+	{ "name": "yanjing", "bone": "root", "attachment": "yanjing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1219.5, "y": -1045.5, "width": 1001, "height": 2007 }
+			},
+			"daiji": {
+				"daiji": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"happy": {
+				"happy": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"jingya": {
+				"jingya": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"sad": {
+				"sad": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"smile": {
+				"smile": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"xingfen": {
+				"xingfen": { "x": 1059, "y": -263, "width": 240, "height": 216 }
+			},
+			"yanjing": {
+				"yanjing": { "x": 1084, "y": -166, "width": 288, "height": 184 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"veryhappy": {},
+	"xingfen": {
+		"slots": {
+			"xingfen": {
+				"attachment": [
+					{ "name": "xingfen" }
+				]
+			}
+		}
+	}
+}
+}

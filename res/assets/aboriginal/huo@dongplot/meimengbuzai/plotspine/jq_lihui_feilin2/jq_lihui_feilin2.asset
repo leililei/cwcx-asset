@@ -1,0 +1,114 @@
+{
+"skeleton": {
+	"hash": "XkhsqBJ1SINsNuRjB5n7ca2HCs0",
+	"spine": "3.8.99",
+	"x": -1223.4,
+	"y": -2126.1,
+	"width": 2340,
+	"height": 3957,
+	"images": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_feilin2\\images",
+	"audio": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_feilin2"
+},
+"bones": [
+	{ "name": "root", "x": -1631.4, "y": 1829.9 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "biyan", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1630.5, "y": -586, "width": 241, "height": 238 }
+			},
+			"biyan": {
+				"biyan": { "x": 1629.5, "y": -589.5, "width": 253, "height": 233 }
+			},
+			"body": {
+				"body": { "x": 1578, "y": -1977.5, "width": 2340, "height": 3957 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1592, "y": -608.5, "width": 362, "height": 275 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 1611.5, "y": -594, "width": 187, "height": 242 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1654.5, "y": -583.5, "width": 267, "height": 263 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1611.5, "y": -589.5, "width": 187, "height": 233 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

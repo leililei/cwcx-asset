@@ -1,0 +1,134 @@
+{
+"skeleton": {
+	"hash": "ibBMKAKx0WhTQBAykcgTMVtoc1E",
+	"spine": "3.8.99",
+	"x": -2123,
+	"y": -1654,
+	"width": 3765,
+	"height": 2975,
+	"images": "G:\\文案的活2\\歧花spine\\peipeita\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\peipeita"
+},
+"bones": [
+	{ "name": "root", "x": -2142, "y": 1320 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "star", "bone": "root" },
+	{ "name": "fuan", "bone": "root" },
+	{ "name": "tiaodou", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "jingya", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2115, "y": -525, "width": 214, "height": 148 }
+			},
+			"body": {
+				"body": { "x": 1901.5, "y": -1486.5, "width": 3765, "height": 2975 }
+			},
+			"daiji": {
+				"daiji": { "x": 2110.5, "y": -523.5, "width": 217, "height": 153 }
+			},
+			"fuan": {
+				"fuan": { "x": 2108, "y": -525.5, "width": 212, "height": 149 }
+			},
+			"happy": {
+				"happy": { "x": 2120, "y": -528.5, "width": 222, "height": 131 }
+			},
+			"jingya": {
+				"jingya": { "x": 2113.5, "y": -518.5, "width": 211, "height": 175 }
+			},
+			"sad": {
+				"sad": { "x": 2118.5, "y": -533, "width": 223, "height": 142 }
+			},
+			"star": {
+				"star": { "x": 2109, "y": -519, "width": 220, "height": 162 }
+			},
+			"tiaodou": {
+				"tiaodou": { "x": 2117.5, "y": -529.5, "width": 219, "height": 141 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"fuan": {
+		"slots": {
+			"fuan": {
+				"attachment": [
+					{ "name": "fuan" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"star": {
+		"slots": {
+			"star": {
+				"attachment": [
+					{ "name": "star" }
+				]
+			}
+		}
+	},
+	"tiaodou": {
+		"slots": {
+			"tiaodou": {
+				"attachment": [
+					{ "name": "tiaodou" }
+				]
+			}
+		}
+	}
+}
+}

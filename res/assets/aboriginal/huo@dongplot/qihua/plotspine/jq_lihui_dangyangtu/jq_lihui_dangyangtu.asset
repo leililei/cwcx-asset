@@ -1,0 +1,199 @@
+{
+"skeleton": {
+	"hash": "7D4qLeoVPRebGaxau7KTUJO5S6o",
+	"spine": "3.8.99",
+	"x": -465.72,
+	"y": -1331.09,
+	"width": 2059,
+	"height": 2839,
+	"images": "G:\\文案的活2\\歧花spine\\dangyangtu\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\dangyangtu"
+},
+"bones": [
+	{ "name": "root", "x": -968.72, "y": 1568.91 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "hand", "bone": "root", "attachment": "hand" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "expression——daiji", "bone": "root" },
+	{ "name": "expression——xiao", "bone": "root" },
+	{ "name": "expression——happy", "bone": "root" },
+	{ "name": "expression——laugh", "bone": "root" },
+	{ "name": "expression——tiaodou", "bone": "root" },
+	{ "name": "expression——stareyes", "bone": "root" },
+	{ "name": "expression——ganga", "bone": "root" },
+	{ "name": "expression——yihuo", "bone": "root" },
+	{ "name": "expression——angry", "bone": "root" },
+	{ "name": "hair2", "bone": "root", "attachment": "hair2" },
+	{ "name": "emoji——han", "bone": "root" },
+	{ "name": "emoji——？", "bone": "root" },
+	{ "name": "emoji——angry", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1380, "y": -1635.5, "width": 1754, "height": 2529 }
+			},
+			"body2": {
+				"body2": { "x": 1603, "y": -1267, "width": 1918, "height": 1082 }
+			},
+			"emoji——angry": {
+				"emoji——angry": { "x": 957, "y": -464, "width": 100, "height": 96 }
+			},
+			"emoji——han": {
+				"emoji——han": { "x": 971, "y": -471, "width": 72, "height": 160 }
+			},
+			"emoji——？": {
+				"emoji——？": { "x": 664.5, "y": -375.5, "width": 111, "height": 177 }
+			},
+			"expression——angry": {
+				"expression——angry": { "x": 840, "y": -546, "width": 214, "height": 134 }
+			},
+			"expression——daiji": {
+				"expression——daiji": { "x": 848, "y": -534.5, "width": 228, "height": 153 }
+			},
+			"expression——ganga": {
+				"expression——ganga": { "x": 826.5, "y": -555.5, "width": 217, "height": 157 }
+			},
+			"expression——happy": {
+				"expression——happy": { "x": 841.5, "y": -546.5, "width": 247, "height": 175 }
+			},
+			"expression——laugh": {
+				"expression——laugh": { "x": 826.5, "y": -553.5, "width": 217, "height": 173 }
+			},
+			"expression——stareyes": {
+				"expression——stareyes": { "x": 851, "y": -548.5, "width": 236, "height": 171 }
+			},
+			"expression——tiaodou": {
+				"expression——tiaodou": { "x": 845, "y": -539.5, "width": 232, "height": 143 }
+			},
+			"expression——xiao": {
+				"expression——xiao": { "x": 846.5, "y": -539, "width": 227, "height": 144 }
+			},
+			"expression——yihuo": {
+				"expression——yihuo": { "x": 842.5, "y": -535.5, "width": 217, "height": 153 }
+			},
+			"hair": {
+				"hair": { "x": 1539, "y": -824, "width": 1822, "height": 1526 }
+			},
+			"hair2": {
+				"hair2": { "x": 925, "y": -519.5, "width": 226, "height": 523 }
+			},
+			"hand": {
+				"hand": { "x": 885.5, "y": -871, "width": 507, "height": 478 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"emoji——angry": {
+				"attachment": [
+					{ "name": "emoji——angry" }
+				]
+			},
+			"expression——angry": {
+				"attachment": [
+					{ "name": "expression——angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"expression——daiji": {
+				"attachment": [
+					{ "name": "expression——daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"expression——ganga": {
+				"attachment": [
+					{ "name": "expression——ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"expression——happy": {
+				"attachment": [
+					{ "name": "expression——happy" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"expression——laugh": {
+				"attachment": [
+					{ "name": "expression——laugh" }
+				]
+			}
+		}
+	},
+	"liuhanhuangdou": {
+		"slots": {
+			"emoji——han": {
+				"attachment": [
+					{ "name": "emoji——han" }
+				]
+			},
+			"expression——ganga": {
+				"attachment": [
+					{ "name": "expression——ganga" }
+				]
+			}
+		}
+	},
+	"stareyes": {
+		"slots": {
+			"expression——stareyes": {
+				"attachment": [
+					{ "name": "expression——stareyes" }
+				]
+			}
+		}
+	},
+	"tiaodou": {
+		"slots": {
+			"expression——tiaodou": {
+				"attachment": [
+					{ "name": "expression——tiaodou" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"expression——xiao": {
+				"attachment": [
+					{ "name": "expression——xiao" }
+				]
+			}
+		}
+	},
+	"yihuo": {
+		"slots": {
+			"emoji——？": {
+				"attachment": [
+					{ "name": "emoji——？" }
+				]
+			},
+			"expression——yihuo": {
+				"attachment": [
+					{ "name": "expression——yihuo" }
+				]
+			}
+		}
+	}
+}
+}

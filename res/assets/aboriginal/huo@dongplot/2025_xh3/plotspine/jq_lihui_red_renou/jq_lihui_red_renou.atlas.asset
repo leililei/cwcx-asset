@@ -1,0 +1,111 @@
+
+jq_lihui_red_renou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1976
+  size: 1575, 2042
+  orig: 1575, 2042
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: true
+  xy: 889, 730
+  size: 600, 274
+  orig: 600, 274
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 473, 682
+  size: 647, 416
+  orig: 647, 416
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: true
+  xy: 878, 1330
+  size: 646, 416
+  orig: 646, 416
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 0, 0
+  size: 647, 474
+  orig: 647, 474
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1134, 132
+  size: 598, 320
+  orig: 598, 320
+  offset: 0, 0
+  index: -1
+ku
+  rotate: true
+  xy: 399, 1329
+  size: 647, 479
+  orig: 647, 479
+  offset: 0, 0
+  index: -1
+kuangxiao
+  rotate: true
+  xy: 781, 82
+  size: 600, 353
+  orig: 600, 353
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: true
+  xy: 1454, 524
+  size: 349, 273
+  orig: 349, 273
+  offset: 0, 0
+  index: -1
+maimeng
+  rotate: true
+  xy: 1452, 873
+  size: 551, 334
+  orig: 551, 334
+  offset: 0, 0
+  index: -1
+meibanfa
+  rotate: true
+  xy: 0, 1304
+  size: 672, 399
+  orig: 672, 399
+  offset: 0, 0
+  index: -1
+nu
+  rotate: true
+  xy: 0, 647
+  size: 657, 473
+  orig: 657, 473
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: true
+  xy: 1294, 1424
+  size: 552, 345
+  orig: 552, 345
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: true
+  xy: 1163, 732
+  size: 598, 289
+  orig: 598, 289
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: true
+  xy: 474, 74
+  size: 608, 307
+  orig: 608, 307
+  offset: 0, 0
+  index: -1

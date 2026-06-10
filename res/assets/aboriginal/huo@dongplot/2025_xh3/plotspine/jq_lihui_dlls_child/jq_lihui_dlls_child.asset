@@ -1,0 +1,90 @@
+{
+"skeleton": {
+	"hash": "T6tOJfaJVmvZCU3vFSbbLd+zHhE",
+	"spine": "3.8.99",
+	"x": -691.36,
+	"y": -2229.12,
+	"width": 1402,
+	"height": 4092,
+	"images": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_dlls_child\\images",
+	"audio": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_dlls_child"
+},
+"bones": [
+	{ "name": "root", "x": -690.36, "y": 1861.88 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "danyou", "bone": "root" },
+	{ "name": "ku", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "mengban", "bone": "root", "attachment": "mengban" },
+	{ "name": "xiantiao", "bone": "root", "attachment": "xiantiao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 693, "y": -2044.5, "width": 1388, "height": 4091 }
+			},
+			"daiji": {
+				"daiji": { "x": 678, "y": -563.5, "width": 490, "height": 345 }
+			},
+			"danyou": {
+				"danyou": { "x": 682.5, "y": -564, "width": 483, "height": 344 }
+			},
+			"ku": {
+				"ku": { "x": 679.5, "y": -610, "width": 487, "height": 384 }
+			},
+			"mengban": {
+				"mengban": { "x": 680.5, "y": -502.5, "width": 499, "height": 279 }
+			},
+			"xiantiao": {
+				"xiantiao": { "x": 700, "y": -2045, "width": 1402, "height": 4092 }
+			},
+			"xiao": {
+				"xiao": { "x": 680, "y": -585, "width": 456, "height": 284 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

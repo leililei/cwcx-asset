@@ -1,0 +1,55 @@
+
+jq_lihui_lsld_changfu.png
+size: 2047,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 784
+  size: 1014, 2047
+  orig: 1014, 2047
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 728, 1841
+  size: 234, 206
+  orig: 234, 206
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 488, 1851
+  size: 240, 196
+  orig: 240, 196
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 246, 1856
+  size: 242, 191
+  orig: 242, 191
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 0, 1862
+  size: 246, 185
+  orig: 246, 185
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1186, 1798
+  size: 306, 249
+  orig: 306, 249
+  offset: 0, 0
+  index: -1
+unhappy
+  rotate: false
+  xy: 962, 1834
+  size: 224, 213
+  orig: 224, 213
+  offset: 0, 0
+  index: -1

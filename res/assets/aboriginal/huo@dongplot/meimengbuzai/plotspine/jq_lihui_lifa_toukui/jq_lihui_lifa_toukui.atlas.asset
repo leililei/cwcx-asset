@@ -1,0 +1,13 @@
+
+jq_lihui_lifa_toukui.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 969, 3720
+  orig: 969, 3720
+  offset: 0, 0
+  index: -1

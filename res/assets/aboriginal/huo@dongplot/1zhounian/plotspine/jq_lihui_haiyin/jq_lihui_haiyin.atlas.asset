@@ -1,0 +1,122 @@
+
+jq_lihui_haiyin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binfa
+  rotate: true
+  xy: 169, 1703
+  size: 112, 212
+  orig: 112, 212
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 1707
+  size: 169, 108
+  orig: 169, 108
+  offset: 0, 0
+  index: -1
+changtai
+  rotate: false
+  xy: 911, 951
+  size: 904, 686
+  orig: 904, 686
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 745, 1698
+  size: 175, 117
+  orig: 175, 117
+  offset: 0, 0
+  index: -1
+gongpai
+  rotate: true
+  xy: 0, 1237
+  size: 461, 911
+  orig: 461, 911
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1579, 1637
+  size: 224, 178
+  orig: 224, 178
+  offset: 0, 0
+  index: -1
+jinzhang
+  rotate: false
+  xy: 1098, 1694
+  size: 179, 121
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+jiujie
+  rotate: false
+  xy: 381, 1703
+  size: 188, 112
+  orig: 188, 112
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 1277, 1662
+  size: 153, 302
+  orig: 153, 302
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 920, 1695
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 569, 1700
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+
+jq_lihui_haiyin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 175
+  size: 1409, 1234
+  orig: 1409, 1234
+  offset: 0, 0
+  index: -1
+
+jq_lihui_haiyin3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 0, 489
+  size: 2002, 1513
+  orig: 2002, 1513
+  offset: 0, 0
+  index: -1
+
+jq_lihui_haiyin4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 0, 414
+  size: 1927, 1513
+  orig: 1927, 1513
+  offset: 0, 0
+  index: -1

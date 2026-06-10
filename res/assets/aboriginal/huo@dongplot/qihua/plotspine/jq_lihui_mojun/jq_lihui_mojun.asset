@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "6mC8j0dMjVS4g4amdBG2yLjUHpg",
+	"spine": "3.8.99",
+	"x": -964.2,
+	"y": -1717.53,
+	"width": 2124,
+	"height": 2948,
+	"images": "G:\\文案的活2\\歧花spine\\mojun\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\mojun"
+},
+"bones": [
+	{ "name": "root", "x": -1591.2, "y": 1625.47 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1651, "y": -741.5, "width": 232, "height": 165 }
+			},
+			"body": {
+				"body": { "x": 1689, "y": -1869, "width": 2124, "height": 2948 }
+			},
+			"daiji": {
+				"daiji": { "x": 1651, "y": -742, "width": 232, "height": 164 }
+			},
+			"sad": {
+				"sad": { "x": 1649.5, "y": -748, "width": 229, "height": 160 }
+			},
+			"smile": {
+				"smile": { "x": 1651.5, "y": -745.5, "width": 233, "height": 161 }
+			},
+			"xiao": {
+				"xiao": { "x": 1650.5, "y": -749, "width": 231, "height": 154 }
+			},
+			"yansu": {
+				"yansu": { "x": 1650, "y": -746, "width": 230, "height": 164 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

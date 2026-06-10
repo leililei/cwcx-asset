@@ -1,0 +1,13 @@
+
+jq_lihui_renouB.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1369, 1945
+  orig: 1369, 1945
+  offset: 0, 0
+  index: -1

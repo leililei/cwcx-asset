@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "7JslZH9N8CmionoedJkY4TcRvbI",
+	"spine": "3.8.99",
+	"x": -2155,
+	"y": -1397,
+	"width": 4092,
+	"height": 3558,
+	"images": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_Zxing\\images",
+	"audio": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_Zxing"
+},
+"bones": [
+	{ "name": "root", "x": -2154, "y": 2160 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "wuqi", "bone": "root", "attachment": "wuqi" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 2045, "y": -1778, "width": 4092, "height": 3558 }
+			},
+			"wuqi": {
+				"wuqi": { "x": 1913.5, "y": -1611, "width": 2037, "height": 668 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"wuqi": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

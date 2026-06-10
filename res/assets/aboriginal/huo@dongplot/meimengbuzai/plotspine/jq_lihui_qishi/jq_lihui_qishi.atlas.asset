@@ -1,0 +1,125 @@
+
+jq_lihui_qishi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1824, 4092
+  orig: 1824, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2756, 108
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+deyi
+  rotate: false
+  xy: 2961, 1483
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: true
+  xy: 2961, 1140
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: true
+  xy: 2447, 107
+  size: 344, 309
+  orig: 344, 309
+  offset: 0, 0
+  index: -1
+jiaozao
+  rotate: true
+  xy: 2961, 797
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 2138, 106
+  size: 345, 309
+  orig: 345, 309
+  offset: 0, 0
+  index: -1
+qiaogun
+  rotate: true
+  xy: 1824, 1792
+  size: 2300, 1489
+  orig: 2300, 1489
+  offset: 0, 0
+  index: -1
+tanqi
+  rotate: true
+  xy: 3270, 513
+  size: 329, 309
+  orig: 329, 309
+  offset: 0, 0
+  index: -1
+wubiaoqing
+  rotate: true
+  xy: 2961, 454
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: true
+  xy: 3270, 842
+  size: 332, 309
+  orig: 332, 309
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1824, 451
+  size: 1341, 1137
+  orig: 1341, 1137
+  offset: 0, 0
+  index: -1
+zhenmianmu
+  rotate: true
+  xy: 3065, 111
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+zhenmianmu2
+  rotate: false
+  xy: 3270, 1174
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+zhenmianmu3
+  rotate: false
+  xy: 3304, 1483
+  size: 343, 309
+  orig: 343, 309
+  offset: 0, 0
+  index: -1
+zhenmianmu4
+  rotate: true
+  xy: 1824, 108
+  size: 343, 314
+  orig: 343, 314
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 3374, 245
+  size: 268, 267
+  orig: 268, 267
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,171 @@
+{
+"skeleton": {
+	"hash": "IuA86MAWRZf/BwwMdZ2y7BiY1Cg",
+	"spine": "3.8.99",
+	"x": -1039.22,
+	"y": -1152.01,
+	"width": 1711,
+	"height": 2360,
+	"images": "G:\\情人节spine\\源文件处理\\bayun\\images",
+	"audio": "G:\\情人节spine\\源文件处理\\bayun"
+},
+"bones": [
+	{ "name": "root", "x": -1108.22, "y": 1519.99 }
+],
+"slots": [
+	{ "name": "ring", "bone": "root" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "laji", "bone": "root" },
+	{ "name": "smil2", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "king", "bone": "root", "attachment": "king" },
+	{ "name": "weapon", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1276, "y": -702.5, "width": 156, "height": 123 }
+			},
+			"body": {
+				"body": { "x": 924.5, "y": -1586, "width": 1711, "height": 2170 }
+			},
+			"daiji": {
+				"daiji": { "x": 1277.5, "y": -708.5, "width": 155, "height": 113 }
+			},
+			"king": {
+				"king": { "x": 1184, "y": -1492, "width": 1006, "height": 2360 }
+			},
+			"laji": {
+				"laji": { "x": 1297.5, "y": -682, "width": 197, "height": 176 }
+			},
+			"ring": {
+				"ring": { "x": 1366.5, "y": -631.5, "width": 939, "height": 883 }
+			},
+			"sad": {
+				"sad": { "x": 1281, "y": -709, "width": 164, "height": 112 }
+			},
+			"smil2": {
+				"smil2": { "x": 1279.5, "y": -710, "width": 167, "height": 110 }
+			},
+			"smile": {
+				"smile": { "x": 1288, "y": -710, "width": 190, "height": 114 }
+			},
+			"think": {
+				"think": { "x": 1276.5, "y": -711.5, "width": 159, "height": 109 }
+			},
+			"weapon": {
+				"weapon": { "x": 1313, "y": -1162.5, "width": 2332, "height": 1639 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"ring": {
+				"attachment": [
+					{ "name": "ring" }
+				]
+			},
+			"weapon": {
+				"attachment": [
+					{ "name": "weapon" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"ring": {
+				"attachment": [
+					{ "name": "ring" }
+				]
+			},
+			"weapon": {
+				"attachment": [
+					{ "name": "weapon" }
+				]
+			}
+		}
+	},
+	"laji": {
+		"slots": {
+			"laji": {
+				"attachment": [
+					{ "name": "laji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"smil2": {
+				"attachment": [
+					{ "name": "smil2" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	}
+}
+}

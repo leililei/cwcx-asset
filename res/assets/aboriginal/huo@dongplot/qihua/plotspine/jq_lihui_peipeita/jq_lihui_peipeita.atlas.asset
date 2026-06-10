@@ -1,0 +1,69 @@
+
+jq_lihui_peipeita.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 3765, 2866
+  size: 214, 148
+  orig: 214, 148
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 965
+  size: 3765, 2975
+  orig: 3765, 2975
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 3765, 3292
+  size: 217, 153
+  orig: 217, 153
+  offset: 0, 0
+  index: -1
+fuan
+  rotate: true
+  xy: 3765, 3080
+  size: 212, 149
+  orig: 212, 149
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 3765, 2202
+  size: 222, 131
+  orig: 222, 131
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 3765, 3729
+  size: 211, 175
+  orig: 211, 175
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 3765, 2643
+  size: 223, 142
+  orig: 223, 142
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 3765, 3509
+  size: 220, 162
+  orig: 220, 162
+  offset: 0, 0
+  index: -1
+tiaodou
+  rotate: true
+  xy: 3765, 2424
+  size: 219, 141
+  orig: 219, 141
+  offset: 0, 0
+  index: -1

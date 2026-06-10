@@ -1,0 +1,109 @@
+
+jq_lihui_meiliya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 31, 1801
+  size: 340, 196
+  orig: 340, 196
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 0, 1978
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+bushuang
+  rotate: false
+  xy: 719, 1788
+  size: 348, 209
+  orig: 348, 209
+  offset: 0, 0
+  index: -1
+chaoxiao
+  rotate: true
+  xy: 1756, 1670
+  size: 327, 241
+  orig: 327, 241
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1415, 1785
+  size: 341, 212
+  orig: 341, 212
+  offset: 0, 0
+  index: -1
+deyi
+  rotate: false
+  xy: 1067, 1787
+  size: 348, 210
+  orig: 348, 210
+  offset: 0, 0
+  index: -1
+sanwu
+  rotate: false
+  xy: 371, 1791
+  size: 348, 206
+  orig: 348, 206
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 0, 995
+  size: 572, 1111
+  orig: 572, 1111
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: false
+  xy: 0, 1585
+  size: 341, 216
+  orig: 341, 216
+  offset: 0, 0
+  index: -1
+zhenmianmu
+  rotate: false
+  xy: 341, 1571
+  size: 341, 220
+  orig: 341, 220
+  offset: 0, 0
+  index: -1
+zhuangsha
+  rotate: false
+  xy: 682, 1567
+  size: 341, 221
+  orig: 341, 221
+  offset: 0, 0
+  index: -1
+
+jq_lihui_meiliya2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toubu
+  rotate: true
+  xy: 0, 458
+  size: 1124, 1582
+  orig: 1124, 1582
+  offset: 0, 0
+  index: -1
+
+jq_lihui_meiliya3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1445, 2042
+  orig: 1445, 2042
+  offset: 0, 0
+  index: -1

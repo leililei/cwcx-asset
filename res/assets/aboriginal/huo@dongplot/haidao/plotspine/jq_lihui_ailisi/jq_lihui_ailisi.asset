@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "+wkW+IvMsRSWB490t8v22z7OAWg",
+	"spine": "3.8.99",
+	"x": -621.17,
+	"y": -1005.62,
+	"width": 1698,
+	"height": 2539,
+	"images": "C:\\Users\\Plan123\\Desktop\\ailisi\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\ailisi"
+},
+"bones": [
+	{ "name": "root", "x": -1011.17, "y": 1596.38 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1239, "y": -1332.5, "width": 1698, "height": 2539 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

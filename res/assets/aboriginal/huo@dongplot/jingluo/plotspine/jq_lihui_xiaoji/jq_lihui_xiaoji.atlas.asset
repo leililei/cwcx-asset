@@ -1,0 +1,69 @@
+
+jq_lihui_xiaoji.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 790
+  size: 1001, 2007
+  orig: 1001, 2007
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 288, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 528, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 768, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 1008, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1248, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1488, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+xingfen
+  rotate: false
+  xy: 1728, 1791
+  size: 240, 216
+  orig: 240, 216
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 1823
+  size: 288, 184
+  orig: 288, 184
+  offset: 0, 0
+  index: -1

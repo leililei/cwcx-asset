@@ -1,0 +1,109 @@
+{
+"skeleton": {
+	"hash": "h9WY8P7wEglHS8/e1W/A4/dmaRQ",
+	"spine": "3.8.99",
+	"x": -461.88,
+	"y": -2023.25,
+	"width": 952,
+	"height": 3891,
+	"images": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_feilin1\\images",
+	"audio": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_feilin1"
+},
+"bones": [
+	{ "name": "root", "x": -460.88, "y": 1866.75 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "biyan", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 458.5, "y": -520, "width": 241, "height": 238 }
+			},
+			"biyan": {
+				"biyan": { "x": 457.5, "y": -523.5, "width": 253, "height": 233 }
+			},
+			"body": {
+				"body": { "x": 475, "y": -1944.5, "width": 952, "height": 3891 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 420, "y": -542.5, "width": 362, "height": 275 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 439.5, "y": -528, "width": 187, "height": 242 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 482.5, "y": -517.5, "width": 267, "height": 263 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 439.5, "y": -523.5, "width": 187, "height": 233 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

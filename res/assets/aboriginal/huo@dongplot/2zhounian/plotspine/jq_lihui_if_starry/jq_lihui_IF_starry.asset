@@ -1,0 +1,125 @@
+{
+"skeleton": {
+	"hash": "LAU+hC3ax/fP6VVfYvUSxuzbzkQ",
+	"spine": "3.8.99",
+	"x": -923.9,
+	"y": -2430.69,
+	"width": 1982,
+	"height": 4092,
+	"images": "./images/",
+	"audio": "D:/活动资源相关/2025.4+6月/二周年相关/二周年立绘/jq_lihui_IF_starry"
+},
+"bones": [
+	{ "name": "root", "x": -922.9, "y": 1660.31 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "apathy", "bone": "root" },
+	{ "name": "recidule", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 936.5, "y": -386.5, "width": 361, "height": 291 }
+			},
+			"apathy": {
+				"apathy": { "x": 936, "y": -400, "width": 362, "height": 264 }
+			},
+			"body": {
+				"body": { "x": 990, "y": -2045, "width": 1982, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 937.5, "y": -401.5, "width": 359, "height": 261 }
+			},
+			"happy": {
+				"happy": { "x": 930.5, "y": -396.5, "width": 341, "height": 271 }
+			},
+			"recidule": {
+				"recidule": { "x": 932.5, "y": -393.5, "width": 369, "height": 277 }
+			},
+			"sad": {
+				"sad": { "x": 934, "y": -392.5, "width": 362, "height": 279 }
+			},
+			"shy": {
+				"shy": { "x": 944, "y": -390, "width": 386, "height": 284 }
+			},
+			"surprise": {
+				"surprise": { "x": 934.5, "y": -398.5, "width": 365, "height": 267 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"apathy": {
+		"slots": {
+			"apathy": {
+				"attachment": [
+					{ "name": "apathy" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"recidule": {
+		"slots": {
+			"recidule": {
+				"attachment": [
+					{ "name": "recidule" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

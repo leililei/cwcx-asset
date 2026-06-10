@@ -1,0 +1,90 @@
+
+ju_lihui_red.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2443, 2506
+  size: 263, 200
+  orig: 263, 200
+  offset: 0, 0
+  index: -1
+anyway
+  rotate: false
+  xy: 1892, 2515
+  size: 297, 191
+  orig: 297, 191
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1246
+  size: 1258, 2472
+  orig: 1258, 2472
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2191, 2515
+  size: 250, 191
+  orig: 250, 191
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 894, 2541
+  size: 248, 165
+  orig: 248, 165
+  offset: 0, 0
+  index: -1
+jignya
+  rotate: false
+  xy: 1402, 2526
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: -1
+meng
+  rotate: false
+  xy: 441, 2548
+  size: 201, 158
+  orig: 201, 158
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 644, 2543
+  size: 248, 163
+  orig: 248, 163
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2, 2553
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 219, 2553
+  size: 220, 153
+  orig: 220, 153
+  offset: 0, 0
+  index: -1
+xiao4
+  rotate: false
+  xy: 1654, 2526
+  size: 236, 180
+  orig: 236, 180
+  offset: 0, 0
+  index: -1
+zixin
+  rotate: false
+  xy: 1144, 2537
+  size: 256, 169
+  orig: 256, 169
+  offset: 0, 0
+  index: -1

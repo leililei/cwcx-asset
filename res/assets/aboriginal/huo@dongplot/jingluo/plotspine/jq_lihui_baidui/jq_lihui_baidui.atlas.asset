@@ -1,0 +1,62 @@
+
+jq_lihui_baidui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 899
+  size: 878, 1936
+  orig: 878, 1936
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 910, 1783
+  size: 187, 153
+  orig: 187, 153
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 548, 1787
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1097, 1777
+  size: 181, 159
+  orig: 181, 159
+  offset: 0, 0
+  index: -1
+ningzhong
+  rotate: false
+  xy: 183, 1788
+  size: 184, 148
+  orig: 184, 148
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 0, 1790
+  size: 183, 146
+  orig: 183, 146
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 729, 1787
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+xinwei
+  rotate: false
+  xy: 367, 1788
+  size: 181, 148
+  orig: 181, 148
+  offset: 0, 0
+  index: -1

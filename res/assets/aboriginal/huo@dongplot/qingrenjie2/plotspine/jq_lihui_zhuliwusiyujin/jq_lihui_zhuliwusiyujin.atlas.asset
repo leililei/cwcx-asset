@@ -1,0 +1,125 @@
+
+jq_lihui_zhuliwusiyujin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 824, 3574
+  size: 360, 247
+  orig: 360, 247
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: false
+  xy: 1925, 3547
+  size: 360, 274
+  orig: 360, 274
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1644
+  size: 1334, 3494
+  orig: 1334, 3494
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1588, 2980
+  size: 554, 1304
+  orig: 554, 1304
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 457, 3586
+  size: 365, 235
+  orig: 365, 235
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1554, 3568
+  size: 369, 253
+  orig: 369, 253
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 1186, 3571
+  size: 366, 250
+  orig: 366, 250
+  offset: 0, 0
+  index: -1
+shuang
+  rotate: false
+  xy: 232, 3754
+  size: 223, 67
+  orig: 223, 67
+  offset: 0, 0
+  index: -1
+shuang2
+  rotate: false
+  xy: 2, 3772
+  size: 228, 49
+  orig: 228, 49
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 2671, 3536
+  size: 382, 285
+  orig: 382, 285
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 3055, 3536
+  size: 382, 285
+  orig: 382, 285
+  offset: 0, 0
+  index: -1
+shy3
+  rotate: false
+  xy: 770, 3278
+  size: 382, 294
+  orig: 382, 294
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 2287, 3541
+  size: 382, 280
+  orig: 382, 280
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2, 3464
+  size: 382, 288
+  orig: 382, 288
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 386, 3296
+  size: 382, 288
+  orig: 382, 288
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: true
+  xy: 1154, 3140
+  size: 426, 432
+  orig: 426, 432
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 3439, 3536
+  size: 382, 285
+  orig: 382, 285
+  offset: 0, 0
+  index: -1

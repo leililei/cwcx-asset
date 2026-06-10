@@ -1,0 +1,186 @@
+{
+"skeleton": {
+	"hash": "mGjR819ia5RHyeHHCJCMkaLtTC0",
+	"spine": "3.8.99",
+	"x": -643.72,
+	"y": -1351.38,
+	"width": 1128,
+	"height": 2585,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\家园看板娘\\jq_lihui_lilisi_daily\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\家园看板娘\\jq_lihui_lilisi_daily"
+},
+"bones": [
+	{ "name": "root", "x": -1175.72, "y": 1395.62 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "daiji2", "bone": "root" },
+	{ "name": "yanwu", "bone": "root" },
+	{ "name": "wunai", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy2", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "angry2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1194, "y": -428.5, "width": 194, "height": 173 }
+			},
+			"angry2": {
+				"angry2": { "x": 1194, "y": -432.5, "width": 194, "height": 179 }
+			},
+			"body": {
+				"body": { "x": 1096, "y": -1454.5, "width": 1128, "height": 2585 }
+			},
+			"daiji": {
+				"daiji": { "x": 1194, "y": -432, "width": 194, "height": 166 }
+			},
+			"daiji2": {
+				"daiji2": { "x": 1194, "y": -432, "width": 194, "height": 166 }
+			},
+			"danxin": {
+				"danxin": { "x": 1194, "y": -440, "width": 194, "height": 150 }
+			},
+			"happy": {
+				"happy": { "x": 1195, "y": -432.5, "width": 196, "height": 165 }
+			},
+			"happy2": {
+				"happy2": { "x": 1194, "y": -432.5, "width": 198, "height": 165 }
+			},
+			"sad": {
+				"sad": { "x": 1191, "y": -444, "width": 178, "height": 142 }
+			},
+			"shy": {
+				"shy": { "x": 1174, "y": -440.5, "width": 276, "height": 167 }
+			},
+			"think": {
+				"think": { "x": 1195.5, "y": -434, "width": 191, "height": 160 }
+			},
+			"wunai": {
+				"wunai": { "x": 1194, "y": -438.5, "width": 184, "height": 153 }
+			},
+			"yanwu": {
+				"yanwu": { "x": 1194, "y": -421.5, "width": 194, "height": 187 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji2": {
+				"attachment": [
+					{ "name": "daiji2" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"happy2": {
+				"attachment": [
+					{ "name": "happy2" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	},
+	"wunai": {
+		"slots": {
+			"wunai": {
+				"attachment": [
+					{ "name": "wunai" }
+				]
+			}
+		}
+	},
+	"yanwu": {
+		"slots": {
+			"yanwu": {
+				"attachment": [
+					{ "name": "yanwu" }
+				]
+			}
+		}
+	}
+}
+}

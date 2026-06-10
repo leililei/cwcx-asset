@@ -1,0 +1,196 @@
+{
+"skeleton": {
+	"hash": "44b6PG7RLbI0Wiput+kobjtJ/yM",
+	"spine": "3.8.99",
+	"x": -1463.62,
+	"y": -1279.2,
+	"width": 2856,
+	"height": 2732,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\伽蓝见\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\伽蓝见"
+},
+"bones": [
+	{ "name": "root", "x": -1489.85, "y": 1614.56, "scaleX": 0.95, "scaleY": 0.95 }
+],
+"slots": [
+	{ "name": "isnotshark", "bone": "root", "attachment": "isnotshark" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "ganga", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1638.5, "y": -704.5, "width": 177, "height": 127 }
+			},
+			"body": {
+				"body": { "x": 1928, "y": -1409, "width": 1450, "height": 2308 }
+			},
+			"daiji": {
+				"daiji": { "x": 1638.5, "y": -694, "width": 177, "height": 140 }
+			},
+			"danxin": {
+				"danxin": { "x": 1638.5, "y": -698.5, "width": 177, "height": 133 }
+			},
+			"ganga": {
+				"ganga": { "x": 1641.5, "y": -702, "width": 205, "height": 126 }
+			},
+			"isnotshark": {
+				"isnotshark": { "x": 1427, "y": -1555, "width": 2856, "height": 2732 }
+			},
+			"smile": {
+				"smile": { "x": 1641, "y": -692, "width": 178, "height": 142 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"isnotshark": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"isnotshark": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"danxin2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			},
+			"isnotshark": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"isnotshark": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"isnotshark": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

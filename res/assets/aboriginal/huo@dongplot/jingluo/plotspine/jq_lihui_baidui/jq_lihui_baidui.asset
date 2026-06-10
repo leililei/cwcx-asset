@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "GEcaicyqwRY+gC10U3A8icjddtk",
+	"spine": "3.8.99",
+	"x": -442.24,
+	"y": -672.48,
+	"width": 878,
+	"height": 1936,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\白队\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\白队"
+},
+"bones": [
+	{ "name": "root", "x": -1027.24, "y": 1376.52 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "ningzhong", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "xinwei", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1024, "y": -1081, "width": 878, "height": 1936 }
+			},
+			"chensi": {
+				"chensi": { "x": 1004.5, "y": -414.5, "width": 187, "height": 153 }
+			},
+			"daiji": {
+				"daiji": { "x": 1007.5, "y": -415.5, "width": 181, "height": 149 }
+			},
+			"jingya": {
+				"jingya": { "x": 1007.5, "y": -417.5, "width": 181, "height": 159 }
+			},
+			"ningzhong": {
+				"ningzhong": { "x": 1006, "y": -416, "width": 184, "height": 148 }
+			},
+			"sad": {
+				"sad": { "x": 1006.5, "y": -416, "width": 183, "height": 146 }
+			},
+			"smile": {
+				"smile": { "x": 1007.5, "y": -415.5, "width": 181, "height": 149 }
+			},
+			"xinwei": {
+				"xinwei": { "x": 1007.5, "y": -416, "width": 181, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"ningzhong": {
+		"slots": {
+			"ningzhong": {
+				"attachment": [
+					{ "name": "ningzhong" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"xinwei": {
+		"slots": {
+			"xinwei": {
+				"attachment": [
+					{ "name": "xinwei" }
+				]
+			}
+		}
+	}
+}
+}

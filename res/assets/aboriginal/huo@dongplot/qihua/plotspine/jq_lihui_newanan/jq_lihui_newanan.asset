@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "0s6pGbtRKgPV2s/bW0izozkpiSs",
+	"spine": "3.8.99",
+	"x": -792.65,
+	"y": -872.3,
+	"width": 1473,
+	"height": 1739,
+	"images": "G:\\文案的活2\\歧花spine\\anan\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\anan"
+},
+"bones": [
+	{ "name": "root", "x": -1286.65, "y": 1020.7 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1287.5, "y": -480, "width": 131, "height": 94 }
+			},
+			"body": {
+				"body": { "x": 1230.5, "y": -1023.5, "width": 1473, "height": 1739 }
+			},
+			"daiji": {
+				"daiji": { "x": 1290, "y": -474.5, "width": 136, "height": 95 }
+			},
+			"happy": {
+				"happy": { "x": 1290, "y": -474, "width": 136, "height": 96 }
+			},
+			"jingya": {
+				"jingya": { "x": 1289.5, "y": -472.5, "width": 135, "height": 101 }
+			},
+			"shame": {
+				"shame": { "x": 1290, "y": -476, "width": 136, "height": 92 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	}
+}
+}

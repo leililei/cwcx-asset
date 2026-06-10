@@ -1,0 +1,194 @@
+{
+"skeleton": {
+	"hash": "id3DWoLjXOlk+/1eMo0CBxqFmkI",
+	"spine": "3.8.99",
+	"x": -1045,
+	"y": -2261,
+	"width": 2275,
+	"height": 4092,
+	"images": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_lifa_jiche\\images",
+	"audio": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_lifa_jiche"
+},
+"bones": [
+	{ "name": "root", "x": -1044, "y": 1830 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "ku", "bone": "root" },
+	{ "name": "biyan2", "bone": "root" },
+	{ "name": "biyan1", "bone": "root" },
+	{ "name": "xingfeng", "bone": "root" },
+	{ "name": "jidong", "bone": "root" },
+	{ "name": "haixiu2", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "xixiao", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "bizi", "bone": "root", "attachment": "bizi" },
+	{ "name": "secha", "bone": "root", "attachment": "secha" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1102.5, "y": -570, "width": 399, "height": 276 }
+			},
+			"biyan1": {
+				"biyan1": { "x": 1103.5, "y": -568, "width": 387, "height": 280 }
+			},
+			"biyan2": {
+				"biyan2": { "x": 1097.5, "y": -567, "width": 387, "height": 296 }
+			},
+			"bizi": {
+				"bizi": { "x": 1139.5, "y": -607.5, "width": 21, "height": 31 }
+			},
+			"body": {
+				"body": { "x": 1136.5, "y": -2045, "width": 2275, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 1101.5, "y": -565.5, "width": 397, "height": 285 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1102.5, "y": -573, "width": 399, "height": 282 }
+			},
+			"haixiu2": {
+				"haixiu2": { "x": 1096.5, "y": -575.5, "width": 417, "height": 291 }
+			},
+			"jidong": {
+				"jidong": { "x": 1097.5, "y": -563.5, "width": 389, "height": 289 }
+			},
+			"jingya": {
+				"jingya": { "x": 1101.5, "y": -565.5, "width": 397, "height": 285 }
+			},
+			"ku": {
+				"ku": { "x": 1098.5, "y": -595.5, "width": 389, "height": 345 }
+			},
+			"secha": {
+				"secha": { "x": 1275.5, "y": -1032.5, "width": 1745, "height": 2067 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1100.5, "y": -564.5, "width": 395, "height": 287 }
+			},
+			"xingfeng": {
+				"xingfeng": { "x": 1097.5, "y": -567, "width": 389, "height": 296 }
+			},
+			"xixiao": {
+				"xixiao": { "x": 1101.5, "y": -565.5, "width": 397, "height": 285 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"biyan1": {
+		"slots": {
+			"biyan1": {
+				"attachment": [
+					{ "name": "biyan1" }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"biyan2": {
+				"attachment": [
+					{ "name": "biyan2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"jidong": {
+		"slots": {
+			"jidong": {
+				"attachment": [
+					{ "name": "jidong" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"xingfeng": {
+		"slots": {
+			"xingfeng": {
+				"attachment": [
+					{ "name": "xingfeng" }
+				]
+			}
+		}
+	},
+	"xixiao": {
+		"slots": {
+			"xixiao": {
+				"attachment": [
+					{ "name": "xixiao" }
+				]
+			}
+		}
+	}
+}
+}

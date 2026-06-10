@@ -1,0 +1,100 @@
+{
+"skeleton": {
+	"hash": "kQ9r+Eudw+l8AkRCIsPQzpXO4Hw",
+	"spine": "3.8.99",
+	"x": -504.47,
+	"y": -1321.35,
+	"width": 922,
+	"height": 2415,
+	"images": "G:\\文案的活2\\歧花spine\\mixieer\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\mixieer"
+},
+"bones": [
+	{ "name": "root", "x": -750.47, "y": 1227.65 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "coldsmile", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 735.5, "y": -356, "width": 173, "height": 78 }
+			},
+			"body": {
+				"body": { "x": 707, "y": -1341.5, "width": 922, "height": 2415 }
+			},
+			"coldsmile": {
+				"coldsmile": { "x": 734, "y": -395.5, "width": 164, "height": 135 }
+			},
+			"glass": {
+				"glass": { "x": 693, "y": -394.5, "width": 114, "height": 117 }
+			},
+			"jingya": {
+				"jingya": { "x": 736, "y": -378, "width": 176, "height": 154 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 733, "y": -302.5, "width": 178, "height": 129 }
+			},
+			"smile": {
+				"smile": { "x": 734.5, "y": -439, "width": 55, "height": 20 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"coldsmile": {
+		"slots": {
+			"coldsmile": {
+				"attachment": [
+					{ "name": "coldsmile" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+
+jq_lihui_tiantian.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 213, 2
+  size: 213, 167
+  orig: 213, 167
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 169
+  size: 2131, 2475
+  orig: 2131, 2475
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 426, 12
+  size: 218, 157
+  orig: 218, 157
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 860, 26
+  size: 219, 143
+  orig: 219, 143
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 644, 17
+  size: 216, 152
+  orig: 216, 152
+  offset: 0, 0
+  index: -1
+think
+  rotate: false
+  xy: 0, 0
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+jq_lihui_dafululu_changfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: false
+  xy: 1712, 2604
+  size: 185, 188
+  orig: 185, 188
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 742
+  size: 856, 2050
+  orig: 856, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 185, 131
+  orig: 185, 131
+  offset: 0, 0
+  index: -1
+faxian
+  rotate: false
+  xy: 1712, 2469
+  size: 185, 135
+  orig: 185, 135
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 856, 742
+  size: 856, 2050
+  orig: 856, 2050
+  offset: 0, 0
+  index: -1
+maozuixiao
+  rotate: false
+  xy: 0, 131
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 1897, 2659
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 356, 475
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 356, 605
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: false
+  xy: 0, 268
+  size: 356, 474
+  orig: 356, 474
+  offset: 0, 0
+  index: -1

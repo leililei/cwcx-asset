@@ -1,0 +1,61 @@
+
+jq_lihui_qielanjian.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 205, 3095
+  size: 177, 127
+  orig: 177, 127
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 914, 1772
+  size: 1450, 2308
+  orig: 1450, 2308
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 559, 3082
+  size: 177, 140
+  orig: 177, 140
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 382, 3089
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 0, 3096
+  size: 205, 126
+  orig: 205, 126
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 736, 3080
+  size: 178, 142
+  orig: 178, 142
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qielanjian2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+isnotshark
+  rotate: false
+  xy: 0, 124
+  size: 2856, 2732
+  orig: 2856, 2732
+  offset: 0, 0
+  index: -1

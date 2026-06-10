@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "dMFwqZTv0tnmKKMghg7RSspQEGY",
+	"spine": "3.8.99",
+	"x": -876.14,
+	"y": -1069.87,
+	"width": 2369,
+	"height": 1991,
+	"images": "C:\\Users\\Plan123\\Desktop\\b2\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\b2"
+},
+"bones": [
+	{ "name": "root", "x": -1304.14, "y": 979.13 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "redeyes", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1612.5, "y": -1053.5, "width": 2369, "height": 1991 }
+			},
+			"redeyes": {
+				"redeyes": { "x": 1292, "y": -359, "width": 140, "height": 64 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"redeyes": {
+		"slots": {
+			"redeyes": {
+				"attachment": [
+					{ "name": "redeyes" }
+				]
+			}
+		}
+	}
+}
+}

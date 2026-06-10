@@ -1,0 +1,55 @@
+
+jq_lihui_puruixiou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 903, 7
+  size: 307, 200
+  orig: 307, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 207
+  size: 2912, 3792
+  orig: 2912, 3792
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 302, 207
+  orig: 302, 207
+  offset: 0, 0
+  index: -1
+look
+  rotate: false
+  xy: 302, 0
+  size: 294, 207
+  orig: 294, 207
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1503, 24
+  size: 285, 183
+  orig: 285, 183
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1210, 20
+  size: 293, 187
+  orig: 293, 187
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: false
+  xy: 596, 1
+  size: 307, 206
+  orig: 307, 206
+  offset: 0, 0
+  index: -1

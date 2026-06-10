@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "xMb0lH6dhsfosQlOY5OcmviW8iM",
+	"spine": "3.8.99",
+	"x": -757.96,
+	"y": -622.8,
+	"width": 1177.34,
+	"height": 1945,
+	"images": "./images/",
+	"audio": "D:/活动资源相关/影之国编年史3/影之国编年史3NPC角色/jq_lihui_renouC"
+},
+"bones": [
+	{ "name": "root", "x": -799.24, "y": 1418.2 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 732.5, "y": -1068.5, "width": 1369, "height": 1945 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

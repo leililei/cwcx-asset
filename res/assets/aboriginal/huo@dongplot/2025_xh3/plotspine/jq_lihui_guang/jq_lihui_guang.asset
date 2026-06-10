@@ -1,0 +1,229 @@
+{
+"skeleton": {
+	"hash": "7y/ET7Q4KTlWnlzySVOkY/WB0hQ",
+	"spine": "3.8.99",
+	"x": -640.99,
+	"y": -1145.38,
+	"width": 1501,
+	"height": 2042,
+	"images": "H:/2025.8夏活3/jq_lihui_guang/images/",
+	"audio": "H:\\2025.8夏活3\\jq_lihui_guang"
+},
+"bones": [
+	{ "name": "root", "x": -639.99, "y": 895.62 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "gougou tushe", "bone": "root" },
+	{ "name": "shuang si", "bone": "root" },
+	{ "name": "dai zhi", "bone": "root" },
+	{ "name": "yan e", "bone": "root" },
+	{ "name": "ku qi1", "bone": "root" },
+	{ "name": "ku qi2", "bone": "root" },
+	{ "name": "xiao1", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "xiao3", "bone": "root" },
+	{ "name": "xiao 4", "bone": "root" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "xiao 3-1", "bone": "root" },
+	{ "name": "hai xiu", "bone": "root" },
+	{ "name": "huang zhang", "bone": "root" },
+	{ "name": "upbody", "bone": "root", "attachment": "upbody" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 749.5, "y": -1064, "width": 1501, "height": 1954 }
+			},
+			"daiji": {
+				"daiji": { "x": 803, "y": -258.5, "width": 188, "height": 139 }
+			},
+			"dai zhi": {
+				"dai zhi": { "x": 803, "y": -258.5, "width": 188, "height": 139 }
+			},
+			"gougou tushe": {
+				"gougou tushe": { "x": 789, "y": -264.5, "width": 216, "height": 151 }
+			},
+			"hai xiu": {
+				"hai xiu": { "x": 789, "y": -264.5, "width": 216, "height": 151 }
+			},
+			"huang zhang": {
+				"huang zhang": { "x": 789, "y": -264.5, "width": 216, "height": 151 }
+			},
+			"ku qi1": {
+				"ku qi1": { "x": 789, "y": -272.5, "width": 216, "height": 167 }
+			},
+			"ku qi2": {
+				"ku qi2": { "x": 789, "y": -272.5, "width": 216, "height": 167 }
+			},
+			"nu": {
+				"nu": { "x": 800, "y": -259.5, "width": 182, "height": 145 }
+			},
+			"shuang si": {
+				"shuang si": { "x": 789, "y": -264.5, "width": 216, "height": 151 }
+			},
+			"upbody": {
+				"upbody": { "x": 672, "y": -973, "width": 646, "height": 1948 }
+			},
+			"xiao1": {
+				"xiao1": { "x": 803, "y": -258.5, "width": 188, "height": 139 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 798, "y": -258.5, "width": 206, "height": 139 }
+			},
+			"xiao3": {
+				"xiao3": { "x": 798, "y": -260.5, "width": 206, "height": 135 }
+			},
+			"xiao 3-1": {
+				"xiao 3-1": { "x": 803, "y": -258.5, "width": 188, "height": 139 }
+			},
+			"xiao 4": {
+				"xiao 4": { "x": 803, "y": -260.5, "width": 188, "height": 143 }
+			},
+			"yan e": {
+				"yan e": { "x": 809, "y": -237.5, "width": 256, "height": 249 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daizhi": {
+		"slots": {
+			"dai zhi": {
+				"attachment": [
+					{ "name": "dai zhi" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"hai xiu": {
+				"attachment": [
+					{ "name": "hai xiu" }
+				]
+			}
+		}
+	},
+	"huangzhang": {
+		"slots": {
+			"huang zhang": {
+				"attachment": [
+					{ "name": "huang zhang" }
+				]
+			}
+		}
+	},
+	"kuqi1": {
+		"slots": {
+			"ku qi1": {
+				"attachment": [
+					{ "name": "ku qi1" }
+				]
+			}
+		}
+	},
+	"kuqi2": {
+		"slots": {
+			"ku qi2": {
+				"attachment": [
+					{ "name": "ku qi2" }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			}
+		}
+	},
+	"shuangsi": {
+		"slots": {
+			"shuang si": {
+				"attachment": [
+					{ "name": "shuang si" }
+				]
+			}
+		}
+	},
+	"tushe": {
+		"slots": {
+			"gougou tushe": {
+				"attachment": [
+					{ "name": "gougou tushe" }
+				]
+			}
+		}
+	},
+	"xiao1": {
+		"slots": {
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			}
+		}
+	},
+	"xiao3": {
+		"slots": {
+			"xiao3": {
+				"attachment": [
+					{ "name": "xiao3" }
+				]
+			}
+		}
+	},
+	"xiao3_1": {
+		"slots": {
+			"xiao 3-1": {
+				"attachment": [
+					{ "name": "xiao 3-1" }
+				]
+			}
+		}
+	},
+	"xiao4": {
+		"slots": {
+			"xiao 4": {
+				"attachment": [
+					{ "name": "xiao 4" }
+				]
+			}
+		}
+	},
+	"yanwu": {
+		"slots": {
+			"yan e": {
+				"attachment": [
+					{ "name": "yan e" }
+				]
+			}
+		}
+	}
+}
+}

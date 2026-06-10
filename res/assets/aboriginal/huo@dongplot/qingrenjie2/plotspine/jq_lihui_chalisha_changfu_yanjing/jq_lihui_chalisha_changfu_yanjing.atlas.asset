@@ -1,0 +1,97 @@
+
+jq_lihui_chalisha_changfu_yanjing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2494, 2806
+  size: 249, 186
+  orig: 251, 188
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 1945
+  size: 861, 2738
+  orig: 863, 2740
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 1756, 2819
+  size: 249, 173
+  orig: 251, 175
+  offset: 1, 1
+  index: -1
+haixiu
+  rotate: false
+  xy: 2240, 2811
+  size: 254, 181
+  orig: 256, 183
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 2743, 2801
+  size: 249, 191
+  orig: 251, 193
+  offset: 1, 1
+  index: -1
+nohappy
+  rotate: false
+  xy: 750, 2830
+  size: 249, 162
+  orig: 251, 164
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 245, 2840
+  size: 249, 152
+  orig: 251, 154
+  offset: 1, 1
+  index: -1
+shy1
+  rotate: false
+  xy: 1248, 2826
+  size: 254, 166
+  orig: 256, 168
+  offset: 1, 1
+  index: -1
+shy2
+  rotate: false
+  xy: 1502, 2823
+  size: 254, 169
+  orig: 256, 171
+  offset: 1, 1
+  index: -1
+shy3
+  rotate: false
+  xy: 494, 2833
+  size: 256, 159
+  orig: 258, 161
+  offset: 1, 1
+  index: -1
+smlie1
+  rotate: false
+  xy: 999, 2827
+  size: 249, 165
+  orig: 251, 167
+  offset: 1, 1
+  index: -1
+smlie2
+  rotate: false
+  xy: 2005, 2816
+  size: 235, 176
+  orig: 237, 178
+  offset: 1, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 0, 2841
+  size: 245, 151
+  orig: 247, 153
+  offset: 1, 1
+  index: -1

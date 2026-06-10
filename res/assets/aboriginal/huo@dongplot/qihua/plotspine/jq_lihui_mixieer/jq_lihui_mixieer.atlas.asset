@@ -1,0 +1,55 @@
+
+jq_lihui_mixieer.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 635, 76
+  size: 173, 78
+  orig: 173, 78
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 154
+  size: 922, 2415
+  orig: 922, 2415
+  offset: 0, 0
+  index: -1
+coldsmile
+  rotate: false
+  xy: 176, 19
+  size: 164, 135
+  orig: 164, 135
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 518, 40
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 176, 154
+  orig: 176, 154
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 340, 25
+  size: 178, 129
+  orig: 178, 129
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 808, 134
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1

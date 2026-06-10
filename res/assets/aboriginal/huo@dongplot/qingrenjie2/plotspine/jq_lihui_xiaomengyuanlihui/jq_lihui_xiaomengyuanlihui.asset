@@ -1,0 +1,121 @@
+{
+"skeleton": {
+	"hash": "akni/G4yNcmifXoXpo2jTxOvg20",
+	"spine": "3.8.99",
+	"x": -1529.48,
+	"y": -1876.66,
+	"width": 2943,
+	"height": 3288,
+	"images": "G:\\情人节spine\\源文件处理\\xiaomeng2\\images",
+	"audio": "G:\\情人节spine\\源文件处理\\xiaomeng2"
+},
+"bones": [
+	{ "name": "root", "x": -1698.48, "y": 1624.34 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "zhoumei", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "shy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1751, "y": -775.5, "width": 290, "height": 249 }
+			},
+			"biyan": {
+				"biyan": { "x": 1743, "y": -762, "width": 296, "height": 252 }
+			},
+			"body": {
+				"body": { "x": 1640.5, "y": -1857, "width": 2943, "height": 3288 }
+			},
+			"daiji": {
+				"daiji": { "x": 1761, "y": -764.5, "width": 332, "height": 257 }
+			},
+			"happy": {
+				"happy": { "x": 1761, "y": -764.5, "width": 332, "height": 257 }
+			},
+			"sad": {
+				"sad": { "x": 1772.5, "y": -774, "width": 309, "height": 238 }
+			},
+			"shy": {
+				"shy": { "x": 1785.5, "y": -786, "width": 345, "height": 252 }
+			},
+			"zhoumei": {
+				"zhoumei": { "x": 1750, "y": -770, "width": 282, "height": 224 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"zhoumei": {
+		"slots": {
+			"zhoumei": {
+				"attachment": [
+					{ "name": "zhoumei" }
+				]
+			}
+		}
+	}
+}
+}

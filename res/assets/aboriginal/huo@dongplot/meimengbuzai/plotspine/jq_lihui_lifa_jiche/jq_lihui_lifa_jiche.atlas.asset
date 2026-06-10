@@ -1,0 +1,111 @@
+
+jq_lihui_lifa_jiche.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 3352, 1464
+  size: 399, 276
+  orig: 399, 276
+  offset: 0, 0
+  index: -1
+biyan1
+  rotate: false
+  xy: 3404, 1745
+  size: 387, 280
+  orig: 387, 280
+  offset: 0, 0
+  index: -1
+biyan2
+  rotate: false
+  xy: 2620, 1729
+  size: 387, 296
+  orig: 387, 296
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 2620, 1708
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 0
+  size: 2275, 4092
+  orig: 2275, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2955, 1444
+  size: 397, 285
+  orig: 397, 285
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 2959, 765
+  size: 399, 282
+  orig: 399, 282
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: true
+  xy: 2664, 1312
+  size: 417, 291
+  orig: 417, 291
+  offset: 0, 0
+  index: -1
+jidong
+  rotate: true
+  xy: 2275, 951
+  size: 389, 289
+  orig: 389, 289
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 3007, 1740
+  size: 397, 285
+  orig: 397, 285
+  offset: 0, 0
+  index: -1
+ku
+  rotate: true
+  xy: 2275, 1636
+  size: 389, 345
+  orig: 389, 345
+  offset: 0, 0
+  index: -1
+secha
+  rotate: false
+  xy: 2275, 2025
+  size: 1745, 2067
+  orig: 1745, 2067
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 2564, 1025
+  size: 395, 287
+  orig: 395, 287
+  offset: 0, 0
+  index: -1
+xingfeng
+  rotate: false
+  xy: 2275, 1340
+  size: 389, 296
+  orig: 389, 296
+  offset: 0, 0
+  index: -1
+xixiao
+  rotate: true
+  xy: 2959, 1047
+  size: 397, 285
+  orig: 397, 285
+  offset: 0, 0
+  index: -1

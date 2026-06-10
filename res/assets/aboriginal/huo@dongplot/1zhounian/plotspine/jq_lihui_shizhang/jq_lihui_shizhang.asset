@@ -1,0 +1,70 @@
+{
+"skeleton": {
+	"hash": "qqNZyI0Nt1JY8SCBLtH1TXkiuHk",
+	"spine": "3.8.99",
+	"x": -415.26,
+	"y": -813.56,
+	"width": 948,
+	"height": 2050,
+	"images": "C:\\Users\\1\\Desktop\\一周年spine\\市长PSD与spine数据\\images",
+	"audio": "C:\\Users\\1\\Desktop\\一周年spine\\市长PSD与spine数据"
+},
+"bones": [
+	{ "name": "root", "x": -414.26, "y": 1235.44 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "zhoumei", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 368, "y": -259.5, "width": 195, "height": 187 }
+			},
+			"body": {
+				"body": { "x": 473, "y": -1024, "width": 944, "height": 2042 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 368, "y": -259.5, "width": 195, "height": 187 }
+			},
+			"zhoumei": {
+				"zhoumei": { "x": 367, "y": -259.5, "width": 197, "height": 187 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	},
+	"zhoumei": {
+		"slots": {
+			"zhoumei": {
+				"attachment": [
+					{ "name": "zhoumei" }
+				]
+			}
+		}
+	}
+}
+}

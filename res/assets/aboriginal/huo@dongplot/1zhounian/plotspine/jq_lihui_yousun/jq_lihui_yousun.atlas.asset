@@ -1,0 +1,53 @@
+
+jq_lihui_yousun.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24
+  rotate: true
+  xy: 1417, 2321
+  size: 781, 1685
+  orig: 781, 1685
+  offset: 0, 0
+  index: -1
+37
+  rotate: true
+  xy: 0, 1540
+  size: 781, 1685
+  orig: 781, 1685
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 0, 2921
+  size: 1417, 181
+  orig: 1417, 181
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yousun2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 0, 44
+  size: 2995, 3039
+  orig: 2995, 3039
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yousun3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 3776, 4042
+  orig: 3776, 4042
+  offset: 0, 0
+  index: -1

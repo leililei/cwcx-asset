@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "bP3/MCGYCmS/RB2kN3OwnaRmuBk",
+	"spine": "3.8.99",
+	"x": -551.62,
+	"y": -727.11,
+	"width": 1252,
+	"height": 1868,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\伽蓝见常服\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\伽蓝见常服"
+},
+"bones": [
+	{ "name": "root", "x": -1024.62, "y": 1321.89 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 958.5, "y": -436, "width": 157, "height": 146 }
+			},
+			"body": {
+				"body": { "x": 1099, "y": -1115, "width": 1252, "height": 1868 }
+			},
+			"daiji": {
+				"daiji": { "x": 964, "y": -442, "width": 168, "height": 132 }
+			},
+			"happy": {
+				"happy": { "x": 973.5, "y": -444, "width": 185, "height": 128 }
+			},
+			"sad": {
+				"sad": { "x": 964.5, "y": -444, "width": 161, "height": 128 }
+			},
+			"shame": {
+				"shame": { "x": 966.5, "y": -444, "width": 173, "height": 130 }
+			},
+			"think": {
+				"think": { "x": 973.5, "y": -444, "width": 185, "height": 130 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+jq_lihui_xuyu_changfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan1
+  rotate: false
+  xy: 1572, 2996
+  size: 275, 175
+  orig: 275, 175
+  offset: 0, 0
+  index: -1
+biyan2
+  rotate: false
+  xy: 1847, 2994
+  size: 275, 177
+  orig: 275, 177
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1556
+  size: 1431, 3171
+  orig: 1431, 3171
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2122, 2987
+  size: 276, 184
+  orig: 276, 184
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 88, 3133
+  size: 242, 38
+  orig: 242, 38
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 561, 3117
+  size: 228, 54
+  orig: 228, 54
+  offset: 0, 0
+  index: -1
+meimao3
+  rotate: false
+  xy: 789, 3117
+  size: 233, 54
+  orig: 233, 54
+  offset: 0, 0
+  index: -1
+meimao4
+  rotate: false
+  xy: 330, 3119
+  size: 231, 52
+  orig: 231, 52
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 1022, 3107
+  size: 276, 64
+  orig: 276, 64
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 1298, 3106
+  size: 274, 65
+  orig: 274, 65
+  offset: 0, 0
+  index: -1
+zuiba1
+  rotate: false
+  xy: 0, 3161
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: false
+  xy: 35, 3161
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+zuiba3
+  rotate: false
+  xy: 64, 3153
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1

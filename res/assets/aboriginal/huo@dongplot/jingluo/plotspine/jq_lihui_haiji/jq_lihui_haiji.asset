@@ -1,0 +1,99 @@
+{
+"skeleton": {
+	"hash": "IjNplrgN+ztEWfzWsJfcD7s6JAI",
+	"spine": "3.8.99",
+	"x": -1064.9,
+	"y": -817.86,
+	"width": 2030,
+	"height": 2017,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\海姬\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\海姬"
+},
+"bones": [
+	{ "name": "root", "x": -1073.9, "y": 1211.14, "scaleX": 1.05, "scaleY": 1.05 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "body-front", "bone": "root", "attachment": "body-front" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1039.5, "y": -730, "width": 381, "height": 594 }
+			},
+			"body": {
+				"body": { "x": 978, "y": -1035.5, "width": 1938, "height": 1981 }
+			},
+			"body-front": {
+				"body-front": { "x": 1148.5, "y": -1020.5, "width": 1781, "height": 2017 }
+			},
+			"daiji": {
+				"daiji": { "x": 1023.5, "y": -530.5, "width": 185, "height": 145 }
+			},
+			"sad": {
+				"sad": { "x": 1039.5, "y": -730, "width": 381, "height": 594 }
+			},
+			"shame": {
+				"shame": { "x": 1039.5, "y": -730, "width": 381, "height": 594 }
+			},
+			"smile": {
+				"smile": { "x": 1039.5, "y": -730, "width": 381, "height": 594 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

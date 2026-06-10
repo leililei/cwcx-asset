@@ -1,0 +1,48 @@
+
+jq_lihui_bailimomo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 352
+  size: 2050, 1880
+  orig: 2050, 1880
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2050, 1432
+  size: 212, 149
+  orig: 212, 149
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 2050, 1834
+  size: 193, 174
+  orig: 193, 174
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 2050, 2027
+  size: 205, 182
+  orig: 205, 182
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 2050, 1644
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+shuanglang
+  rotate: true
+  xy: 2050, 1220
+  size: 212, 146
+  orig: 212, 146
+  offset: 0, 0
+  index: -1

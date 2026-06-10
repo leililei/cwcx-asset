@@ -1,0 +1,83 @@
+
+jq_lihui_aertaiya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 0, 3848
+  size: 407, 244
+  orig: 407, 244
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2023, 3828
+  size: 400, 264
+  orig: 400, 264
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 2371
+  size: 1433, 4092
+  orig: 1433, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2423, 3828
+  size: 406, 264
+  orig: 406, 264
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 3235, 3809
+  size: 418, 283
+  orig: 418, 283
+  offset: 0, 0
+  index: -1
+shengqi1
+  rotate: false
+  xy: 407, 3833
+  size: 406, 259
+  orig: 406, 259
+  offset: 0, 0
+  index: -1
+shengqi2
+  rotate: false
+  xy: 3653, 3804
+  size: 406, 288
+  orig: 406, 288
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 813, 3830
+  size: 406, 262
+  orig: 406, 262
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 1219, 3829
+  size: 406, 263
+  orig: 406, 263
+  offset: 0, 0
+  index: -1
+zhenjing
+  rotate: false
+  xy: 1625, 3829
+  size: 398, 263
+  orig: 398, 263
+  offset: 0, 0
+  index: -1
+zixin
+  rotate: false
+  xy: 2829, 3821
+  size: 406, 271
+  orig: 406, 271
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jq_lihui_dlls_child.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 2320
+  size: 1388, 4091
+  orig: 1388, 4091
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1438, 3747
+  size: 490, 345
+  orig: 490, 345
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 955, 3748
+  size: 483, 344
+  orig: 483, 344
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 1928, 3708
+  size: 487, 384
+  orig: 487, 384
+  offset: 0, 0
+  index: -1
+mengban
+  rotate: false
+  xy: 0, 3813
+  size: 499, 279
+  orig: 499, 279
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: true
+  xy: 0, 918
+  size: 1402, 4092
+  orig: 1402, 4092
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 499, 3808
+  size: 456, 284
+  orig: 456, 284
+  offset: 0, 0
+  index: -1

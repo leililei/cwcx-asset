@@ -1,0 +1,128 @@
+{
+"skeleton": {
+	"hash": "T1CQvIKVSRrqDwMgbd3/T3ExHEQ",
+	"spine": "3.8.99",
+	"x": -847.32,
+	"y": -537.69,
+	"width": 1601,
+	"height": 1868,
+	"images": "C:\\Users\\1\\Desktop\\一周年spine\\珂斯嘉德PSD与spine数据\\images",
+	"audio": "C:\\Users\\1\\Desktop\\一周年spine\\珂斯嘉德PSD与spine数据"
+},
+"bones": [
+	{ "name": "root", "x": -847.32, "y": 1329.31 }
+],
+"slots": [
+	{ "name": "houjing", "bone": "root", "attachment": "houjing" },
+	{ "name": "youshou", "bone": "root", "attachment": "youshou" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "zuoshou", "bone": "root", "attachment": "zuoshou" },
+	{ "name": "qianjing", "bone": "root", "attachment": "qianjing" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "zixin", "bone": "root" },
+	{ "name": "wubiaoqing", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "buyue", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "liuhai", "bone": "root", "attachment": "liuhai" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 806, "y": -294, "width": 208, "height": 156 }
+			},
+			"body": {
+				"body": { "x": 856.5, "y": -1085.5, "width": 715, "height": 1535 }
+			},
+			"buyue": {
+				"buyue": { "x": 809, "y": -294.5, "width": 214, "height": 155 }
+			},
+			"houjing": {
+				"houjing": { "x": 822.5, "y": -898.5, "width": 1431, "height": 1799 }
+			},
+			"liuhai": {
+				"liuhai": { "x": 750, "y": -221, "width": 270, "height": 266 }
+			},
+			"qianjing": {
+				"qianjing": { "x": 1110.5, "y": -916, "width": 981, "height": 1744 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 809, "y": -294, "width": 214, "height": 156 }
+			},
+			"wubiaoqing": {
+				"wubiaoqing": { "x": 809, "y": -294, "width": 214, "height": 156 }
+			},
+			"yansu": {
+				"yansu": { "x": 809, "y": -293.5, "width": 214, "height": 155 }
+			},
+			"youshou": {
+				"youshou": { "x": 411, "y": -942.5, "width": 822, "height": 1849 }
+			},
+			"zixin": {
+				"zixin": { "x": 809, "y": -293.5, "width": 214, "height": 155 }
+			},
+			"zuoshou": {
+				"zuoshou": { "x": 1043.5, "y": -954.5, "width": 155, "height": 933 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"buyue": {
+		"slots": {
+			"buyue": {
+				"attachment": [
+					{ "name": "buyue" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	},
+	"wubiaoqing": {
+		"slots": {
+			"wubiaoqing": {
+				"attachment": [
+					{ "name": "wubiaoqing" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	},
+	"zixin": {
+		"slots": {
+			"zixin": {
+				"attachment": [
+					{ "name": "zixin" }
+				]
+			}
+		}
+	}
+}
+}

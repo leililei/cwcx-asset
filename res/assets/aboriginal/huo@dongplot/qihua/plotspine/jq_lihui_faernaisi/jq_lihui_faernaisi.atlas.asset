@@ -1,0 +1,69 @@
+
+jq_lihui_faernaisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 3330
+  size: 269, 200
+  orig: 269, 200
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 402
+  size: 2319, 3530
+  orig: 2319, 3530
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1096, 3317
+  size: 286, 213
+  orig: 286, 213
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 2061, 2721
+  size: 864, 809
+  orig: 864, 809
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 269, 3325
+  size: 270, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1660, 3303
+  size: 401, 227
+  orig: 401, 227
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 539, 3318
+  size: 282, 212
+  orig: 282, 212
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 821, 3318
+  size: 275, 212
+  orig: 275, 212
+  offset: 0, 0
+  index: -1
+zhuai
+  rotate: false
+  xy: 1382, 3305
+  size: 278, 225
+  orig: 278, 225
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "WRQ+AAlnppf9lg28oGYaz0+pttU",
+	"spine": "3.8.99",
+	"x": -1126.19,
+	"y": -433.13,
+	"width": 2152.5,
+	"height": 1974,
+	"images": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\百里默默\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\鲸落角色psd 导出spine\\百里默默"
+},
+"bones": [
+	{ "name": "root", "x": -1125.14, "y": 1718.32, "scaleX": 1.05, "scaleY": 1.05 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "shuanglang", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1024, "y": -1109, "width": 2050, "height": 1880 }
+			},
+			"daiji": {
+				"daiji": { "x": 781, "y": -758.5, "width": 212, "height": 149 }
+			},
+			"ganga": {
+				"ganga": { "x": 778.5, "y": -746, "width": 193, "height": 174 }
+			},
+			"happy": {
+				"happy": { "x": 779.5, "y": -760, "width": 205, "height": 182 }
+			},
+			"sad": {
+				"sad": { "x": 777, "y": -756, "width": 190, "height": 152 }
+			},
+			"shuanglang": {
+				"shuanglang": { "x": 781, "y": -757, "width": 212, "height": 146 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shuanglang": {
+		"slots": {
+			"shuanglang": {
+				"attachment": [
+					{ "name": "shuanglang" }
+				]
+			}
+		}
+	}
+}
+}

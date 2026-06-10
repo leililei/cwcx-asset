@@ -1,0 +1,61 @@
+{
+"skeleton": {
+	"hash": "z9hzlPzp7BmT+naxkLE7WzNWk6M",
+	"spine": "3.8.99",
+	"x": -630.22,
+	"y": -567.54,
+	"width": 1245,
+	"height": 2498,
+	"images": "C:\\Users\\Plan123\\Desktop\\cunminB\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\cunminB"
+},
+"bones": [
+	{ "name": "root", "x": -854.94, "y": 1507.07 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 830.5, "y": -304, "width": 417, "height": 514 }
+			},
+			"body": {
+				"body": { "x": 821.5, "y": -1248, "width": 1245, "height": 2498 }
+			},
+			"daiji": {
+				"daiji": { "x": 821.5, "y": -1248, "width": 1245, "height": 2498 }
+			},
+			"jingya": {
+				"jingya": { "x": 854.5, "y": -318, "width": 477, "height": 512 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	}
+}
+}

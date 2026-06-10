@@ -1,0 +1,116 @@
+{
+"skeleton": {
+	"hash": "yFm25JhWUNR0usKpKpvjWiY7m60",
+	"spine": "3.8.99",
+	"x": -1478,
+	"y": -2007,
+	"width": 2319,
+	"height": 3530,
+	"images": "G:\\文案的活2\\歧花spine\\faernaisi\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\faernaisi"
+},
+"bones": [
+	{ "name": "root", "x": -1956, "y": 1998 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "zhuai", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1898.5, "y": -827, "width": 269, "height": 200 }
+			},
+			"body": {
+				"body": { "x": 1637.5, "y": -2240, "width": 2319, "height": 3530 }
+			},
+			"daiji": {
+				"daiji": { "x": 1888, "y": -818.5, "width": 286, "height": 213 }
+			},
+			"glass": {
+				"glass": { "x": 1945, "y": -896.5, "width": 864, "height": 809 }
+			},
+			"sad": {
+				"sad": { "x": 1896, "y": -822.5, "width": 270, "height": 205 }
+			},
+			"shy": {
+				"shy": { "x": 1943.5, "y": -825.5, "width": 401, "height": 227 }
+			},
+			"smile": {
+				"smile": { "x": 1890, "y": -821, "width": 282, "height": 212 }
+			},
+			"yansu": {
+				"yansu": { "x": 1893.5, "y": -819, "width": 275, "height": 212 }
+			},
+			"zhuai": {
+				"zhuai": { "x": 1892, "y": -813.5, "width": 278, "height": 225 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	},
+	"zhuai": {
+		"slots": {
+			"zhuai": {
+				"attachment": [
+					{ "name": "zhuai" }
+				]
+			}
+		}
+	}
+}
+}

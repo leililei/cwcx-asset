@@ -1,0 +1,111 @@
+
+jq_lihui_chana_changfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 1386
+  size: 1719, 3171
+  orig: 1719, 3171
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 809, 3111
+  size: 230, 60
+  orig: 230, 60
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: false
+  xy: 1421, 3107
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+meimao3
+  rotate: false
+  xy: 124, 3131
+  size: 232, 40
+  orig: 232, 40
+  offset: 0, 0
+  index: -1
+meimao4
+  rotate: false
+  xy: 578, 3118
+  size: 231, 53
+  orig: 231, 53
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 356, 3128
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 467, 3128
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1
+yanjing3
+  rotate: false
+  xy: 1039, 3108
+  size: 276, 63
+  orig: 276, 63
+  offset: 0, 0
+  index: -1
+yanjing4
+  rotate: false
+  xy: 1315, 3108
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+yanjing5
+  rotate: false
+  xy: 1658, 3107
+  size: 272, 64
+  orig: 272, 64
+  offset: 0, 0
+  index: -1
+yanjing6
+  rotate: false
+  xy: 1930, 3105
+  size: 274, 66
+  orig: 274, 66
+  offset: 0, 0
+  index: -1
+zuiba1
+  rotate: false
+  xy: 64, 3160
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: false
+  xy: 0, 3163
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+zuiba3
+  rotate: false
+  xy: 37, 3162
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+zuiba4
+  rotate: false
+  xy: 101, 3153
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

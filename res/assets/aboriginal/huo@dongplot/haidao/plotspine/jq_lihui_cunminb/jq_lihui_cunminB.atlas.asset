@@ -1,0 +1,34 @@
+
+jq_lihui_cunminB.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2486, 2494
+  size: 415, 512
+  orig: 417, 514
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 510
+  size: 1243, 2496
+  orig: 1245, 2498
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 1243, 510
+  size: 1243, 2496
+  orig: 1245, 2498
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 475, 510
+  orig: 477, 512
+  offset: 1, 1
+  index: -1

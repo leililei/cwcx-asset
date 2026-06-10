@@ -1,0 +1,83 @@
+
+jq_lihui_dafululu_baomao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: true
+  xy: 1668, 2211
+  size: 186, 188
+  orig: 186, 188
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 0
+  size: 703, 2050
+  orig: 703, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1236, 1958
+  size: 186, 131
+  orig: 186, 131
+  offset: 0, 0
+  index: -1
+faxian
+  rotate: true
+  xy: 969, 1958
+  size: 186, 135
+  orig: 186, 135
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 0, 703
+  size: 969, 2050
+  orig: 969, 2050
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 969, 2144
+  size: 699, 609
+  orig: 699, 609
+  offset: 0, 0
+  index: -1
+maozuixiao
+  rotate: false
+  xy: 1856, 2260
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: true
+  xy: 1104, 1958
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1367, 1958
+  size: 186, 130
+  orig: 186, 130
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1856, 2123
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: true
+  xy: 1668, 2397
+  size: 356, 474
+  orig: 356, 474
+  offset: 0, 0
+  index: -1

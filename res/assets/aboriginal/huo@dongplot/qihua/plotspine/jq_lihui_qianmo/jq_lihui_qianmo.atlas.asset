@@ -1,0 +1,69 @@
+
+jq_lihui_qianmo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 991, 6
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 148
+  size: 2626, 3592
+  orig: 2626, 3592
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 395, 4
+  size: 201, 144
+  orig: 201, 144
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 797, 4
+  size: 194, 144
+  orig: 194, 144
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1386, 73
+  size: 185, 75
+  orig: 185, 75
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 596, 4
+  size: 201, 144
+  orig: 201, 144
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 201, 148
+  orig: 201, 148
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1192, 9
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 201, 3
+  size: 194, 145
+  orig: 194, 145
+  offset: 0, 0
+  index: -1

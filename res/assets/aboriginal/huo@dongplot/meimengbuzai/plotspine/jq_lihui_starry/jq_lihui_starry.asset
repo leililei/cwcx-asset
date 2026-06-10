@@ -1,0 +1,290 @@
+{
+"skeleton": {
+	"hash": "qw2Pu7RpWe0Z9MGkHkAYzBdDQUU",
+	"spine": "3.8.99",
+	"x": -595.05,
+	"y": -648.04,
+	"width": 1078,
+	"height": 2015,
+	"images": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -595.05, "y": 1365.96 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "body2", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "apathy", "bone": "root" },
+	{ "name": "ridicule", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "surprise", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 564, "y": -298.5, "width": 278, "height": 221 }
+			},
+			"apathy": {
+				"apathy": { "x": 564, "y": -308.5, "width": 278, "height": 201 }
+			},
+			"body": {
+				"body": { "x": 539, "y": -1006.5, "width": 1078, "height": 2015 }
+			},
+			"body2": {
+				"body2": { "x": 538.5, "y": -1006.5, "width": 1079, "height": 2015 }
+			},
+			"daiji": {
+				"daiji": { "x": 565, "y": -309.5, "width": 276, "height": 199 }
+			},
+			"happy": {
+				"happy": { "x": 559.5, "y": -305.5, "width": 263, "height": 207 }
+			},
+			"ridicule": {
+				"ridicule": { "x": 561, "y": -303.5, "width": 284, "height": 211 }
+			},
+			"sad": {
+				"sad": { "x": 562.5, "y": -302.5, "width": 279, "height": 213 }
+			},
+			"shy": {
+				"shy": { "x": 569, "y": -300.5, "width": 296, "height": 217 }
+			},
+			"surprise": {
+				"surprise": { "x": 562.5, "y": -307.5, "width": 281, "height": 203 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"apathy": {
+		"slots": {
+			"apathy": {
+				"attachment": [
+					{ "name": "apathy" }
+				]
+			}
+		}
+	},
+	"apathy2": {
+		"slots": {
+			"apathy": {
+				"attachment": [
+					{ "name": "apathy" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"ridicule": {
+		"slots": {
+			"ridicule": {
+				"attachment": [
+					{ "name": "ridicule" }
+				]
+			}
+		}
+	},
+	"ridicule2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"ridicule": {
+				"attachment": [
+					{ "name": "ridicule" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"surprise": {
+		"slots": {
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	},
+	"surprise2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"surprise": {
+				"attachment": [
+					{ "name": "surprise" }
+				]
+			}
+		}
+	}
+}
+}

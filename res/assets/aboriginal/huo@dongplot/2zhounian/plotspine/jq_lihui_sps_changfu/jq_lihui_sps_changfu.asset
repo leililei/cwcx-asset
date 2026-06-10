@@ -1,0 +1,786 @@
+{
+"skeleton": {
+	"hash": "0uBWbDhTHouQD5Qo4BXF/eu2/sA",
+	"spine": "3.8.99",
+	"x": -601.45,
+	"y": -2031.09,
+	"width": 2138,
+	"height": 3872,
+	"images": "./images/",
+	"audio": "D:/活动资源相关/2025.4+6月/二周年相关/二周年立绘/jq_lihui_sps_changfu"
+},
+"bones": [
+	{ "name": "root", "x": -1420.45, "y": 2065.91 }
+],
+"slots": [
+	{ "name": "toufa2", "bone": "root", "attachment": "toufa2" },
+	{ "name": "toufa1", "bone": "root" },
+	{ "name": "youshou", "bone": "root", "attachment": "youshou" },
+	{ "name": "yaodai2", "bone": "root", "attachment": "yaodai2" },
+	{ "name": "yaodai1", "bone": "root", "attachment": "yaodai1" },
+	{ "name": "zuoshou", "bone": "root", "attachment": "zuoshou" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "daimao", "bone": "root", "attachment": "daimao" },
+	{ "name": "X", "bone": "root" },
+	{ "name": "yuanquan", "bone": "root" },
+	{ "name": "aixin", "bone": "root" },
+	{ "name": "wenhao", "bone": "root" },
+	{ "name": "gantanhao", "bone": "root" },
+	{ "name": "doupengdaimao", "bone": "root" },
+	{ "name": "bq_yansu", "bone": "root" },
+	{ "name": "bq_shengqi", "bone": "root" },
+	{ "name": "bq_haixiu", "bone": "root" },
+	{ "name": "bq_daiji", "bone": "root" },
+	{ "name": "bq_weixiao", "bone": "root" },
+	{ "name": "bq_wink", "bone": "root" },
+	{ "name": "bq_biyan", "bone": "root" },
+	{ "name": "bq_maozuixiao", "bone": "root" },
+	{ "name": "doupeng", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"X": {
+				"X": { "x": 1252, "y": -288, "width": 270, "height": 316 }
+			},
+			"aixin": {
+				"aixin": { "x": 1290, "y": -257.5, "width": 410, "height": 375 }
+			},
+			"bq_biyan": {
+				"bq_biyan": { "x": 1415, "y": -809.5, "width": 320, "height": 241 }
+			},
+			"bq_daiji": {
+				"bq_daiji": { "x": 1419, "y": -801, "width": 334, "height": 224 }
+			},
+			"bq_haixiu": {
+				"bq_haixiu": { "x": 1440, "y": -823, "width": 414, "height": 252 }
+			},
+			"bq_maozuixiao": {
+				"bq_maozuixiao": { "x": 1415, "y": -810, "width": 320, "height": 242 }
+			},
+			"bq_shengqi": {
+				"bq_shengqi": { "x": 1419, "y": -808, "width": 334, "height": 258 }
+			},
+			"bq_weixiao": {
+				"bq_weixiao": { "x": 1419, "y": -804, "width": 334, "height": 230 }
+			},
+			"bq_wink": {
+				"bq_wink": { "x": 1420.5, "y": -804, "width": 331, "height": 230 }
+			},
+			"bq_yansu": {
+				"bq_yansu": { "x": 1409.5, "y": -801, "width": 353, "height": 220 }
+			},
+			"daimao": {
+				"daimao": { "x": 1112, "y": -496, "width": 586, "height": 542 }
+			},
+			"doupeng": {
+				"doupeng": { "x": 1714.5, "y": -1184.5, "width": 1993, "height": 1729 }
+			},
+			"doupengdaimao": {
+				"doupengdaimao": { "x": 1310, "y": -941.5, "width": 398, "height": 721 }
+			},
+			"face": {
+				"face": { "x": 1353, "y": -710, "width": 688, "height": 614 }
+			},
+			"gantanhao": {
+				"gantanhao": { "x": 1248.5, "y": -254, "width": 301, "height": 510 }
+			},
+			"toufa1": {
+				"toufa1": { "x": 2026, "y": -1702.5, "width": 1196, "height": 1795 }
+			},
+			"toufa2": {
+				"toufa2": { "x": 2235.5, "y": -1380, "width": 1443, "height": 1618 }
+			},
+			"wenhao": {
+				"wenhao": { "x": 1250, "y": -283.5, "width": 342, "height": 367 }
+			},
+			"yaodai1": {
+				"yaodai1": { "x": 1355.5, "y": -1677.5, "width": 561, "height": 265 }
+			},
+			"yaodai2": {
+				"yaodai2": { "x": 1581.5, "y": -2482.5, "width": 1347, "height": 3229 }
+			},
+			"youshou": {
+				"youshou": { "x": 1095.5, "y": -1560, "width": 473, "height": 1064 }
+			},
+			"yuanquan": {
+				"yuanquan": { "x": 1258, "y": -337, "width": 306, "height": 306 }
+			},
+			"zuoshou": {
+				"zuoshou": { "x": 1791, "y": -1368.5, "width": 556, "height": 773 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"bq_biyan": {
+				"attachment": [
+					{ "name": "bq_biyan" }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_biyan": {
+				"attachment": [
+					{ "name": "bq_biyan" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan3": {
+		"slots": {
+			"bq_biyan": {
+				"attachment": [
+					{ "name": "bq_biyan" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bq_daiji": {
+				"attachment": [
+					{ "name": "bq_daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"bq_daiji": {
+				"attachment": [
+					{ "name": "bq_daiji" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wenhao": {
+				"attachment": [
+					{ "name": "wenhao" }
+				]
+			}
+		}
+	},
+	"doupeng": {
+		"slots": {
+			"bq_daiji": {
+				"attachment": [
+					{ "name": "bq_daiji" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": "doupengdaimao" }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng2": {
+		"slots": {
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": "doupengdaimao" }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng3": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_wink": {
+				"attachment": [
+					{ "name": "bq_wink" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng4": {
+		"slots": {
+			"bq_yansu": {
+				"attachment": [
+					{ "name": "bq_yansu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": "doupengdaimao" }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng5": {
+		"slots": {
+			"bq_yansu": {
+				"attachment": [
+					{ "name": "bq_yansu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gantanhao": {
+				"attachment": [
+					{ "name": "gantanhao" }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng6": {
+		"slots": {
+			"bq_biyan": {
+				"attachment": [
+					{ "name": "bq_biyan" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"doupeng7": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_biyan": {
+				"attachment": [
+					{ "name": "bq_biyan" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"doupengdaimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"doupeng8": {
+		"slots": {
+			"bq_shengqi": {
+				"attachment": [
+					{ "name": "bq_shengqi" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"doupeng": {
+				"attachment": [
+					{ "name": "doupeng" }
+				]
+			},
+			"gantanhao": {
+				"attachment": [
+					{ "name": "gantanhao" }
+				]
+			},
+			"toufa1": {
+				"attachment": [
+					{ "name": "toufa1" }
+				]
+			},
+			"toufa2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"X": {
+				"attachment": [
+					{ "name": "X" }
+				]
+			},
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu3": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu4": {
+		"slots": {
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gantanhao": {
+				"attachment": [
+					{ "name": "gantanhao" }
+				]
+			}
+		}
+	},
+	"haixiu5": {
+		"slots": {
+			"bq_haixiu": {
+				"attachment": [
+					{ "name": "bq_haixiu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"maozui1": {
+		"slots": {
+			"bq_maozuixiao": {
+				"attachment": [
+					{ "name": "bq_maozuixiao" }
+				]
+			}
+		}
+	},
+	"maozui2": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_maozuixiao": {
+				"attachment": [
+					{ "name": "bq_maozuixiao" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"maozui3": {
+		"slots": {
+			"bq_maozuixiao": {
+				"attachment": [
+					{ "name": "bq_maozuixiao" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"bq_shengqi": {
+				"attachment": [
+					{ "name": "bq_shengqi" }
+				]
+			}
+		}
+	},
+	"shengqi2": {
+		"slots": {
+			"X": {
+				"attachment": [
+					{ "name": "X" }
+				]
+			},
+			"bq_shengqi": {
+				"attachment": [
+					{ "name": "bq_shengqi" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi3": {
+		"slots": {
+			"bq_shengqi": {
+				"attachment": [
+					{ "name": "bq_shengqi" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gantanhao": {
+				"attachment": [
+					{ "name": "gantanhao" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bq_weixiao": {
+				"attachment": [
+					{ "name": "bq_weixiao" }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"bq_weixiao": {
+				"attachment": [
+					{ "name": "bq_weixiao" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"bq_wink": {
+				"attachment": [
+					{ "name": "bq_wink" }
+				]
+			}
+		}
+	},
+	"wink2": {
+		"slots": {
+			"aixin": {
+				"attachment": [
+					{ "name": "aixin" }
+				]
+			},
+			"bq_wink": {
+				"attachment": [
+					{ "name": "bq_wink" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"wink3": {
+		"slots": {
+			"bq_wink": {
+				"attachment": [
+					{ "name": "bq_wink" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuanquan": {
+				"attachment": [
+					{ "name": "yuanquan" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"bq_yansu": {
+				"attachment": [
+					{ "name": "bq_yansu" }
+				]
+			}
+		}
+	},
+	"yansu2": {
+		"slots": {
+			"X": {
+				"attachment": [
+					{ "name": "X" }
+				]
+			},
+			"bq_yansu": {
+				"attachment": [
+					{ "name": "bq_yansu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"yansu3": {
+		"slots": {
+			"bq_yansu": {
+				"attachment": [
+					{ "name": "bq_yansu" }
+				]
+			},
+			"daimao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wenhao": {
+				"attachment": [
+					{ "name": "wenhao" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,48 @@
+
+jq_lihui_libidi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 0
+  size: 198, 123
+  orig: 200, 125
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 123
+  size: 1094, 1754
+  orig: 1096, 1756
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 395, 6
+  size: 197, 117
+  orig: 199, 119
+  offset: 1, 1
+  index: -1
+happy
+  rotate: false
+  xy: 592, 6
+  size: 197, 117
+  orig: 199, 119
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 198, 0
+  size: 197, 123
+  orig: 199, 125
+  offset: 1, 1
+  index: -1
+shy
+  rotate: false
+  xy: 789, 10
+  size: 170, 113
+  orig: 172, 115
+  offset: 1, 1
+  index: -1

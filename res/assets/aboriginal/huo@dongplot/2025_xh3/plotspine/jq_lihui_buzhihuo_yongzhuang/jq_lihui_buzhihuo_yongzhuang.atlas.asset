@@ -1,0 +1,83 @@
+
+jq_lihui_buzhihuo_yongzhuang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 486
+  size: 3428, 4092
+  orig: 3428, 4092
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: true
+  xy: 0, 3914
+  size: 178, 181
+  orig: 178, 181
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 181, 3914
+  size: 178, 226
+  orig: 178, 226
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: true
+  xy: 407, 3914
+  size: 178, 181
+  orig: 178, 181
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: true
+  xy: 588, 3914
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 774, 3914
+  size: 178, 189
+  orig: 178, 189
+  offset: 0, 0
+  index: -1
+nu
+  rotate: true
+  xy: 963, 3914
+  size: 178, 210
+  orig: 178, 210
+  offset: 0, 0
+  index: -1
+tinghao
+  rotate: true
+  xy: 1173, 3914
+  size: 178, 197
+  orig: 178, 197
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: true
+  xy: 1370, 3914
+  size: 178, 189
+  orig: 178, 189
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 1559, 3914
+  size: 178, 193
+  orig: 178, 193
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: true
+  xy: 1752, 3914
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+
+jq_lihui_dachalisha_zhandou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 0, 2295
+  size: 273, 162
+  orig: 273, 162
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1640, 2278
+  size: 271, 179
+  orig: 271, 179
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 273, 2290
+  size: 273, 167
+  orig: 273, 167
+  offset: 0, 0
+  index: -1
+fuyoupao
+  rotate: false
+  xy: 0, 329
+  size: 2036, 1939
+  orig: 2036, 1939
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1090, 2286
+  size: 277, 171
+  orig: 277, 171
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1911, 2268
+  size: 273, 189
+  orig: 273, 189
+  offset: 0, 0
+  index: -1
+sikao
+  rotate: false
+  xy: 546, 2290
+  size: 271, 167
+  orig: 271, 167
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 817, 2288
+  size: 273, 169
+  orig: 273, 169
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1367, 2282
+  size: 273, 175
+  orig: 273, 175
+  offset: 0, 0
+  index: -1
+zhenjing
+  rotate: false
+  xy: 2184, 2268
+  size: 273, 189
+  orig: 273, 189
+  offset: 0, 0
+  index: -1
+
+jq_lihui_dachalisha_zhandou2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 3458, 4092
+  orig: 3458, 4092
+  offset: 0, 0
+  index: -1

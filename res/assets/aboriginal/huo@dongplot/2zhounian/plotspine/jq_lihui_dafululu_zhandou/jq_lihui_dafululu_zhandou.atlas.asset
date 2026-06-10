@@ -1,0 +1,90 @@
+
+jq_lihui_dafululu_zhandou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangbangtang
+  rotate: false
+  xy: 1690, 204
+  size: 186, 188
+  orig: 186, 188
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1191, 2005
+  size: 1078, 2050
+  orig: 1078, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1876, 206
+  size: 186, 131
+  orig: 186, 131
+  offset: 0, 0
+  index: -1
+faxian
+  rotate: true
+  xy: 1690, 18
+  size: 186, 135
+  orig: 186, 135
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 0, 2005
+  size: 1191, 2050
+  orig: 1191, 2050
+  offset: 0, 0
+  index: -1
+maozuixiao
+  rotate: true
+  xy: 1553, 196
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: true
+  xy: 1825, 18
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1957, 20
+  size: 186, 130
+  orig: 186, 130
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 1553, 0
+  size: 196, 137
+  orig: 196, 137
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 1079, 392
+  size: 1036, 1613
+  orig: 1036, 1613
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: true
+  xy: 1079, 35
+  size: 357, 474
+  orig: 357, 474
+  offset: 0, 0
+  index: -1
+xiantiao2
+  rotate: false
+  xy: 0, 50
+  size: 1079, 1955
+  orig: 1079, 1955
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+jq_lihui_heiboshi.png
+size: 825,825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 531, 825
+  orig: 531, 825
+  offset: 0, 0
+  index: -1

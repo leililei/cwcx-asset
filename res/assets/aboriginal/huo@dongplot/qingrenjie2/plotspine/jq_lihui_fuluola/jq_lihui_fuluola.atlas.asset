@@ -1,0 +1,76 @@
+
+jq_lihui_fuluola.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angry
+  rotate: false
+  xy: 2, 2
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Be shy
+  rotate: false
+  xy: 319, 2
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Extra
+  rotate: false
+  xy: 446, 458
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 373
+  size: 442, 454
+  orig: 442, 454
+  offset: 0, 0
+  index: -1
+Happy
+  rotate: false
+  xy: 636, 87
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Mouth_close
+  rotate: false
+  xy: 763, 458
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Mouth_open
+  rotate: false
+  xy: 953, 87
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Sad
+  rotate: false
+  xy: 1080, 458
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+Surprize
+  rotate: false
+  xy: 1270, 87
+  size: 315, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 829
+  size: 1954, 3183
+  orig: 1954, 3183
+  offset: 0, 0
+  index: -1

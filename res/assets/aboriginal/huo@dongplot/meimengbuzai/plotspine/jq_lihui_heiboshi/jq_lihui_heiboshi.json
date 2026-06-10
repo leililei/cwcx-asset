@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "wl1hkxm4U2HWHLxdzQ7dxCumNus",
+	"spine": "3.8.99",
+	"x": -277.06,
+	"y": -271.89,
+	"width": 531,
+	"height": 825,
+	"images": "C:\\Users\\1\\Desktop\\新建文件夹 (2)\\images",
+	"audio": "C:\\Users\\1\\Desktop\\新建文件夹 (2)"
+},
+"bones": [
+	{ "name": "root", "x": -276.06, "y": 552.11 }
+],
+"slots": [
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"daiji": {
+				"daiji": { "x": 264.5, "y": -411.5, "width": 531, "height": 825 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

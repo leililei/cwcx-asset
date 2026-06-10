@@ -1,0 +1,146 @@
+
+jq_lihui_guaidao990.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: true
+  xy: 2188, 131
+  size: 314, 216
+  orig: 314, 216
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 1803, 425
+  size: 314, 236
+  orig: 314, 236
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 741
+  size: 2731, 3323
+  orig: 2731, 3323
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 1691, 113
+  size: 310, 248
+  orig: 310, 248
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2041, 447
+  size: 292, 243
+  orig: 292, 243
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 894, 242
+  size: 497, 410
+  orig: 497, 410
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 501, 24
+  size: 391, 715
+  orig: 391, 715
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 2614, 2
+  size: 243, 241
+  orig: 243, 241
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2735, 3671
+  size: 260, 194
+  orig: 260, 194
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 894, 3
+  size: 398, 237
+  orig: 398, 237
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1294, 24
+  size: 395, 216
+  orig: 395, 216
+  offset: 0, 0
+  index: -1
+smile1
+  rotate: true
+  xy: 1306, 415
+  size: 324, 245
+  orig: 324, 245
+  offset: 0, 0
+  index: -1
+smile2
+  rotate: false
+  xy: 2512, 524
+  size: 296, 215
+  orig: 296, 215
+  offset: 0, 0
+  index: -1
+smile3
+  rotate: true
+  xy: 2406, 134
+  size: 314, 206
+  orig: 314, 206
+  offset: 0, 0
+  index: -1
+smile4
+  rotate: true
+  xy: 1553, 425
+  size: 314, 248
+  orig: 314, 248
+  offset: 0, 0
+  index: -1
+think
+  rotate: false
+  xy: 2735, 3867
+  size: 265, 197
+  orig: 265, 197
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 2, 118
+  size: 497, 621
+  orig: 497, 621
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 2286, 450
+  size: 289, 224
+  orig: 289, 224
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 2614, 247
+  size: 275, 231
+  orig: 275, 231
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: true
+  xy: 1941, 122
+  size: 301, 245
+  orig: 301, 245
+  offset: 0, 0
+  index: -1

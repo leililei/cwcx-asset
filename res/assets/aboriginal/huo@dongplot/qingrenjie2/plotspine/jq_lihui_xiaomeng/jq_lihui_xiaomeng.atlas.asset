@@ -1,0 +1,62 @@
+
+jq_lihui_xiaomeng.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2, 2
+  size: 246, 200
+  orig: 246, 200
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 753, 7
+  size: 246, 195
+  orig: 246, 195
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 204
+  size: 2333, 2525
+  orig: 2333, 2525
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1001, 10
+  size: 252, 192
+  orig: 252, 192
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1535, 107
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 504, 7
+  size: 247, 195
+  orig: 247, 195
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 1255, 20
+  size: 278, 182
+  orig: 278, 182
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 250, 7
+  size: 252, 195
+  orig: 252, 195
+  offset: 0, 0
+  index: -1

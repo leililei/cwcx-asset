@@ -1,0 +1,88 @@
+
+jq_lihui_mila.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 641, 1267
+  size: 165, 126
+  orig: 165, 126
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 806, 1267
+  size: 177, 126
+  orig: 177, 126
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 166, 1275
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 0, 131
+  size: 902, 1136
+  orig: 902, 1136
+  offset: 0, 0
+  index: -1
+xiongzhui
+  rotate: true
+  xy: 983, 1015
+  size: 378, 410
+  orig: 378, 410
+  offset: 0, 0
+  index: -1
+yiwai
+  rotate: false
+  xy: 478, 1269
+  size: 163, 124
+  orig: 163, 124
+  offset: 0, 0
+  index: -1
+zhuangsha
+  rotate: false
+  xy: 0, 1278
+  size: 166, 115
+  orig: 166, 115
+  offset: 0, 0
+  index: -1
+zixin
+  rotate: false
+  xy: 319, 1273
+  size: 159, 120
+  orig: 159, 120
+  offset: 0, 0
+  index: -1
+
+jq_lihui_mila2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: true
+  xy: 0, 199
+  size: 1563, 1762
+  orig: 1563, 1762
+  offset: 0, 0
+  index: -1
+
+jq_lihui_mila3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1610, 1757
+  orig: 1610, 1757
+  offset: 0, 0
+  index: -1

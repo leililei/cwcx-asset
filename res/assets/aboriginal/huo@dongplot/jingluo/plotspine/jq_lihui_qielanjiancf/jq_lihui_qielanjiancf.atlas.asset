@@ -1,0 +1,55 @@
+
+jq_lihui_qielanjiancf.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 0
+  size: 157, 146
+  orig: 157, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 146
+  size: 1252, 1868
+  orig: 1252, 1868
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 157, 14
+  size: 168, 132
+  orig: 168, 132
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 683, 18
+  size: 185, 128
+  orig: 185, 128
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 868, 18
+  size: 161, 128
+  orig: 161, 128
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 510, 16
+  size: 173, 130
+  orig: 173, 130
+  offset: 0, 0
+  index: -1
+think
+  rotate: false
+  xy: 325, 16
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1

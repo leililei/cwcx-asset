@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "8dHM+qR+trHfS5P0Ld6ZDuUtYi0",
+	"spine": "3.8.99",
+	"x": -477.89,
+	"y": -822.34,
+	"width": 1096,
+	"height": 1756,
+	"images": "./images/",
+	"audio": "C:/Users/Plan123/Desktop/libidi"
+},
+"bones": [
+	{ "name": "root", "x": -622.89, "y": 932.66 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 583, "y": -239.5, "width": 200, "height": 125 }
+			},
+			"body": {
+				"body": { "x": 693, "y": -877, "width": 1096, "height": 1756 }
+			},
+			"daiji": {
+				"daiji": { "x": 583.5, "y": -237.5, "width": 199, "height": 119 }
+			},
+			"happy": {
+				"happy": { "x": 583.5, "y": -237.5, "width": 199, "height": 119 }
+			},
+			"sad": {
+				"sad": { "x": 583.5, "y": -239.5, "width": 199, "height": 125 }
+			},
+			"shy": {
+				"shy": { "x": 571, "y": -235.5, "width": 172, "height": 115 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	}
+}
+}

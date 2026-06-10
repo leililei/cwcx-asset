@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "+3j9Bn7wamAXvz8ehE7hwYoBd3U",
+	"spine": "3.8.99",
+	"x": -1597.12,
+	"y": -1851.96,
+	"width": 4092,
+	"height": 3607,
+	"images": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_heiyouling\\images",
+	"audio": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_heiyouling"
+},
+"bones": [
+	{ "name": "root", "x": -1596.12, "y": 1754.04 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 2045, "y": -1802.5, "width": 4092, "height": 3607 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

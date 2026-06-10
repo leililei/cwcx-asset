@@ -1,0 +1,210 @@
+{
+"skeleton": {
+	"hash": "d3R8Dxqzxiw+XmXRVKACX164rLE",
+	"spine": "3.8.99",
+	"x": -990.86,
+	"y": -2362.68,
+	"width": 2100,
+	"height": 4092,
+	"images": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_mozi\\images",
+	"audio": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_mozi"
+},
+"bones": [
+	{ "name": "root", "x": -989.86, "y": 1728.32 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "xiao3", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "xiao1", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "fafeng", "bone": "root" },
+	{ "name": "xiantiao", "bone": "root", "attachment": "xiantiao" },
+	{ "name": "yanjing", "bone": "root", "attachment": "yanjing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1051.5, "y": -2045, "width": 2089, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 999, "y": -470.5, "width": 384, "height": 207 }
+			},
+			"fafeng": {
+				"fafeng": { "x": 998, "y": -480.5, "width": 382, "height": 227 }
+			},
+			"nu": {
+				"nu": { "x": 999, "y": -462, "width": 384, "height": 224 }
+			},
+			"xiantiao": {
+				"xiantiao": { "x": 1049, "y": -1118.5, "width": 2100, "height": 2239 }
+			},
+			"xiao1": {
+				"xiao1": { "x": 994.5, "y": -469.5, "width": 347, "height": 227 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 995.5, "y": -468.5, "width": 345, "height": 211 }
+			},
+			"xiao3": {
+				"xiao3": { "x": 991.5, "y": -468.5, "width": 339, "height": 209 }
+			},
+			"yanjing": {
+				"yanjing": { "x": 997, "y": -470.5, "width": 350, "height": 155 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"fafeng": {
+		"slots": {
+			"fafeng": {
+				"attachment": [
+					{ "name": "fafeng" }
+				]
+			}
+		}
+	},
+	"fafeng2": {
+		"slots": {
+			"fafeng": {
+				"attachment": [
+					{ "name": "fafeng" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			}
+		}
+	},
+	"nu2": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"xiao1": {
+		"slots": {
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			}
+		}
+	},
+	"xiao1_2": {
+		"slots": {
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			},
+			"xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"xiao2_2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			},
+			"xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"xiao3": {
+		"slots": {
+			"xiao3": {
+				"attachment": [
+					{ "name": "xiao3" }
+				]
+			}
+		}
+	},
+	"xiao3_2": {
+		"slots": {
+			"xiao3": {
+				"attachment": [
+					{ "name": "xiao3" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

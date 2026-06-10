@@ -1,0 +1,89 @@
+
+jq_lihui_aofeiliya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 0, 1807
+  size: 261, 150
+  orig: 261, 150
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 522, 1789
+  size: 261, 168
+  orig: 261, 168
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1034, 1787
+  size: 363, 170
+  orig: 363, 170
+  offset: 0, 0
+  index: -1
+huangzhang
+  rotate: false
+  xy: 1397, 1780
+  size: 261, 177
+  orig: 261, 177
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 783, 1788
+  size: 251, 169
+  orig: 251, 169
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 261, 1794
+  size: 261, 163
+  orig: 261, 163
+  offset: 0, 0
+  index: -1
+shangbanshen
+  rotate: true
+  xy: 0, 543
+  size: 796, 1152
+  orig: 796, 1152
+  offset: 0, 0
+  index: -1
+shuiche1
+  rotate: false
+  xy: 0, 1339
+  size: 1352, 448
+  orig: 1352, 448
+  offset: 0, 0
+  index: -1
+shuiche2
+  rotate: false
+  xy: 1152, 164
+  size: 805, 1175
+  orig: 805, 1175
+  offset: 0, 0
+  index: -1
+
+jq_lihui_aofeiliya2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuoba
+  rotate: false
+  xy: 0, 1171
+  size: 2042, 871
+  orig: 2042, 871
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 0, 179
+  size: 1529, 992
+  orig: 1529, 992
+  offset: 0, 0
+  index: -1

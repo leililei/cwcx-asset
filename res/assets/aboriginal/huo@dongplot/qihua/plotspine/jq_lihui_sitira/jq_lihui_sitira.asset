@@ -1,0 +1,134 @@
+{
+"skeleton": {
+	"hash": "lfVSAL0Le2PaTCLRhSB3v+6nTCM",
+	"spine": "3.8.99",
+	"x": -1480.68,
+	"y": -1294.42,
+	"width": 2901,
+	"height": 2430,
+	"images": "G:\\文案的活2\\歧花spine\\sitira\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\sitira"
+},
+"bones": [
+	{ "name": "root", "x": -2483.68, "y": 1334.58 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "gaxiao", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "huangzhang", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 2453.5, "y": -1414, "width": 2901, "height": 2430 }
+			},
+			"daiji": {
+				"daiji": { "x": 2436.5, "y": -579.5, "width": 187, "height": 139 }
+			},
+			"gaxiao": {
+				"gaxiao": { "x": 2434.5, "y": -579.5, "width": 183, "height": 139 }
+			},
+			"huangzhang": {
+				"huangzhang": { "x": 2436.5, "y": -581.5, "width": 187, "height": 143 }
+			},
+			"jingya": {
+				"jingya": { "x": 2434, "y": -570, "width": 190, "height": 162 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 2432.5, "y": -564, "width": 195, "height": 162 }
+			},
+			"sad": {
+				"sad": { "x": 2440.5, "y": -578, "width": 179, "height": 140 }
+			},
+			"shy": {
+				"shy": { "x": 2436.5, "y": -580.5, "width": 187, "height": 141 }
+			},
+			"think": {
+				"think": { "x": 2436.5, "y": -579.5, "width": 187, "height": 139 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gaxiao": {
+		"slots": {
+			"gaxiao": {
+				"attachment": [
+					{ "name": "gaxiao" }
+				]
+			}
+		}
+	},
+	"huangzhang": {
+		"slots": {
+			"huangzhang": {
+				"attachment": [
+					{ "name": "huangzhang" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	}
+}
+}

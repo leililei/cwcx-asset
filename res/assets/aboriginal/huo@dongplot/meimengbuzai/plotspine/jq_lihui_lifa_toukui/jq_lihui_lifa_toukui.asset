@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "QHTN+ypSelMpbnbpUIhiCTWaIcU",
+	"spine": "3.8.99",
+	"x": -487,
+	"y": -2291,
+	"width": 969,
+	"height": 3720,
+	"images": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_lifa_toukui\\images",
+	"audio": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_lifa_toukui"
+},
+"bones": [
+	{ "name": "root", "x": -486, "y": 1428 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 483.5, "y": -1859, "width": 969, "height": 3720 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

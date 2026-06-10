@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "Vt1AqarSfWIzzifMkV+UvGyEaNM",
+	"spine": "3.8.99",
+	"x": -1527.07,
+	"y": -1498.81,
+	"width": 2756,
+	"height": 3138,
+	"images": "G:\\文案的活2\\歧花spine\\kafuka\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\kafuka"
+},
+"bones": [
+	{ "name": "root", "x": -2067.07, "y": 1756.19 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "jiao", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "wuyu", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "look", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 2086.5, "y": -830.5, "width": 225, "height": 181 }
+			},
+			"body": {
+				"body": { "x": 1918, "y": -1686, "width": 2756, "height": 3138 }
+			},
+			"daiji": {
+				"daiji": { "x": 2091.5, "y": -837, "width": 229, "height": 168 }
+			},
+			"hair": {
+				"hair": { "x": 2034, "y": -767, "width": 356, "height": 390 }
+			},
+			"jiao": {
+				"jiao": { "x": 2068.5, "y": -814, "width": 269, "height": 284 }
+			},
+			"look": {
+				"look": { "x": 2088.5, "y": -834, "width": 229, "height": 174 }
+			},
+			"sad": {
+				"sad": { "x": 2068.5, "y": -814, "width": 269, "height": 284 }
+			},
+			"shame": {
+				"shame": { "x": 2068.5, "y": -814, "width": 269, "height": 284 }
+			},
+			"smile": {
+				"smile": { "x": 2068.5, "y": -814, "width": 269, "height": 284 }
+			},
+			"wuyu": {
+				"wuyu": { "x": 2068.5, "y": -814, "width": 269, "height": 284 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jiao": {
+		"slots": {
+			"jiao": {
+				"attachment": [
+					{ "name": "jiao" }
+				]
+			}
+		}
+	},
+	"look": {
+		"slots": {
+			"look": {
+				"attachment": [
+					{ "name": "look" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wuyu": {
+		"slots": {
+			"wuyu": {
+				"attachment": [
+					{ "name": "wuyu" }
+				]
+			}
+		}
+	}
+}
+}

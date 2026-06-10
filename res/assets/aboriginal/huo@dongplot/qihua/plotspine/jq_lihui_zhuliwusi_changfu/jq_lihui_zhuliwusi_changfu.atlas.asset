@@ -1,0 +1,83 @@
+
+jq_lihui_zhuliwusi_changfu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: true
+  xy: 296, 211
+  size: 211, 137
+  orig: 211, 137
+  offset: 0, 0
+  index: -1
+bi yan
+  rotate: true
+  xy: 296, 14
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+bi yan2
+  rotate: true
+  xy: 421, 14
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 633
+  size: 937, 1374
+  orig: 937, 1374
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 0, 0
+  size: 211, 148
+  orig: 211, 148
+  offset: 0, 0
+  index: -1
+gan ga
+  rotate: true
+  xy: 0, 211
+  size: 211, 150
+  orig: 211, 150
+  offset: 0, 0
+  index: -1
+jing ya
+  rotate: true
+  xy: 150, 211
+  size: 211, 146
+  orig: 211, 146
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: true
+  xy: 153, 422
+  size: 211, 145
+  orig: 211, 145
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: true
+  xy: 0, 422
+  size: 211, 153
+  orig: 211, 153
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: true
+  xy: 298, 434
+  size: 199, 135
+  orig: 199, 135
+  offset: 0, 0
+  index: -1
+yan su
+  rotate: true
+  xy: 148, 0
+  size: 211, 148
+  orig: 211, 148
+  offset: 0, 0
+  index: -1

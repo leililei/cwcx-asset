@@ -1,0 +1,69 @@
+
+jq_lihui_IF_starry.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2544, 3801
+  size: 361, 291
+  orig: 361, 291
+  offset: 0, 0
+  index: -1
+apathy
+  rotate: false
+  xy: 359, 3828
+  size: 362, 264
+  orig: 362, 264
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1819
+  size: 1982, 4092
+  orig: 1982, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 3831
+  size: 359, 261
+  orig: 359, 261
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1086, 3821
+  size: 341, 271
+  orig: 341, 271
+  offset: 0, 0
+  index: -1
+recidule
+  rotate: false
+  xy: 1427, 3815
+  size: 369, 277
+  orig: 369, 277
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1796, 3813
+  size: 362, 279
+  orig: 362, 279
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 2158, 3808
+  size: 386, 284
+  orig: 386, 284
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 721, 3825
+  size: 365, 267
+  orig: 365, 267
+  offset: 0, 0
+  index: -1

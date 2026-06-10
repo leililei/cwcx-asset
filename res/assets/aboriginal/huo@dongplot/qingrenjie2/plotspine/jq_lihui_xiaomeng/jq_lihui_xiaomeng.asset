@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "kY0RdOVvER6A21yFjNGGw42oWM8",
+	"spine": "3.8.99",
+	"x": -1115.11,
+	"y": -1293.15,
+	"width": 2333,
+	"height": 2525,
+	"images": "G:\\情人节spine\\源文件处理\\xiaomeng\\images",
+	"audio": "G:\\情人节spine\\源文件处理\\xiaomeng"
+},
+"bones": [
+	{ "name": "root", "x": -1965.11, "y": 2025.85 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "shame", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1954, "y": -1160, "width": 246, "height": 200 }
+			},
+			"biyan": {
+				"biyan": { "x": 1946, "y": -1154.5, "width": 246, "height": 195 }
+			},
+			"body": {
+				"body": { "x": 2016.5, "y": -2056.5, "width": 2333, "height": 2525 }
+			},
+			"daiji": {
+				"daiji": { "x": 1951, "y": -1153, "width": 252, "height": 192 }
+			},
+			"hair": {
+				"hair": { "x": 1925.5, "y": -1046.5, "width": 155, "height": 95 }
+			},
+			"sad": {
+				"sad": { "x": 1954.5, "y": -1154.5, "width": 247, "height": 195 }
+			},
+			"shame": {
+				"shame": { "x": 1965, "y": -1161, "width": 278, "height": 182 }
+			},
+			"smile": {
+				"smile": { "x": 1951, "y": -1154.5, "width": 252, "height": 195 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shame": {
+		"slots": {
+			"shame": {
+				"attachment": [
+					{ "name": "shame" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

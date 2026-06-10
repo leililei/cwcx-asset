@@ -1,0 +1,270 @@
+{
+"skeleton": {
+	"hash": "V2l4mSHcOO2+G8MSoTGYT5shJO8",
+	"spine": "3.8.99",
+	"x": -1288.3,
+	"y": -1992.18,
+	"width": 2626,
+	"height": 3592,
+	"images": "G:\\文案的活2\\歧花spine\\qianmo\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\qianmo"
+},
+"bones": [
+	{ "name": "root", "x": -2181.3, "y": 1887.82 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "jingya", "bone": "root", "attachment": "jingya" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "glass", "bone": "root", "attachment": "glass" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2181.5, "y": -1066, "width": 201, "height": 142 }
+			},
+			"body": {
+				"body": { "x": 2206, "y": -2084, "width": 2626, "height": 3592 }
+			},
+			"daiji": {
+				"daiji": { "x": 2181.5, "y": -1066, "width": 201, "height": 144 }
+			},
+			"ganga": {
+				"ganga": { "x": 2178, "y": -1070, "width": 194, "height": 144 }
+			},
+			"glass": {
+				"glass": { "x": 2174.5, "y": -1072.5, "width": 185, "height": 75 }
+			},
+			"happy": {
+				"happy": { "x": 2181.5, "y": -1065, "width": 201, "height": 144 }
+			},
+			"jingya": {
+				"jingya": { "x": 2181.5, "y": -1068, "width": 201, "height": 148 }
+			},
+			"sad": {
+				"sad": { "x": 2178, "y": -1067.5, "width": 194, "height": 139 }
+			},
+			"shy": {
+				"shy": { "x": 2178, "y": -1070.5, "width": 194, "height": 145 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry-noglass": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji-noglass": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ganga-noglass": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"happy-noglass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya": {},
+	"jingya-noglass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad-noglass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy-noglass": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

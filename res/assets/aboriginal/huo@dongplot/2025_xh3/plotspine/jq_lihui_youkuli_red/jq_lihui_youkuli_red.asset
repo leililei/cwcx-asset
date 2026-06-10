@@ -1,0 +1,199 @@
+{
+"skeleton": {
+	"hash": "OEKgKFCB638aRndt1mx2ZlaLOBU",
+	"spine": "3.8.99",
+	"x": -569.01,
+	"y": 119.4,
+	"width": 1202,
+	"height": 968,
+	"images": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_youkuli_red\\images",
+	"audio": "D:\\活动资源相关\\影之国编年史3\\影之国编年史3NPC角色\\jq_lihui_youkuli_red"
+},
+"bones": [
+	{ "name": "root", "x": -568.01, "y": 1086.4 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "kuangxiao", "bone": "root" },
+	{ "name": "xiao1", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "maimeng", "bone": "root" },
+	{ "name": "meibanfa", "bone": "root" },
+	{ "name": "xianqi", "bone": "root" },
+	{ "name": "ku", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 600, "y": -483, "width": 1202, "height": 968 }
+			},
+			"chensi": {
+				"chensi": { "x": 598, "y": -541, "width": 478, "height": 216 }
+			},
+			"daiji": {
+				"daiji": { "x": 566.5, "y": -574.5, "width": 541, "height": 285 }
+			},
+			"danxin": {
+				"danxin": { "x": 566.5, "y": -562.5, "width": 541, "height": 309 }
+			},
+			"ganga": {
+				"ganga": { "x": 566.5, "y": -582.5, "width": 541, "height": 349 }
+			},
+			"jingya": {
+				"jingya": { "x": 595, "y": -539.5, "width": 484, "height": 239 }
+			},
+			"ku": {
+				"ku": { "x": 566.5, "y": -589.5, "width": 541, "height": 361 }
+			},
+			"kuangxiao": {
+				"kuangxiao": { "x": 594.5, "y": -550.5, "width": 485, "height": 267 }
+			},
+			"maimeng": {
+				"maimeng": { "x": 572.5, "y": -547, "width": 439, "height": 254 }
+			},
+			"meibanfa": {
+				"meibanfa": { "x": 556.5, "y": -570.5, "width": 539, "height": 275 }
+			},
+			"nu": {
+				"nu": { "x": 631.5, "y": -498, "width": 547, "height": 352 }
+			},
+			"xianqi": {
+				"xianqi": { "x": 584, "y": -552, "width": 452, "height": 288 }
+			},
+			"xiao1": {
+				"xiao1": { "x": 595.5, "y": -564.5, "width": 483, "height": 213 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 593, "y": -570.5, "width": 488, "height": 227 }
+			}
+		}
+	}
+],
+"animations": {
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			}
+		}
+	},
+	"kuangxiao": {
+		"slots": {
+			"kuangxiao": {
+				"attachment": [
+					{ "name": "kuangxiao" }
+				]
+			}
+		}
+	},
+	"maimeng": {
+		"slots": {
+			"maimeng": {
+				"attachment": [
+					{ "name": "maimeng" }
+				]
+			}
+		}
+	},
+	"meibanfa": {
+		"slots": {
+			"meibanfa": {
+				"attachment": [
+					{ "name": "meibanfa" }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			}
+		}
+	},
+	"xianqi": {
+		"slots": {
+			"xianqi": {
+				"attachment": [
+					{ "name": "xianqi" }
+				]
+			}
+		}
+	},
+	"xiao1": {
+		"slots": {
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			}
+		}
+	}
+}
+}

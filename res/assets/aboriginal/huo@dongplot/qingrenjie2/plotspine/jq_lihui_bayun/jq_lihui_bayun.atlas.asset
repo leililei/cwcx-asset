@@ -1,0 +1,83 @@
+
+jq_lihui_bayun.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1209, 2311
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 1711, 2170
+  orig: 1711, 2170
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1559, 2279
+  size: 155, 113
+  orig: 155, 113
+  offset: 0, 0
+  index: -1
+king
+  rotate: false
+  xy: 2, 1715
+  size: 1006, 2360
+  orig: 1006, 2360
+  offset: 0, 0
+  index: -1
+laji
+  rotate: false
+  xy: 1010, 2258
+  size: 197, 176
+  orig: 197, 176
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 2174, 1495
+  size: 939, 883
+  orig: 939, 883
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1209, 2145
+  size: 164, 112
+  orig: 164, 112
+  offset: 0, 0
+  index: -1
+smil2
+  rotate: true
+  xy: 1010, 2089
+  size: 167, 110
+  orig: 167, 110
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1367, 2320
+  size: 190, 114
+  orig: 190, 114
+  offset: 0, 0
+  index: -1
+think
+  rotate: true
+  xy: 1323, 2150
+  size: 159, 109
+  orig: 159, 109
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 1010, 2436
+  size: 2332, 1639
+  orig: 2332, 1639
+  offset: 0, 0
+  index: -1

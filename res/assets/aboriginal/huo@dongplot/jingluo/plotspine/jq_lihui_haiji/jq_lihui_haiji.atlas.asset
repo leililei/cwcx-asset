@@ -1,0 +1,55 @@
+
+jq_lihui_haiji.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 185, 3617
+  size: 381, 594
+  orig: 381, 594
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2017, 1679
+  size: 1938, 1981
+  orig: 1938, 1981
+  offset: 0, 0
+  index: -1
+body-front
+  rotate: true
+  xy: 0, 1836
+  size: 1781, 2017
+  orig: 1781, 2017
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 3853
+  size: 185, 145
+  orig: 185, 145
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 779, 3617
+  size: 381, 594
+  orig: 381, 594
+  offset: 0, 0
+  index: -1
+shame
+  rotate: true
+  xy: 1373, 3617
+  size: 381, 594
+  orig: 381, 594
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1967, 3617
+  size: 381, 594
+  orig: 381, 594
+  offset: 0, 0
+  index: -1

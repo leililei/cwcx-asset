@@ -1,0 +1,241 @@
+{
+"skeleton": {
+	"hash": "bgyZ15bVJaRei2uNIh0j6qnX1C4",
+	"spine": "3.8.99",
+	"x": -472.66,
+	"y": -1812.53,
+	"width": 1352,
+	"height": 3494,
+	"images": "G:\\情人节spine\\源文件处理\\zhuliwusiyujin\\images",
+	"audio": "G:\\情人节spine\\源文件处理\\zhuliwusiyujin"
+},
+"bones": [
+	{ "name": "root", "x": -1449.66, "y": 1935.47 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shuang", "bone": "root", "attachment": "shuang" },
+	{ "name": "shuang2", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "angry1", "bone": "root" },
+	{ "name": "shy1", "bone": "root" },
+	{ "name": "shy2", "bone": "root" },
+	{ "name": "shy3", "bone": "root" },
+	{ "name": "zaogao", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "xiao1", "bone": "root" },
+	{ "name": "xiao2", "bone": "root" },
+	{ "name": "xiao3", "bone": "root" },
+	{ "name": "yanwu", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry1": {
+				"angry1": { "x": 1296, "y": -755.5, "width": 360, "height": 247 }
+			},
+			"angry2": {
+				"angry2": { "x": 1296, "y": -769, "width": 360, "height": 274 }
+			},
+			"body": {
+				"body": { "x": 1662, "y": -2001, "width": 1334, "height": 3494 }
+			},
+			"body2": {
+				"body2": { "x": 1254, "y": -911, "width": 554, "height": 1304 }
+			},
+			"chensi": {
+				"chensi": { "x": 1298.5, "y": -760.5, "width": 365, "height": 235 }
+			},
+			"daiji": {
+				"daiji": { "x": 1291.5, "y": -756.5, "width": 369, "height": 253 }
+			},
+			"danxin": {
+				"danxin": { "x": 1293, "y": -761, "width": 366, "height": 250 }
+			},
+			"shuang": {
+				"shuang": { "x": 1271.5, "y": -705.5, "width": 223, "height": 67 }
+			},
+			"shuang2": {
+				"shuang2": { "x": 1282, "y": -743.5, "width": 228, "height": 49 }
+			},
+			"shy1": {
+				"shy1": { "x": 1289, "y": -778.5, "width": 382, "height": 285 }
+			},
+			"shy2": {
+				"shy2": { "x": 1289, "y": -778.5, "width": 382, "height": 285 }
+			},
+			"shy3": {
+				"shy3": { "x": 1289, "y": -774, "width": 382, "height": 294 }
+			},
+			"xiao1": {
+				"xiao1": { "x": 1289, "y": -781, "width": 382, "height": 280 }
+			},
+			"xiao2": {
+				"xiao2": { "x": 1289, "y": -777, "width": 382, "height": 288 }
+			},
+			"xiao3": {
+				"xiao3": { "x": 1289, "y": -777, "width": 382, "height": 288 }
+			},
+			"yanwu": {
+				"yanwu": { "x": 1280, "y": -675, "width": 426, "height": 432 }
+			},
+			"zaogao": {
+				"zaogao": { "x": 1289, "y": -778.5, "width": 382, "height": 285 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry1": {
+		"slots": {
+			"angry1": {
+				"attachment": [
+					{ "name": "angry1" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			}
+		}
+	},
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			},
+			"shuang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shuang2": {
+				"attachment": [
+					{ "name": "shuang2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"shy1": {
+		"slots": {
+			"shy1": {
+				"attachment": [
+					{ "name": "shy1" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	},
+	"shy3": {
+		"slots": {
+			"shy3": {
+				"attachment": [
+					{ "name": "shy3" }
+				]
+			}
+		}
+	},
+	"xiao1": {
+		"slots": {
+			"shuang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shuang2": {
+				"attachment": [
+					{ "name": "shuang2" }
+				]
+			},
+			"xiao1": {
+				"attachment": [
+					{ "name": "xiao1" }
+				]
+			}
+		}
+	},
+	"xiao2": {
+		"slots": {
+			"xiao2": {
+				"attachment": [
+					{ "name": "xiao2" }
+				]
+			}
+		}
+	},
+	"xiao3": {
+		"slots": {
+			"shuang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shuang2": {
+				"attachment": [
+					{ "name": "shuang2" }
+				]
+			},
+			"xiao3": {
+				"attachment": [
+					{ "name": "xiao3" }
+				]
+			}
+		}
+	},
+	"yanwu": {
+		"slots": {
+			"yanwu": {
+				"attachment": [
+					{ "name": "yanwu" }
+				]
+			}
+		}
+	},
+	"zaogao": {
+		"slots": {
+			"zaogao": {
+				"attachment": [
+					{ "name": "zaogao" }
+				]
+			}
+		}
+	}
+}
+}

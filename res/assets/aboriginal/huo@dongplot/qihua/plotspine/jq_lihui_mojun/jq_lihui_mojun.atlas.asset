@@ -1,0 +1,55 @@
+
+jq_lihui_mojun.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 0
+  size: 232, 165
+  orig: 232, 165
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 165
+  size: 2124, 2948
+  orig: 2124, 2948
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 232, 1
+  size: 232, 164
+  orig: 232, 164
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 927, 5
+  size: 229, 160
+  orig: 229, 160
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 694, 4
+  size: 233, 161
+  orig: 233, 161
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1156, 11
+  size: 231, 154
+  orig: 231, 154
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 464, 1
+  size: 230, 164
+  orig: 230, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+jq_lihui_ajlk_child.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 3187, 911
+  size: 386, 246
+  orig: 386, 246
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 0
+  size: 1984, 4091
+  orig: 1984, 4091
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2792, 890
+  size: 395, 267
+  orig: 395, 267
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1984, 801
+  size: 401, 356
+  orig: 401, 356
+  offset: 0, 0
+  index: -1
+megnban
+  rotate: false
+  xy: 2385, 874
+  size: 407, 283
+  orig: 407, 283
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1984, 502
+  size: 394, 299
+  orig: 394, 299
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: false
+  xy: 1984, 1157
+  size: 1962, 2934
+  orig: 1962, 2934
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: true
+  xy: 1984, 103
+  size: 399, 271
+  orig: 399, 271
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,151 @@
+{
+"skeleton": {
+	"hash": "SUYGGnN+IEY09M4w+pTEaGwIv50",
+	"spine": "3.8.99",
+	"x": -1974.49,
+	"y": -1603.83,
+	"width": 3958,
+	"height": 3000,
+	"images": "G:\\文案的活2\\歧花spine\\meibeer\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\meibeer"
+},
+"bones": [
+	{ "name": "root", "x": -1973.49, "y": 1540.17 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "biyanzhangzui", "bone": "root" },
+	{ "name": "biyansad", "bone": "root" },
+	{ "name": "biyansmlie", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "xianqi", "bone": "root" },
+	{ "name": "yihuo", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1974, "y": -686.5, "width": 178, "height": 123 }
+			},
+			"biyansad": {
+				"biyansad": { "x": 1973.5, "y": -690.5, "width": 177, "height": 127 }
+			},
+			"biyansmlie": {
+				"biyansmlie": { "x": 1974, "y": -689.5, "width": 178, "height": 129 }
+			},
+			"biyanzhangzui": {
+				"biyanzhangzui": { "x": 1973.5, "y": -691, "width": 177, "height": 128 }
+			},
+			"body": {
+				"body": { "x": 1754, "y": -1464.5, "width": 2056, "height": 2641 }
+			},
+			"daiji": {
+				"daiji": { "x": 1973, "y": -686.5, "width": 180, "height": 123 }
+			},
+			"hair": {
+				"hair": { "x": 1978, "y": -1814.5, "width": 3958, "height": 2659 }
+			},
+			"smile": {
+				"smile": { "x": 1973, "y": -689.5, "width": 180, "height": 129 }
+			},
+			"wink": {
+				"wink": { "x": 1974, "y": -689.5, "width": 178, "height": 129 }
+			},
+			"xianqi": {
+				"xianqi": { "x": 1972.5, "y": -691, "width": 179, "height": 128 }
+			},
+			"yihuo": {
+				"yihuo": { "x": 1972.5, "y": -687.5, "width": 179, "height": 121 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"biyansad": {
+		"slots": {
+			"biyansad": {
+				"attachment": [
+					{ "name": "biyansad" }
+				]
+			}
+		}
+	},
+	"biyansmile": {
+		"slots": {
+			"biyansmlie": {
+				"attachment": [
+					{ "name": "biyansmlie" }
+				]
+			}
+		}
+	},
+	"biyanzhangzui": {
+		"slots": {
+			"biyanzhangzui": {
+				"attachment": [
+					{ "name": "biyanzhangzui" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"xianqi": {
+		"slots": {
+			"xianqi": {
+				"attachment": [
+					{ "name": "xianqi" }
+				]
+			}
+		}
+	},
+	"yihuo": {
+		"slots": {
+			"yihuo": {
+				"attachment": [
+					{ "name": "yihuo" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,53 @@
+{
+"skeleton": {
+	"hash": "QFUwZmGUnpsap1fZ3d/Js22FH7E",
+	"spine": "3.8.99",
+	"x": -968.73,
+	"y": -461.61,
+	"width": 1889,
+	"height": 2042,
+	"images": "C:\\Users\\1\\Desktop\\一周年spine\\塞努诺斯PSD与spine数据\\images",
+	"audio": "C:\\Users\\1\\Desktop\\一周年spine\\塞努诺斯PSD与spine数据"
+},
+"bones": [
+	{ "name": "root", "x": -1003.73, "y": 1579.39 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji2", "bone": "root" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1185, "y": -1309.5, "width": 1478, "height": 1463 }
+			},
+			"daiji": {
+				"daiji": { "x": 952, "y": -621.5, "width": 1834, "height": 1245 }
+			},
+			"daiji2": {
+				"daiji2": { "x": 1101.5, "y": -648, "width": 1405, "height": 1274 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji2": {
+				"attachment": [
+					{ "name": "daiji2" }
+				]
+			}
+		}
+	}
+}
+}

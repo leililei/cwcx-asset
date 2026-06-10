@@ -1,0 +1,48 @@
+
+jq_lihui_newanan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 407, 7
+  size: 131, 94
+  orig: 131, 94
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 101
+  size: 1473, 1739
+  orig: 1473, 1739
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 271, 6
+  size: 136, 95
+  orig: 136, 95
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 135, 5
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+shame
+  rotate: false
+  xy: 538, 9
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1

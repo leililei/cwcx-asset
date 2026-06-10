@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "k+NB8o/MJRfH127qcm0nvS94CHQ",
+	"spine": "3.8.99",
+	"x": -1038.48,
+	"y": -1299.24,
+	"width": 2131,
+	"height": 2475,
+	"images": "G:\\文案的活2\\歧花spine\\tiantian\\images",
+	"audio": "G:\\文案的活2\\歧花spine\\tiantian"
+},
+"bones": [
+	{ "name": "root", "x": -1221.48, "y": 1180.76 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "think", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1210.5, "y": -491.5, "width": 213, "height": 167 }
+			},
+			"body": {
+				"body": { "x": 1248.5, "y": -1242.5, "width": 2131, "height": 2475 }
+			},
+			"daiji": {
+				"daiji": { "x": 1213, "y": -498.5, "width": 218, "height": 157 }
+			},
+			"sad": {
+				"sad": { "x": 1213.5, "y": -495.5, "width": 219, "height": 143 }
+			},
+			"smile": {
+				"smile": { "x": 1212, "y": -491, "width": 216, "height": 152 }
+			},
+			"think": {
+				"think": { "x": 1210.5, "y": -482.5, "width": 213, "height": 169 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"think": {
+		"slots": {
+			"think": {
+				"attachment": [
+					{ "name": "think" }
+				]
+			}
+		}
+	}
+}
+}

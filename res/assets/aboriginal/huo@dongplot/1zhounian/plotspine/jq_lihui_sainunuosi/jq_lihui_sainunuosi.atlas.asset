@@ -1,0 +1,39 @@
+
+jq_lihui_sainunuosi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 0, 589
+  size: 1834, 1245
+  orig: 1834, 1245
+  offset: 0, 0
+  index: -1
+
+jq_lihui_sainunuosi2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji2
+  rotate: false
+  xy: 0, 131
+  size: 1405, 1274
+  orig: 1405, 1274
+  offset: 0, 0
+  index: -1
+
+jq_lihui_sainunuosi3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 15
+  size: 1478, 1463
+  orig: 1478, 1463
+  offset: 0, 0
+  index: -1

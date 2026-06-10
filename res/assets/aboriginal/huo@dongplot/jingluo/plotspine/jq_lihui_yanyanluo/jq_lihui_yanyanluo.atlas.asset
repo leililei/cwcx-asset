@@ -1,0 +1,62 @@
+
+jq_lihui_yanyanluo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2050, 1999
+  size: 183, 132
+  orig: 183, 132
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 317
+  size: 2050, 1865
+  orig: 2050, 1865
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2050, 1450
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1
+dong
+  rotate: true
+  xy: 2050, 1633
+  size: 183, 117
+  orig: 183, 117
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 2050, 1816
+  size: 183, 131
+  orig: 183, 131
+  offset: 0, 0
+  index: -1
+nanshou
+  rotate: true
+  xy: 2050, 900
+  size: 184, 106
+  orig: 184, 106
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 2050, 1267
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+yihuo
+  rotate: true
+  xy: 2050, 1084
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1

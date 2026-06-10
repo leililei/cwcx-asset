@@ -1,0 +1,26 @@
+
+jq_lihui_Zxing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 0, 1369
+  size: 2037, 668
+  orig: 2037, 668
+  offset: 0, 0
+  index: -1
+
+jq_lihui_Zxing2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 534
+  size: 4092, 3558
+  orig: 4092, 3558
+  offset: 0, 0
+  index: -1

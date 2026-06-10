@@ -1,0 +1,125 @@
+
+jq_lihui_dangyangtu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 1526
+  size: 1754, 2529
+  orig: 1754, 2529
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1754, 2137
+  size: 1918, 1082
+  orig: 1918, 1082
+  offset: 0, 0
+  index: -1
+emoji——angry
+  rotate: true
+  xy: 2504, 1530
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+emoji——han
+  rotate: true
+  xy: 2504, 1458
+  size: 72, 160
+  orig: 72, 160
+  offset: 0, 0
+  index: -1
+emoji——？
+  rotate: false
+  xy: 2119, 1323
+  size: 111, 177
+  orig: 111, 177
+  offset: 0, 0
+  index: -1
+expression——angry
+  rotate: true
+  xy: 2142, 1540
+  size: 214, 134
+  orig: 214, 134
+  offset: 0, 0
+  index: -1
+expression——daiji
+  rotate: false
+  xy: 2276, 1477
+  size: 228, 153
+  orig: 228, 153
+  offset: 0, 0
+  index: -1
+expression——ganga
+  rotate: false
+  xy: 2001, 1754
+  size: 217, 157
+  orig: 217, 157
+  offset: 0, 0
+  index: -1
+expression——happy
+  rotate: false
+  xy: 1754, 1736
+  size: 247, 175
+  orig: 247, 175
+  offset: 0, 0
+  index: -1
+expression——laugh
+  rotate: false
+  xy: 1754, 1563
+  size: 217, 173
+  orig: 217, 173
+  offset: 0, 0
+  index: -1
+expression——stareyes
+  rotate: true
+  xy: 1971, 1500
+  size: 236, 171
+  orig: 236, 171
+  offset: 0, 0
+  index: -1
+expression——tiaodou
+  rotate: true
+  xy: 1822, 1104
+  size: 232, 143
+  orig: 232, 143
+  offset: 0, 0
+  index: -1
+expression——xiao
+  rotate: true
+  xy: 1822, 1336
+  size: 227, 144
+  orig: 227, 144
+  offset: 0, 0
+  index: -1
+expression——yihuo
+  rotate: true
+  xy: 1966, 1283
+  size: 217, 153
+  orig: 217, 153
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 0
+  size: 1822, 1526
+  orig: 1822, 1526
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 1754, 1911
+  size: 226, 523
+  orig: 226, 523
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2277, 1630
+  size: 507, 478
+  orig: 507, 478
+  offset: 0, 0
+  index: -1

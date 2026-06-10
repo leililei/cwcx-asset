@@ -1,0 +1,151 @@
+{
+"skeleton": {
+	"hash": "keBkOY9zVgsRsxjYJ1X33Qnq1XU",
+	"spine": "3.8.99",
+	"x": -1927,
+	"y": -2117,
+	"width": 4090,
+	"height": 4092,
+	"images": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_dachalisha_zhandou\\images",
+	"audio": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_dachalisha_zhandou"
+},
+"bones": [
+	{ "name": "root", "x": -1926, "y": 1974 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "zhenjing", "bone": "root" },
+	{ "name": "sikao", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "fuyoupao", "bone": "root", "attachment": "fuyoupao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1933.5, "y": -804, "width": 273, "height": 162 }
+			},
+			"biyan": {
+				"biyan": { "x": 1932.5, "y": -807.5, "width": 271, "height": 179 }
+			},
+			"body": {
+				"body": { "x": 1728, "y": -2045, "width": 3458, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 1933.5, "y": -801.5, "width": 273, "height": 167 }
+			},
+			"fuyoupao": {
+				"fuyoupao": { "x": 3071, "y": -2233.5, "width": 2036, "height": 1939 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1935.5, "y": -811.5, "width": 277, "height": 171 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1933.5, "y": -805.5, "width": 273, "height": 189 }
+			},
+			"sikao": {
+				"sikao": { "x": 1932.5, "y": -801.5, "width": 271, "height": 167 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1933.5, "y": -802.5, "width": 273, "height": 169 }
+			},
+			"xiao": {
+				"xiao": { "x": 1933.5, "y": -805.5, "width": 273, "height": 175 }
+			},
+			"zhenjing": {
+				"zhenjing": { "x": 1933.5, "y": -800.5, "width": 273, "height": 189 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"sikao": {
+		"slots": {
+			"sikao": {
+				"attachment": [
+					{ "name": "sikao" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"zhenjing": {
+		"slots": {
+			"zhenjing": {
+				"attachment": [
+					{ "name": "zhenjing" }
+				]
+			}
+		}
+	}
+}
+}
