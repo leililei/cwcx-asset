@@ -1,0 +1,13 @@
+
+yangcheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img_BG_17
+  rotate: false
+  xy: 0, 420
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1

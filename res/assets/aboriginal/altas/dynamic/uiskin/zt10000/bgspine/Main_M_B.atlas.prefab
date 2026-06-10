@@ -1,0 +1,117 @@
+
+Main_M_B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+主体房子
+  rotate: false
+  xy: 1974, 1611
+  size: 1368, 1309
+  orig: 1368, 1309
+  offset: 0, 0
+  index: -1
+云1
+  rotate: true
+  xy: 2, 344
+  size: 2072, 1378
+  orig: 2072, 1378
+  offset: 0, 0
+  index: -1
+云1细
+  rotate: false
+  xy: 721, 3777
+  size: 377, 125
+  orig: 377, 125
+  offset: 0, 0
+  index: -1
+云2
+  rotate: false
+  xy: 1382, 330
+  size: 2503, 1279
+  orig: 2503, 1279
+  offset: 0, 0
+  index: -1
+云2细
+  rotate: false
+  xy: 474, 3798
+  size: 245, 104
+  orig: 245, 104
+  offset: 0, 0
+  index: -1
+云3细
+  rotate: false
+  xy: 2, 3825
+  size: 378, 77
+  orig: 378, 77
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 2524, 2922
+  size: 980, 1378
+  orig: 980, 1378
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: true
+  xy: 1100, 3766
+  size: 136, 204
+  orig: 136, 204
+  offset: 0, 0
+  index: -1
+城市2
+  rotate: false
+  xy: 2, 2418
+  size: 1970, 961
+  orig: 1970, 961
+  offset: 0, 0
+  index: -1
+未标题-1
+  rotate: false
+  xy: 382, 3812
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+远处塔
+  rotate: false
+  xy: 1752, 3381
+  size: 770, 521
+  orig: 770, 521
+  offset: 0, 0
+  index: -1
+阴影_p
+  rotate: false
+  xy: 1306, 3470
+  size: 444, 432
+  orig: 444, 432
+  offset: 0, 0
+  index: -1
+
+Main_M_B2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 170
+  rotate: false
+  xy: 2, 2705
+  size: 3741, 1378
+  orig: 3741, 1378
+  offset: 0, 0
+  index: -1
+城市
+  rotate: false
+  xy: 2, 2
+  size: 2623, 1321
+  orig: 2623, 1321
+  offset: 0, 0
+  index: -1
+天空
+  rotate: false
+  xy: 2, 1325
+  size: 3741, 1378
+  orig: 3741, 1378
+  offset: 0, 0
+  index: -1
