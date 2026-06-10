@@ -1,0 +1,55 @@
+
+lihui_xingshuo_dz_front.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new_0
+  rotate: false
+  xy: 1760, 1254
+  size: 193, 154
+  orig: 193, 154
+  offset: 0, 0
+  index: -1
+new_1
+  rotate: false
+  xy: 574, 891
+  size: 322, 275
+  orig: 322, 275
+  offset: 0, 0
+  index: -1
+xingshuo_benti_bg_0
+  rotate: false
+  xy: 1760, 1022
+  size: 120, 230
+  orig: 172, 305
+  offset: 0, 75
+  index: -1
+xingshuo_benti_bg_1
+  rotate: false
+  xy: 898, 1010
+  size: 404, 156
+  orig: 404, 196
+  offset: 0, 40
+  index: -1
+xingshuo_benti_bg_2
+  rotate: false
+  xy: 1760, 1410
+  size: 274, 624
+  orig: 432, 811
+  offset: 0, 187
+  index: -1
+xingshuo_texie_0_2_8
+  rotate: false
+  xy: 2, 825
+  size: 570, 341
+  orig: 662, 341
+  offset: 0, 0
+  index: -1
+xingshuo_texie_bg
+  rotate: false
+  xy: 2, 1168
+  size: 1756, 866
+  orig: 1756, 866
+  offset: 0, 0
+  index: -1

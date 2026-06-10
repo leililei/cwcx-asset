@@ -1,0 +1,293 @@
+
+dongzuo_juese_yisikala.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Face_1
+  rotate: false
+  xy: 836, 914
+  size: 160, 104
+  orig: 161, 104
+  offset: 0, 0
+  index: -1
+F_Face_2
+  rotate: false
+  xy: 495, 618
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+F_Face_3
+  rotate: false
+  xy: 498, 29
+  size: 115, 59
+  orig: 115, 59
+  offset: 0, 0
+  index: -1
+F_Face_4
+  rotate: false
+  xy: 498, 89
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+F_Face_Head
+  rotate: false
+  xy: 422, 173
+  size: 231, 249
+  orig: 231, 249
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 546, 758
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+arm_l_01
+  rotate: false
+  xy: 1, 1
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
+arm_l_01_1
+  rotate: false
+  xy: 871, 10
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+arm_r_01
+  rotate: false
+  xy: 871, 130
+  size: 67, 128
+  orig: 67, 128
+  offset: 0, 0
+  index: -1
+body01
+  rotate: false
+  xy: 384, 755
+  size: 161, 263
+  orig: 161, 263
+  offset: 0, 0
+  index: -1
+f_hand01
+  rotate: false
+  xy: 621, 656
+  size: 53, 55
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+f_hand02
+  rotate: false
+  xy: 938, 8
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+f_hand03
+  rotate: false
+  xy: 938, 74
+  size: 53, 55
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: false
+  xy: 179, 25
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: false
+  xy: 894, 275
+  size: 63, 138
+  orig: 63, 138
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 731, 399
+  size: 155, 220
+  orig: 155, 220
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 269, 327
+  size: 152, 289
+  orig: 152, 291
+  offset: 0, 0
+  index: -1
+hair04
+  rotate: false
+  xy: 814, 637
+  size: 91, 168
+  orig: 91, 168
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: false
+  xy: 546, 806
+  size: 289, 212
+  orig: 289, 212
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: false
+  xy: 723, 249
+  size: 50, 149
+  orig: 50, 149
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 1, 377
+  size: 267, 239
+  orig: 275, 239
+  offset: 8, 0
+  index: -1
+huaban
+  rotate: false
+  xy: 495, 712
+  size: 183, 42
+  orig: 186, 44
+  offset: 3, 2
+  index: -1
+leg_l_1
+  rotate: false
+  xy: 754, 16
+  size: 116, 232
+  orig: 116, 232
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 417, 10
+  size: 80, 162
+  orig: 80, 162
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 255, 2
+  size: 121, 222
+  orig: 128, 222
+  offset: 7, 0
+  index: -1
+leg_r_2
+  rotate: false
+  xy: 887, 414
+  size: 100, 222
+  orig: 100, 222
+  offset: 0, 0
+  index: -1
+lingdai01
+  rotate: false
+  xy: 377, 143
+  size: 39, 81
+  orig: 41, 86
+  offset: 2, 0
+  index: -1
+wuqi01
+  rotate: false
+  xy: 1, 209
+  size: 253, 167
+  orig: 253, 167
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: false
+  xy: 422, 423
+  size: 308, 193
+  orig: 308, 193
+  offset: 0, 0
+  index: -1
+xiong01
+  rotate: false
+  xy: 104, 20
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+xiong02
+  rotate: false
+  xy: 935, 842
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 1, 94
+  size: 211, 114
+  orig: 211, 114
+  offset: 0, 0
+  index: -1
+yifu01
+  rotate: false
+  xy: 906, 690
+  size: 107, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+yifu05
+  rotate: false
+  xy: 255, 225
+  size: 152, 101
+  orig: 152, 101
+  offset: 0, 0
+  index: -1
+yifu06
+  rotate: false
+  xy: 774, 259
+  size: 119, 139
+  orig: 119, 139
+  offset: 0, 0
+  index: -1
+yifu07
+  rotate: false
+  xy: 679, 620
+  size: 134, 185
+  orig: 134, 185
+  offset: 0, 0
+  index: -1
+yifu08
+  rotate: false
+  xy: 836, 810
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+yifu09
+  rotate: false
+  xy: 654, 164
+  size: 68, 258
+  orig: 68, 258
+  offset: 0, 0
+  index: -1
+yifu10
+  rotate: false
+  xy: 633, 36
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+yifu13
+  rotate: false
+  xy: 384, 617
+  size: 110, 137
+  orig: 110, 137
+  offset: 0, 0
+  index: -1
+yifu_b
+  rotate: false
+  xy: 1, 617
+  size: 382, 401
+  orig: 382, 401
+  offset: 0, 0
+  index: -1

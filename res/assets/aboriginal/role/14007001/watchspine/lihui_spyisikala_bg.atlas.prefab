@@ -1,0 +1,34 @@
+
+lihui_spyisikala_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2504
+  size: 3073, 1419
+  orig: 3073, 1419
+  offset: 0, 0
+  index: -1
+qj11
+  rotate: false
+  xy: 3765, 2424
+  size: 158, 427
+  orig: 158, 427
+  offset: 0, 0
+  index: -1
+qj12
+  rotate: false
+  xy: 3077, 2853
+  size: 799, 1070
+  orig: 799, 1070
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 3077, 2100
+  size: 686, 751
+  orig: 687, 764
+  offset: 0, 13
+  index: -1

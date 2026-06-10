@@ -1,0 +1,40 @@
+
+front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianjintou
+  rotate: false
+  xy: 2, 2856
+  size: 1186, 1028
+  orig: 1186, 1028
+  offset: 0, 0
+  index: -1
+texiaso1
+  rotate: false
+  xy: 2, 790
+  size: 2661, 1626
+  orig: 2661, 1626
+  offset: 0, 0
+  index: -1
+texiaso2
+  rotate: false
+  xy: 1190, 2418
+  size: 2694, 1466
+  orig: 2694, 1466
+  offset: 0, 0
+  index: -1
+
+front2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiaso3
+  rotate: false
+  xy: 2, 2050
+  size: 3793, 1745
+  orig: 3793, 1745
+  offset: 0, 0
+  index: -1

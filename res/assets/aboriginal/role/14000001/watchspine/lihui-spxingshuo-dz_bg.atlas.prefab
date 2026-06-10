@@ -1,0 +1,20 @@
+
+lihui-spxingshuo-dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 969
+  size: 4001, 1847
+  orig: 4001, 1847
+  offset: 0, 0
+  index: -1
+BG_fangzi2
+  rotate: true
+  xy: 2, 2818
+  size: 1185, 1616
+  orig: 1188, 1634
+  offset: 3, 18
+  index: -1

@@ -1,0 +1,139 @@
+
+lihui_spyisikala_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duigou
+  rotate: false
+  xy: 3159, 2862
+  size: 105, 168
+  orig: 107, 170
+  offset: 1, 1
+  index: -1
+gantanhao
+  rotate: false
+  xy: 3159, 2661
+  size: 101, 199
+  orig: 104, 203
+  offset: 2, 2
+  index: -1
+qj1
+  rotate: false
+  xy: 2, 1990
+  size: 2195, 1014
+  orig: 2195, 1014
+  offset: 0, 0
+  index: -1
+qj10
+  rotate: false
+  xy: 3288, 2595
+  size: 444, 639
+  orig: 447, 641
+  offset: 1, 1
+  index: -1
+qj2
+  rotate: false
+  xy: 2199, 2708
+  size: 958, 322
+  orig: 958, 322
+  offset: 0, 0
+  index: -1
+qj3
+  rotate: false
+  xy: 2, 987
+  size: 1954, 1001
+  orig: 1954, 1002
+  offset: 0, 1
+  index: -1
+qj4
+  rotate: false
+  xy: 3734, 2542
+  size: 287, 327
+  orig: 337, 327
+  offset: 0, 0
+  index: -1
+qj5
+  rotate: false
+  xy: 2577, 2172
+  size: 170, 534
+  orig: 170, 534
+  offset: 0, 0
+  index: -1
+qj6
+  rotate: false
+  xy: 2, 540
+  size: 2195, 445
+  orig: 2195, 445
+  offset: 0, 0
+  index: -1
+qj7
+  rotate: false
+  xy: 3288, 3758
+  size: 564, 318
+  orig: 565, 320
+  offset: 1, 1
+  index: -1
+qj8
+  rotate: false
+  xy: 3819, 2871
+  size: 197, 457
+  orig: 197, 457
+  offset: 0, 0
+  index: -1
+qj8_2
+  rotate: false
+  xy: 2199, 2250
+  size: 196, 456
+  orig: 2195, 1070
+  offset: 1784, 350
+  index: -1
+qj9
+  rotate: false
+  xy: 3854, 3490
+  size: 200, 586
+  orig: 200, 586
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 1958, 1235
+  size: 2001, 753
+  orig: 2195, 1070
+  offset: 74, 91
+  index: -1
+tx2
+  rotate: false
+  xy: 2199, 3032
+  size: 1087, 1044
+  orig: 2306, 1275
+  offset: 1, 231
+  index: -1
+tx5
+  rotate: false
+  xy: 3288, 3236
+  size: 529, 520
+  orig: 578, 603
+  offset: 25, 41
+  index: -1
+yunyun1
+  rotate: false
+  xy: 3819, 3330
+  size: 257, 158
+  orig: 290, 166
+  offset: 30, 1
+  index: -1
+yunyun5
+  rotate: false
+  xy: 2397, 2583
+  size: 178, 123
+  orig: 180, 125
+  offset: 1, 1
+  index: -1
+zhifeng
+  rotate: false
+  xy: 2, 3006
+  size: 2195, 1070
+  orig: 2195, 1070
+  offset: 0, 0
+  index: -1

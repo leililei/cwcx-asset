@@ -1,0 +1,20 @@
+
+lihui-spxingshuo-dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_guang
+  rotate: false
+  xy: 2, 3020
+  size: 3413, 993
+  orig: 3413, 993
+  offset: 0, 0
+  index: -1
+Q_huohua
+  rotate: true
+  xy: 3417, 2710
+  size: 1303, 596
+  orig: 1303, 596
+  offset: 0, 0
+  index: -1

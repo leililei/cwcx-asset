@@ -1,0 +1,48 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 565
+  size: 3793, 1751
+  orig: 3793, 1751
+  offset: 0, 0
+  index: -1
+chuanglian
+  rotate: false
+  xy: 2, 2318
+  size: 2007, 1256
+  orig: 2007, 1256
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 2, 3722
+  size: 268, 543
+  orig: 268, 543
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 547, 3605
+  size: 385, 637
+  orig: 385, 637
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 1186, 3576
+  size: 414, 1260
+  orig: 414, 1260
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 2448, 3039
+  size: 1542, 951
+  orig: 1542, 951
+  offset: 0, 0
+  index: -1

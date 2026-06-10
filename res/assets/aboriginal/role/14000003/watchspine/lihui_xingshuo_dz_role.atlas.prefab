@@ -1,0 +1,664 @@
+
+lihui_xingshuo_dz_role.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new_3
+  rotate: false
+  xy: 1553, 2247
+  size: 597, 401
+  orig: 597, 401
+  offset: 0, 0
+  index: -1
+new_4
+  rotate: false
+  xy: 3479, 2266
+  size: 450, 313
+  orig: 514, 411
+  offset: 63, 57
+  index: -1
+xingshuo_benti_0
+  rotate: false
+  xy: 2557, 2253
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+xingshuo_benti_1
+  rotate: false
+  xy: 2395, 2245
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+xingshuo_benti_10
+  rotate: false
+  xy: 2662, 2245
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+xingshuo_benti_11
+  rotate: false
+  xy: 2289, 2253
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+xingshuo_benti_12
+  rotate: false
+  xy: 3063, 87
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+xingshuo_benti_13
+  rotate: false
+  xy: 3159, 18
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+xingshuo_benti_14
+  rotate: false
+  xy: 1340, 288
+  size: 128, 269
+  orig: 128, 269
+  offset: 0, 0
+  index: -1
+xingshuo_benti_15
+  rotate: false
+  xy: 3253, 808
+  size: 97, 241
+  orig: 97, 241
+  offset: 0, 0
+  index: -1
+xingshuo_benti_16
+  rotate: false
+  xy: 3924, 1674
+  size: 144, 100
+  orig: 144, 100
+  offset: 0, 0
+  index: -1
+xingshuo_benti_17
+  rotate: false
+  xy: 1276, 1146
+  size: 205, 297
+  orig: 205, 297
+  offset: 0, 0
+  index: -1
+xingshuo_benti_18
+  rotate: false
+  xy: 3924, 2079
+  size: 169, 185
+  orig: 170, 185
+  offset: 0, 0
+  index: -1
+xingshuo_benti_19
+  rotate: false
+  xy: 3924, 1468
+  size: 88, 204
+  orig: 88, 204
+  offset: 0, 0
+  index: -1
+xingshuo_benti_2
+  rotate: false
+  xy: 2, 443
+  size: 250, 173
+  orig: 250, 173
+  offset: 0, 0
+  index: -1
+xingshuo_benti_20
+  rotate: false
+  xy: 3799, 88
+  size: 277, 309
+  orig: 277, 309
+  offset: 0, 0
+  index: -1
+xingshuo_benti_21
+  rotate: false
+  xy: 3383, 39
+  size: 414, 358
+  orig: 414, 358
+  offset: 0, 0
+  index: -1
+xingshuo_benti_22
+  rotate: false
+  xy: 2807, 1452
+  size: 1115, 797
+  orig: 1115, 797
+  offset: 0, 0
+  index: -1
+xingshuo_benti_23
+  rotate: false
+  xy: 3617, 812
+  size: 88, 161
+  orig: 88, 161
+  offset: 0, 0
+  index: -1
+xingshuo_benti_25
+  rotate: false
+  xy: 732, 531
+  size: 464, 184
+  orig: 464, 184
+  offset: 0, 0
+  index: -1
+xingshuo_benti_26
+  rotate: false
+  xy: 988, 760
+  size: 461, 182
+  orig: 461, 182
+  offset: 0, 0
+  index: -1
+xingshuo_benti_27
+  rotate: false
+  xy: 2395, 2329
+  size: 296, 319
+  orig: 297, 319
+  offset: 0, 0
+  index: -1
+xingshuo_benti_28
+  rotate: false
+  xy: 3479, 2581
+  size: 556, 600
+  orig: 556, 600
+  offset: 0, 0
+  index: -1
+xingshuo_benti_29_3
+  rotate: false
+  xy: 2619, 2245
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+xingshuo_benti_3
+  rotate: false
+  xy: 3063, 202
+  size: 184, 266
+  orig: 187, 270
+  offset: 3, 4
+  index: -1
+xingshuo_benti_30_0
+  rotate: false
+  xy: 2591, 2245
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+xingshuo_benti_31_3
+  rotate: false
+  xy: 2258, 2253
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_0
+  rotate: false
+  xy: 2309, 2256
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_1
+  rotate: false
+  xy: 3479, 2254
+  size: 94, 10
+  orig: 94, 10
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_2
+  rotate: false
+  xy: 2336, 2259
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_3
+  rotate: false
+  xy: 2336, 2248
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_4
+  rotate: false
+  xy: 688, 433
+  size: 108, 96
+  orig: 108, 96
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_5
+  rotate: false
+  xy: 3707, 807
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_6
+  rotate: false
+  xy: 4025, 3756
+  size: 48, 30
+  orig: 52, 30
+  offset: 2, 0
+  index: -1
+xingshuo_benti_32_7
+  rotate: false
+  xy: 2225, 2246
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+xingshuo_benti_32_8
+  rotate: false
+  xy: 4025, 3788
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+xingshuo_benti_33
+  rotate: false
+  xy: 1276, 944
+  size: 194, 65
+  orig: 194, 65
+  offset: 0, 0
+  index: -1
+xingshuo_benti_34
+  rotate: false
+  xy: 3931, 2485
+  size: 161, 94
+  orig: 161, 94
+  offset: 0, 0
+  index: -1
+xingshuo_benti_36
+  rotate: false
+  xy: 3063, 18
+  size: 94, 67
+  orig: 96, 69
+  offset: 0, 2
+  index: -1
+xingshuo_benti_38
+  rotate: false
+  xy: 3352, 825
+  size: 263, 224
+  orig: 263, 224
+  offset: 0, 0
+  index: -1
+xingshuo_benti_39
+  rotate: false
+  xy: 2709, 2251
+  size: 768, 930
+  orig: 768, 930
+  offset: 0, 0
+  index: -1
+xingshuo_benti_4
+  rotate: false
+  xy: 4025, 3705
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+xingshuo_benti_40
+  rotate: false
+  xy: 3873, 1006
+  size: 167, 444
+  orig: 169, 446
+  offset: 2, 0
+  index: -1
+xingshuo_benti_42
+  rotate: false
+  xy: 2668, 14
+  size: 393, 454
+  orig: 393, 454
+  offset: 0, 0
+  index: -1
+xingshuo_benti_43
+  rotate: false
+  xy: 732, 717
+  size: 254, 225
+  orig: 254, 225
+  offset: 0, 0
+  index: -1
+xingshuo_benti_44
+  rotate: false
+  xy: 3924, 1863
+  size: 164, 214
+  orig: 164, 214
+  offset: 0, 0
+  index: -1
+xingshuo_benti_45
+  rotate: false
+  xy: 1198, 559
+  size: 191, 199
+  orig: 196, 204
+  offset: 0, 5
+  index: -1
+xingshuo_benti_46
+  rotate: false
+  xy: 3249, 29
+  size: 132, 368
+  orig: 132, 368
+  offset: 0, 0
+  index: -1
+xingshuo_benti_47
+  rotate: false
+  xy: 1483, 466
+  size: 675, 757
+  orig: 675, 757
+  offset: 0, 0
+  index: -1
+xingshuo_benti_48
+  rotate: false
+  xy: 3873, 801
+  size: 219, 203
+  orig: 219, 203
+  offset: 0, 0
+  index: -1
+xingshuo_benti_49
+  rotate: false
+  xy: 2662, 2291
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+xingshuo_benti_5
+  rotate: false
+  xy: 4025, 3933
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+xingshuo_benti_50
+  rotate: false
+  xy: 3707, 843
+  size: 122, 130
+  orig: 147, 130
+  offset: 4, 0
+  index: -1
+xingshuo_benti_51
+  rotate: false
+  xy: 2193, 2245
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+xingshuo_benti_52
+  rotate: false
+  xy: 4025, 3886
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+xingshuo_benti_53
+  rotate: false
+  xy: 4025, 3822
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+xingshuo_benti_54
+  rotate: false
+  xy: 455, 708
+  size: 275, 264
+  orig: 276, 264
+  offset: 0, 0
+  index: -1
+xingshuo_benti_55
+  rotate: false
+  xy: 2, 160
+  size: 136, 281
+  orig: 136, 281
+  offset: 0, 0
+  index: -1
+xingshuo_benti_56
+  rotate: false
+  xy: 4025, 3542
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+xingshuo_benti_57
+  rotate: false
+  xy: 4025, 3661
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+xingshuo_benti_58
+  rotate: false
+  xy: 2152, 2245
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+xingshuo_benti_59
+  rotate: false
+  xy: 688, 320
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+xingshuo_benti_6
+  rotate: false
+  xy: 4003, 2307
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+xingshuo_benti_60
+  rotate: false
+  xy: 4025, 3495
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+xingshuo_benti_61
+  rotate: false
+  xy: 4025, 3596
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+xingshuo_benti_62
+  rotate: false
+  xy: 3253, 399
+  size: 757, 400
+  orig: 757, 400
+  offset: 0, 0
+  index: -1
+xingshuo_benti_63
+  rotate: false
+  xy: 2709, 3183
+  size: 1314, 910
+  orig: 1314, 910
+  offset: 0, 0
+  index: -1
+xingshuo_benti_7
+  rotate: false
+  xy: 4025, 4040
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+xingshuo_benti_8
+  rotate: false
+  xy: 2591, 2256
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+xingshuo_benti_9
+  rotate: false
+  xy: 4025, 4003
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_0_0
+  rotate: false
+  xy: 2, 974
+  size: 1272, 469
+  orig: 1272, 479
+  offset: 0, 10
+  index: -1
+xingshuo_texie_0_1
+  rotate: false
+  xy: 1485, 1225
+  size: 1303, 487
+  orig: 1305, 493
+  offset: 0, 6
+  index: -1
+xingshuo_texie_0_2_0
+  rotate: false
+  xy: 3931, 2278
+  size: 70, 114
+  orig: 70, 114
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_1
+  rotate: false
+  xy: 254, 505
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_12
+  rotate: false
+  xy: 2, 1445
+  size: 1481, 1443
+  orig: 1481, 1443
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_14
+  rotate: false
+  xy: 241, 618
+  size: 212, 354
+  orig: 237, 381
+  offset: 25, 26
+  index: -1
+xingshuo_texie_0_2_15
+  rotate: false
+  xy: 455, 398
+  size: 231, 308
+  orig: 231, 308
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_16
+  rotate: false
+  xy: 2, 618
+  size: 237, 354
+  orig: 237, 354
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_17
+  rotate: false
+  xy: 1485, 2245
+  size: 66, 643
+  orig: 66, 643
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_18
+  rotate: false
+  xy: 2160, 180
+  size: 506, 476
+  orig: 506, 476
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_19
+  rotate: false
+  xy: 2790, 1051
+  size: 848, 399
+  orig: 848, 399
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_2
+  rotate: false
+  xy: 1198, 379
+  size: 140, 178
+  orig: 140, 178
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_24
+  rotate: false
+  xy: 2, 2890
+  size: 1550, 1203
+  orig: 1550, 1203
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_25
+  rotate: false
+  xy: 2160, 658
+  size: 547, 565
+  orig: 547, 565
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_26
+  rotate: false
+  xy: 2152, 2274
+  size: 241, 374
+  orig: 241, 374
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_27
+  rotate: false
+  xy: 2709, 470
+  size: 542, 579
+  orig: 542, 579
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_3
+  rotate: false
+  xy: 140, 247
+  size: 230, 194
+  orig: 230, 194
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_32
+  rotate: false
+  xy: 1554, 2650
+  size: 1153, 1443
+  orig: 1153, 1443
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_4
+  rotate: false
+  xy: 3931, 2394
+  size: 151, 89
+  orig: 151, 89
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_47
+  rotate: false
+  xy: 1485, 1714
+  size: 1320, 529
+  orig: 1321, 529
+  offset: 1, 0
+  index: -1
+xingshuo_texie_0_2_48
+  rotate: false
+  xy: 3640, 975
+  size: 231, 475
+  orig: 231, 475
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_5
+  rotate: false
+  xy: 1276, 1011
+  size: 199, 133
+  orig: 199, 133
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_6
+  rotate: false
+  xy: 3924, 1776
+  size: 145, 85
+  orig: 145, 85
+  offset: 0, 0
+  index: -1
+xingshuo_texie_0_2_7
+  rotate: false
+  xy: 2451, 2251
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1

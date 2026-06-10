@@ -1,0 +1,13 @@
+
+bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: false
+  xy: 2, 1402
+  size: 3200, 1800
+  orig: 3200, 1800
+  offset: 0, 0
+  index: -1

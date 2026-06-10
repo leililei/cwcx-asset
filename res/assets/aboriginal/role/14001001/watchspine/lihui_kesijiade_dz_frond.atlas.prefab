@@ -1,0 +1,27 @@
+
+lihui_kesijiade_dz_frond.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_wu
+  rotate: false
+  xy: 2, 1710
+  size: 2341, 741
+  orig: 2341, 745
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 2345, 2277
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: true
+  xy: 2345, 2291
+  size: 160, 106
+  orig: 160, 106
+  offset: 0, 0
+  index: -1

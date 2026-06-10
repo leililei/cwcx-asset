@@ -1,0 +1,13 @@
+
+lihui_yiliya_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 2084
+  size: 4001, 1921
+  orig: 4001, 1921
+  offset: 0, 0
+  index: -1

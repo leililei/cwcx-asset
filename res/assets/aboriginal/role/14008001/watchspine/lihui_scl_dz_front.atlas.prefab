@@ -1,0 +1,20 @@
+
+lihui_scl_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qj1
+  rotate: false
+  xy: 2, 664
+  size: 759, 1226
+  orig: 822, 1362
+  offset: 63, 0
+  index: -1
+qj2
+  rotate: false
+  xy: 2, 1892
+  size: 3511, 1621
+  orig: 3511, 1621
+  offset: 0, 0
+  index: -1

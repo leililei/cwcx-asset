@@ -1,0 +1,27 @@
+
+lihui_zhuzhu_dz_front.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandong_0
+  rotate: true
+  xy: 1349, 2130
+  size: 1254, 1730
+  orig: 1254, 1730
+  offset: 0, 0
+  index: -1
+liandong_1
+  rotate: false
+  xy: 2, 3386
+  size: 3746, 362
+  orig: 3746, 362
+  offset: 0, 0
+  index: -1
+liandong_2
+  rotate: true
+  xy: 2, 2723
+  size: 661, 1345
+  orig: 661, 1345
+  offset: 0, 0
+  index: -1

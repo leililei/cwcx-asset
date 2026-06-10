@@ -1,0 +1,13 @@
+
+lihui_aofeiliya_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 4, 2138
+  size: 3784, 1650
+  orig: 3784, 1650
+  offset: 0, 0
+  index: -1

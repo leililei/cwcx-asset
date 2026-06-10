@@ -1,0 +1,62 @@
+
+lihui_scl_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj11
+  rotate: false
+  xy: 2, 2711
+  size: 2809, 1302
+  orig: 2809, 1302
+  offset: 0, 0
+  index: -1
+bj3
+  rotate: false
+  xy: 2813, 3242
+  size: 927, 771
+  orig: 993, 913
+  offset: 58, 52
+  index: -1
+bj4
+  rotate: false
+  xy: 3305, 2977
+  size: 489, 263
+  orig: 489, 263
+  offset: 0, 0
+  index: -1
+bj5
+  rotate: false
+  xy: 2, 1621
+  size: 2116, 1088
+  orig: 2116, 1088
+  offset: 0, 0
+  index: -1
+bj6
+  rotate: false
+  xy: 2120, 1811
+  size: 1893, 898
+  orig: 1893, 898
+  offset: 0, 0
+  index: -1
+bj7
+  rotate: false
+  xy: 2120, 1233
+  size: 1314, 576
+  orig: 1314, 576
+  offset: 0, 0
+  index: -1
+bj8
+  rotate: false
+  xy: 3742, 3972
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+qj
+  rotate: false
+  xy: 2813, 2784
+  size: 490, 456
+  orig: 490, 456
+  offset: 0, 0
+  index: -1

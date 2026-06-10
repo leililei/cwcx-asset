@@ -1,0 +1,88 @@
+
+lihui_zhuzhu_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandong_100
+  rotate: true
+  xy: 2935, 2569
+  size: 1254, 888
+  orig: 1254, 888
+  offset: 0, 0
+  index: -1
+liandong_101
+  rotate: false
+  xy: 1725, 3098
+  size: 1208, 725
+  orig: 1208, 725
+  offset: 0, 0
+  index: -1
+liandong_102
+  rotate: false
+  xy: 2, 3125
+  size: 950, 698
+  orig: 950, 698
+  offset: 0, 0
+  index: -1
+liandong_103
+  rotate: false
+  xy: 2, 985
+  size: 3746, 1308
+  orig: 3746, 1308
+  offset: 0, 0
+  index: -1
+liandong_96
+  rotate: true
+  xy: 954, 3105
+  size: 718, 769
+  orig: 718, 769
+  offset: 0, 0
+  index: -1
+liandong_97
+  rotate: false
+  xy: 2, 2295
+  size: 1564, 808
+  orig: 1564, 808
+  offset: 0, 0
+  index: -1
+
+lihui_zhuzhu_dz_bg2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandong_104
+  rotate: false
+  xy: 2, 2282
+  size: 3746, 1466
+  orig: 3746, 1466
+  offset: 0, 0
+  index: -1
+liandong_99
+  rotate: false
+  xy: 2, 586
+  size: 2458, 1694
+  orig: 2458, 1694
+  offset: 0, 0
+  index: -1
+
+lihui_zhuzhu_dz_bg3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liandong_105
+  rotate: false
+  xy: 2, 286
+  size: 3746, 1730
+  orig: 3746, 1730
+  offset: 0, 0
+  index: -1
+liandong_98
+  rotate: false
+  xy: 2, 2018
+  size: 3746, 1730
+  orig: 3746, 1730
+  offset: 0, 0
+  index: -1

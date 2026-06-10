@@ -1,0 +1,34 @@
+
+lihui_wuzhuangxingshuo_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 2029, 611
+  size: 2055, 1776
+  orig: 2055, 1776
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2019, 2397
+  size: 2068, 1690
+  orig: 2068, 1690
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 5, 2488
+  size: 2004, 1599
+  orig: 2004, 1599
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 5, 694
+  size: 2014, 1693
+  orig: 2014, 1693
+  offset: 0, 0
+  index: -1

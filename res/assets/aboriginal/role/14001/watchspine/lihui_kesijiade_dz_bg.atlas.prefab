@@ -1,0 +1,13 @@
+
+lihui_kesijiade_dz_bg.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 628
+  size: 3687, 3061
+  orig: 3687, 3061
+  offset: 0, 0
+  index: -1
