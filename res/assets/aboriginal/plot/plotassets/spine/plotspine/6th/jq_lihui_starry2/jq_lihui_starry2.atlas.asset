@@ -1,0 +1,61 @@
+
+jq_lihui_starry2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 736, 987
+  size: 201, 175
+  orig: 201, 175
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 186, 1003
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 370, 996
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 555, 996
+  size: 181, 166
+  orig: 181, 166
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 937, 981
+  size: 225, 181
+  orig: 225, 181
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 0, 1007
+  size: 186, 155
+  orig: 186, 155
+  offset: 0, 0
+  index: -1
+
+jq_lihui_starry22.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1941, 2031
+  orig: 1941, 2031
+  offset: 0, 0
+  index: -1

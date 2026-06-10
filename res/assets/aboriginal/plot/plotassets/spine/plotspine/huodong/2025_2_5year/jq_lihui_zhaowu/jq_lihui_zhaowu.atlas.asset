@@ -1,0 +1,62 @@
+
+jq_lihui_zhaowu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 249, 1
+  size: 258, 247
+  orig: 259, 247
+  offset: 1, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1501, 62
+  size: 233, 186
+  orig: 234, 188
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 248
+  size: 3616, 3793
+  orig: 3616, 3794
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 507, 2
+  size: 248, 246
+  orig: 248, 246
+  offset: 0, 0
+  index: -1
+kun
+  rotate: true
+  xy: 0, 0
+  size: 248, 249
+  orig: 248, 250
+  offset: 0, 1
+  index: -1
+sad
+  rotate: false
+  xy: 1003, 7
+  size: 249, 241
+  orig: 250, 242
+  offset: 0, 1
+  index: -1
+shy
+  rotate: false
+  xy: 1252, 7
+  size: 249, 241
+  orig: 250, 241
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 755, 4
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1

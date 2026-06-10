@@ -1,0 +1,125 @@
+{
+"skeleton": {
+	"hash": "PtjOM0JmY3j+5grkzGPxnkHyB3E",
+	"spine": "3.8.99",
+	"x": -982.09,
+	"y": -7.13,
+	"width": 2050,
+	"height": 1405,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/月冕-斯卡蒂"
+},
+"bones": [
+	{ "name": "root", "x": -981.09, "y": 1396.87 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "daiji2", "bone": "root" },
+	{ "name": "danyou", "bone": "root" },
+	{ "name": "dajiao", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "ganga", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1024, "y": -701.5, "width": 2048, "height": 1405 }
+			},
+			"daiji": {
+				"daiji": { "x": 956, "y": -708.5, "width": 250, "height": 179 }
+			},
+			"daiji2": {
+				"daiji2": { "x": 939, "y": -708.5, "width": 216, "height": 179 }
+			},
+			"dajiao": {
+				"dajiao": { "x": 939, "y": -715, "width": 216, "height": 170 }
+			},
+			"danyou": {
+				"danyou": { "x": 938.5, "y": -703, "width": 215, "height": 154 }
+			},
+			"ganga": {
+				"ganga": { "x": 939, "y": -712, "width": 216, "height": 172 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 936, "y": -707.5, "width": 240, "height": 163 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji2": {
+				"attachment": [
+					{ "name": "daiji2" }
+				]
+			}
+		}
+	},
+	"dajiao": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dajiao": {
+				"attachment": [
+					{ "name": "dajiao" }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	}
+}
+}

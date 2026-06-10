@@ -1,0 +1,97 @@
+
+jq_lihui_jiya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 319
+  size: 822, 939
+  orig: 822, 939
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 822, 973
+  size: 206, 142
+  orig: 206, 142
+  offset: 0, 0
+  index: -1
+dan you
+  rotate: false
+  xy: 705, 176
+  size: 207, 143
+  orig: 207, 143
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: false
+  xy: 312, 173
+  size: 207, 146
+  orig: 207, 146
+  offset: 0, 0
+  index: -1
+hai xiu2
+  rotate: false
+  xy: 1029, 1121
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 22
+  size: 312, 297
+  orig: 312, 297
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 822, 578
+  size: 188, 124
+  orig: 188, 124
+  offset: 0, 0
+  index: -1
+happy2
+  rotate: false
+  xy: 822, 458
+  size: 188, 120
+  orig: 188, 120
+  offset: 0, 0
+  index: -1
+jing ya
+  rotate: false
+  xy: 822, 1115
+  size: 207, 143
+  orig: 207, 143
+  offset: 0, 0
+  index: -1
+meng bi
+  rotate: false
+  xy: 822, 832
+  size: 207, 141
+  orig: 207, 141
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 822, 702
+  size: 207, 130
+  orig: 207, 130
+  offset: 0, 0
+  index: -1
+tan qi
+  rotate: false
+  xy: 519, 175
+  size: 186, 144
+  orig: 186, 144
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 1028, 975
+  size: 206, 140
+  orig: 206, 140
+  offset: 0, 0
+  index: -1

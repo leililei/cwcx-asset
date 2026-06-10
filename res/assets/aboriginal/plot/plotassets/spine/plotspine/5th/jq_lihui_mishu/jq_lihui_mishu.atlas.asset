@@ -1,0 +1,41 @@
+
+jq_lihui_mishu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 0, 590
+  size: 298, 255
+  orig: 300, 257
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 888
+  size: 625, 2834
+  orig: 627, 2836
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 0, 290
+  size: 300, 242
+  orig: 302, 244
+  offset: 1, 1
+  index: -1
+sad
+  rotate: true
+  xy: 0, 0
+  size: 290, 247
+  orig: 292, 249
+  offset: 1, 1
+  index: -1
+speak
+  rotate: true
+  xy: 242, 290
+  size: 300, 217
+  orig: 302, 219
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,497 @@
+{
+"skeleton": {
+	"hash": "gZlQjUVR9lQVSc2KT7JnIhp83HA",
+	"spine": "3.8.99",
+	"x": -1895.6,
+	"y": -1403.3,
+	"width": 3192,
+	"height": 3033,
+	"images": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_sikadi_new\\images",
+	"audio": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_sikadi_new"
+},
+"bones": [
+	{ "name": "root", "x": -2121.6, "y": 1743.7 }
+],
+"slots": [
+	{ "name": "chibang", "bone": "root" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "dajiao", "bone": "root" },
+	{ "name": "danyou", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "wunai", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sisuo", "bone": "root" },
+	{ "name": "manzu", "bone": "root" },
+	{ "name": "guanghuan", "bone": "root" },
+	{ "name": "han", "bone": "root" },
+	{ "name": "shanguang", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1822, "y": -1630.5, "width": 3192, "height": 3033 }
+			},
+			"chibang": {
+				"chibang": { "x": 2243, "y": -1382.5, "width": 3396, "height": 1963 }
+			},
+			"daiji": {
+				"daiji": { "x": 2081.5, "y": -1052.5, "width": 217, "height": 179 }
+			},
+			"dajiao": {
+				"dajiao": { "x": 2081.5, "y": -1059.5, "width": 217, "height": 169 }
+			},
+			"danyou": {
+				"danyou": { "x": 2081.5, "y": -1048, "width": 217, "height": 154 }
+			},
+			"ganga": {
+				"ganga": { "x": 2081.5, "y": -1056.5, "width": 217, "height": 171 }
+			},
+			"guanghuan": {
+				"guanghuan": { "x": 2127.5, "y": -438, "width": 653, "height": 428 }
+			},
+			"han": {
+				"han": { "x": 2019, "y": -1103, "width": 30, "height": 20 }
+			},
+			"happy": {
+				"happy": { "x": 2080, "y": -1061.5, "width": 202, "height": 161 }
+			},
+			"manzu": {
+				"manzu": { "x": 2077, "y": -1046, "width": 214, "height": 166 }
+			},
+			"shanguang": {
+				"shanguang": { "x": 2186.5, "y": -1062.5, "width": 75, "height": 69 }
+			},
+			"shy": {
+				"shy": { "x": 2078, "y": -1052.5, "width": 242, "height": 163 }
+			},
+			"sisuo": {
+				"sisuo": { "x": 2077, "y": -1051, "width": 214, "height": 148 }
+			},
+			"wunai": {
+				"wunai": { "x": 2081.5, "y": -1049, "width": 217, "height": 156 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			}
+		}
+	},
+	"dajiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"dajiao": {
+				"attachment": [
+					{ "name": "dajiao" }
+				]
+			}
+		}
+	},
+	"dajiao2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"dajiao": {
+				"attachment": [
+					{ "name": "dajiao" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			}
+		}
+	},
+	"danyou2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"han": {
+				"attachment": [
+					{ "name": "han" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"han": {
+				"attachment": [
+					{ "name": "han" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"han": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"manzu": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"manzu": {
+				"attachment": [
+					{ "name": "manzu" }
+				]
+			}
+		}
+	},
+	"manzu2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"manzu": {
+				"attachment": [
+					{ "name": "manzu" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"sisuo": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"sisuo": {
+				"attachment": [
+					{ "name": "sisuo" }
+				]
+			}
+		}
+	},
+	"sisuo2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"han": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sisuo": {
+				"attachment": [
+					{ "name": "sisuo" }
+				]
+			}
+		}
+	},
+	"wunai": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wunai": {
+				"attachment": [
+					{ "name": "wunai" }
+				]
+			}
+		}
+	},
+	"wunai2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"wunai": {
+				"attachment": [
+					{ "name": "wunai" }
+				]
+			}
+		}
+	},
+	"zhonger": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"shanguang": {
+				"attachment": [
+					{ "name": "shanguang" }
+				]
+			}
+		}
+	},
+	"zhonger2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"chibang": {
+				"attachment": [
+					{ "name": "chibang" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"guanghuan": {
+				"attachment": [
+					{ "name": "guanghuan" }
+				]
+			},
+			"shanguang": {
+				"attachment": [
+					{ "name": "shanguang" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,69 @@
+
+jq_lihui_dailiren.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 753, 924
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 194
+  size: 753, 1199
+  orig: 753, 1199
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 753, 770
+  size: 214, 154
+  orig: 214, 154
+  offset: 0, 0
+  index: -1
+dajiao
+  rotate: false
+  xy: 625, 30
+  size: 214, 164
+  orig: 214, 164
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 412, 24
+  size: 213, 170
+  orig: 213, 170
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 753, 1080
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+tuxue
+  rotate: false
+  xy: 0, 0
+  size: 208, 194
+  orig: 208, 194
+  offset: 0, 0
+  index: -1
+tuxue2
+  rotate: false
+  xy: 208, 3
+  size: 204, 191
+  orig: 204, 191
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 753, 1236
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: -1

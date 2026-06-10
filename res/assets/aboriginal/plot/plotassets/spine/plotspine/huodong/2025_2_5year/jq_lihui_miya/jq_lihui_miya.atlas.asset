@@ -1,0 +1,62 @@
+
+jq_lihui_miya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 723
+  size: 942, 3360
+  orig: 942, 3360
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 298, 4
+  size: 300, 224
+  orig: 300, 224
+  offset: 0, 0
+  index: -1
+fs
+  rotate: true
+  xy: 2, 230
+  size: 491, 479
+  orig: 491, 479
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 600, 119
+  size: 300, 220
+  orig: 300, 220
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 782, 426
+  size: 295, 294
+  orig: 295, 294
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 822, 133
+  size: 291, 215
+  orig: 291, 215
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: true
+  xy: 483, 421
+  size: 300, 297
+  orig: 300, 297
+  offset: 0, 0
+  index: -1
+zhoumei
+  rotate: false
+  xy: 2, 2
+  size: 294, 226
+  orig: 294, 226
+  offset: 0, 0
+  index: -1

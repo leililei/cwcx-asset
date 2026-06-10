@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "3ipnlMwgxyGafukUmkPEwz/QLnI",
+	"spine": "3.8.99",
+	"x": -322.23,
+	"y": -1021.48,
+	"width": 716,
+	"height": 2042,
+	"images": "E:/工作/2026冬活NPC立绘/jq_lihui_hunhunA_donghuo/images/",
+	"audio": "E:\\工作\\2026冬活NPC立绘\\jq_lihui_hunhunA_donghuo"
+},
+"bones": [
+	{ "name": "root", "x": -306.95, "y": 978.72 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 342.72, "y": -979.2, "width": 716, "height": 2042 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

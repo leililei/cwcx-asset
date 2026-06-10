@@ -1,0 +1,233 @@
+{
+"skeleton": {
+	"hash": "v9t56X3QsfXPMz8DgQ89+D93/vM",
+	"spine": "3.8.99",
+	"x": -1104.08,
+	"y": -627.4,
+	"width": 2462,
+	"height": 1825,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\猎骑\\daochu\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\猎骑\\daochu"
+},
+"bones": [
+	{ "name": "root", "x": -1366.08, "y": 1510.6 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "amazing", "bone": "root", "attachment": "amazing" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "joker", "bone": "root" },
+	{ "name": "glass", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"amazing": {
+				"amazing": { "x": 1360.5, "y": -817, "width": 265, "height": 190 }
+			},
+			"body": {
+				"body": { "x": 1493, "y": -1225.5, "width": 2462, "height": 1825 }
+			},
+			"daiji": {
+				"daiji": { "x": 1360.5, "y": -1227, "width": 265, "height": 998 }
+			},
+			"ganga": {
+				"ganga": { "x": 1360.5, "y": -807.5, "width": 265, "height": 183 }
+			},
+			"glass": {
+				"glass": { "x": 1356.5, "y": -847, "width": 285, "height": 130 }
+			},
+			"joker": {
+				"joker": { "x": 1368.5, "y": -823, "width": 249, "height": 158 }
+			},
+			"smile": {
+				"smile": { "x": 1360.5, "y": -799, "width": 265, "height": 174 }
+			},
+			"wink": {
+				"wink": { "x": 1368.5, "y": -819, "width": 249, "height": 150 }
+			}
+		}
+	}
+],
+"animations": {
+	"amazing": {},
+	"amazing2": {
+		"slots": {
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			}
+		}
+	},
+	"joker": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"joker": {
+				"attachment": [
+					{ "name": "joker" }
+				]
+			}
+		}
+	},
+	"joker2": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"joker": {
+				"attachment": [
+					{ "name": "joker" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"wink2": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"glass": {
+				"attachment": [
+					{ "name": "glass" }
+				]
+			},
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	}
+}
+}

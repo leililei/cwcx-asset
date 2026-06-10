@@ -1,0 +1,62 @@
+
+jq_lihui_xiaomengyuanlihui.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1315, 10
+  size: 290, 249
+  orig: 290, 249
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1017, 7
+  size: 296, 252
+  orig: 296, 252
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 261
+  size: 2943, 3288
+  orig: 2943, 3288
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 2, 2
+  size: 332, 257
+  orig: 332, 257
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 336, 2
+  size: 332, 257
+  orig: 332, 257
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1607, 21
+  size: 309, 238
+  orig: 309, 238
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 670, 7
+  size: 345, 252
+  orig: 345, 252
+  offset: 0, 0
+  index: -1
+zhoumei
+  rotate: false
+  xy: 1918, 35
+  size: 282, 224
+  orig: 282, 224
+  offset: 0, 0
+  index: -1

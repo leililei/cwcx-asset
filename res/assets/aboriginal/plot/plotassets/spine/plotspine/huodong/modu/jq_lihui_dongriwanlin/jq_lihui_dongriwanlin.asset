@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "1kVu80roMVhzaEvpk2HURPpc2SU",
+	"spine": "3.8.99",
+	"x": -813.97,
+	"y": -1790.06,
+	"width": 1730,
+	"height": 3075,
+	"images": "G:\\魔都精兵活动spine处理\\PSD源文件\\dongriwanlin\\images",
+	"audio": "G:\\魔都精兵活动spine处理\\PSD源文件\\dongriwanlin"
+},
+"bones": [
+	{ "name": "root", "x": -1188.97, "y": 1548.94 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "hand", "bone": "root", "attachment": "hand" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1217.5, "y": -1801.5, "width": 1685, "height": 3075 }
+			},
+			"daiji": {
+				"daiji": { "x": 1220, "y": -689.5, "width": 254, "height": 165 }
+			},
+			"ganga": {
+				"ganga": { "x": 1214, "y": -689, "width": 256, "height": 186 }
+			},
+			"hand": {
+				"hand": { "x": 1309.5, "y": -1223.5, "width": 1591, "height": 987 }
+			},
+			"happy": {
+				"happy": { "x": 1218, "y": -695, "width": 254, "height": 188 }
+			},
+			"jingya": {
+				"jingya": { "x": 1220.5, "y": -696.5, "width": 255, "height": 179 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 1217, "y": -685.5, "width": 250, "height": 173 }
+			},
+			"sad": {
+				"sad": { "x": 1214, "y": -695.5, "width": 256, "height": 181 }
+			},
+			"shy": {
+				"shy": { "x": 1246, "y": -688.5, "width": 328, "height": 177 }
+			},
+			"yansu": {
+				"yansu": { "x": 1217, "y": -693.5, "width": 250, "height": 189 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

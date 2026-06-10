@@ -1,0 +1,90 @@
+
+jq_lihui_starry.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1247, 151
+  size: 291, 231
+  orig: 291, 231
+  offset: 0, 0
+  index: -1
+apathy
+  rotate: true
+  xy: 1705, 165
+  size: 292, 210
+  orig: 292, 210
+  offset: 0, 0
+  index: -1
+blackhands
+  rotate: true
+  xy: 2, 2
+  size: 121, 216
+  orig: 121, 216
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 755
+  size: 1195, 3306
+  orig: 1195, 3306
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1199, 755
+  size: 1194, 3306
+  orig: 1194, 3306
+  offset: 0, 0
+  index: -1
+change
+  rotate: true
+  xy: 2, 125
+  size: 628, 1243
+  orig: 628, 1243
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1912, 464
+  size: 289, 208
+  orig: 289, 208
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1917, 187
+  size: 275, 216
+  orig: 275, 216
+  offset: 0, 0
+  index: -1
+ridicule
+  rotate: true
+  xy: 1476, 456
+  size: 297, 220
+  orig: 297, 220
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1480, 163
+  size: 291, 223
+  orig: 291, 223
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 1247, 444
+  size: 309, 227
+  orig: 309, 227
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1698, 459
+  size: 294, 212
+  orig: 294, 212
+  offset: 0, 0
+  index: -1

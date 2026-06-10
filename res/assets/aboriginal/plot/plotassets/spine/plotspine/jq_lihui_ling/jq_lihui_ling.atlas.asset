@@ -1,0 +1,55 @@
+
+jq_lihui_ling.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 1972, 1251
+  size: 217, 146
+  orig: 217, 148
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 224
+  size: 1972, 1909
+  orig: 1972, 1911
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 1972, 1916
+  size: 217, 161
+  orig: 217, 163
+  offset: 0, 1
+  index: -1
+xiao
+  rotate: true
+  xy: 1972, 1916
+  size: 217, 161
+  orig: 217, 163
+  offset: 0, 1
+  index: -1
+haixiu
+  rotate: true
+  xy: 1972, 1468
+  size: 231, 146
+  orig: 231, 148
+  offset: 0, 1
+  index: -1
+jingya
+  rotate: true
+  xy: 1972, 1699
+  size: 217, 156
+  orig: 217, 158
+  offset: 0, 1
+  index: -1
+sad
+  rotate: true
+  xy: 1972, 1034
+  size: 217, 129
+  orig: 217, 131
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,139 @@
+{
+"skeleton": {
+	"hash": "AUcRH1locpds18RykRIARy2obmE",
+	"spine": "3.8.99",
+	"x": -797.99,
+	"y": -1997.67,
+	"width": 1510,
+	"height": 4092,
+	"images": "E:/工作/2026冬活NPC立绘/jq_lihui_liudemila/images/",
+	"audio": "E:\\工作\\2026冬活NPC立绘\\jq_lihui_liudemila"
+},
+"bones": [
+	{ "name": "root", "x": -796.99, "y": 2093.33 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "lenmo", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "ku", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "jingya2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 769, "y": -382.5, "width": 340, "height": 257 }
+			},
+			"body": {
+				"body": { "x": 754, "y": -2045, "width": 1510, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 1006.5, "y": -1084.5, "width": 803, "height": 1641 }
+			},
+			"jingya": {
+				"jingya": { "x": 769, "y": -388.5, "width": 330, "height": 249 }
+			},
+			"jingya2": {
+				"jingya2": { "x": 769, "y": -372.5, "width": 330, "height": 283 }
+			},
+			"ku": {
+				"ku": { "x": 765.5, "y": -384, "width": 337, "height": 264 }
+			},
+			"lenmo": {
+				"lenmo": { "x": 765, "y": -395, "width": 332, "height": 236 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 781.5, "y": -332, "width": 343, "height": 362 }
+			},
+			"xiao": {
+				"xiao": { "x": 769.5, "y": -394.5, "width": 329, "height": 261 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"jingya2": {
+		"slots": {
+			"jingya2": {
+				"attachment": [
+					{ "name": "jingya2" }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			}
+		}
+	},
+	"lenmo": {
+		"slots": {
+			"lenmo": {
+				"attachment": [
+					{ "name": "lenmo" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

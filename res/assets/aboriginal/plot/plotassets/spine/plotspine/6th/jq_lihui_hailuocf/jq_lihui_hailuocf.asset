@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "GxYoeAcCjUYdy9ebAM4ukVN1aoc",
+	"spine": "3.8.99",
+	"x": -331.94,
+	"y": -1069.75,
+	"width": 773,
+	"height": 2144,
+	"images": "C:\\Users\\Plan123\\Desktop\\12月spine\\psd导出spine\\hlcf\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\12月spine\\psd导出spine\\hlcf"
+},
+"bones": [
+	{ "name": "root", "x": -927.94, "y": 1266.25 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "closeeye", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "head", "bone": "root", "attachment": "head" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 982.5, "y": -1264, "width": 773, "height": 2144 }
+			},
+			"closeeye": {
+				"closeeye": { "x": 931.5, "y": -534, "width": 193, "height": 138 }
+			},
+			"daiji": {
+				"daiji": { "x": 935, "y": -539.5, "width": 200, "height": 149 }
+			},
+			"ganga": {
+				"ganga": { "x": 938, "y": -534.5, "width": 216, "height": 153 }
+			},
+			"head": {
+				"head": { "x": 1051.5, "y": -522, "width": 629, "height": 660 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 935, "y": -534, "width": 200, "height": 138 }
+			},
+			"smile": {
+				"smile": { "x": 938, "y": -543, "width": 218, "height": 142 }
+			},
+			"wink": {
+				"wink": { "x": 936.5, "y": -543, "width": 203, "height": 142 }
+			}
+		}
+	}
+],
+"animations": {
+	"closeeye": {
+		"slots": {
+			"closeeye": {
+				"attachment": [
+					{ "name": "closeeye" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	}
+}
+}

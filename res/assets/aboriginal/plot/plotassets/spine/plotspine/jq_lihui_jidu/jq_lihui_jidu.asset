@@ -1,0 +1,143 @@
+{
+"skeleton": {
+	"hash": "cv5vPBI0RyN4SL6hHxwHmC00UCs",
+	"spine": "3.8.99",
+	"x": -548.97,
+	"y": 0.91,
+	"width": 1922,
+	"height": 1456,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/嫉妒"
+},
+"bones": [
+	{ "name": "root", "x": -547.97, "y": 1465.91 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root" },
+	{ "name": "sheng qi", "bone": "root" },
+	{ "name": "bei shang", "bone": "root" },
+	{ "name": "wei qu", "bone": "root" },
+	{ "name": "nei jiu", "bone": "root" },
+	{ "name": "nei jiu2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 1073.5, "y": -685, "width": 199, "height": 206 }
+			},
+			"body": {
+				"body": { "x": 960, "y": -737, "width": 1922, "height": 1456 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 1076, "y": -682.5, "width": 196, "height": 183 }
+			},
+			"nei jiu": {
+				"nei jiu": { "x": 1073.5, "y": -685, "width": 199, "height": 206 }
+			},
+			"nei jiu2": {
+				"nei jiu2": { "x": 1082.5, "y": -678.5, "width": 189, "height": 191 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 1079.5, "y": -683, "width": 203, "height": 202 }
+			},
+			"wei qu": {
+				"wei qu": { "x": 1075.5, "y": -685, "width": 203, "height": 206 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 1076, "y": -678.5, "width": 196, "height": 175 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"neijiu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"nei jiu": {
+				"attachment": [
+					{ "name": "nei jiu" }
+				]
+			}
+		}
+	},
+	"neijiu2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"nei jiu2": {
+				"attachment": [
+					{ "name": "nei jiu2" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": "sheng qi" }
+				]
+			}
+		}
+	},
+	"weiqu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei qu": {
+				"attachment": [
+					{ "name": "wei qu" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,560 @@
+{
+"skeleton": {
+	"hash": "mv1nLCmpEQqHQf9fpCBBvdUceog",
+	"spine": "3.8.99",
+	"x": -963.07,
+	"y": -6.99,
+	"width": 1730,
+	"height": 1417,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/朱莉乌斯"
+},
+"bones": [
+	{ "name": "root", "x": -962.07, "y": 1409.01 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "sheng qi", "bone": "root", "attachment": "sheng qi" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "wei xiao2", "bone": "root", "attachment": "wei xiao2" },
+	{ "name": "bei shang", "bone": "root", "attachment": "bei shang" },
+	{ "name": "jing ya", "bone": "root", "attachment": "jing ya" },
+	{ "name": "jing ya2", "bone": "root", "attachment": "jing ya2" },
+	{ "name": "yan su", "bone": "root", "attachment": "yan su" },
+	{ "name": "gan ga", "bone": "root", "attachment": "gan ga" },
+	{ "name": "bi yan", "bone": "root", "attachment": "bi yan" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 897, "y": -545, "width": 166, "height": 150 }
+			},
+			"bi yan": {
+				"bi yan": { "x": 891.5, "y": -541, "width": 173, "height": 162 }
+			},
+			"body": {
+				"body": { "x": 864, "y": -707.5, "width": 1730, "height": 1417 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 892.5, "y": -541.5, "width": 175, "height": 167 }
+			},
+			"gan ga": {
+				"gan ga": { "x": 891.5, "y": -543, "width": 173, "height": 166 }
+			},
+			"jing ya": {
+				"jing ya": { "x": 892.5, "y": -544.5, "width": 175, "height": 169 }
+			},
+			"jing ya2": {
+				"jing ya2": { "x": 892.5, "y": -540, "width": 175, "height": 160 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 895, "y": -547.5, "width": 170, "height": 163 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 895, "y": -539.5, "width": 170, "height": 159 }
+			},
+			"wei xiao2": {
+				"wei xiao2": { "x": 894.5, "y": -539.5, "width": 179, "height": 159 }
+			},
+			"yan su": {
+				"yan su": { "x": 892.5, "y": -539, "width": 175, "height": 162 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya2": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

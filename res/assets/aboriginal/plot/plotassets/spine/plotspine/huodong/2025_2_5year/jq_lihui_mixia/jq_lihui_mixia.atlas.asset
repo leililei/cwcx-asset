@@ -1,0 +1,69 @@
+
+jq_lihui_mixia.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afraid
+  rotate: false
+  xy: 279, 8
+  size: 275, 195
+  orig: 275, 195
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 205
+  size: 2826, 2945
+  orig: 2826, 2945
+  offset: 0, 0
+  index: -1
+cry
+  rotate: false
+  xy: 2, 2
+  size: 275, 201
+  orig: 275, 201
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 833, 21
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1110, 21
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1387, 21
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+huang
+  rotate: false
+  xy: 556, 8
+  size: 275, 195
+  orig: 275, 195
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1664, 21
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1941, 21
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1

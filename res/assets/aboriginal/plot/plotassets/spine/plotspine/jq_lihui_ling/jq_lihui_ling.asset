@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "Ki5kgO4M+bkzQIkReyLif45rUAM",
+	"spine": "3.8.99",
+	"x": -945.99,
+	"y": -946.33,
+	"width": 1972,
+	"height": 1911,
+	"images": "C:\\Users\\Plan123\\Desktop\\ling 立绘\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\ling 立绘"
+},
+"bones": [
+	{ "name": "root", "x": -968.99, "y": 998.67 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "xiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1039.5, "y": -555, "width": 217, "height": 148 }
+			},
+			"body": {
+				"body": { "x": 1009, "y": -989.5, "width": 1972, "height": 1911 }
+			},
+			"daiji": {
+				"daiji": { "x": 1039.5, "y": -558.5, "width": 217, "height": 163 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1032.5, "y": -551, "width": 231, "height": 148 }
+			},
+			"jingya": {
+				"jingya": { "x": 1039.5, "y": -556, "width": 217, "height": 158 }
+			},
+			"sad": {
+				"sad": { "x": 1039.5, "y": -548.5, "width": 217, "height": 131 }
+			},
+			"xiao": {
+				"xiao": { "x": 1039.5, "y": -558.5, "width": 217, "height": 163 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,55 @@
+
+jq_lihui_qingyu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 236
+  size: 2010, 3077
+  orig: 2010, 3077
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 728, 66
+  size: 225, 168
+  orig: 225, 168
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 955, 74
+  size: 226, 160
+  orig: 226, 160
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 250, 49
+  size: 249, 185
+  orig: 249, 185
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 501, 56
+  size: 225, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1183, 85
+  size: 226, 149
+  orig: 226, 149
+  offset: 0, 0
+  index: -1
+yinchen
+  rotate: true
+  xy: 2, 2
+  size: 232, 246
+  orig: 232, 246
+  offset: 0, 0
+  index: -1

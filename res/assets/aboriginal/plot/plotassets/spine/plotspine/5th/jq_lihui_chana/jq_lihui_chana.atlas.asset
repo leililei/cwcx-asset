@@ -1,0 +1,55 @@
+
+jq_lihui_chana.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 0, 0
+  size: 172, 173
+  orig: 174, 175
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 865, 21
+  size: 166, 151
+  orig: 168, 153
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 172
+  size: 2236, 2537
+  orig: 2238, 2539
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 173, 0
+  size: 172, 173
+  orig: 174, 175
+  offset: 1, 1
+  index: -1
+happy
+  rotate: true
+  xy: 346, 0
+  size: 172, 173
+  orig: 174, 175
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: true
+  xy: 519, 0
+  size: 172, 173
+  orig: 174, 175
+  offset: 1, 1
+  index: -1
+sad
+  rotate: true
+  xy: 692, 0
+  size: 172, 173
+  orig: 174, 175
+  offset: 1, 1
+  index: -1

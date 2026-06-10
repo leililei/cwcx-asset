@@ -1,0 +1,202 @@
+{
+"skeleton": {
+	"hash": "A+u8DwCQPNw74guzGFDLiL+lSdw",
+	"spine": "3.8.99",
+	"x": -1362.09,
+	"y": -1848.63,
+	"width": 3106,
+	"height": 4092,
+	"images": "D:\\活动资源相关\\2025.3 弗兰卡个人剧情\\演出素材\\images",
+	"audio": "D:\\活动资源相关\\2025.3 弗兰卡个人剧情\\演出素材"
+},
+"bones": [
+	{ "name": "root", "x": -1361.09, "y": 2242.37 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "zaogao", "bone": "root" },
+	{ "name": "kanlaji", "bone": "root" },
+	{ "name": "cixiaogui", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "biyanxiao", "bone": "root" },
+	{ "name": "xiaozhang", "bone": "root" },
+	{ "name": "ts", "bone": "root", "attachment": "ts" },
+	{ "name": "wp", "bone": "root", "attachment": "wp" },
+	{ "name": "weiba", "bone": "root", "attachment": "weiba" },
+	{ "name": "texiao", "bone": "root", "attachment": "texiao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyanxiao": {
+				"biyanxiao": { "x": 1405, "y": -1215, "width": 286, "height": 168 }
+			},
+			"body": {
+				"body": { "x": 1709, "y": -2487.5, "width": 2792, "height": 3207 }
+			},
+			"chensi": {
+				"chensi": { "x": 1405, "y": -1212.5, "width": 286, "height": 173 }
+			},
+			"cixiaogui": {
+				"cixiaogui": { "x": 1391, "y": -1209.5, "width": 264, "height": 189 }
+			},
+			"daiji": {
+				"daiji": { "x": 1391, "y": -1209.5, "width": 264, "height": 171 }
+			},
+			"danxin": {
+				"danxin": { "x": 1391, "y": -1205, "width": 264, "height": 180 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1403.5, "y": -1207, "width": 289, "height": 184 }
+			},
+			"jingya": {
+				"jingya": { "x": 1403.5, "y": -1211.5, "width": 289, "height": 175 }
+			},
+			"kanlaji": {
+				"kanlaji": { "x": 1391, "y": -1193.5, "width": 264, "height": 205 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1391, "y": -1200.5, "width": 264, "height": 189 }
+			},
+			"texiao": {
+				"texiao": { "x": 460, "y": -570, "width": 922, "height": 880 }
+			},
+			"ts": {
+				"ts": { "x": 1613.5, "y": -2379, "width": 2601, "height": 3222 }
+			},
+			"weiba": {
+				"weiba": { "x": 2314.5, "y": -2603.5, "width": 409, "height": 567 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1391, "y": -1209.5, "width": 264, "height": 169 }
+			},
+			"wp": {
+				"wp": { "x": 707.5, "y": -1848, "width": 893, "height": 3698 }
+			},
+			"xiaozhang": {
+				"xiaozhang": { "x": 1391, "y": -1206, "width": 264, "height": 200 }
+			},
+			"zaogao": {
+				"zaogao": { "x": 1391, "y": -1209, "width": 264, "height": 188 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyanxiao": {
+		"slots": {
+			"biyanxiao": {
+				"attachment": [
+					{ "name": "biyanxiao" }
+				]
+			}
+		}
+	},
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"cixiaogui": {
+		"slots": {
+			"cixiaogui": {
+				"attachment": [
+					{ "name": "cixiaogui" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"kanlaji": {
+		"slots": {
+			"kanlaji": {
+				"attachment": [
+					{ "name": "kanlaji" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	},
+	"xiaozhang": {
+		"slots": {
+			"xiaozhang": {
+				"attachment": [
+					{ "name": "xiaozhang" }
+				]
+			}
+		}
+	},
+	"zaogao": {
+		"slots": {
+			"zaogao": {
+				"attachment": [
+					{ "name": "zaogao" }
+				]
+			}
+		}
+	}
+}
+}

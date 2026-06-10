@@ -1,0 +1,146 @@
+
+jq_lihui_blackduoluolisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 2072, 2187
+  size: 327, 191
+  orig: 327, 191
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 1982, 1835
+  size: 327, 199
+  orig: 327, 199
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 722
+  size: 1594, 3371
+  orig: 1594, 3371
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 600, 207
+  size: 333, 191
+  orig: 333, 191
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1653, 22
+  size: 327, 213
+  orig: 327, 213
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 1743, 2164
+  size: 327, 208
+  orig: 327, 208
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1083, 475
+  size: 327, 245
+  orig: 327, 245
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1598, 2587
+  size: 1325, 1506
+  orig: 1325, 1506
+  offset: 0, 0
+  index: -1
+kailang
+  rotate: false
+  xy: 2, 36
+  size: 327, 229
+  orig: 327, 229
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: true
+  xy: 1083, 146
+  size: 327, 239
+  orig: 327, 239
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1412, 478
+  size: 327, 242
+  orig: 327, 242
+  offset: 0, 0
+  index: -1
+shy3
+  rotate: false
+  xy: 1412, 237
+  size: 329, 239
+  orig: 329, 239
+  offset: 0, 0
+  index: -1
+shy4
+  rotate: false
+  xy: 600, 400
+  size: 481, 320
+  orig: 481, 320
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: false
+  xy: 1741, 2374
+  size: 327, 211
+  orig: 327, 211
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 2070, 2380
+  size: 327, 205
+  orig: 327, 205
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 660, 3
+  size: 327, 202
+  orig: 327, 202
+  offset: 0, 0
+  index: -1
+xiao4
+  rotate: false
+  xy: 1324, 21
+  size: 327, 214
+  orig: 327, 214
+  offset: 0, 0
+  index: -1
+xiatou
+  rotate: true
+  xy: 1598, 1835
+  size: 327, 195
+  orig: 327, 195
+  offset: 0, 0
+  index: -1
+xiatouhei
+  rotate: false
+  xy: 2, 267
+  size: 596, 453
+  orig: 596, 453
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 331, 2
+  size: 327, 203
+  orig: 327, 203
+  offset: 0, 0
+  index: -1

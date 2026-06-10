@@ -1,0 +1,27 @@
+
+jq_lihui_new_jufengtujiduiyuanshoushang_0.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 159
+  size: 823, 2681
+  orig: 823, 2683
+  offset: 0, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 0, 0
+  size: 174, 159
+  orig: 174, 161
+  offset: 0, 1
+  index: -1
+weixiao2
+  rotate: true
+  xy: 174, 31
+  size: 128, 159
+  orig: 128, 161
+  offset: 0, 1
+  index: -1

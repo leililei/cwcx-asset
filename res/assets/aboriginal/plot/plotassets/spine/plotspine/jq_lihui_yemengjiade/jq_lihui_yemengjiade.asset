@@ -1,0 +1,76 @@
+{
+"skeleton": {
+	"hash": "UdeYrDRapFipOODQvy4yUVctqng",
+	"spine": "3.8.99",
+	"x": -1235.04,
+	"y": -1.38,
+	"width": 2050,
+	"height": 1282,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/耶梦加得"
+},
+"bones": [
+	{ "name": "root", "x": -1234.04, "y": 1279.62 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "tou", "bone": "root", "attachment": "tou" },
+	{ "name": "tou2", "bone": "root" },
+	{ "name": "bo", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bo": {
+				"bo": { "x": 629, "y": -678, "width": 890, "height": 760 }
+			},
+			"body": {
+				"body": { "x": 1024, "y": -640, "width": 2048, "height": 1282 }
+			},
+			"tou": {
+				"tou": { "x": 564, "y": -605.5, "width": 1114, "height": 1049 }
+			},
+			"tou2": {
+				"tou2": { "x": 571.5, "y": -705, "width": 1003, "height": 1152 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"gongji": {
+		"slots": {
+			"tou": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tou2": {
+				"attachment": [
+					{ "name": "tou2" }
+				]
+			}
+		}
+	},
+	"gongji2": {
+		"slots": {
+			"bo": {
+				"attachment": [
+					{ "name": "bo" }
+				]
+			},
+			"tou": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tou2": {
+				"attachment": [
+					{ "name": "tou2" }
+				]
+			}
+		}
+	}
+}
+}

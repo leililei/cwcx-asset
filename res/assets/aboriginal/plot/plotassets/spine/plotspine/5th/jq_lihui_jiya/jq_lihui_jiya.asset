@@ -1,0 +1,672 @@
+{
+"skeleton": {
+	"hash": "AG6bFEOsEqEzZdCVgqsHri313cE",
+	"spine": "3.8.99",
+	"x": -402.23,
+	"y": -5.9,
+	"width": 822,
+	"height": 939,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/吉雅"
+},
+"bones": [
+	{ "name": "root", "x": -401.23, "y": 932.1 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "hai xiu", "bone": "root", "attachment": "hai xiu" },
+	{ "name": "hai xiu2", "bone": "root", "attachment": "hai xiu2" },
+	{ "name": "dan you", "bone": "root", "attachment": "dan you" },
+	{ "name": "sheng qi", "bone": "root", "attachment": "sheng qi" },
+	{ "name": "tan qi", "bone": "root", "attachment": "tan qi" },
+	{ "name": "meng bi", "bone": "root", "attachment": "meng bi" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "jing ya", "bone": "root", "attachment": "jing ya" },
+	{ "name": "happy", "bone": "root", "attachment": "happy" },
+	{ "name": "happy2", "bone": "root", "attachment": "happy2" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 410, "y": -468.5, "width": 822, "height": 939 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 404, "y": -234, "width": 206, "height": 142 }
+			},
+			"dan you": {
+				"dan you": { "x": 403.5, "y": -234.5, "width": 207, "height": 143 }
+			},
+			"hair": {
+				"hair": { "x": 397, "y": -227.5, "width": 312, "height": 297 }
+			},
+			"hai xiu": {
+				"hai xiu": { "x": 403.5, "y": -235, "width": 207, "height": 146 }
+			},
+			"hai xiu2": {
+				"hai xiu2": { "x": 405.5, "y": -241.5, "width": 229, "height": 137 }
+			},
+			"happy": {
+				"happy": { "x": 405, "y": -246, "width": 188, "height": 124 }
+			},
+			"happy2": {
+				"happy2": { "x": 405, "y": -244, "width": 188, "height": 120 }
+			},
+			"jing ya": {
+				"jing ya": { "x": 403.5, "y": -236.5, "width": 207, "height": 143 }
+			},
+			"meng bi": {
+				"meng bi": { "x": 403.5, "y": -235.5, "width": 207, "height": 141 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 403.5, "y": -235, "width": 207, "height": 130 }
+			},
+			"tan qi": {
+				"tan qi": { "x": 404, "y": -234, "width": 186, "height": 144 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 404, "y": -235, "width": 206, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"gaoxing": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"gaoxing2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"mengbi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"tanqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dan you": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meng bi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

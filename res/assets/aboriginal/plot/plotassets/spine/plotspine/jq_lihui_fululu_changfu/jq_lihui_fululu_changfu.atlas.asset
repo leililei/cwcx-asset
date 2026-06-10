@@ -1,0 +1,48 @@
+
+jq_lihui_fululu_changfu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 497
+  size: 1230, 1905
+  orig: 1230, 1905
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 1732
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 230, 1732
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+fadai
+  rotate: false
+  xy: 460, 1732
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 690, 1732
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+liuhan
+  rotate: false
+  xy: 920, 1727
+  size: 230, 178
+  orig: 230, 178
+  offset: 0, 0
+  index: -1

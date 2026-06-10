@@ -1,0 +1,241 @@
+{
+"skeleton": {
+	"hash": "sW9v5l3sTU6t2+KanGXs5E3j9l0",
+	"spine": "3.8.99",
+	"x": -536.1,
+	"y": -1030.2,
+	"width": 1173,
+	"height": 2229,
+	"images": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_sikadi_daily\\images",
+	"audio": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_sikadi_daily"
+},
+"bones": [
+	{ "name": "root", "x": -1465.1, "y": 1531.8 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "laugh", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "shy1", "bone": "root" },
+	{ "name": "shy2", "bone": "root" },
+	{ "name": "shy3", "bone": "root" },
+	{ "name": "shy4", "bone": "root" },
+	{ "name": "shy5", "bone": "root" },
+	{ "name": "surp", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1518.5, "y": -1447, "width": 1165, "height": 2226 }
+			},
+			"body2": {
+				"body2": { "x": 1515.5, "y": -1447.5, "width": 1173, "height": 2229 }
+			},
+			"daiji": {
+				"daiji": { "x": 1460, "y": -614, "width": 220, "height": 152 }
+			},
+			"laugh": {
+				"laugh": { "x": 1460, "y": -621.5, "width": 220, "height": 167 }
+			},
+			"sad": {
+				"sad": { "x": 1460, "y": -622, "width": 220, "height": 142 }
+			},
+			"shy1": {
+				"shy1": { "x": 1460, "y": -618.5, "width": 220, "height": 161 }
+			},
+			"shy2": {
+				"shy2": { "x": 1465, "y": -618.5, "width": 230, "height": 161 }
+			},
+			"shy3": {
+				"shy3": { "x": 1460, "y": -621, "width": 220, "height": 166 }
+			},
+			"shy4": {
+				"shy4": { "x": 1465, "y": -630.5, "width": 230, "height": 147 }
+			},
+			"shy5": {
+				"shy5": { "x": 1460, "y": -630.5, "width": 220, "height": 147 }
+			},
+			"surp": {
+				"surp": { "x": 1460, "y": -620.5, "width": 220, "height": 165 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"laugh": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"laugh": {
+				"attachment": [
+					{ "name": "laugh" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy1": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy1": {
+				"attachment": [
+					{ "name": "shy1" }
+				]
+			}
+		}
+	},
+	"shy2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy2": {
+				"attachment": [
+					{ "name": "shy2" }
+				]
+			}
+		}
+	},
+	"shy3": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy3": {
+				"attachment": [
+					{ "name": "shy3" }
+				]
+			}
+		}
+	},
+	"shy4": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy4": {
+				"attachment": [
+					{ "name": "shy4" }
+				]
+			}
+		}
+	},
+	"shy5": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"shy5": {
+				"attachment": [
+					{ "name": "shy5" }
+				]
+			}
+		}
+	},
+	"surp": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"surp": {
+				"attachment": [
+					{ "name": "surp" }
+				]
+			}
+		}
+	}
+}
+}

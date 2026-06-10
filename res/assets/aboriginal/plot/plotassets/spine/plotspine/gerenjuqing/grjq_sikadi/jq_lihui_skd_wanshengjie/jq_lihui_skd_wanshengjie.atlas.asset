@@ -1,0 +1,118 @@
+
+jq_lihui_skd_wanshengjie.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 545
+  size: 3477, 3551
+  orig: 3477, 3551
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: true
+  xy: 1644, 9
+  size: 297, 241
+  orig: 297, 241
+  offset: 0, 0
+  index: -1
+ci
+  rotate: true
+  xy: 744, 235
+  size: 310, 256
+  orig: 310, 256
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1256, 292
+  size: 300, 253
+  orig: 300, 253
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1344, 48
+  size: 300, 244
+  orig: 300, 244
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1556, 306
+  size: 300, 239
+  orig: 300, 239
+  offset: 0, 0
+  index: -1
+laji
+  rotate: false
+  xy: 2153, 317
+  size: 300, 228
+  orig: 300, 228
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 744, 0
+  size: 300, 235
+  orig: 300, 235
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 2116, 9
+  size: 300, 230
+  orig: 300, 230
+  offset: 0, 0
+  index: -1
+suifa
+  rotate: false
+  xy: 0, 52
+  size: 744, 493
+  orig: 744, 493
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: true
+  xy: 1000, 246
+  size: 299, 256
+  orig: 299, 256
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 1044, 0
+  size: 300, 246
+  orig: 300, 246
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 1856, 309
+  size: 297, 236
+  orig: 297, 236
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 2453, 457
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+yanzhao
+  rotate: true
+  xy: 2346, 64
+  size: 253, 158
+  orig: 253, 158
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: true
+  xy: 1885, 9
+  size: 300, 231
+  orig: 300, 231
+  offset: 0, 0
+  index: -1

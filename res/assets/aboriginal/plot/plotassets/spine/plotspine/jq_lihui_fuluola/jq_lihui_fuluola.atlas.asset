@@ -1,0 +1,81 @@
+
+jq_lihui_fuluola.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angry
+  rotate: true
+  xy: 0, 1487
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+Be shy
+  rotate: true
+  xy: 369, 1487
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+Extra
+  rotate: true
+  xy: 738, 1487
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+Happy
+  rotate: true
+  xy: 1107, 1487
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+Sad
+  rotate: true
+  xy: 1476, 1487
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+Surprize
+  rotate: true
+  xy: 0, 1129
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 369, 1129
+  size: 358, 369
+  orig: 358, 369
+  offset: 0, 0
+  index: -1
+
+jq_lihui_fuluola2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armor
+  rotate: true
+  xy: 0, 29
+  size: 1673, 1702
+  orig: 1673, 1702
+  offset: 0, 0
+  index: -1
+
+jq_lihui_fuluola3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 75
+  size: 1777, 1702
+  orig: 1777, 1702
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jq_lihui_mogenlefei_daily.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 1452
+  size: 1305, 3054
+  orig: 1305, 3054
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 700, 2844
+  size: 342, 210
+  orig: 342, 210
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 1384, 2836
+  size: 339, 218
+  orig: 339, 218
+  offset: 0, 0
+  index: -1
+lengmo
+  rotate: false
+  xy: 0, 2849
+  size: 358, 205
+  orig: 358, 205
+  offset: 0, 0
+  index: -1
+nohappy
+  rotate: false
+  xy: 1723, 2757
+  size: 342, 297
+  orig: 342, 297
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 358, 2847
+  size: 342, 207
+  orig: 342, 207
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1042, 2841
+  size: 342, 213
+  orig: 342, 213
+  offset: 0, 0
+  index: -1

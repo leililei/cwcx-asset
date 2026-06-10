@@ -1,0 +1,90 @@
+
+jq_lihui_chalisha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 0, 1850
+  size: 209, 150
+  orig: 209, 150
+  offset: 0, 0
+  index: -1
+bei shang2
+  rotate: false
+  xy: 209, 1850
+  size: 209, 150
+  orig: 209, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 252
+  size: 2000, 1405
+  orig: 2000, 1405
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 418, 1841
+  size: 209, 159
+  orig: 209, 159
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: false
+  xy: 1067, 1830
+  size: 231, 170
+  orig: 231, 170
+  offset: 0, 0
+  index: -1
+hai xiu2
+  rotate: false
+  xy: 1298, 1830
+  size: 231, 170
+  orig: 231, 170
+  offset: 0, 0
+  index: -1
+hai xiu3
+  rotate: false
+  xy: 627, 1833
+  size: 231, 167
+  orig: 231, 167
+  offset: 0, 0
+  index: -1
+hai xiu4
+  rotate: false
+  xy: 0, 1667
+  size: 231, 183
+  orig: 231, 183
+  offset: 0, 0
+  index: -1
+jing ya
+  rotate: false
+  xy: 1730, 1819
+  size: 209, 181
+  orig: 209, 181
+  offset: 0, 0
+  index: -1
+kai xing
+  rotate: false
+  xy: 1529, 1830
+  size: 201, 170
+  orig: 201, 170
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 231, 1657
+  size: 209, 184
+  orig: 209, 184
+  offset: 0, 0
+  index: -1
+sheng qi2
+  rotate: false
+  xy: 858, 1832
+  size: 209, 168
+  orig: 209, 168
+  offset: 0, 0
+  index: -1

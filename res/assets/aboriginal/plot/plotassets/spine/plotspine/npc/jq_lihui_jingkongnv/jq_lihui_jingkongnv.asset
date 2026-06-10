@@ -1,0 +1,132 @@
+{
+"skeleton": {
+	"hash": "w9BQhrPDH1WTGPZ/J1p2yN4+kPE",
+	"spine": "3.8.99",
+	"x": -531.91,
+	"y": -1253.49,
+	"width": 938,
+	"height": 3003,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\jingkongnv\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\jingkongnv"
+},
+"bones": [
+	{ "name": "root", "x": -1220.91, "y": 2255.51 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "body2", "bone": "root" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "smile", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1198, "y": -940, "width": 304, "height": 238 }
+			},
+			"body": {
+				"body": { "x": 1158, "y": -2007.5, "width": 938, "height": 3003 }
+			},
+			"body2": {
+				"body2": { "x": 1158.5, "y": -2007.5, "width": 937, "height": 3003 }
+			},
+			"daiji": {
+				"daiji": { "x": 1202, "y": -935.5, "width": 314, "height": 229 }
+			},
+			"smile": {
+				"smile": { "x": 1202, "y": -931.5, "width": 314, "height": 241 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

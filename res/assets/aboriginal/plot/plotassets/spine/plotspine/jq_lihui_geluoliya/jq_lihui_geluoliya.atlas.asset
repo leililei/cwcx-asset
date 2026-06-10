@@ -1,0 +1,41 @@
+
+jq_lihui_geluoliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2048, 2028
+  size: 153, 133
+  orig: 155, 135
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 135
+  size: 2048, 2046
+  orig: 2050, 2048
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 2048, 1730
+  size: 149, 125
+  orig: 151, 127
+  offset: 1, 1
+  index: -1
+shy
+  rotate: true
+  xy: 2048, 1578
+  size: 152, 123
+  orig: 154, 125
+  offset: 1, 1
+  index: -1
+smile
+  rotate: true
+  xy: 2048, 1879
+  size: 149, 126
+  orig: 151, 128
+  offset: 1, 1
+  index: -1

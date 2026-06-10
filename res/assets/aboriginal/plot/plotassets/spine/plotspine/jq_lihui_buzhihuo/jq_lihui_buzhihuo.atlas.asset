@@ -1,0 +1,118 @@
+
+jq_lihui_buzhihuo.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang2
+  rotate: false
+  xy: 1879, 933
+  size: 150, 166
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+biyanxiao1
+  rotate: false
+  xy: 1879, 564
+  size: 145, 173
+  orig: 145, 173
+  offset: 0, 0
+  index: -1
+biyanxiao2
+  rotate: true
+  xy: 736, 412
+  size: 134, 176
+  orig: 134, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 546
+  size: 1879, 1502
+  orig: 1879, 1502
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1879, 1099
+  size: 150, 173
+  orig: 150, 173
+  offset: 0, 0
+  index: -1
+daiji3
+  rotate: false
+  xy: 1879, 1099
+  size: 150, 173
+  orig: 150, 173
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 196, 370
+  size: 182, 176
+  orig: 182, 176
+  offset: 0, 0
+  index: -1
+fennu1
+  rotate: false
+  xy: 1879, 1667
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+fennu2
+  rotate: false
+  xy: 1879, 1468
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: true
+  xy: 1879, 1866
+  size: 182, 169
+  orig: 182, 169
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: true
+  xy: 0, 364
+  size: 182, 196
+  orig: 182, 196
+  offset: 0, 0
+  index: -1
+haixiu3
+  rotate: false
+  xy: 378, 373
+  size: 182, 173
+  orig: 182, 173
+  offset: 0, 0
+  index: -1
+jianjiao
+  rotate: false
+  xy: 1879, 737
+  size: 145, 196
+  orig: 145, 196
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1879, 1272
+  size: 150, 196
+  orig: 150, 196
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: true
+  xy: 560, 407
+  size: 139, 176
+  orig: 139, 176
+  offset: 0, 0
+  index: -1
+kuxiao
+  rotate: false
+  xy: 1879, 398
+  size: 145, 166
+  orig: 145, 166
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jq_lihui_kexueguan.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 120
+  size: 1116, 3062
+  orig: 1116, 3062
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 0, 0
+  size: 120, 193
+  orig: 120, 193
+  offset: 0, 0
+  index: -1

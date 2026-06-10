@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "Gt+H+AWTcWvdDc2tn5hp+lCyRTg",
+	"spine": "3.8.99",
+	"x": -982.33,
+	"y": -1557.55,
+	"width": 2010,
+	"height": 3077,
+	"images": "G:\\魔都精兵活动spine处理\\PSD源文件\\qingyu\\images",
+	"audio": "G:\\魔都精兵活动spine处理\\PSD源文件\\qingyu"
+},
+"bones": [
+	{ "name": "root", "x": -1236.33, "y": 1661.45 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "yinchen", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "danyou", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1259, "y": -1680.5, "width": 2010, "height": 3077 }
+			},
+			"daiji": {
+				"daiji": { "x": 1269.5, "y": -668, "width": 225, "height": 168 }
+			},
+			"danyou": {
+				"danyou": { "x": 1269, "y": -677, "width": 226, "height": 160 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1274.5, "y": -676.5, "width": 249, "height": 185 }
+			},
+			"jingya": {
+				"jingya": { "x": 1269.5, "y": -673, "width": 225, "height": 178 }
+			},
+			"xiao": {
+				"xiao": { "x": 1269, "y": -671.5, "width": 226, "height": 149 }
+			},
+			"yinchen": {
+				"yinchen": { "x": 1266, "y": -628, "width": 232, "height": 246 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danyou": {
+		"slots": {
+			"danyou": {
+				"attachment": [
+					{ "name": "danyou" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"yinchen": {
+		"slots": {
+			"yinchen": {
+				"attachment": [
+					{ "name": "yinchen" }
+				]
+			}
+		}
+	}
+}
+}

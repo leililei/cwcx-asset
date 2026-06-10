@@ -1,0 +1,90 @@
+{
+"skeleton": {
+	"hash": "kirIpHUJ7t0EFcmkFwCueaMxDsk",
+	"spine": "3.8.99",
+	"x": -360.27,
+	"y": -1783.84,
+	"width": 753,
+	"height": 3097,
+	"images": "G:\\文案的活2\\5月spine\\pingminb\\images",
+	"audio": "G:\\文案的活2\\5月spine\\pingminb"
+},
+"bones": [
+	{ "name": "root", "x": -645.27, "y": 1394.16 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 629, "y": -417, "width": 222, "height": 194 }
+			},
+			"biyan": {
+				"biyan": { "x": 631, "y": -431.5, "width": 218, "height": 165 }
+			},
+			"body": {
+				"body": { "x": 661.5, "y": -1629.5, "width": 753, "height": 3097 }
+			},
+			"sad": {
+				"sad": { "x": 621, "y": -874.5, "width": 422, "height": 1123 }
+			},
+			"smile": {
+				"smile": { "x": 641.5, "y": -485.5, "width": 55, "height": 13 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "y": 3.97 }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

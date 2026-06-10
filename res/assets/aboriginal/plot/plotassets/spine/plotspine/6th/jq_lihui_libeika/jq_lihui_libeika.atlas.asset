@@ -1,0 +1,76 @@
+
+jq_lihui_libeika.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 650
+  size: 1002, 1745
+  orig: 1002, 1745
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1227, 1850
+  size: 309, 190
+  orig: 309, 190
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1536, 1848
+  size: 312, 192
+  orig: 312, 192
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: false
+  xy: 0, 1669
+  size: 312, 192
+  orig: 312, 192
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 312, 1652
+  size: 309, 208
+  orig: 309, 208
+  offset: 0, 0
+  index: -1
+nanguo
+  rotate: false
+  xy: 614, 1860
+  size: 312, 180
+  orig: 312, 180
+  offset: 0, 0
+  index: -1
+qianxiao
+  rotate: true
+  xy: 1848, 1731
+  size: 309, 192
+  orig: 309, 192
+  offset: 0, 0
+  index: -1
+qidao
+  rotate: false
+  xy: 301, 1861
+  size: 313, 179
+  orig: 313, 179
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 926, 1859
+  size: 301, 181
+  orig: 301, 181
+  offset: 0, 0
+  index: -1
+shiluo
+  rotate: false
+  xy: 0, 1870
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1

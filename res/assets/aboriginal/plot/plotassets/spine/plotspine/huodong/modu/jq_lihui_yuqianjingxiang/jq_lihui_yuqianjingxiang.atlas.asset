@@ -1,0 +1,62 @@
+
+jq_lihui_yuqianjingxiang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1437, 26
+  size: 238, 183
+  orig: 238, 183
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 2157, 47
+  size: 227, 162
+  orig: 227, 162
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: false
+  xy: 1917, 47
+  size: 238, 162
+  orig: 238, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1209
+  size: 1962, 2855
+  orig: 1962, 2855
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 1966, 2691
+  size: 1373, 898
+  orig: 1373, 898
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 1437, 211
+  size: 996, 996
+  orig: 996, 996
+  offset: 0, 0
+  index: -1
+bodyxian
+  rotate: true
+  xy: 2, 2
+  size: 1205, 1433
+  orig: 1205, 1433
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1677, 46
+  size: 238, 163
+  orig: 238, 163
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+
+jq_lihui_meier.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1444, 2192
+  size: 361, 271
+  orig: 361, 271
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 1805, 1934
+  size: 529, 658
+  orig: 529, 658
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 722, 2209
+  size: 361, 254
+  orig: 361, 254
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 0, 2232
+  size: 361, 231
+  orig: 361, 231
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 361, 2219
+  size: 361, 244
+  orig: 361, 244
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1083, 2197
+  size: 361, 266
+  orig: 361, 266
+  offset: 0, 0
+  index: -1
+
+jq_lihui_meier2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 318
+  size: 4002, 3684
+  orig: 4002, 3684
+  offset: 0, 0
+  index: -1

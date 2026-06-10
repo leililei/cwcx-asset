@@ -1,0 +1,82 @@
+
+jq_lihui_zhuzhu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body2
+  rotate: true
+  xy: 2, 793
+  size: 1992, 3082
+  orig: 1992, 3082
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1838, 2787
+  size: 404, 297
+  orig: 404, 297
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 932, 2822
+  size: 300, 262
+  orig: 300, 262
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 536, 2829
+  size: 394, 255
+  orig: 394, 255
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 2, 3015
+  size: 230, 69
+  orig: 230, 69
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 234, 2845
+  size: 300, 239
+  orig: 300, 239
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1234, 2820
+  size: 300, 264
+  orig: 300, 264
+  offset: 0, 0
+  index: -1
+yinchen
+  rotate: false
+  xy: 1536, 2812
+  size: 300, 272
+  orig: 300, 272
+  offset: 0, 0
+  index: -1
+
+jq_lihui_zhuzhu2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1096
+  size: 2020, 2948
+  orig: 2020, 2948
+  offset: 0, 0
+  index: -1
+zhansun
+  rotate: false
+  xy: 2024, 1096
+  size: 2020, 2948
+  orig: 2020, 2948
+  offset: 0, 0
+  index: -1

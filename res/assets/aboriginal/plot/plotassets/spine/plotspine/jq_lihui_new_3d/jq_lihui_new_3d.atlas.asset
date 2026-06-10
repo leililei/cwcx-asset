@@ -1,0 +1,27 @@
+
+jq_lihui_new_3d.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 213
+  size: 1083, 2275
+  orig: 1083, 2277
+  offset: 0, 1
+  index: -1
+haixiu
+  rotate: false
+  xy: 0, 0
+  size: 223, 213
+  orig: 223, 215
+  offset: 0, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 223, 183
+  size: 51, 30
+  orig: 51, 32
+  offset: 0, 1
+  index: -1

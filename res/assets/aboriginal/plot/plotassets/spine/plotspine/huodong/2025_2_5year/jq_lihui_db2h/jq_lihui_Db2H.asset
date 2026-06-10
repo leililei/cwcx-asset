@@ -1,0 +1,144 @@
+{
+"skeleton": {
+	"hash": "LZfx5Vj3nXS7LRiRN1aIavgfBwQ",
+	"spine": "3.8.99",
+	"x": -1233.94,
+	"y": -1104.61,
+	"width": 1985,
+	"height": 2323,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\Db2H\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\Db2H"
+},
+"bones": [
+	{ "name": "root", "x": -1887.94, "y": 1509.39 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "hand22", "bone": "root", "attachment": "hand22" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "hand21", "bone": "root" },
+	{ "name": "hand2", "bone": "root", "attachment": "hand2" },
+	{ "name": "hand1", "bone": "root", "attachment": "hand1" },
+	{ "name": "hand4", "bone": "root", "attachment": "hand4" },
+	{ "name": "hand3", "bone": "root" },
+	{ "name": "body3", "bone": "root", "attachment": "body3" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "gaoguai", "bone": "root" },
+	{ "name": "dun", "bone": "root", "attachment": "dun" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 2016.5, "y": -987, "width": 251, "height": 540 }
+			},
+			"body3": {
+				"body3": { "x": 1974, "y": -1472, "width": 922, "height": 2274 }
+			},
+			"daiji": {
+				"daiji": { "x": 1868.5, "y": -913.5, "width": 153, "height": 109 }
+			},
+			"dun": {
+				"dun": { "x": 2313.5, "y": -1515.5, "width": 651, "height": 1559 }
+			},
+			"gaoguai": {
+				"gaoguai": { "x": 1867.5, "y": -914, "width": 153, "height": 114 }
+			},
+			"hair": {
+				"hair": { "x": 1749.5, "y": -1145, "width": 559, "height": 588 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1869.5, "y": -914, "width": 151, "height": 106 }
+			},
+			"hand1": {
+				"hand1": { "x": 1541, "y": -1801.5, "width": 1774, "height": 1625 }
+			},
+			"hand2": {
+				"hand2": { "x": 1618.5, "y": -1231.5, "width": 467, "height": 403 }
+			},
+			"hand3": {
+				"hand3": { "x": 1316.5, "y": -1325.5, "width": 2221, "height": 923 }
+			},
+			"hand4": {
+				"hand4": { "x": 2086, "y": -1290, "width": 374, "height": 380 }
+			},
+			"hand21": {
+				"hand21": { "x": 1456.34, "y": -1378, "width": 88, "height": 82 }
+			},
+			"hand22": {
+				"hand22": { "x": 1404.5, "y": -1338, "width": 1185, "height": 2094 }
+			},
+			"jingya": {
+				"jingya": { "x": 1867.5, "y": -912, "width": 151, "height": 110 }
+			},
+			"smile": {
+				"smile": { "x": 1869.5, "y": -914, "width": 151, "height": 106 }
+			},
+			"yansu": {
+				"yansu": { "x": 1870, "y": -914, "width": 150, "height": 106 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gaoguai": {
+		"slots": {
+			"gaoguai": {
+				"attachment": [
+					{ "name": "gaoguai" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

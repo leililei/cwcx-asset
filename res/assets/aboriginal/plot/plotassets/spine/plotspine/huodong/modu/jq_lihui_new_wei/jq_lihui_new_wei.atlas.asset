@@ -1,0 +1,90 @@
+
+jq_lihui_new_wei.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 1119, 847
+  size: 220, 223
+  orig: 220, 223
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: true
+  xy: 898, 579
+  size: 239, 220
+  orig: 239, 220
+  offset: 0, 0
+  index: -1
+bag1
+  rotate: false
+  xy: 2, 281
+  size: 421, 789
+  orig: 421, 789
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: false
+  xy: 425, 537
+  size: 471, 533
+  orig: 471, 533
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1072
+  size: 1698, 2986
+  orig: 1698, 2986
+  offset: 0, 0
+  index: -1
+cry1
+  rotate: false
+  xy: 2, 2
+  size: 326, 277
+  orig: 326, 277
+  offset: 0, 0
+  index: -1
+cry2
+  rotate: false
+  xy: 330, 14
+  size: 314, 265
+  orig: 314, 265
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 712, 312
+  size: 250, 223
+  orig: 250, 223
+  offset: 0, 0
+  index: -1
+daizhi
+  rotate: false
+  xy: 425, 308
+  size: 285, 227
+  orig: 285, 227
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 646, 32
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 921, 60
+  size: 250, 229
+  orig: 250, 229
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 898, 820
+  size: 250, 219
+  orig: 250, 219
+  offset: 0, 0
+  index: -1

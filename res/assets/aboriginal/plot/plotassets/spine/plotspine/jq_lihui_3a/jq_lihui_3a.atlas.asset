@@ -1,0 +1,62 @@
+
+jq_lihui_3a.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 659, 1237
+  size: 214, 135
+  orig: 214, 135
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 518
+  size: 716, 1202
+  orig: 716, 1202
+  offset: 0, 0
+  index: -1
+chi jing
+  rotate: false
+  xy: 494, 1238
+  size: 165, 134
+  orig: 165, 134
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 0, 1240
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1088, 1234
+  size: 284, 138
+  orig: 284, 138
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 330, 1239
+  size: 164, 133
+  orig: 164, 133
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: false
+  xy: 165, 1240
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+wei xiao3
+  rotate: false
+  xy: 873, 1235
+  size: 215, 137
+  orig: 215, 137
+  offset: 0, 0
+  index: -1

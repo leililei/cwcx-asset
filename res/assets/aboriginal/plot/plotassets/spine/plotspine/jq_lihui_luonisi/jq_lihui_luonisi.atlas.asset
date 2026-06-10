@@ -1,0 +1,55 @@
+
+jq_lihui_luonisi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 787, 88
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 177
+  size: 1239, 2786
+  orig: 1239, 2786
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 0, 0
+  size: 201, 177
+  orig: 201, 177
+  offset: 0, 0
+  index: -1
+red
+  rotate: true
+  xy: 885, 88
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 397, 3
+  size: 195, 174
+  orig: 195, 174
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 201, 3
+  size: 196, 174
+  orig: 196, 174
+  offset: 0, 0
+  index: -1
+say
+  rotate: false
+  xy: 592, 3
+  size: 195, 174
+  orig: 195, 174
+  offset: 0, 0
+  index: -1

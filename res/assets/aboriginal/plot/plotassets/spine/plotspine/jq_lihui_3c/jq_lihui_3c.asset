@@ -1,0 +1,141 @@
+{
+"skeleton": {
+	"hash": "p2XuWPsZ1aVxqw381+qEUzGeLug",
+	"spine": "3.8.99",
+	"x": -381.99,
+	"y": -4.6,
+	"width": 718,
+	"height": 1202,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/第三防卫班-C"
+},
+"bones": [
+	{ "name": "root", "x": -380.99, "y": 1196.4 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "bei shang", "bone": "root", "attachment": "bei shang" },
+	{ "name": "beishang2", "bone": "root", "attachment": "beishang2" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 351.5, "y": -319.5, "width": 151, "height": 137 }
+			},
+			"beishang2": {
+				"beishang2": { "x": 355.5, "y": -319, "width": 159, "height": 136 }
+			},
+			"body": {
+				"body": { "x": 358, "y": -600, "width": 718, "height": 1202 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 357, "y": -320, "width": 166, "height": 142 }
+			},
+			"hair": {
+				"hair": { "x": 360, "y": -303.5, "width": 258, "height": 141 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 357, "y": -315.5, "width": 166, "height": 133 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"beishang2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"beishang2": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"beishang2": {
+				"attachment": [
+					{ "name": "beishang2" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"beishang2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"beishang2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	}
+}
+}

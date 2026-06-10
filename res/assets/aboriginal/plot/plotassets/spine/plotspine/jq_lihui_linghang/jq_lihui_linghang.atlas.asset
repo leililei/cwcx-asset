@@ -1,0 +1,125 @@
+
+jq_lihui_linghang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 1750, 889
+  size: 192, 133
+  orig: 192, 133
+  offset: 0, 0
+  index: -1
+bi yan
+  rotate: false
+  xy: 1750, 754
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 0, 0
+  size: 1022, 1227
+  orig: 1022, 1227
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 0, 1022
+  size: 1922, 946
+  orig: 1922, 946
+  offset: 0, 0
+  index: -1
+chi jing
+  rotate: false
+  xy: 1227, 507
+  size: 193, 150
+  orig: 193, 150
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 1364, 118
+  size: 193, 136
+  orig: 193, 136
+  offset: 0, 0
+  index: -1
+gan ga
+  rotate: false
+  xy: 1567, 473
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: false
+  xy: 1557, 881
+  size: 193, 141
+  orig: 193, 141
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1227, 657
+  size: 365, 330
+  orig: 365, 330
+  offset: 0, 0
+  index: -1
+jing ya
+  rotate: false
+  xy: 1365, 327
+  size: 193, 137
+  orig: 193, 137
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: true
+  xy: 1227, 311
+  size: 196, 138
+  orig: 196, 138
+  offset: 0, 0
+  index: -1
+shuo hua
+  rotate: true
+  xy: 1420, 464
+  size: 193, 147
+  orig: 193, 147
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 1557, 741
+  size: 193, 140
+  orig: 193, 140
+  offset: 0, 0
+  index: -1
+wei xiao4
+  rotate: false
+  xy: 1557, 741
+  size: 193, 140
+  orig: 193, 140
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: true
+  xy: 1558, 270
+  size: 194, 136
+  orig: 194, 136
+  offset: 0, 0
+  index: -1
+wei xiao3
+  rotate: true
+  xy: 1227, 118
+  size: 193, 137
+  orig: 193, 137
+  offset: 0, 0
+  index: -1
+yan su
+  rotate: false
+  xy: 1567, 605
+  size: 193, 136
+  orig: 193, 136
+  offset: 0, 0
+  index: -1

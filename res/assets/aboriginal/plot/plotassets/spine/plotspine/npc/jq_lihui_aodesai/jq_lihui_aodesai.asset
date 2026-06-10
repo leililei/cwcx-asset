@@ -1,0 +1,82 @@
+{
+"skeleton": {
+	"hash": "aAmcbry0liD87BeN5wmy44/pcj8",
+	"spine": "3.8.99",
+	"x": -809.98,
+	"y": -886.28,
+	"width": 1582,
+	"height": 1929,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\aodesai\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\aodesai"
+},
+"bones": [
+	{ "name": "root", "x": -1042.98, "y": 1162.72 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1025.5, "y": -263.5, "width": 125, "height": 165 }
+			},
+			"body": {
+				"body": { "x": 1024, "y": -1084.5, "width": 1582, "height": 1929 }
+			},
+			"daiji": {
+				"daiji": { "x": 1026.5, "y": -269, "width": 125, "height": 160 }
+			},
+			"smile": {
+				"smile": { "x": 1026, "y": -276.5, "width": 126, "height": 181 }
+			},
+			"yansu": {
+				"yansu": { "x": 1025.5, "y": -267.5, "width": 127, "height": 167 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,62 @@
+
+jq_lihui_ning.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2, 2
+  size: 384, 339
+  orig: 384, 339
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1315
+  size: 1277, 2733
+  orig: 1277, 2733
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 388
+  size: 787, 925
+  orig: 787, 925
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 343, 2
+  size: 384, 232
+  orig: 384, 232
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 791, 543
+  size: 384, 206
+  orig: 384, 206
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 791, 929
+  size: 384, 209
+  orig: 384, 209
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 794, 158
+  size: 383, 203
+  orig: 383, 203
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 577, 3
+  size: 383, 215
+  orig: 383, 215
+  offset: 0, 0
+  index: -1

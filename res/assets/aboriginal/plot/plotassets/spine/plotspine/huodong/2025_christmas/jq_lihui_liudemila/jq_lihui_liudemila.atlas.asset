@@ -1,0 +1,69 @@
+
+jq_lihui_liudemila.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 662, 3835
+  size: 340, 257
+  orig: 340, 257
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1779
+  size: 1510, 4092
+  orig: 1510, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2360, 3289
+  size: 803, 1641
+  orig: 803, 1641
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 332, 3843
+  size: 330, 249
+  orig: 330, 249
+  offset: 0, 0
+  index: -1
+jingya2
+  rotate: false
+  xy: 1668, 3809
+  size: 330, 283
+  orig: 330, 283
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 1331, 3828
+  size: 337, 264
+  orig: 337, 264
+  offset: 0, 0
+  index: -1
+lenmo
+  rotate: false
+  xy: 0, 3856
+  size: 332, 236
+  orig: 332, 236
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 1998, 3749
+  size: 343, 362
+  orig: 343, 362
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1002, 3831
+  size: 329, 261
+  orig: 329, 261
+  offset: 0, 0
+  index: -1

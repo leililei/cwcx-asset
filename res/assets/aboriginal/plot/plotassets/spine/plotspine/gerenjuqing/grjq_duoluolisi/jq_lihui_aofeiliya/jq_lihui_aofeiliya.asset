@@ -1,0 +1,235 @@
+{
+"skeleton": {
+	"hash": "PzA3C7pzbst7VVVk/EiTKd1GSac",
+	"spine": "3.8.99",
+	"x": -1275.57,
+	"y": -558.66,
+	"width": 2050,
+	"height": 1639,
+	"images": "C:\\Users\\1\\Desktop\\一周年spine\\奥菲莉亚PSD与spine数据\\images",
+	"audio": "C:\\Users\\1\\Desktop\\一周年spine\\奥菲莉亚PSD与spine数据"
+},
+"bones": [
+	{ "name": "root", "x": -1274.57, "y": 1079.34 }
+],
+"slots": [
+	{ "name": "shuiche2", "bone": "root" },
+	{ "name": "xiabanshen", "bone": "root", "attachment": "xiabanshen" },
+	{ "name": "shuiche1", "bone": "root" },
+	{ "name": "tuoba", "bone": "root", "attachment": "tuoba" },
+	{ "name": "shangbanshen", "bone": "root", "attachment": "shangbanshen" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "huangzhang", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1214.5, "y": -305, "width": 261, "height": 150 }
+			},
+			"daiji": {
+				"daiji": { "x": 1214.5, "y": -297, "width": 261, "height": 168 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1236.5, "y": -298, "width": 363, "height": 170 }
+			},
+			"huangzhang": {
+				"huangzhang": { "x": 1214.5, "y": -301.5, "width": 261, "height": 177 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 1215.5, "y": -300.5, "width": 251, "height": 169 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 1214.5, "y": -299.5, "width": 261, "height": 163 }
+			},
+			"shangbanshen": {
+				"shangbanshen": { "x": 1104, "y": -577, "width": 796, "height": 1152 }
+			},
+			"shuiche1": {
+				"shuiche1": { "x": 1335, "y": -898.5, "width": 1352, "height": 448 }
+			},
+			"shuiche2": {
+				"shuiche2": { "x": 466.5, "y": -986, "width": 805, "height": 1175 }
+			},
+			"tuoba": {
+				"tuoba": { "x": 1024, "y": -1108.5, "width": 2042, "height": 871 }
+			},
+			"xiabanshen": {
+				"xiabanshen": { "x": 1132, "y": -1141, "width": 1529, "height": 992 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"shuiche1": {
+				"attachment": [
+					{ "name": "shuiche1" }
+				]
+			},
+			"shuiche2": {
+				"attachment": [
+					{ "name": "shuiche2" }
+				]
+			},
+			"tuoba": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			},
+			"shuiche1": {
+				"attachment": [
+					{ "name": "shuiche1" }
+				]
+			},
+			"shuiche2": {
+				"attachment": [
+					{ "name": "shuiche2" }
+				]
+			},
+			"tuoba": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"huangzhang": {
+		"slots": {
+			"huangzhang": {
+				"attachment": [
+					{ "name": "huangzhang" }
+				]
+			}
+		}
+	},
+	"huangzhang2": {
+		"slots": {
+			"huangzhang": {
+				"attachment": [
+					{ "name": "huangzhang" }
+				]
+			},
+			"shuiche1": {
+				"attachment": [
+					{ "name": "shuiche1" }
+				]
+			},
+			"shuiche2": {
+				"attachment": [
+					{ "name": "shuiche2" }
+				]
+			},
+			"tuoba": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"kaixin2": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			},
+			"shuiche1": {
+				"attachment": [
+					{ "name": "shuiche1" }
+				]
+			},
+			"shuiche2": {
+				"attachment": [
+					{ "name": "shuiche2" }
+				]
+			},
+			"tuoba": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"renzhen2": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			},
+			"shuiche1": {
+				"attachment": [
+					{ "name": "shuiche1" }
+				]
+			},
+			"shuiche2": {
+				"attachment": [
+					{ "name": "shuiche2" }
+				]
+			},
+			"tuoba": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

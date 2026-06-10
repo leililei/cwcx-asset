@@ -1,0 +1,69 @@
+
+jq_lihui_new_anjielika.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: true
+  xy: 2551, 1992
+  size: 244, 158
+  orig: 244, 158
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 189
+  size: 2551, 2536
+  orig: 2551, 2536
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2551, 1260
+  size: 244, 151
+  orig: 244, 151
+  offset: 0, 0
+  index: -1
+kuqi
+  rotate: true
+  xy: 2551, 2236
+  size: 245, 170
+  orig: 245, 170
+  offset: 0, 0
+  index: -1
+kuxiao
+  rotate: true
+  xy: 2551, 1748
+  size: 244, 155
+  orig: 244, 155
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 2551, 2481
+  size: 244, 174
+  orig: 244, 174
+  offset: 0, 0
+  index: -1
+weixiao2
+  rotate: true
+  xy: 2551, 782
+  size: 236, 151
+  orig: 236, 151
+  offset: 0, 0
+  index: -1
+xinwei
+  rotate: true
+  xy: 2551, 1018
+  size: 242, 151
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 2551, 1504
+  size: 244, 152
+  orig: 244, 152
+  offset: 0, 0
+  index: -1

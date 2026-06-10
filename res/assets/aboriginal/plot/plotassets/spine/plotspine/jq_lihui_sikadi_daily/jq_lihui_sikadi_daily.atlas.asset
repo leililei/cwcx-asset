@@ -1,0 +1,83 @@
+
+jq_lihui_sikadi_daily.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1173, 562
+  size: 1165, 2226
+  orig: 1165, 2226
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 0, 559
+  size: 1173, 2229
+  orig: 1173, 2229
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 80
+  size: 220, 152
+  orig: 220, 152
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 2338, 2621
+  size: 220, 167
+  orig: 220, 167
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 2338, 2314
+  size: 220, 142
+  orig: 220, 142
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 230, 398
+  size: 220, 161
+  orig: 220, 161
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 0, 398
+  size: 230, 161
+  orig: 230, 161
+  offset: 0, 0
+  index: -1
+shy3
+  rotate: false
+  xy: 0, 232
+  size: 220, 166
+  orig: 220, 166
+  offset: 0, 0
+  index: -1
+shy4
+  rotate: false
+  xy: 2558, 2641
+  size: 230, 147
+  orig: 230, 147
+  offset: 0, 0
+  index: -1
+shy5
+  rotate: false
+  xy: 220, 251
+  size: 220, 147
+  orig: 220, 147
+  offset: 0, 0
+  index: -1
+surp
+  rotate: false
+  xy: 2338, 2456
+  size: 220, 165
+  orig: 220, 165
+  offset: 0, 0
+  index: -1

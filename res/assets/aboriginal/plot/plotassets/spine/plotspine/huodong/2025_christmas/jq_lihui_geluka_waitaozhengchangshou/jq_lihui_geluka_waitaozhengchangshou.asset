@@ -1,0 +1,147 @@
+{
+"skeleton": {
+	"hash": "wX4TszuTsNG0wopabA95lAd2rjw",
+	"spine": "3.8.99",
+	"x": -483.78,
+	"y": -1566.68,
+	"width": 1093,
+	"height": 2767,
+	"images": "D:\\工作文件\\演出\\冬活\\戈露卡-无外套正常手\\images",
+	"audio": "D:\\工作文件\\演出\\冬活\\戈露卡-无外套正常手"
+},
+"bones": [
+	{ "name": "root", "x": -1623.78, "y": 1634.32 }
+],
+"slots": [
+	{ "name": "2 副本", "bone": "root", "attachment": "2 副本" },
+	{ "name": "ct", "bone": "root" },
+	{ "name": "hx", "bone": "root" },
+	{ "name": "sk", "bone": "root" },
+	{ "name": "x", "bone": "root" },
+	{ "name": "sq", "bone": "root" },
+	{ "name": "hq", "bone": "root" },
+	{ "name": "ys", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "bs", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"2 副本": {
+				"2 副本": { "x": 1686.5, "y": -1817.5, "width": 1093, "height": 2767 }
+			},
+			"bs": {
+				"bs": { "x": 1626.5, "y": -628, "width": 347, "height": 332 }
+			},
+			"ct": {
+				"ct": { "x": 1625, "y": -634, "width": 350, "height": 344 }
+			},
+			"hq": {
+				"hq": { "x": 1622.5, "y": -630, "width": 355, "height": 336 }
+			},
+			"hx": {
+				"hx": { "x": 1625, "y": -630.5, "width": 350, "height": 337 }
+			},
+			"sk": {
+				"sk": { "x": 1575.5, "y": -694, "width": 257, "height": 200 }
+			},
+			"sq": {
+				"sq": { "x": 1624.5, "y": -627, "width": 351, "height": 330 }
+			},
+			"wink": {
+				"wink": { "x": 1580.5, "y": -701, "width": 261, "height": 180 }
+			},
+			"x": {
+				"x": { "x": 1581, "y": -709.5, "width": 256, "height": 193 }
+			},
+			"ys": {
+				"ys": { "x": 1628, "y": -628, "width": 344, "height": 332 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bs": {
+				"attachment": [
+					{ "name": "bs" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"ct": {
+				"attachment": [
+					{ "name": "ct" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"hx": {
+				"attachment": [
+					{ "name": "hx" }
+				]
+			}
+		}
+	},
+	"haoqi": {
+		"slots": {
+			"hq": {
+				"attachment": [
+					{ "name": "hq" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"sq": {
+				"attachment": [
+					{ "name": "sq" }
+				]
+			}
+		}
+	},
+	"sikao": {
+		"slots": {
+			"sk": {
+				"attachment": [
+					{ "name": "sk" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"x": {
+				"attachment": [
+					{ "name": "x" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"ys": {
+				"attachment": [
+					{ "name": "ys" }
+				]
+			}
+		}
+	}
+}
+}

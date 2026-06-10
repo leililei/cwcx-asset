@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "WSSRaFxYw9Ipy9KYFNp7ik9T4hM",
+	"spine": "3.8.99",
+	"x": -414.02,
+	"y": -1903.78,
+	"width": 834,
+	"height": 3302,
+	"images": "D:\\工作文件\\演出\\冬活\\艾吉斯文员\\images",
+	"audio": "D:\\工作文件\\演出\\冬活\\艾吉斯文员"
+},
+"bones": [
+	{ "name": "root", "x": -1446.02, "y": 1730.22 }
+],
+"slots": [
+	{ "name": "rw", "bone": "root", "attachment": "rw" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"rw": {
+				"rw": { "x": 1449, "y": -1983, "width": 834, "height": 3302 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

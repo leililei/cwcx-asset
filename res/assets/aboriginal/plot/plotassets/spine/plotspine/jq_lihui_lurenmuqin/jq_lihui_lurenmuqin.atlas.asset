@@ -1,0 +1,13 @@
+
+jq_lihui_lurenmuqin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 730, 1172
+  orig: 730, 1172
+  offset: 0, 0
+  index: -1

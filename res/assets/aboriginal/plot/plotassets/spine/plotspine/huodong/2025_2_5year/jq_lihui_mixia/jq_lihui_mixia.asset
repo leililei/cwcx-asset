@@ -1,0 +1,134 @@
+{
+"skeleton": {
+	"hash": "MTRBOKwduk8KYdNAZAhR774gfKM",
+	"spine": "3.8.99",
+	"x": -1425.12,
+	"y": -1502.16,
+	"width": 2826,
+	"height": 2945,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\mixia\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\mixia"
+},
+"bones": [
+	{ "name": "root", "x": -1560.12, "y": 1684.84 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "afraid", "bone": "root" },
+	{ "name": "cry", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "huang", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "shy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"afraid": {
+				"afraid": { "x": 1585.5, "y": -578.5, "width": 275, "height": 195 }
+			},
+			"body": {
+				"body": { "x": 1548, "y": -1714.5, "width": 2826, "height": 2945 }
+			},
+			"cry": {
+				"cry": { "x": 1585.5, "y": -594.5, "width": 275, "height": 201 }
+			},
+			"daiji": {
+				"daiji": { "x": 1585.5, "y": -585, "width": 275, "height": 182 }
+			},
+			"ganga": {
+				"ganga": { "x": 1585.5, "y": -585, "width": 275, "height": 182 }
+			},
+			"happy": {
+				"happy": { "x": 1585.5, "y": -585, "width": 275, "height": 182 }
+			},
+			"huang": {
+				"huang": { "x": 1585.5, "y": -578.5, "width": 275, "height": 195 }
+			},
+			"jingya": {
+				"jingya": { "x": 1585.5, "y": -585, "width": 275, "height": 182 }
+			},
+			"shy": {
+				"shy": { "x": 1585.5, "y": -585, "width": 275, "height": 182 }
+			}
+		}
+	}
+],
+"animations": {
+	"afraid": {
+		"slots": {
+			"afraid": {
+				"attachment": [
+					{ "name": "afraid" }
+				]
+			}
+		}
+	},
+	"cry": {
+		"slots": {
+			"cry": {
+				"attachment": [
+					{ "name": "cry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"huang": {
+		"slots": {
+			"huang": {
+				"attachment": [
+					{ "name": "huang" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

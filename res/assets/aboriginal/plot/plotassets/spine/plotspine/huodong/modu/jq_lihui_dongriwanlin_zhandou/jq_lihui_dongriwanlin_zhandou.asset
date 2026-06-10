@@ -1,0 +1,156 @@
+{
+"skeleton": {
+	"hash": "TTMHHJrT0ONymmuVV+PyBqOh3as",
+	"spine": "3.8.99",
+	"x": -663.89,
+	"y": -1248.36,
+	"width": 1741.35,
+	"height": 2328.45,
+	"images": "G:\\魔都精兵活动spine处理\\PSD源文件\\dongriwanlinjiqiang\\images",
+	"audio": "G:\\魔都精兵活动spine处理\\PSD源文件\\dongriwanlinjiqiang"
+},
+"bones": [
+	{ "name": "root", "x": -1670.89, "y": 1278.64, "scaleX": 0.95, "scaleY": 0.95 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "fire", "bone": "root" },
+	{ "name": "yj", "bone": "root", "attachment": "yj" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "jy", "bone": "root" },
+	{ "name": "ganga", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1976.5, "y": -1434.5, "width": 1833, "height": 2451 }
+			},
+			"daiji": {
+				"daiji": { "x": 2198, "y": -549, "width": 202, "height": 134 }
+			},
+			"fire": {
+				"fire": { "x": 1102, "y": -1305.5, "width": 2088, "height": 1727 }
+			},
+			"ganga": {
+				"ganga": { "x": 2186.5, "y": -549, "width": 191, "height": 152 }
+			},
+			"happy": {
+				"happy": { "x": 2196.5, "y": -554.5, "width": 203, "height": 153 }
+			},
+			"jy": {
+				"jy": { "x": 2198.5, "y": -555, "width": 203, "height": 146 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 2188.5, "y": -546, "width": 185, "height": 140 }
+			},
+			"sad": {
+				"sad": { "x": 2186.5, "y": -554, "width": 191, "height": 148 }
+			},
+			"shy": {
+				"shy": { "x": 2201, "y": -548.5, "width": 228, "height": 143 }
+			},
+			"yansu": {
+				"yansu": { "x": 2188, "y": -553, "width": 184, "height": 154 }
+			},
+			"yj": {
+				"yj": { "x": 2294, "y": -805.5, "width": 652, "height": 1051 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"fire": {
+		"slots": {
+			"fire": {
+				"attachment": [
+					{ "name": "fire" }
+				]
+			},
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jy": {
+				"attachment": [
+					{ "name": "jy" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

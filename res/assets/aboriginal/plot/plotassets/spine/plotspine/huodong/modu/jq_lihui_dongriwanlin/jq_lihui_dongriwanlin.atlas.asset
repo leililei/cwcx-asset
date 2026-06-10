@@ -1,0 +1,76 @@
+
+jq_lihui_dongriwanlin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1015
+  size: 1685, 3075
+  orig: 1685, 3075
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1595, 4
+  size: 254, 165
+  orig: 254, 165
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 1595, 171
+  size: 256, 186
+  orig: 256, 186
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 26
+  size: 1591, 987
+  orig: 1591, 987
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1595, 429
+  size: 254, 188
+  orig: 254, 188
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1689, 3728
+  size: 255, 179
+  orig: 255, 179
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: false
+  xy: 1851, 2
+  size: 250, 173
+  orig: 250, 173
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1689, 3909
+  size: 256, 181
+  orig: 256, 181
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 1595, 685
+  size: 328, 177
+  orig: 328, 177
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1783, 177
+  size: 250, 189
+  orig: 250, 189
+  offset: 0, 0
+  index: -1

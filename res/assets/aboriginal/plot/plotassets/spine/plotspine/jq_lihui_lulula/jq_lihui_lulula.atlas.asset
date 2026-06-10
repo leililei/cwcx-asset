@@ -1,0 +1,62 @@
+
+jq_lihui_lulula.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 0, 1455
+  size: 218, 135
+  orig: 218, 135
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 241
+  size: 1590, 1178
+  orig: 1590, 1178
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: false
+  xy: 1280, 1419
+  size: 224, 171
+  orig: 224, 171
+  offset: 0, 0
+  index: -1
+sheng qii
+  rotate: false
+  xy: 862, 1439
+  size: 210, 151
+  orig: 210, 151
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 654, 1443
+  size: 208, 147
+  orig: 208, 147
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: false
+  xy: 1072, 1439
+  size: 208, 151
+  orig: 208, 151
+  offset: 0, 0
+  index: -1
+wu nai
+  rotate: false
+  xy: 436, 1446
+  size: 218, 144
+  orig: 218, 144
+  offset: 0, 0
+  index: -1
+yi huo
+  rotate: false
+  xy: 218, 1455
+  size: 218, 135
+  orig: 218, 135
+  offset: 0, 0
+  index: -1

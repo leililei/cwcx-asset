@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "XD2DwV7iRl/tARzlYJsRfF2inGg",
+	"spine": "3.8.99",
+	"x": -1397.51,
+	"y": -1167.25,
+	"width": 2238,
+	"height": 2539,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\chana\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\chana"
+},
+"bones": [
+	{ "name": "root", "x": -1624.51, "y": 1488.75 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1640, "y": -563.5, "width": 174, "height": 175 }
+			},
+			"biyan": {
+				"biyan": { "x": 1640, "y": -571.5, "width": 168, "height": 153 }
+			},
+			"body": {
+				"body": { "x": 1346, "y": -1386.5, "width": 2238, "height": 2539 }
+			},
+			"daiji": {
+				"daiji": { "x": 1640, "y": -563.5, "width": 174, "height": 175 }
+			},
+			"happy": {
+				"happy": { "x": 1640, "y": -563.5, "width": 174, "height": 175 }
+			},
+			"jingya": {
+				"jingya": { "x": 1640, "y": -563.5, "width": 174, "height": 175 }
+			},
+			"sad": {
+				"sad": { "x": 1640, "y": -563.5, "width": 174, "height": 175 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	}
+}
+}

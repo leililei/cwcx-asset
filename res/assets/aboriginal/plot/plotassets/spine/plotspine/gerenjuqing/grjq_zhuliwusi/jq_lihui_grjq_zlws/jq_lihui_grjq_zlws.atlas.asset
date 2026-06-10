@@ -1,0 +1,55 @@
+
+jq_lihui_grjq_zlws.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 1751
+  size: 1077, 3030
+  orig: 1077, 3030
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1545, 2830
+  size: 306, 202
+  orig: 306, 202
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 2, 2843
+  size: 307, 189
+  orig: 307, 189
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 311, 2842
+  size: 307, 190
+  orig: 307, 190
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 928, 2831
+  size: 307, 201
+  orig: 307, 201
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 1237, 2831
+  size: 306, 201
+  orig: 306, 201
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 620, 2841
+  size: 306, 191
+  orig: 306, 191
+  offset: 0, 0
+  index: -1

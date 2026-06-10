@@ -1,0 +1,147 @@
+{
+"skeleton": {
+	"hash": "bzbuFPKNLFbsFm/ipn+0+hXd+OM",
+	"spine": "3.8.99",
+	"x": -564.85,
+	"y": -567.1,
+	"width": 1002,
+	"height": 1745,
+	"images": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘\\jq_lihui_libeika\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\洛根往事立绘\\jq_lihui_libeika"
+},
+"bones": [
+	{ "name": "root", "x": -563.85, "y": 1176.9 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "qianxiao", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "renzhen", "bone": "root" },
+	{ "name": "shiluo", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "haixiu2", "bone": "root" },
+	{ "name": "nanguo", "bone": "root" },
+	{ "name": "qidao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 500, "y": -871.5, "width": 1002, "height": 1745 }
+			},
+			"daiji": {
+				"daiji": { "x": 557.5, "y": -342, "width": 309, "height": 190 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 556, "y": -363, "width": 312, "height": 192 }
+			},
+			"haixiu2": {
+				"haixiu2": { "x": 556, "y": -363, "width": 312, "height": 192 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 557.5, "y": -351, "width": 309, "height": 208 }
+			},
+			"nanguo": {
+				"nanguo": { "x": 556, "y": -369, "width": 312, "height": 180 }
+			},
+			"qianxiao": {
+				"qianxiao": { "x": 557.5, "y": -343, "width": 309, "height": 192 }
+			},
+			"qidao": {
+				"qidao": { "x": 555.5, "y": -363.5, "width": 313, "height": 179 }
+			},
+			"renzhen": {
+				"renzhen": { "x": 561.5, "y": -345.5, "width": 301, "height": 181 }
+			},
+			"shiluo": {
+				"shiluo": { "x": 561.5, "y": -352, "width": 301, "height": 170 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"nanguo": {
+		"slots": {
+			"nanguo": {
+				"attachment": [
+					{ "name": "nanguo" }
+				]
+			}
+		}
+	},
+	"qianxiao": {
+		"slots": {
+			"qianxiao": {
+				"attachment": [
+					{ "name": "qianxiao" }
+				]
+			}
+		}
+	},
+	"qidao": {
+		"slots": {
+			"qidao": {
+				"attachment": [
+					{ "name": "qidao" }
+				]
+			}
+		}
+	},
+	"renzhen": {
+		"slots": {
+			"renzhen": {
+				"attachment": [
+					{ "name": "renzhen" }
+				]
+			}
+		}
+	},
+	"shiluo": {
+		"slots": {
+			"shiluo": {
+				"attachment": [
+					{ "name": "shiluo" }
+				]
+			}
+		}
+	}
+}
+}

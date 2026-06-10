@@ -1,0 +1,170 @@
+{
+"skeleton": {
+	"hash": "/rfdhekK6/iXb+NFd8S2wJ2g1qQ",
+	"spine": "3.8.99",
+	"x": -562.06,
+	"y": -2.87,
+	"width": 1148,
+	"height": 1164,
+	"images": "./images/",
+	"audio": "F:/新建文件夹/剧情用spine/多洛莉斯负伤"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "shishen", "bone": "root", "attachment": "shishen" },
+	{ "name": "tongku", "bone": "root", "attachment": "tongku" },
+	{ "name": "tongku2", "bone": "root", "attachment": "tongku2" },
+	{ "name": "beishang", "bone": "root", "attachment": "beishang" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": -72.56, "y": 825.13, "width": 227, "height": 164 }
+			},
+			"body": {
+				"body": { "x": 11.94, "y": 579.13, "width": 1148, "height": 1164 }
+			},
+			"daiji": {
+				"daiji": { "x": -75.06, "y": 820.13, "width": 232, "height": 162 }
+			},
+			"shishen": {
+				"shishen": { "x": -73.06, "y": 819.13, "width": 228, "height": 156 }
+			},
+			"tongku": {
+				"tongku": { "x": -63.06, "y": 822.13, "width": 226, "height": 166 }
+			},
+			"tongku2": {
+				"tongku2": { "x": -63.06, "y": 822.63, "width": 226, "height": 165 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shishen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shishen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shishen": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"tongku": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shishen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"tongku2": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shishen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tongku": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

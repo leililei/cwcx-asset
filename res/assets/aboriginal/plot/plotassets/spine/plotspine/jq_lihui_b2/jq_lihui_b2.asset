@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "qv380Qt4NCMk3zD6JL1AnFfaj9U",
+	"spine": "3.8.99",
+	"x": -1000.03,
+	"y": -882.52,
+	"width": 2658,
+	"height": 2331,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\b2\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\b2"
+},
+"bones": [
+	{ "name": "root", "x": -1306.03, "y": 1572.48 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1635, "y": -1289.5, "width": 2658, "height": 2331 }
+			},
+			"daiji": {
+				"daiji": { "x": 1275.5, "y": -536, "width": 155, "height": 70 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"redeyes": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,98 @@
+{
+"skeleton": {
+	"hash": "xLNKbcAO9fN4hqB4g8TjPblX+u0",
+	"spine": "3.8.99",
+	"x": -382.1,
+	"y": -3.6,
+	"width": 728,
+	"height": 1202,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/第三防卫班-D"
+},
+"bones": [
+	{ "name": "root", "x": -381.1, "y": 1197.4 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "hai xiu", "bone": "root", "attachment": "hai xiu" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 363, "y": -600, "width": 728, "height": 1202 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 361, "y": -311.5, "width": 168, "height": 137 }
+			},
+			"hair": {
+				"hair": { "x": 356.5, "y": -245, "width": 277, "height": 168 }
+			},
+			"hai xiu": {
+				"hai xiu": { "x": 360.5, "y": -317.5, "width": 209, "height": 129 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 361, "y": -309, "width": 168, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": "hai xiu" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	}
+}
+}

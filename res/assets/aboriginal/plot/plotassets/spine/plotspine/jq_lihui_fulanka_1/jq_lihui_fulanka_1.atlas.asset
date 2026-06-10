@@ -1,0 +1,27 @@
+
+jq_lihui_fulanka_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 156
+  size: 1607, 1470
+  orig: 1607, 1470
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 1607, 1607
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 1607, 1586
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1

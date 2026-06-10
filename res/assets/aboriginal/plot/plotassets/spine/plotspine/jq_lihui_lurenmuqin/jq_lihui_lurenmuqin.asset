@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "iUXVCvCUq8DIdqwlp1FMtucy514",
+	"spine": "3.8.99",
+	"x": -279.35,
+	"y": -0.63,
+	"width": 730,
+	"height": 1172,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/路人-母亲"
+},
+"bones": [
+	{ "name": "root", "x": -278.35, "y": 1170.37 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 364, "y": -585, "width": 730, "height": 1172 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {},
+	"daiji": {}
+}
+}

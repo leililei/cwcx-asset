@@ -1,0 +1,118 @@
+
+jq_lihui_Db2H.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1013, 3748
+  size: 251, 540
+  orig: 251, 540
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 1563, 2516
+  size: 922, 2274
+  orig: 922, 2274
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 550, 3890
+  size: 153, 109
+  orig: 153, 109
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 2, 2972
+  size: 651, 1559
+  orig: 651, 1559
+  offset: 0, 0
+  index: -1
+gaoguai
+  rotate: false
+  xy: 858, 3885
+  size: 153, 114
+  orig: 153, 114
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2406, 3440
+  size: 559, 588
+  orig: 559, 588
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 92, 3893
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 2225, 889
+  size: 1774, 1625
+  orig: 1774, 1625
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 1937, 3596
+  size: 467, 403
+  orig: 467, 403
+  offset: 0, 0
+  index: -1
+hand21
+  rotate: false
+  xy: 2, 3917
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+hand22
+  rotate: true
+  xy: 2, 404
+  size: 1185, 2094
+  orig: 1185, 2094
+  offset: 0, 0
+  index: -1
+hand3
+  rotate: false
+  xy: 2, 1591
+  size: 2221, 923
+  orig: 2221, 923
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: true
+  xy: 1555, 3625
+  size: 374, 380
+  orig: 374, 380
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 705, 3889
+  size: 151, 110
+  orig: 151, 110
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 245, 3893
+  size: 151, 106
+  orig: 151, 106
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 398, 3893
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1

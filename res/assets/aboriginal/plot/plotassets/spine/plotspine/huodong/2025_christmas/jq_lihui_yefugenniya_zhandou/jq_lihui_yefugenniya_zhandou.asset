@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "oMSlgnqF7BT02LfEfw3JEcL/ZlM",
+	"spine": "3.8.99",
+	"x": -1543.11,
+	"y": -2134.6,
+	"width": 2348,
+	"height": 3388,
+	"images": "D:\\工作文件\\演出\\冬活\\叶芙根尼娅战斗用\\images",
+	"audio": "D:\\工作文件\\演出\\冬活\\叶芙根尼娅战斗用"
+},
+"bones": [
+	{ "name": "root", "x": -1668.11, "y": 1425.4 }
+],
+"slots": [
+	{ "name": "hlyyw", "bone": "root", "attachment": "hlyyw" },
+	{ "name": "changt", "bone": "root" },
+	{ "name": "haix", "bone": "root" },
+	{ "name": "sik", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "shengq", "bone": "root" },
+	{ "name": "biyanx", "bone": "root" },
+	{ "name": "yans", "bone": "root" },
+	{ "name": "wq1", "bone": "root", "attachment": "wq1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1710, "y": -465.5, "width": 252, "height": 177 }
+			},
+			"biyanx": {
+				"biyanx": { "x": 1706, "y": -463.5, "width": 254, "height": 191 }
+			},
+			"changt": {
+				"changt": { "x": 1707.5, "y": -465, "width": 247, "height": 176 }
+			},
+			"haix": {
+				"haix": { "x": 1688, "y": -475, "width": 296, "height": 196 }
+			},
+			"hlyyw": {
+				"hlyyw": { "x": 1747, "y": -1204, "width": 1442, "height": 1984 }
+			},
+			"shengq": {
+				"shengq": { "x": 1716.5, "y": -464, "width": 265, "height": 214 }
+			},
+			"sik": {
+				"sik": { "x": 1712.5, "y": -466, "width": 245, "height": 176 }
+			},
+			"wq1": {
+				"wq1": { "x": 1299, "y": -1866, "width": 2348, "height": 3388 }
+			},
+			"xiao": {
+				"xiao": { "x": 1704.5, "y": -476, "width": 251, "height": 192 }
+			},
+			"yans": {
+				"yans": { "x": 1710.5, "y": -457.5, "width": 253, "height": 187 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"biyanxiao": {
+		"slots": {
+			"biyanx": {
+				"attachment": [
+					{ "name": "biyanx" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"changt": {
+				"attachment": [
+					{ "name": "changt" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haix": {
+				"attachment": [
+					{ "name": "haix" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengq": {
+				"attachment": [
+					{ "name": "shengq" }
+				]
+			}
+		}
+	},
+	"sikao": {
+		"slots": {
+			"sik": {
+				"attachment": [
+					{ "name": "sik" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yans": {
+				"attachment": [
+					{ "name": "yans" }
+				]
+			}
+		}
+	}
+}
+}

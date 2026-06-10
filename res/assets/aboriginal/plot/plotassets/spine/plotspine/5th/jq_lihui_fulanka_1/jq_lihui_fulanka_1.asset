@@ -1,0 +1,65 @@
+{
+"skeleton": {
+	"hash": "eW4jQ3hVD3wFpFTNEWx0PjLaW/Y",
+	"spine": "3.8.99",
+	"x": -525.29,
+	"y": -15.72,
+	"width": 1607,
+	"height": 1470,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/弗兰卡战斗立绘-背面"
+},
+"bones": [
+	{ "name": "root", "x": -524.29, "y": 1453.28 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "zui1", "bone": "root", "attachment": "zui1" },
+	{ "name": "zui2", "bone": "root", "attachment": "zui2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 802.5, "y": -734, "width": 1607, "height": 1470 }
+			},
+			"zui1": {
+				"zui1": { "x": 673.5, "y": -202.5, "width": 19, "height": 19 }
+			},
+			"zui2": {
+				"zui2": { "x": 675.5, "y": -204, "width": 21, "height": 16 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {
+		"slots": {
+			"zui2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"2": {
+		"slots": {
+			"zui1": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"zui2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

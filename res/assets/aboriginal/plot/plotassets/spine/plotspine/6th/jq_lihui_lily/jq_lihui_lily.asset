@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "1KbVMH+s+f419ekhefVkeBQDnGU",
+	"spine": "3.8.99",
+	"x": -968.77,
+	"y": -803.62,
+	"width": 2022,
+	"height": 2042,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -967.77, "y": 1237.38 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "huaixiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 924, "y": -535.5, "width": 286, "height": 203 }
+			},
+			"body": {
+				"body": { "x": 1010, "y": -1020, "width": 2022, "height": 2042 }
+			},
+			"daiji": {
+				"daiji": { "x": 927.5, "y": -535.5, "width": 293, "height": 203 }
+			},
+			"huaixiao": {
+				"huaixiao": { "x": 925, "y": -533, "width": 298, "height": 260 }
+			},
+			"shy": {
+				"shy": { "x": 927.5, "y": -538, "width": 293, "height": 240 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 919, "y": -528, "width": 310, "height": 220 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"huaixiao": {
+		"slots": {
+			"huaixiao": {
+				"attachment": [
+					{ "name": "huaixiao" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

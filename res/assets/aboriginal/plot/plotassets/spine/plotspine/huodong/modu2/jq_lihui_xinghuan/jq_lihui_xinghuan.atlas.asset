@@ -1,0 +1,83 @@
+
+jq_lihui_xinghuan.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 755, 3387
+  size: 297, 250
+  orig: 297, 250
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1871
+  size: 1502, 3637
+  orig: 1502, 3637
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 1987, 3384
+  size: 293, 253
+  orig: 293, 253
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1052, 3387
+  size: 303, 250
+  orig: 303, 250
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1355, 3387
+  size: 331, 250
+  orig: 331, 250
+  offset: 0, 0
+  index: -1
+hongyan
+  rotate: false
+  xy: 0, 3549
+  size: 212, 88
+  orig: 212, 88
+  offset: 0, 0
+  index: -1
+huaixiao
+  rotate: false
+  xy: 2280, 3384
+  size: 295, 253
+  orig: 295, 253
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 2575, 3373
+  size: 295, 264
+  orig: 295, 264
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: false
+  xy: 212, 3465
+  size: 241, 172
+  orig: 241, 172
+  offset: 0, 0
+  index: -1
+wubiaoqing
+  rotate: false
+  xy: 453, 3396
+  size: 302, 241
+  orig: 302, 241
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 1686, 3387
+  size: 301, 250
+  orig: 301, 250
+  offset: 0, 0
+  index: -1

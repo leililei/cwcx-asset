@@ -1,0 +1,41 @@
+
+jq_lihui_pingminb.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 273, 2903
+  size: 222, 194
+  orig: 222, 194
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 55, 2932
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1922
+  size: 753, 3097
+  orig: 753, 3097
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 495, 2675
+  size: 422, 1123
+  orig: 422, 1123
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 0, 3084
+  size: 55, 13
+  orig: 55, 13
+  offset: 0, 0
+  index: -1

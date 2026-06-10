@@ -1,0 +1,225 @@
+{
+"skeleton": {
+	"hash": "9RCmm5U+7/vZVb9BBaKC4GJBuUU",
+	"spine": "3.8.99",
+	"x": -595.49,
+	"y": -2281.18,
+	"width": 1463,
+	"height": 4081,
+	"images": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\安洁莉卡\\images",
+	"audio": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\安洁莉卡"
+},
+"bones": [
+	{ "name": "root", "x": -594.49, "y": 1799.82 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "beishang2", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "huangzhang", "bone": "root" },
+	{ "name": "huangzhang2", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "xingxingyan", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "xinwei", "bone": "root" },
+	{ "name": "biyanxiao", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "haixiu2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 587.5, "y": -445.5, "width": 371, "height": 237 }
+			},
+			"beishang2": {
+				"beishang2": { "x": 587.5, "y": -452, "width": 371, "height": 232 }
+			},
+			"biyanxiao": {
+				"biyanxiao": { "x": 591, "y": -432.5, "width": 386, "height": 257 }
+			},
+			"body": {
+				"body": { "x": 730.5, "y": -2040.5, "width": 1463, "height": 4081 }
+			},
+			"chensi": {
+				"chensi": { "x": 591, "y": -431.5, "width": 386, "height": 255 }
+			},
+			"daiji": {
+				"daiji": { "x": 588, "y": -432.5, "width": 380, "height": 257 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 600.5, "y": -462.5, "width": 397, "height": 289 }
+			},
+			"haixiu2": {
+				"haixiu2": { "x": 601.5, "y": -462.5, "width": 395, "height": 289 }
+			},
+			"huangzhang": {
+				"huangzhang": { "x": 590, "y": -438, "width": 372, "height": 228 }
+			},
+			"huangzhang2": {
+				"huangzhang2": { "x": 590, "y": -448, "width": 372, "height": 248 }
+			},
+			"jingya": {
+				"jingya": { "x": 583.5, "y": -416.5, "width": 385, "height": 343 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 585.5, "y": -424.5, "width": 379, "height": 287 }
+			},
+			"xiao": {
+				"xiao": { "x": 586.5, "y": -435, "width": 383, "height": 262 }
+			},
+			"xingxingyan": {
+				"xingxingyan": { "x": 586.5, "y": -439.5, "width": 383, "height": 271 }
+			},
+			"xinwei": {
+				"xinwei": { "x": 588, "y": -432.5, "width": 380, "height": 257 }
+			},
+			"yansu": {
+				"yansu": { "x": 588.5, "y": -437, "width": 373, "height": 254 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			}
+		}
+	},
+	"beishang2": {
+		"slots": {
+			"beishang2": {
+				"attachment": [
+					{ "name": "beishang2" }
+				]
+			}
+		}
+	},
+	"biyanxiao": {
+		"slots": {
+			"biyanxiao": {
+				"attachment": [
+					{ "name": "biyanxiao" }
+				]
+			}
+		}
+	},
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"huangzhang": {
+		"slots": {
+			"huangzhang": {
+				"attachment": [
+					{ "name": "huangzhang" }
+				]
+			}
+		}
+	},
+	"huangzhang2": {
+		"slots": {
+			"huangzhang2": {
+				"attachment": [
+					{ "name": "huangzhang2" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	},
+	"xingxingyan": {
+		"slots": {
+			"xingxingyan": {
+				"attachment": [
+					{ "name": "xingxingyan" }
+				]
+			}
+		}
+	},
+	"xinwei": {
+		"slots": {
+			"xinwei": {
+				"attachment": [
+					{ "name": "xinwei" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

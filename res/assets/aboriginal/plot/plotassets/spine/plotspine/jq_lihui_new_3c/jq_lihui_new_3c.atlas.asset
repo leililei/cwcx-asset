@@ -1,0 +1,41 @@
+
+jq_lihui_new_3c.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: true
+  xy: 0, 0
+  size: 199, 236
+  orig: 199, 238
+  offset: 0, 1
+  index: -1
+beishang 2
+  rotate: true
+  xy: 236, 0
+  size: 199, 236
+  orig: 199, 238
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 199
+  size: 823, 2512
+  orig: 823, 2514
+  offset: 0, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 540, 172
+  size: 43, 27
+  orig: 43, 29
+  offset: 0, 1
+  index: -1
+weixiao
+  rotate: false
+  xy: 472, 157
+  size: 68, 42
+  orig: 68, 44
+  offset: 0, 1
+  index: -1

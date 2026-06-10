@@ -1,0 +1,173 @@
+
+jq_lihui_sps_changfu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X
+  rotate: true
+  xy: 3301, 3653
+  size: 270, 316
+  orig: 270, 316
+  offset: 0, 0
+  index: -1
+aixin
+  rotate: false
+  xy: 877, 3318
+  size: 410, 375
+  orig: 410, 375
+  offset: 0, 0
+  index: -1
+bq_biyan
+  rotate: false
+  xy: 1352, 3682
+  size: 320, 241
+  orig: 320, 241
+  offset: 0, 0
+  index: -1
+bq_daiji
+  rotate: false
+  xy: 353, 3699
+  size: 334, 224
+  orig: 334, 224
+  offset: 0, 0
+  index: -1
+bq_haixiu
+  rotate: false
+  xy: 1992, 3671
+  size: 414, 252
+  orig: 414, 252
+  offset: 0, 0
+  index: -1
+bq_maozuixiao
+  rotate: false
+  xy: 1672, 3681
+  size: 320, 242
+  orig: 320, 242
+  offset: 0, 0
+  index: -1
+bq_shengqi
+  rotate: false
+  xy: 2406, 3665
+  size: 334, 258
+  orig: 334, 258
+  offset: 0, 0
+  index: -1
+bq_weixiao
+  rotate: false
+  xy: 687, 3693
+  size: 334, 230
+  orig: 334, 230
+  offset: 0, 0
+  index: -1
+bq_wink
+  rotate: false
+  xy: 1021, 3693
+  size: 331, 230
+  orig: 331, 230
+  offset: 0, 0
+  index: -1
+bq_yansu
+  rotate: false
+  xy: 0, 3703
+  size: 353, 220
+  orig: 353, 220
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 3072, 3075
+  size: 586, 542
+  orig: 586, 542
+  offset: 0, 0
+  index: -1
+doupeng
+  rotate: false
+  xy: 1443, 150
+  size: 1993, 1729
+  orig: 1993, 1729
+  offset: 0, 0
+  index: -1
+doupengdaimao
+  rotate: true
+  xy: 1287, 3273
+  size: 398, 721
+  orig: 398, 721
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 773, 2659
+  size: 688, 614
+  orig: 688, 614
+  offset: 0, 0
+  index: -1
+gantanhao
+  rotate: true
+  xy: 0, 3398
+  size: 301, 510
+  orig: 301, 510
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1461, 1879
+  size: 1196, 1795
+  orig: 1196, 1795
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 0, 1041
+  size: 1443, 1618
+  orig: 1443, 1618
+  offset: 0, 0
+  index: -1
+wenhao
+  rotate: true
+  xy: 510, 3351
+  size: 342, 367
+  orig: 342, 367
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: false
+  xy: 2740, 3658
+  size: 561, 265
+  orig: 561, 265
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2008, 3185
+  size: 473, 1064
+  orig: 473, 1064
+  offset: 0, 0
+  index: -1
+yuanquan
+  rotate: false
+  xy: 3617, 3617
+  size: 306, 306
+  orig: 306, 306
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 0, 2795
+  size: 556, 773
+  orig: 556, 773
+  offset: 0, 0
+  index: -1
+
+jq_lihui_sps_changfu2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaodai2
+  rotate: false
+  xy: 0, 0
+  size: 1347, 3229
+  orig: 1347, 3229
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+{
+"skeleton": {
+	"hash": "ITJqK/a2tI/69++HlsDjkVEFoiA",
+	"spine": "3.8.99",
+	"x": -511.36,
+	"y": -1010.86,
+	"width": 1166,
+	"height": 2313,
+	"images": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）zhuliwusi_5\\temp@not\\images",
+	"audio": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）zhuliwusi_5\\temp@not"
+},
+"bones": [
+	{ "name": "root", "x": -678.36, "y": 1305.14 }
+],
+"slots": [
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"daiji": {
+				"daiji": { "x": 750, "y": -1159.5, "width": 1166, "height": 2313 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	}
+}
+}

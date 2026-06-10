@@ -1,0 +1,41 @@
+
+jq_lihui_jingkongnv.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 312, 3691
+  size: 302, 236
+  orig: 304, 238
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 2056
+  size: 936, 3001
+  orig: 938, 3003
+  offset: 1, 1
+  index: -1
+body2
+  rotate: true
+  xy: 926, 2992
+  size: 935, 3001
+  orig: 937, 3003
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 3700
+  size: 312, 227
+  orig: 314, 229
+  offset: 1, 1
+  index: -1
+smile
+  rotate: false
+  xy: 614, 3688
+  size: 312, 239
+  orig: 314, 241
+  offset: 1, 1
+  index: -1

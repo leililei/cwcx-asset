@@ -1,0 +1,468 @@
+{
+"skeleton": {
+	"hash": "/tUBMjrRCvSRwUCviRPKOnSaTAw",
+	"spine": "3.8.99",
+	"x": -730.79,
+	"y": -1820.4,
+	"width": 1719,
+	"height": 3171,
+	"images": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_chana_changfu\\images",
+	"audio": "D:\\1.5周年相关 （2024.7）\\剧情立绘\\jq_lihui_chana_changfu"
+},
+"bones": [
+	{ "name": "root", "x": -729.79, "y": 1349.6 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "yanjing6", "bone": "root" },
+	{ "name": "yanjing5", "bone": "root" },
+	{ "name": "yanjing4", "bone": "root" },
+	{ "name": "yanjing3", "bone": "root" },
+	{ "name": "yanjing2", "bone": "root" },
+	{ "name": "yanjing1", "bone": "root" },
+	{ "name": "zuiba4", "bone": "root" },
+	{ "name": "zuiba3", "bone": "root" },
+	{ "name": "zuiba2", "bone": "root" },
+	{ "name": "zuiba1", "bone": "root" },
+	{ "name": "meimao4", "bone": "root" },
+	{ "name": "meimao3", "bone": "root" },
+	{ "name": "meimao2", "bone": "root" },
+	{ "name": "meimao1", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 858.5, "y": -1584.5, "width": 1719, "height": 3171 }
+			},
+			"meimao1": {
+				"meimao1": { "x": 735, "y": -299, "width": 230, "height": 60 }
+			},
+			"meimao2": {
+				"meimao2": { "x": 735.5, "y": -281, "width": 237, "height": 64 }
+			},
+			"meimao3": {
+				"meimao3": { "x": 738, "y": -304, "width": 232, "height": 40 }
+			},
+			"meimao4": {
+				"meimao4": { "x": 735.5, "y": -286.5, "width": 231, "height": 53 }
+			},
+			"yanjing1": {
+				"yanjing1": { "x": 824.5, "y": -348.5, "width": 111, "height": 43 }
+			},
+			"yanjing2": {
+				"yanjing2": { "x": 659.5, "y": -347.5, "width": 111, "height": 43 }
+			},
+			"yanjing3": {
+				"yanjing3": { "x": 742, "y": -349.5, "width": 276, "height": 63 }
+			},
+			"yanjing4": {
+				"yanjing4": { "x": 826, "y": -346.5, "width": 106, "height": 63 }
+			},
+			"yanjing5": {
+				"yanjing5": { "x": 741, "y": -359, "width": 272, "height": 64 }
+			},
+			"yanjing6": {
+				"yanjing6": { "x": 742, "y": -348, "width": 274, "height": 66 }
+			},
+			"zuiba1": {
+				"zuiba1": { "x": 743.5, "y": -451.5, "width": 37, "height": 11 }
+			},
+			"zuiba2": {
+				"zuiba2": { "x": 742.5, "y": -452, "width": 37, "height": 8 }
+			},
+			"zuiba3": {
+				"zuiba3": { "x": 744.5, "y": -453.5, "width": 27, "height": 9 }
+			},
+			"zuiba4": {
+				"zuiba4": { "x": 742.5, "y": -452, "width": 23, "height": 18 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"meimao2": {
+				"attachment": [
+					{ "name": "meimao2" }
+				]
+			},
+			"yanjing1": {
+				"attachment": [
+					{ "name": "yanjing1" }
+				]
+			},
+			"yanjing2": {
+				"attachment": [
+					{ "name": "yanjing2" }
+				]
+			},
+			"zuiba2": {
+				"attachment": [
+					{ "name": "zuiba2" }
+				]
+			}
+		}
+	},
+	"biyan1": {
+		"slots": {
+			"meimao1": {
+				"attachment": [
+					{ "name": "meimao1" }
+				]
+			},
+			"yanjing1": {
+				"attachment": [
+					{ "name": "yanjing1" }
+				]
+			},
+			"yanjing2": {
+				"attachment": [
+					{ "name": "yanjing2" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing1": {
+				"attachment": [
+					{ "name": "yanjing1" }
+				]
+			},
+			"yanjing2": {
+				"attachment": [
+					{ "name": "yanjing2" }
+				]
+			},
+			"zuiba2": {
+				"attachment": [
+					{ "name": "zuiba2" }
+				]
+			}
+		}
+	},
+	"biyan3": {
+		"slots": {
+			"meimao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing1": {
+				"attachment": [
+					{ "name": "yanjing1" }
+				]
+			},
+			"yanjing2": {
+				"attachment": [
+					{ "name": "yanjing2" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"buman": {
+		"slots": {
+			"meimao1": {
+				"attachment": [
+					{ "name": "meimao1" }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	},
+	"buman2": {
+		"slots": {
+			"meimao4": {
+				"attachment": [
+					{ "name": "meimao4" }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba2": {
+				"attachment": [
+					{ "name": "zuiba2" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"meimao2": {
+				"attachment": [
+					{ "name": "meimao2" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	},
+	"danxin2": {
+		"slots": {
+			"meimao2": {
+				"attachment": [
+					{ "name": "meimao2" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"gaoxing": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba1": {
+				"attachment": [
+					{ "name": "zuiba1" }
+				]
+			}
+		}
+	},
+	"gaoxing2": {
+		"slots": {
+			"meimao1": {
+				"attachment": [
+					{ "name": "meimao1" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba2": {
+				"attachment": [
+					{ "name": "zuiba2" }
+				]
+			}
+		}
+	},
+	"gaoxing3": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba1": {
+				"attachment": [
+					{ "name": "zuiba1" }
+				]
+			}
+		}
+	},
+	"shengqi1": {
+		"slots": {
+			"meimao1": {
+				"attachment": [
+					{ "name": "meimao1" }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"shengqi2": {
+		"slots": {
+			"meimao1": {
+				"attachment": [
+					{ "name": "meimao1" }
+				]
+			},
+			"yanjing4": {
+				"attachment": [
+					{ "name": "yanjing4" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	},
+	"shuohua": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"tucao": {
+		"slots": {
+			"meimao4": {
+				"attachment": [
+					{ "name": "meimao4" }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"tucao2": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"meimao4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yanjing3": {
+				"attachment": [
+					{ "name": "yanjing3" }
+				]
+			},
+			"zuiba4": {
+				"attachment": [
+					{ "name": "zuiba4" }
+				]
+			}
+		}
+	},
+	"wubiaoqing": {
+		"slots": {
+			"meimao3": {
+				"attachment": [
+					{ "name": "meimao3" }
+				]
+			},
+			"yanjing4": {
+				"attachment": [
+					{ "name": "yanjing4" }
+				]
+			},
+			"yanjing6": {
+				"attachment": [
+					{ "name": "yanjing6" }
+				]
+			},
+			"zuiba3": {
+				"attachment": [
+					{ "name": "zuiba3" }
+				]
+			}
+		}
+	}
+}
+}

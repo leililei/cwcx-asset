@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "ykONnOwSeCY6/mcGAILZ8Vg/nW4",
+	"spine": "3.8.99",
+	"x": -871,
+	"y": -2191,
+	"width": 1685,
+	"height": 4082,
+	"images": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\山城恋\\images",
+	"audio": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\山城恋"
+},
+"bones": [
+	{ "name": "root", "x": -870, "y": 1890 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "zixin", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "biyanxiao", "bone": "root" },
+	{ "name": "shuohua", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "toufa", "bone": "root", "attachment": "toufa" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyanxiao": {
+				"biyanxiao": { "x": 842.5, "y": -410, "width": 335, "height": 228 }
+			},
+			"body": {
+				"body": { "x": 841.5, "y": -2040, "width": 1685, "height": 4082 }
+			},
+			"daiji": {
+				"daiji": { "x": 833, "y": -407, "width": 356, "height": 218 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 833.5, "y": -398, "width": 353, "height": 240 }
+			},
+			"shuohua": {
+				"shuohua": { "x": 833, "y": -411.5, "width": 356, "height": 227 }
+			},
+			"toufa": {
+				"toufa": { "x": 907, "y": -345, "width": 436, "height": 592 }
+			},
+			"yansu": {
+				"yansu": { "x": 833, "y": -403, "width": 356, "height": 212 }
+			},
+			"zixin": {
+				"zixin": { "x": 833, "y": -408.5, "width": 356, "height": 223 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyanxiao": {
+		"slots": {
+			"biyanxiao": {
+				"attachment": [
+					{ "name": "biyanxiao" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"shuohua": {
+		"slots": {
+			"shuohua": {
+				"attachment": [
+					{ "name": "shuohua" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	},
+	"zixin": {
+		"slots": {
+			"zixin": {
+				"attachment": [
+					{ "name": "zixin" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,257 @@
+{
+"skeleton": {
+	"hash": "TCu3Sf+HOITZktVi4qgQS4TvtlQ",
+	"spine": "3.8.99",
+	"x": -386.85,
+	"y": -2.1,
+	"width": 745,
+	"height": 1152,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/第三防卫班-B"
+},
+"bones": [
+	{ "name": "root", "x": -385.85, "y": 1148.9 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "bei shang", "bone": "root", "attachment": "bei shang" },
+	{ "name": "tan qi", "bone": "root", "attachment": "tan qi" },
+	{ "name": "ku", "bone": "root", "attachment": "ku" },
+	{ "name": "da ku", "bone": "root", "attachment": "da ku" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 375, "y": -263.5, "width": 216, "height": 131 }
+			},
+			"body": {
+				"body": { "x": 371.5, "y": -575, "width": 745, "height": 1152 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 363, "y": -264.5, "width": 168, "height": 127 }
+			},
+			"da ku": {
+				"da ku": { "x": 366, "y": -266, "width": 222, "height": 140 }
+			},
+			"hair": {
+				"hair": { "x": 359.5, "y": -217.5, "width": 267, "height": 97 }
+			},
+			"ku": {
+				"ku": { "x": 363, "y": -270.5, "width": 208, "height": 127 }
+			},
+			"tan qi": {
+				"tan qi": { "x": 365, "y": -267.5, "width": 192, "height": 123 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 363, "y": -264.5, "width": 168, "height": 127 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daku": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": "da ku" }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"tanqi": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": "tan qi" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"da ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tan qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	}
+}
+}

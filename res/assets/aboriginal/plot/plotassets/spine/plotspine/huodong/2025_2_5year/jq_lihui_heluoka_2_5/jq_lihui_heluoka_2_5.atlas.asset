@@ -1,0 +1,83 @@
+
+jq_lihui_heluoka_2_5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 784, 854
+  size: 313, 342
+  orig: 313, 342
+  offset: 0, 0
+  index: -1
+badsmile
+  rotate: false
+  xy: 784, 2
+  size: 306, 220
+  orig: 306, 220
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1198
+  size: 1899, 2878
+  orig: 1899, 2878
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 30
+  size: 780, 1166
+  orig: 780, 1166
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 784, 539
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1
+haqi
+  rotate: true
+  xy: 784, 224
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1026, 539
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1
+rennai
+  rotate: true
+  xy: 1026, 224
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 1092, 7
+  size: 304, 215
+  orig: 304, 215
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 1099, 883
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1
+wink
+  rotate: true
+  xy: 1268, 568
+  size: 313, 240
+  orig: 313, 240
+  offset: 0, 0
+  index: -1

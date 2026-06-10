@@ -1,0 +1,34 @@
+
+jq_lihui_lurenlaowenyuan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 314, 31
+  size: 240, 291
+  orig: 240, 291
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 0, 0
+  size: 271, 314
+  orig: 271, 314
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 271
+  size: 876, 1222
+  orig: 876, 1222
+  offset: 0, 0
+  index: -1
+yan jing
+  rotate: false
+  xy: 605, 214
+  size: 250, 57
+  orig: 250, 57
+  offset: 0, 0
+  index: -1

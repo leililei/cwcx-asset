@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "KmEx9w/PPZ02taHWLEDzEm52fAA",
+	"spine": "3.8.99",
+	"x": -548.67,
+	"y": -1201,
+	"width": 1129,
+	"height": 2980,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\fakuangnv\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\fakuangnv"
+},
+"bones": [
+	{ "name": "root", "x": -1287.67, "y": 2308 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1303.5, "y": -2019, "width": 1129, "height": 2980 }
+			},
+			"daiji": {
+				"daiji": { "x": 1240, "y": -2019, "width": 1256, "height": 2980 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"fakuang": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	}
+}
+}

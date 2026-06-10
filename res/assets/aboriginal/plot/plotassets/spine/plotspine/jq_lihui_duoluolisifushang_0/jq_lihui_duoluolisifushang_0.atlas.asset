@@ -1,0 +1,48 @@
+
+jq_lihui_duoluolisifushang_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 448, 2
+  size: 225, 162
+  orig: 227, 164
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 164
+  size: 1146, 1162
+  orig: 1148, 1164
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 673, 4
+  size: 230, 160
+  orig: 232, 162
+  offset: 1, 1
+  index: -1
+shishen
+  rotate: false
+  xy: 903, 10
+  size: 226, 154
+  orig: 228, 156
+  offset: 1, 1
+  index: -1
+tongku
+  rotate: false
+  xy: 0, 0
+  size: 224, 164
+  orig: 226, 166
+  offset: 1, 1
+  index: -1
+tongku2
+  rotate: false
+  xy: 224, 1
+  size: 224, 163
+  orig: 226, 165
+  offset: 1, 1
+  index: -1

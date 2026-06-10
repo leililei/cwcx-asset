@@ -1,0 +1,48 @@
+
+jq_lihui_dailiren.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi yan
+  rotate: false
+  xy: 214, 1043
+  size: 199, 156
+  orig: 199, 156
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 276
+  size: 753, 1199
+  orig: 753, 1199
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 0, 1045
+  size: 214, 154
+  orig: 214, 154
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 841, 1029
+  size: 213, 170
+  orig: 213, 170
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 413, 1043
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 627, 1042
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: -1

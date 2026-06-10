@@ -1,0 +1,83 @@
+
+jq_lihui_teweierda_zhandouyong.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bunai  bq3
+  rotate: true
+  xy: 2424, 863
+  size: 204, 153
+  orig: 204, 153
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 2424, 1688
+  size: 204, 161
+  orig: 204, 161
+  offset: 0, 0
+  index: -1
+dengyan  bq6
+  rotate: true
+  xy: 2424, 1482
+  size: 204, 160
+  orig: 204, 160
+  offset: 0, 0
+  index: -1
+fs1
+  rotate: true
+  xy: 2424, 2300
+  size: 833, 709
+  orig: 833, 709
+  offset: 0, 0
+  index: -1
+shengqi  bq4
+  rotate: true
+  xy: 2424, 2097
+  size: 201, 164
+  orig: 201, 164
+  offset: 0, 0
+  index: -1
+xbzy  bq7
+  rotate: true
+  xy: 2424, 1275
+  size: 205, 157
+  orig: 205, 157
+  offset: 0, 0
+  index: -1
+xiao  bq2
+  rotate: true
+  xy: 2424, 1069
+  size: 204, 157
+  orig: 204, 157
+  offset: 0, 0
+  index: -1
+xiaxiao  bq8
+  rotate: true
+  xy: 2424, 662
+  size: 199, 152
+  orig: 199, 152
+  offset: 0, 0
+  index: -1
+xiaxiao1fenn
+  rotate: true
+  xy: 2578, 810
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+yanjing yy
+  rotate: false
+  xy: 2, 755
+  size: 2420, 2378
+  orig: 2420, 2378
+  offset: 0, 0
+  index: -1
+yansu  bq5
+  rotate: true
+  xy: 2424, 1894
+  size: 201, 164
+  orig: 201, 164
+  offset: 0, 0
+  index: -1

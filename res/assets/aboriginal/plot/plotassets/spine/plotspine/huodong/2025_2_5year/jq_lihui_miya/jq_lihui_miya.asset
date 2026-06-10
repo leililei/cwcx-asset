@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "4YJrCgAlCMRUQEHyqFttuX1JT4Q",
+	"spine": "3.8.99",
+	"x": -351.9,
+	"y": -1840.14,
+	"width": 942,
+	"height": 3360,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\miya\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\miya"
+},
+"bones": [
+	{ "name": "root", "x": -1083.9, "y": 1625.86 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "zhoumei", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "xianqi", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "fs", "bone": "root", "attachment": "fs" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1203, "y": -1786, "width": 942, "height": 3360 }
+			},
+			"daiji": {
+				"daiji": { "x": 1078, "y": -419, "width": 300, "height": 224 }
+			},
+			"fs": {
+				"fs": { "x": 1036.5, "y": -403.5, "width": 491, "height": 479 }
+			},
+			"jingya": {
+				"jingya": { "x": 1078, "y": -417, "width": 300, "height": 220 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1075.5, "y": -377, "width": 295, "height": 294 }
+			},
+			"smile": {
+				"smile": { "x": 1082.5, "y": -414.5, "width": 291, "height": 215 }
+			},
+			"xianqi": {
+				"xianqi": { "x": 1078, "y": -378.5, "width": 300, "height": 297 }
+			},
+			"zhoumei": {
+				"zhoumei": { "x": 1075, "y": -418, "width": 294, "height": 226 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"xianqi": {
+		"slots": {
+			"xianqi": {
+				"attachment": [
+					{ "name": "xianqi" }
+				]
+			}
+		}
+	},
+	"zhoumei": {
+		"slots": {
+			"zhoumei": {
+				"attachment": [
+					{ "name": "zhoumei" }
+				]
+			}
+		}
+	}
+}
+}

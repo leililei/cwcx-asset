@@ -1,0 +1,13 @@
+
+jq_lihui_zhuliwusi_5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1077, 1265
+  orig: 1077, 1265
+  offset: 0, 0
+  index: -1

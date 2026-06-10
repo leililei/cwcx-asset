@@ -1,0 +1,83 @@
+
+jq_lihui_mogenlefei.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 301
+  size: 2048, 1252
+  orig: 2048, 1252
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1175, 1861
+  size: 232, 187
+  orig: 232, 187
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 1407, 1861
+  size: 228, 187
+  orig: 228, 187
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 911, 1867
+  size: 264, 181
+  orig: 264, 181
+  offset: 0, 0
+  index: -1
+kunhuo
+  rotate: false
+  xy: 0, 1899
+  size: 224, 149
+  orig: 224, 149
+  offset: 0, 0
+  index: -1
+niaoji
+  rotate: false
+  xy: 0, 1570
+  size: 553, 308
+  orig: 553, 308
+  offset: 0, 0
+  index: -1
+niaoji2
+  rotate: false
+  xy: 553, 1559
+  size: 553, 308
+  orig: 553, 308
+  offset: 0, 0
+  index: -1
+niaoji3
+  rotate: false
+  xy: 1106, 1553
+  size: 553, 308
+  orig: 553, 308
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 224, 1885
+  size: 227, 163
+  orig: 227, 163
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 451, 1878
+  size: 232, 170
+  orig: 232, 170
+  offset: 0, 0
+  index: -1
+weixiao2
+  rotate: false
+  xy: 683, 1878
+  size: 228, 170
+  orig: 228, 170
+  offset: 0, 0
+  index: -1

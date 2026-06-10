@@ -1,0 +1,48 @@
+
+jq_lihui_new_duoluolisifushang_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 792, 1788
+  size: 198, 147
+  orig: 198, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 816
+  size: 972, 1935
+  orig: 972, 1935
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 199, 1792
+  size: 201, 143
+  orig: 201, 143
+  offset: 0, 0
+  index: -1
+shishen
+  rotate: false
+  xy: 0, 1797
+  size: 199, 138
+  orig: 199, 138
+  offset: 0, 0
+  index: -1
+tongku
+  rotate: false
+  xy: 400, 1790
+  size: 196, 145
+  orig: 196, 145
+  offset: 0, 0
+  index: -1
+tongku2
+  rotate: false
+  xy: 596, 1790
+  size: 196, 145
+  orig: 196, 145
+  offset: 0, 0
+  index: -1

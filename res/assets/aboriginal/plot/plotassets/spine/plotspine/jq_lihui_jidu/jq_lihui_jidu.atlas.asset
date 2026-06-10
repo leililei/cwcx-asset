@@ -1,0 +1,62 @@
+
+jq_lihui_jidu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: true
+  xy: 583, 1723
+  size: 199, 206
+  orig: 199, 206
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 263
+  size: 1922, 1456
+  orig: 1922, 1456
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 196, 1739
+  size: 196, 183
+  orig: 196, 183
+  offset: 0, 0
+  index: -1
+nei jiu
+  rotate: true
+  xy: 789, 1723
+  size: 199, 206
+  orig: 199, 206
+  offset: 0, 0
+  index: -1
+nei jiu2
+  rotate: true
+  xy: 392, 1733
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 995, 1720
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+wei qu
+  rotate: true
+  xy: 1198, 1719
+  size: 203, 206
+  orig: 203, 206
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 0, 1747
+  size: 196, 175
+  orig: 196, 175
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,326 @@
+{
+"skeleton": {
+	"hash": "nf3IyQ3uTP/EMPIL+P+HBPmbDsM",
+	"spine": "3.8.99",
+	"x": -737.07,
+	"y": -1335.51,
+	"width": 1698,
+	"height": 2986,
+	"images": "../PSD源文件/wei/images/",
+	"audio": "G:/魔都精兵活动spine处理/PSD源文件/wei"
+},
+"bones": [
+	{ "name": "root", "x": -1369.07, "y": 1734.49 }
+],
+"slots": [
+	{ "name": "bag1", "bone": "root", "attachment": "bag1" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "angry2", "bone": "root" },
+	{ "name": "daizhi", "bone": "root" },
+	{ "name": "angry1", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "cry2", "bone": "root" },
+	{ "name": "cry1", "bone": "root" },
+	{ "name": "bag2", "bone": "root", "attachment": "bag2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry1": {
+				"angry1": { "x": 1352, "y": -673.5, "width": 220, "height": 223 }
+			},
+			"angry2": {
+				"angry2": { "x": 1354.5, "y": -669, "width": 239, "height": 220 }
+			},
+			"bag1": {
+				"bag1": { "x": 1016.5, "y": -1266.5, "width": 421, "height": 789 }
+			},
+			"bag2": {
+				"bag2": { "x": 1313.5, "y": -1111.5, "width": 471, "height": 533 }
+			},
+			"body": {
+				"body": { "x": 1481, "y": -1577, "width": 1698, "height": 2986 }
+			},
+			"cry1": {
+				"cry1": { "x": 1326, "y": -696.5, "width": 326, "height": 277 }
+			},
+			"cry2": {
+				"cry2": { "x": 1320, "y": -695.5, "width": 314, "height": 265 }
+			},
+			"daiji": {
+				"daiji": { "x": 1347, "y": -664.5, "width": 250, "height": 223 }
+			},
+			"daizhi": {
+				"daizhi": { "x": 1334.5, "y": -666.5, "width": 285, "height": 227 }
+			},
+			"ganga": {
+				"ganga": { "x": 1337.5, "y": -696, "width": 273, "height": 274 }
+			},
+			"happy": {
+				"happy": { "x": 1347, "y": -667.5, "width": 250, "height": 229 }
+			},
+			"sad": {
+				"sad": { "x": 1352, "y": -672.5, "width": 250, "height": 219 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry1": {
+		"slots": {
+			"angry1": {
+				"attachment": [
+					{ "name": "angry1" }
+				]
+			},
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry1.2": {
+		"slots": {
+			"angry1": {
+				"attachment": [
+					{ "name": "angry1" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			},
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"angry2.2": {
+		"slots": {
+			"angry2": {
+				"attachment": [
+					{ "name": "angry2" }
+				]
+			}
+		}
+	},
+	"cry1": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"cry1": {
+				"attachment": [
+					{ "name": "cry1" }
+				]
+			}
+		}
+	},
+	"cry1.2": {
+		"slots": {
+			"cry1": {
+				"attachment": [
+					{ "name": "cry1" }
+				]
+			}
+		}
+	},
+	"cry2": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"cry2": {
+				"attachment": [
+					{ "name": "cry2" }
+				]
+			}
+		}
+	},
+	"cry2.2": {
+		"slots": {
+			"cry2": {
+				"attachment": [
+					{ "name": "cry2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daizhi": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daizhi": {
+				"attachment": [
+					{ "name": "daizhi" }
+				]
+			}
+		}
+	},
+	"daizhi2": {
+		"slots": {
+			"daizhi": {
+				"attachment": [
+					{ "name": "daizhi" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"ganga2": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"happy2": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"bag1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"bag2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	}
+}
+}

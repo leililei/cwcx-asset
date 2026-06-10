@@ -1,0 +1,20 @@
+
+jq_lihui_fakuangnv.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1254, 0
+  size: 1127, 2978
+  orig: 1129, 2980
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 1254, 2978
+  orig: 1256, 2980
+  offset: 1, 1
+  index: -1

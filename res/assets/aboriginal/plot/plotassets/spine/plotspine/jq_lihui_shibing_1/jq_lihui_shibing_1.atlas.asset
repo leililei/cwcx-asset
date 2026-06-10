@@ -1,0 +1,13 @@
+
+jq_lihui_shibing_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 864, 1168
+  orig: 864, 1168
+  offset: 0, 0
+  index: -1

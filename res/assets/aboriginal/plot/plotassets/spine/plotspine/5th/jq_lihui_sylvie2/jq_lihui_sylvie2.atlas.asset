@@ -1,0 +1,83 @@
+
+jq_lihui_sylvie2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1130, 1940
+  size: 163, 96
+  orig: 163, 96
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 829
+  size: 1099, 2036
+  orig: 1099, 2036
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 326, 1944
+  size: 152, 92
+  orig: 152, 92
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 641, 1943
+  size: 163, 93
+  orig: 163, 93
+  offset: 0, 0
+  index: -1
+damn
+  rotate: false
+  xy: 804, 1943
+  size: 163, 93
+  orig: 163, 93
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1293, 1940
+  size: 163, 96
+  orig: 163, 96
+  offset: 0, 0
+  index: -1
+jisinn
+  rotate: false
+  xy: 163, 1945
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+really
+  rotate: false
+  xy: 0, 1946
+  size: 163, 90
+  orig: 163, 90
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1456, 1928
+  size: 209, 108
+  orig: 209, 108
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 478, 1944
+  size: 163, 92
+  orig: 163, 92
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 967, 1943
+  size: 163, 93
+  orig: 163, 93
+  offset: 0, 0
+  index: -1

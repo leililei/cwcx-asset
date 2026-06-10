@@ -1,0 +1,83 @@
+
+jq_lihui_glly_wangqiu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 290, 3869
+  size: 264, 223
+  orig: 264, 223
+  offset: 0, 0
+  index: -1
+biyanxiao
+  rotate: false
+  xy: 1422, 3856
+  size: 279, 236
+  orig: 279, 236
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 2367
+  size: 1462, 4092
+  orig: 1462, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1701, 3854
+  size: 290, 238
+  orig: 290, 238
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1991, 3854
+  size: 290, 238
+  orig: 290, 238
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: false
+  xy: 554, 3863
+  size: 289, 229
+  orig: 289, 229
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1133, 3858
+  size: 289, 234
+  orig: 289, 234
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: false
+  xy: 0, 3871
+  size: 290, 221
+  orig: 290, 221
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 2571, 3829
+  size: 289, 263
+  orig: 289, 263
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 2281, 3852
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 843, 3860
+  size: 290, 232
+  orig: 290, 232
+  offset: 0, 0
+  index: -1

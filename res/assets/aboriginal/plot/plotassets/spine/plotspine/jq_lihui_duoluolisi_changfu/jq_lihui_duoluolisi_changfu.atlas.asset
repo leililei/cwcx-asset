@@ -1,0 +1,69 @@
+
+jq_lihui_duoluolisi_changfu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 0, 1839
+  size: 193, 140
+  orig: 193, 140
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 193, 1837
+  size: 188, 142
+  orig: 188, 142
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 860
+  size: 967, 1979
+  orig: 967, 1979
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 574, 1834
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1342, 1827
+  size: 198, 152
+  orig: 198, 152
+  offset: 0, 0
+  index: -1
+kunhuo
+  rotate: false
+  xy: 767, 1834
+  size: 193, 145
+  orig: 193, 145
+  offset: 0, 0
+  index: -1
+kuxiao
+  rotate: false
+  xy: 960, 1833
+  size: 193, 146
+  orig: 193, 146
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 381, 1835
+  size: 193, 144
+  orig: 193, 144
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1153, 1830
+  size: 189, 149
+  orig: 189, 149
+  offset: 0, 0
+  index: -1

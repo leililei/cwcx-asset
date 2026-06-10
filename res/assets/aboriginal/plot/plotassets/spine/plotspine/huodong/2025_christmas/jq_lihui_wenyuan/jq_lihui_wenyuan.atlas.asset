@@ -1,0 +1,13 @@
+
+jq_lihui_wenyuan.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rw
+  rotate: false
+  xy: 2, 2
+  size: 834, 3302
+  orig: 834, 3302
+  offset: 0, 0
+  index: -1

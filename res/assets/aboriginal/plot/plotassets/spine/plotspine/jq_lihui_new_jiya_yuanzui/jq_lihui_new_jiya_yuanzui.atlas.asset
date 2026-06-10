@@ -1,0 +1,41 @@
+
+jq_lihui_new_jiya_yuanzui.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 0
+  size: 208, 179
+  orig: 208, 179
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 179
+  size: 1864, 2387
+  orig: 1864, 2387
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 208, 1
+  size: 208, 178
+  orig: 208, 178
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 416, 1
+  size: 208, 178
+  orig: 208, 178
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 624, 1
+  size: 208, 178
+  orig: 208, 178
+  offset: 0, 0
+  index: -1

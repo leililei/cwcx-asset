@@ -1,0 +1,158 @@
+
+jq_lihui_qianqiu_mo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 1123, 3769
+  size: 345, 247
+  orig: 345, 247
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1468, 3769
+  size: 373, 247
+  orig: 373, 247
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 373, 3494
+  size: 373, 282
+  orig: 373, 282
+  offset: 0, 0
+  index: -1
+gomi
+  rotate: false
+  xy: 1492, 3410
+  size: 570, 359
+  orig: 570, 359
+  offset: 0, 0
+  index: -1
+gouxian
+  rotate: true
+  xy: 0, 2429
+  size: 981, 2569
+  orig: 981, 2569
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 2960, 3747
+  size: 387, 269
+  orig: 387, 269
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: false
+  xy: 3347, 3747
+  size: 387, 269
+  orig: 387, 269
+  offset: 0, 0
+  index: -1
+heihua
+  rotate: false
+  xy: 1841, 3769
+  size: 373, 247
+  orig: 373, 247
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 2214, 3754
+  size: 373, 262
+  orig: 373, 262
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 377, 3776
+  size: 373, 240
+  orig: 373, 240
+  offset: 0, 0
+  index: -1
+shangse
+  rotate: true
+  xy: 0, 666
+  size: 1763, 2267
+  orig: 1763, 2267
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1119, 3485
+  size: 373, 284
+  orig: 373, 284
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 0, 3785
+  size: 377, 231
+  orig: 377, 231
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 3734, 3648
+  size: 368, 282
+  orig: 368, 282
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: false
+  xy: 750, 3771
+  size: 373, 245
+  orig: 373, 245
+  offset: 0, 0
+  index: -1
+xiao3
+  rotate: false
+  xy: 0, 3512
+  size: 373, 273
+  orig: 373, 273
+  offset: 0, 0
+  index: -1
+xingfen
+  rotate: false
+  xy: 2587, 3750
+  size: 373, 266
+  orig: 373, 266
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 746, 3489
+  size: 373, 282
+  orig: 373, 282
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu_mo2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 0, 297
+  size: 2406, 2109
+  orig: 2406, 2109
+  offset: 0, 0
+  index: -1
+
+jq_lihui_qianqiu_mo3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 99
+  size: 3594, 3495
+  orig: 3594, 3495
+  offset: 0, 0
+  index: -1

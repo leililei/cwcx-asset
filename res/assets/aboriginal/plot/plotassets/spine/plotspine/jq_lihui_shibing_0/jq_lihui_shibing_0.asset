@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "7PPtFhqw715UevH91HXQkb3ppoc",
+	"spine": "3.8.99",
+	"x": -460.26,
+	"y": -0.99,
+	"width": 895,
+	"height": 1166,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/士兵-待机"
+},
+"bones": [
+	{ "name": "root", "x": -459.26, "y": 1164.01 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 446.5, "y": -582, "width": 895, "height": 1166 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {},
+	"daiji": {}
+}
+}

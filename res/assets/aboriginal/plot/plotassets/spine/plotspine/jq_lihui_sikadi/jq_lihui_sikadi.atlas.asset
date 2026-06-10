@@ -1,0 +1,55 @@
+
+jq_lihui_sikadi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 464
+  size: 2048, 1405
+  orig: 2048, 1405
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 887, 1869
+  size: 250, 179
+  orig: 250, 179
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 1137, 1869
+  size: 216, 179
+  orig: 216, 179
+  offset: 0, 0
+  index: -1
+dajiao
+  rotate: false
+  xy: 455, 1878
+  size: 216, 170
+  orig: 216, 170
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 0, 1894
+  size: 215, 154
+  orig: 215, 154
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 671, 1876
+  size: 216, 172
+  orig: 216, 172
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 215, 1885
+  size: 240, 163
+  orig: 240, 163
+  offset: 0, 0
+  index: -1

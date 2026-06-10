@@ -1,0 +1,62 @@
+
+jq_lihui_jing.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amazing
+  rotate: false
+  xy: 1303, 2374
+  size: 263, 188
+  orig: 265, 190
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 476
+  size: 2460, 1823
+  orig: 2462, 1825
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 1566, 2299
+  size: 263, 996
+  orig: 265, 998
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: false
+  xy: 1040, 2381
+  size: 263, 181
+  orig: 265, 183
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 0, 2434
+  size: 283, 128
+  orig: 285, 130
+  offset: 1, 1
+  index: -1
+joker
+  rotate: false
+  xy: 530, 2406
+  size: 247, 156
+  orig: 249, 158
+  offset: 1, 1
+  index: -1
+smile
+  rotate: false
+  xy: 777, 2390
+  size: 263, 172
+  orig: 265, 174
+  offset: 1, 1
+  index: -1
+wink
+  rotate: false
+  xy: 283, 2414
+  size: 247, 148
+  orig: 249, 150
+  offset: 1, 1
+  index: -1

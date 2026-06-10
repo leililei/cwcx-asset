@@ -1,0 +1,13 @@
+
+jq_lihui_nigula.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1541, 4092
+  orig: 1541, 4092
+  offset: 0, 0
+  index: -1

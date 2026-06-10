@@ -1,0 +1,228 @@
+{
+"skeleton": {
+	"hash": "uxwKOvNWD2Xf8MzlXMhzeCNc2Ak",
+	"spine": "3.8.99",
+	"x": -1657.83,
+	"y": -430.42,
+	"width": 3002,
+	"height": 2002,
+	"images": "G:\\文案的活2\\5月spine\\yisabera\\images",
+	"audio": "G:\\文案的活2\\5月spine\\yisabera"
+},
+"bones": [
+	{ "name": "root", "x": -1656.83, "y": 1570.58 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "angry", "bone": "root", "attachment": "angry" },
+	{ "name": "sad", "bone": "root", "attachment": "sad" },
+	{ "name": "happy", "bone": "root", "attachment": "happy" },
+	{ "name": "high", "bone": "root", "attachment": "high" },
+	{ "name": "shy", "bone": "root", "attachment": "shy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1576, "y": -920.5, "width": 134, "height": 107 }
+			},
+			"body": {
+				"body": { "x": 1500, "y": -1000, "width": 3002, "height": 2002 }
+			},
+			"daiji": {
+				"daiji": { "x": 1579.5, "y": -918.5, "width": 141, "height": 95 }
+			},
+			"happy": {
+				"happy": { "x": 1576, "y": -927.5, "width": 134, "height": 101 }
+			},
+			"high": {
+				"high": { "x": 1581, "y": -926, "width": 144, "height": 114 }
+			},
+			"sad": {
+				"sad": { "x": 1576, "y": -924, "width": 134, "height": 84 }
+			},
+			"shy": {
+				"shy": { "x": 1579.5, "y": -923.5, "width": 141, "height": 95 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"high": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"high": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"high": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"high": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"high": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"high": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

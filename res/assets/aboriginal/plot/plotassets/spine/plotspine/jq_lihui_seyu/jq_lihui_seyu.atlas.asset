@@ -1,0 +1,69 @@
+
+jq_lihui_seyu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 462
+  size: 2030, 1372
+  orig: 2030, 1372
+  offset: 0, 0
+  index: -1
+jie jie1
+  rotate: true
+  xy: 737, 1848
+  size: 182, 188
+  orig: 182, 188
+  offset: 0, 0
+  index: -1
+jie jie2
+  rotate: true
+  xy: 169, 1861
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+jie jie3
+  rotate: true
+  xy: 342, 1861
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+jie jie4
+  rotate: false
+  xy: 0, 1873
+  size: 169, 157
+  orig: 169, 157
+  offset: 0, 0
+  index: -1
+mei mei1
+  rotate: false
+  xy: 925, 1834
+  size: 229, 196
+  orig: 229, 196
+  offset: 0, 0
+  index: -1
+mei mei2
+  rotate: false
+  xy: 1154, 1834
+  size: 229, 196
+  orig: 229, 196
+  offset: 0, 0
+  index: -1
+mei mei3
+  rotate: false
+  xy: 1383, 1834
+  size: 229, 196
+  orig: 229, 196
+  offset: 0, 0
+  index: -1
+mei mei4
+  rotate: false
+  xy: 515, 1853
+  size: 222, 177
+  orig: 222, 177
+  offset: 0, 0
+  index: -1

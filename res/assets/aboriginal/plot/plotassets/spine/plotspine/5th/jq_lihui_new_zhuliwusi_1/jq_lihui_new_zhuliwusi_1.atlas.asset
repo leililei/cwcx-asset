@@ -1,0 +1,27 @@
+
+jq_lihui_new_zhuliwusi_1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 3030, 2943
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 705
+  size: 3030, 2380
+  orig: 3030, 2380
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 3030, 3002
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1

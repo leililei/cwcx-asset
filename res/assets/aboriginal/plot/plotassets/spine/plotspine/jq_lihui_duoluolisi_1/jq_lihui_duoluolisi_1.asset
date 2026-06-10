@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "x5wVQRb5ZmE8nhiAR3tHsta+tyk",
+	"spine": "3.8.99",
+	"x": -785.04,
+	"y": -6.64,
+	"width": 1771,
+	"height": 1140,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/多洛莉斯-格挡"
+},
+"bones": [
+	{ "name": "root", "x": -789.04, "y": 1136.36 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "zhang zui", "bone": "root" },
+	{ "name": "bi zui", "bone": "root", "attachment": "bi zui" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bi zui": {
+				"bi zui": { "x": 827.5, "y": -315.5, "width": 195, "height": 147 }
+			},
+			"body": {
+				"body": { "x": 889.5, "y": -573, "width": 1771, "height": 1140 }
+			},
+			"zhang zui": {
+				"zhang zui": { "x": 827.5, "y": -323, "width": 195, "height": 162 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {},
+	"2": {
+		"slots": {
+			"bi zui": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhang zui": {
+				"attachment": [
+					{ "name": "zhang zui" }
+				]
+			}
+		}
+	},
+	"daiji": {}
+}
+}

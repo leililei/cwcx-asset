@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "9WOmowRB24stPtKBLivRAjeCJoQ",
+	"spine": "3.8.99",
+	"x": -511.34,
+	"y": -522.28,
+	"width": 1233,
+	"height": 1303,
+	"images": "D:\\活动资源相关\\2025.4+6月\\六月份相关\\第六章《穷途末路》\\jq_lihui_ganranjiashiyuan\\images",
+	"audio": "D:\\活动资源相关\\2025.4+6月\\六月份相关\\第六章《穷途末路》\\jq_lihui_ganranjiashiyuan"
+},
+"bones": [
+	{ "name": "root", "x": -510.34, "y": 779.72 }
+],
+"slots": [
+	{ "name": "图层 1", "bone": "root", "attachment": "图层 1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"图层 1": {
+				"图层 1": { "x": 615.5, "y": -650.5, "width": 1233, "height": 1303 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

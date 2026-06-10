@@ -1,0 +1,41 @@
+
+jq_lihui_jiya_yuanzui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi yan
+  rotate: true
+  xy: 854, 621
+  size: 111, 102
+  orig: 113, 103
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 110
+  size: 854, 846
+  orig: 854, 846
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 854, 844
+  size: 112, 102
+  orig: 114, 104
+  offset: 1, 1
+  index: -1
+sheng qi
+  rotate: true
+  xy: 854, 509
+  size: 112, 101
+  orig: 114, 102
+  offset: 1, 0
+  index: -1
+wei xiao
+  rotate: true
+  xy: 854, 732
+  size: 112, 102
+  orig: 114, 103
+  offset: 1, 0
+  index: -1

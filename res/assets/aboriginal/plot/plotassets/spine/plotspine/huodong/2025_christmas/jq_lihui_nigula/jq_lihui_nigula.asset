@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "t0PVwg2b7+t9w6r4BrhX72eagLU",
+	"spine": "3.8.99",
+	"x": -730.89,
+	"y": -1888,
+	"width": 1541,
+	"height": 4092,
+	"images": "E:/工作/2026冬活NPC立绘/jq_lihui_nigula/images/",
+	"audio": "E:\\工作\\2026冬活NPC立绘\\jq_lihui_nigula"
+},
+"bones": [
+	{ "name": "root", "x": -729.89, "y": 2203 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 769.5, "y": -2045, "width": 1541, "height": 4092 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

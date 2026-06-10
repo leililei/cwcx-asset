@@ -1,0 +1,102 @@
+{
+"skeleton": {
+	"hash": "MQxlapKmRKJFC6ZEi1J2aFuu6Rc",
+	"spine": "3.8.99",
+	"x": -647.07,
+	"y": -1300.98,
+	"width": 1864,
+	"height": 2387,
+	"images": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）jiya_yuanzui\\temp@not\\images",
+	"audio": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）jiya_yuanzui\\temp@not"
+},
+"bones": [
+	{ "name": "root", "x": -928.07, "y": 1098.02 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "biyan", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 967, "y": -444.5, "width": 208, "height": 179 }
+			},
+			"body": {
+				"body": { "x": 1213, "y": -1205.5, "width": 1864, "height": 2387 }
+			},
+			"daiji": {
+				"daiji": { "x": 967, "y": -444, "width": 208, "height": 178 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 967, "y": -444, "width": 208, "height": 178 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 967, "y": -444, "width": 208, "height": 178 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

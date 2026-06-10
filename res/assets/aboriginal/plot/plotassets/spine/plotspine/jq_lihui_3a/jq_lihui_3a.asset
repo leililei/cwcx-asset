@@ -1,0 +1,287 @@
+{
+"skeleton": {
+	"hash": "pva/QHz/UJyw5pYUU3Q2ffGP3ZY",
+	"spine": "3.8.99",
+	"x": -371.04,
+	"y": -0.56,
+	"width": 716,
+	"height": 1202,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/第三防卫班-A"
+},
+"bones": [
+	{ "name": "root", "x": -370.04, "y": 1200.44 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "wei xiao2", "bone": "root", "attachment": "wei xiao2" },
+	{ "name": "wei xiao3", "bone": "root", "attachment": "wei xiao3" },
+	{ "name": "bei shang", "bone": "root", "attachment": "bei shang" },
+	{ "name": "chi jing", "bone": "root", "attachment": "chi jing" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 363, "y": -315.5, "width": 214, "height": 135 }
+			},
+			"body": {
+				"body": { "x": 357, "y": -600, "width": 716, "height": 1202 }
+			},
+			"chi jing": {
+				"chi jing": { "x": 351.5, "y": -315, "width": 165, "height": 134 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 351.5, "y": -314, "width": 165, "height": 132 }
+			},
+			"hair": {
+				"hair": { "x": 361, "y": -251, "width": 284, "height": 138 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 351, "y": -314.5, "width": 164, "height": 133 }
+			},
+			"wei xiao2": {
+				"wei xiao2": { "x": 351.5, "y": -314, "width": 165, "height": 132 }
+			},
+			"wei xiao3": {
+				"wei xiao3": { "x": 358.5, "y": -316.5, "width": 215, "height": 137 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"chijing": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": "chi jing" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": "wei xiao2" }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao3": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chi jing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hair": {
+				"attachment": [
+					{ "name": "hair" }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao3": {
+				"attachment": [
+					{ "name": "wei xiao3" }
+				]
+			}
+		}
+	}
+}
+}

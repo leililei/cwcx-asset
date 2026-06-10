@@ -1,0 +1,55 @@
+
+jq_lihui_shangyuntianmeiluo.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 323, 3833
+  size: 324, 202
+  orig: 324, 202
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1596
+  size: 1971, 4035
+  orig: 1971, 4035
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 647, 3832
+  size: 323, 203
+  orig: 323, 203
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 1293, 3817
+  size: 326, 218
+  orig: 326, 218
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 1619, 3567
+  size: 595, 468
+  orig: 595, 468
+  offset: 0, 0
+  index: -1
+shuohua
+  rotate: false
+  xy: 970, 3826
+  size: 323, 209
+  orig: 323, 209
+  offset: 0, 0
+  index: -1
+wubiaoqing
+  rotate: false
+  xy: 0, 3851
+  size: 323, 184
+  orig: 323, 184
+  offset: 0, 0
+  index: -1

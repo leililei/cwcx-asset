@@ -1,0 +1,83 @@
+
+jq_lihui_dongriwanlin_zhandou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1630
+  size: 1833, 2451
+  orig: 1833, 2451
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 3927, 2667
+  size: 202, 134
+  orig: 202, 134
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1837, 2354
+  size: 2088, 1727
+  orig: 2088, 1727
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 3927, 3250
+  size: 191, 152
+  orig: 191, 152
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 3927, 3648
+  size: 203, 153
+  orig: 203, 153
+  offset: 0, 0
+  index: -1
+jy
+  rotate: true
+  xy: 3927, 3443
+  size: 203, 146
+  orig: 203, 146
+  offset: 0, 0
+  index: -1
+renzhen
+  rotate: true
+  xy: 3927, 2480
+  size: 185, 140
+  orig: 185, 140
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 3927, 2871
+  size: 191, 148
+  orig: 191, 148
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 3927, 3853
+  size: 228, 143
+  orig: 228, 143
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 3927, 3064
+  size: 184, 154
+  orig: 184, 154
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 1837, 1700
+  size: 652, 1051
+  orig: 652, 1051
+  offset: 0, 0
+  index: -1

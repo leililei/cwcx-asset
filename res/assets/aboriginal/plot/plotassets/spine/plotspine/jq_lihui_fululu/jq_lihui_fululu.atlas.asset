@@ -1,0 +1,75 @@
+
+jq_lihui_fululu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 551, 1161
+  size: 524, 421
+  orig: 524, 421
+  offset: 0, 0
+  index: -1
+armdown
+  rotate: false
+  xy: 0, 611
+  size: 813, 550
+  orig: 813, 550
+  offset: 0, 0
+  index: -1
+armup
+  rotate: true
+  xy: 0, 1641
+  size: 348, 431
+  orig: 348, 431
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1008, 1582
+  size: 546, 407
+  orig: 546, 407
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 1554, 1466
+  size: 523, 435
+  orig: 523, 435
+  offset: 0, 0
+  index: -1
+sad
+  rotate: false
+  xy: 431, 1595
+  size: 577, 394
+  orig: 577, 394
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 1075, 1034
+  size: 558, 432
+  orig: 558, 432
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 0, 1180
+  size: 551, 415
+  orig: 551, 415
+  offset: 0, 0
+  index: -1
+
+jq_lihui_fululu2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 158
+  size: 1908, 1750
+  orig: 1908, 1750
+  offset: 0, 0
+  index: -1

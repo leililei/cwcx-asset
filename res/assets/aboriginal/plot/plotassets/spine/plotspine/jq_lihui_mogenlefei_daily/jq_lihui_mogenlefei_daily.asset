@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "NtmeGkyVM5pJk0dgBdjZfQ31b8k",
+	"spine": "3.8.99",
+	"x": -845.65,
+	"y": -1449.18,
+	"width": 1310.22,
+	"height": 3056.23,
+	"images": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_mogenlefei_daily\\images",
+	"audio": "E:\\art\\原画\\立绘\\完成稿\\月冕\\jq_lihui_mogenlefei_daily"
+},
+"bones": [
+	{ "name": "root", "rotation": -0.1, "x": -1262.04, "y": 1829.77 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "lengmo", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "nohappy", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1074.5, "y": -1749, "width": 1305, "height": 3054 }
+			},
+			"daiji": {
+				"daiji": { "x": 1249, "y": -679, "width": 342, "height": 210 }
+			},
+			"happy": {
+				"happy": { "x": 1247.5, "y": -685, "width": 339, "height": 218 }
+			},
+			"lengmo": {
+				"lengmo": { "x": 1245, "y": -670.5, "width": 358, "height": 205 }
+			},
+			"nohappy": {
+				"nohappy": { "x": 1249, "y": -648.5, "width": 342, "height": 297 }
+			},
+			"sad": {
+				"sad": { "x": 1249, "y": -687.5, "width": 342, "height": 207 }
+			},
+			"shy": {
+				"shy": { "x": 1249, "y": -691.5, "width": 342, "height": 213 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"lengmo": {
+		"slots": {
+			"lengmo": {
+				"attachment": [
+					{ "name": "lengmo" }
+				]
+			}
+		}
+	},
+	"nohappy": {
+		"slots": {
+			"nohappy": {
+				"attachment": [
+					{ "name": "nohappy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

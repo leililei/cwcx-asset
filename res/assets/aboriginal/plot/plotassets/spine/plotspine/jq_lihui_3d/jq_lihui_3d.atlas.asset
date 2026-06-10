@@ -1,0 +1,41 @@
+
+jq_lihui_3d.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 168
+  size: 728, 1202
+  orig: 728, 1202
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 445, 31
+  size: 168, 137
+  orig: 168, 137
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: false
+  xy: 613, 39
+  size: 209, 129
+  orig: 209, 129
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 0, 0
+  size: 277, 168
+  orig: 277, 168
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 277, 28
+  size: 168, 140
+  orig: 168, 140
+  offset: 0, 0
+  index: -1

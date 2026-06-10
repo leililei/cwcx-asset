@@ -1,0 +1,97 @@
+
+lihui_huizhang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1
+  rotate: false
+  xy: 1942, 2745
+  size: 244, 173
+  orig: 244, 173
+  offset: 0, 0
+  index: -1
+angry2
+  rotate: false
+  xy: 2186, 2745
+  size: 244, 173
+  orig: 244, 173
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 812
+  size: 1930, 2725
+  orig: 1930, 2725
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 2759
+  size: 241, 159
+  orig: 241, 159
+  offset: 0, 0
+  index: -1
+daiji2
+  rotate: false
+  xy: 241, 2759
+  size: 241, 159
+  orig: 241, 159
+  offset: 0, 0
+  index: -1
+happy1
+  rotate: false
+  xy: 482, 2756
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+happy2
+  rotate: false
+  xy: 728, 2756
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+nohappy1
+  rotate: false
+  xy: 2430, 2742
+  size: 244, 176
+  orig: 244, 176
+  offset: 0, 0
+  index: -1
+nohappy2
+  rotate: false
+  xy: 2674, 2742
+  size: 244, 176
+  orig: 244, 176
+  offset: 0, 0
+  index: -1
+sad1
+  rotate: false
+  xy: 1456, 2748
+  size: 243, 170
+  orig: 243, 170
+  offset: 0, 0
+  index: -1
+sad2
+  rotate: false
+  xy: 1699, 2748
+  size: 243, 170
+  orig: 243, 170
+  offset: 0, 0
+  index: -1
+shy1
+  rotate: false
+  xy: 974, 2753
+  size: 241, 165
+  orig: 241, 165
+  offset: 0, 0
+  index: -1
+shy2
+  rotate: false
+  xy: 1215, 2753
+  size: 241, 165
+  orig: 241, 165
+  offset: 0, 0
+  index: -1

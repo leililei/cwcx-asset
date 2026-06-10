@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "7pvh6rW0UlDlTpKBr3+tZfyTNFw",
+	"spine": "3.8.99",
+	"x": -1197.09,
+	"y": -822.35,
+	"width": 2345,
+	"height": 1666,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\第三防卫班\\daochu\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\第三防卫班\\daochu"
+},
+"bones": [
+	{ "name": "root", "x": -1277.09, "y": 1210.65 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "amazing", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"amazing": {
+				"amazing": { "x": 1323, "y": -600.5, "width": 150, "height": 121 }
+			},
+			"angry": {
+				"angry": { "x": 1324, "y": -605, "width": 148, "height": 118 }
+			},
+			"body": {
+				"body": { "x": 1252.5, "y": -1200, "width": 2345, "height": 1666 }
+			},
+			"daiji": {
+				"daiji": { "x": 1323, "y": -602, "width": 150, "height": 124 }
+			},
+			"happy": {
+				"happy": { "x": 1321.5, "y": -600.5, "width": 153, "height": 127 }
+			},
+			"sad": {
+				"sad": { "x": 1327, "y": -576.5, "width": 144, "height": 155 }
+			},
+			"shy": {
+				"shy": { "x": 1323, "y": -602, "width": 150, "height": 124 }
+			}
+		}
+	}
+],
+"animations": {
+	"amazing": {
+		"slots": {
+			"amazing": {
+				"attachment": [
+					{ "name": "amazing" }
+				]
+			}
+		}
+	},
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

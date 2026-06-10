@@ -1,0 +1,137 @@
+
+jq_lihui_shiyu_cf.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang1
+  rotate: false
+  xy: 0, 3725
+  size: 347, 221
+  orig: 347, 221
+  offset: 0, 0
+  index: -1
+beishang2
+  rotate: false
+  xy: 347, 3721
+  size: 336, 225
+  orig: 336, 225
+  offset: 0, 0
+  index: -1
+bingjiao
+  rotate: false
+  xy: 2426, 3679
+  size: 395, 267
+  orig: 395, 267
+  offset: 0, 0
+  index: -1
+biyanxiao
+  rotate: false
+  xy: 683, 3721
+  size: 339, 225
+  orig: 339, 225
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 0, 3173
+  size: 548, 1021
+  orig: 548, 1021
+  offset: 0, 0
+  index: -1
+body3
+  rotate: true
+  xy: 0, 1259
+  size: 1082, 3671
+  orig: 1082, 3671
+  offset: 0, 0
+  index: -1
+body4
+  rotate: true
+  xy: 1021, 2341
+  size: 1337, 1967
+  orig: 1337, 1967
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1369, 3700
+  size: 347, 246
+  orig: 347, 246
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1716, 3693
+  size: 363, 253
+  orig: 363, 253
+  offset: 0, 0
+  index: -1
+kirakira
+  rotate: false
+  xy: 2821, 3678
+  size: 384, 268
+  orig: 384, 268
+  offset: 0, 0
+  index: -1
+shengqi1
+  rotate: false
+  xy: 2079, 3689
+  size: 347, 257
+  orig: 347, 257
+  offset: 0, 0
+  index: -1
+shengqi2
+  rotate: false
+  xy: 3205, 3677
+  size: 347, 269
+  orig: 347, 269
+  offset: 0, 0
+  index: -1
+shixue
+  rotate: false
+  xy: 3552, 3644
+  size: 394, 302
+  orig: 394, 302
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1022, 3704
+  size: 347, 242
+  orig: 347, 242
+  offset: 0, 0
+  index: -1
+
+jq_lihui_shiyu_cf2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 423
+  size: 1850, 4092
+  orig: 1850, 4092
+  offset: 0, 0
+  index: -1
+shoujian
+  rotate: true
+  xy: 0, 2273
+  size: 1819, 3057
+  orig: 1819, 3057
+  offset: 0, 0
+  index: -1
+
+jq_lihui_shiyu_cf3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bajian
+  rotate: false
+  xy: 0, 1211
+  size: 3109, 1898
+  orig: 3109, 1898
+  offset: 0, 0
+  index: -1

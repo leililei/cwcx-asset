@@ -1,0 +1,76 @@
+
+jq_lihui_zhenxiusi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan1
+  rotate: false
+  xy: 180, 1842
+  size: 179, 117
+  orig: 179, 117
+  offset: 0, 0
+  index: -1
+biyan2
+  rotate: false
+  xy: 922, 1832
+  size: 180, 127
+  orig: 180, 127
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 88
+  size: 1732, 1959
+  orig: 1732, 1959
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 545, 1835
+  size: 187, 124
+  orig: 187, 124
+  offset: 0, 0
+  index: -1
+jifeng
+  rotate: false
+  xy: 1529, 1820
+  size: 193, 139
+  orig: 193, 139
+  offset: 0, 0
+  index: -1
+kunhuo1
+  rotate: false
+  xy: 1102, 1823
+  size: 195, 136
+  orig: 195, 136
+  offset: 0, 0
+  index: -1
+kunhuo2
+  rotate: false
+  xy: 359, 1838
+  size: 186, 121
+  orig: 186, 121
+  offset: 0, 0
+  index: -1
+mojing
+  rotate: false
+  xy: 1297, 1823
+  size: 232, 136
+  orig: 232, 136
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 0, 1844
+  size: 180, 115
+  orig: 180, 115
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 732, 1835
+  size: 190, 124
+  orig: 190, 124
+  offset: 0, 0
+  index: -1

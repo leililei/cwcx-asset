@@ -1,0 +1,607 @@
+{
+"skeleton": {
+	"hash": "NCqGetrVETHdc3A9Ipaj70Ht6OA",
+	"spine": "3.8.99",
+	"x": -989.42,
+	"y": 7.34,
+	"width": 2050,
+	"height": 1386,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/色欲"
+},
+"bones": [
+	{ "name": "root", "x": -988.42, "y": 1392.34 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jie jie4", "bone": "root", "attachment": "jie jie4" },
+	{ "name": "jie jie3", "bone": "root", "attachment": "jie jie3" },
+	{ "name": "jie jie2", "bone": "root", "attachment": "jie jie2" },
+	{ "name": "jie jie1", "bone": "root", "attachment": "jie jie1" },
+	{ "name": "mei mei4", "bone": "root", "attachment": "mei mei4" },
+	{ "name": "mei mei3", "bone": "root", "attachment": "mei mei3" },
+	{ "name": "mei mei2", "bone": "root", "attachment": "mei mei2" },
+	{ "name": "mei mei1", "bone": "root", "attachment": "mei mei1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1024, "y": -692, "width": 2050, "height": 1386 }
+			},
+			"jie jie1": {
+				"jie jie1": { "x": 936, "y": -397, "width": 184, "height": 190 }
+			},
+			"jie jie2": {
+				"jie jie2": { "x": 929.5, "y": -404.5, "width": 171, "height": 175 }
+			},
+			"jie jie3": {
+				"jie jie3": { "x": 929.5, "y": -404.5, "width": 171, "height": 175 }
+			},
+			"jie jie4": {
+				"jie jie4": { "x": 929.5, "y": -397.5, "width": 171, "height": 159 }
+			},
+			"mei mei1": {
+				"mei mei1": { "x": 1099.5, "y": -365, "width": 231, "height": 198 }
+			},
+			"mei mei2": {
+				"mei mei2": { "x": 1099.5, "y": -365, "width": 231, "height": 198 }
+			},
+			"mei mei3": {
+				"mei mei3": { "x": 1099.5, "y": -365, "width": 231, "height": 198 }
+			},
+			"mei mei4": {
+				"mei mei4": { "x": 1097, "y": -354.5, "width": 224, "height": 179 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {
+		"slots": {
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"2": {
+		"slots": {
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"3": {
+		"slots": {
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"4": {
+		"slots": {
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"5": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"6": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"7": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"8": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"9": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"10": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"11": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"12": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"13": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"14": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"15": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei4": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"16": {
+		"slots": {
+			"jie jie1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jie jie3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"mei mei3": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {}
+}
+}

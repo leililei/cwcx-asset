@@ -1,0 +1,134 @@
+{
+"skeleton": {
+	"hash": "huymRyc79TqX0/6j/+N2je49Vlc",
+	"spine": "3.8.99",
+	"x": -300.21,
+	"y": -1.1,
+	"width": 753,
+	"height": 1199,
+	"images": "C:/Users/wxk/Desktop/jq_lihui_dailiren/temp@not/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\jq_lihui_dailiren\\temp@not"
+},
+"bones": [
+	{ "name": "root", "x": -299.21, "y": 1196.9 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "jiao", "bone": "root" },
+	{ "name": "tuxue", "bone": "root" },
+	{ "name": "dajiao", "bone": "root" },
+	{ "name": "tuxue2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 310.5, "y": -277, "width": 199, "height": 156 }
+			},
+			"body": {
+				"body": { "x": 375.5, "y": -598.5, "width": 753, "height": 1199 }
+			},
+			"daiji": {
+				"daiji": { "x": 307, "y": -278, "width": 214, "height": 154 }
+			},
+			"dajiao": {
+				"dajiao": { "x": 307, "y": -280, "width": 214, "height": 164 }
+			},
+			"jiao": {
+				"jiao": { "x": 307.5, "y": -283, "width": 213, "height": 170 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 307, "y": -277, "width": 214, "height": 156 }
+			},
+			"tuxue": {
+				"tuxue": { "x": 310, "y": -292, "width": 208, "height": 194 }
+			},
+			"tuxue2": {
+				"tuxue2": { "x": 308, "y": -293.5, "width": 204, "height": 191 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 307, "y": -280.5, "width": 214, "height": 157 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"dajiao": {
+		"slots": {
+			"dajiao": {
+				"attachment": [
+					{ "name": "dajiao" }
+				]
+			}
+		}
+	},
+	"jiao": {
+		"slots": {
+			"jiao": {
+				"attachment": [
+					{ "name": "jiao" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"tuxue": {
+		"slots": {
+			"tuxue": {
+				"attachment": [
+					{ "name": "tuxue" }
+				]
+			}
+		}
+	},
+	"tuxue2": {
+		"slots": {
+			"tuxue2": {
+				"attachment": [
+					{ "name": "tuxue2" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

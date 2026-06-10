@@ -1,0 +1,75 @@
+{
+"skeleton": {
+	"hash": "bu/nJCAhKHHYwdU9ZD5I9tGCuHA",
+	"spine": "3.8.99",
+	"x": -497.47,
+	"y": -1365.96,
+	"width": 823,
+	"height": 2683,
+	"images": "C:\\Users\\Plan123\\Desktop\\spine修改\\新建文件夹\\jq_lihui_(new)jufengtujiduiyuanshoushang_0\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\spine修改\\新建文件夹\\jq_lihui_(new)jufengtujiduiyuanshoushang_0"
+},
+"bones": [
+	{ "name": "root", "x": -770.47, "y": 1335.04 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "weixiao2", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 684.5, "y": -1359.5, "width": 823, "height": 2683 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 747, "y": -418.5, "width": 174, "height": 161 }
+			},
+			"weixiao2": {
+				"weixiao2": { "x": 734, "y": -418.5, "width": 128, "height": 161 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"weixiao2": {
+				"attachment": [
+					{ "name": "weixiao2" }
+				]
+			}
+		}
+	}
+}
+}

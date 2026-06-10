@@ -1,0 +1,52 @@
+
+jq_lihui_po_suobeike.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 799
+  size: 1718, 919
+  orig: 1718, 919
+  offset: 0, 0
+  index: -1
+
+jq_lihui_po_suobeike2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 0, 873
+  size: 2027, 1154
+  orig: 2027, 1154
+  offset: 0, 0
+  index: -1
+
+jq_lihui_po_suobeike3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji1
+  rotate: false
+  xy: 0, 873
+  size: 2027, 1154
+  orig: 2027, 1154
+  offset: 0, 0
+  index: -1
+
+jq_lihui_po_suobeike4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji2
+  rotate: false
+  xy: 0, 873
+  size: 2027, 1154
+  orig: 2027, 1154
+  offset: 0, 0
+  index: -1

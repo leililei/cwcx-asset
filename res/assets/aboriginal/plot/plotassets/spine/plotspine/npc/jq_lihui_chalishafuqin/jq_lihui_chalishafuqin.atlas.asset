@@ -1,0 +1,62 @@
+
+jq_lihui_chalishafuqin.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 741
+  size: 1029, 3318
+  orig: 1029, 3318
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 462, 193
+  size: 274, 223
+  orig: 274, 223
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: false
+  xy: 462, 0
+  size: 266, 193
+  orig: 266, 193
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 228, 16
+  size: 274, 234
+  orig: 274, 234
+  offset: 0, 0
+  index: -1
+sisuo
+  rotate: true
+  xy: 0, 14
+  size: 276, 228
+  orig: 276, 228
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 588, 471
+  size: 270, 196
+  orig: 270, 196
+  offset: 0, 0
+  index: -1
+xianqi1
+  rotate: true
+  xy: 354, 467
+  size: 274, 234
+  orig: 274, 234
+  offset: 0, 0
+  index: -1
+xianqi2
+  rotate: true
+  xy: 0, 290
+  size: 451, 354
+  orig: 451, 354
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jq_lihui_yishabera.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 3002, 2838
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1114
+  size: 3002, 2002
+  orig: 3002, 2002
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 3002, 2563
+  size: 141, 95
+  orig: 141, 95
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 3002, 2704
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+high
+  rotate: true
+  xy: 3002, 2972
+  size: 144, 114
+  orig: 144, 114
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 3002, 2288
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+shy
+  rotate: true
+  xy: 3002, 2422
+  size: 141, 95
+  orig: 141, 95
+  offset: 0, 0
+  index: -1

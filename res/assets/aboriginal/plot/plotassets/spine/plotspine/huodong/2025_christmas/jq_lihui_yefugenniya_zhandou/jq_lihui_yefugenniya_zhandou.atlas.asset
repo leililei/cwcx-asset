@@ -1,0 +1,76 @@
+
+jq_lihui_yefugenniya_zhandou.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 2550, 1249
+  size: 252, 177
+  orig: 252, 177
+  offset: 0, 0
+  index: -1
+biyanx
+  rotate: false
+  xy: 2568, 1617
+  size: 254, 191
+  orig: 254, 191
+  offset: 0, 0
+  index: -1
+changt
+  rotate: true
+  xy: 2605, 1000
+  size: 247, 176
+  orig: 247, 176
+  offset: 0, 0
+  index: -1
+haix
+  rotate: true
+  xy: 2352, 1245
+  size: 296, 196
+  orig: 296, 196
+  offset: 0, 0
+  index: -1
+hlyyw
+  rotate: false
+  xy: 2352, 1810
+  size: 1442, 1984
+  orig: 1442, 1984
+  offset: 0, 0
+  index: -1
+shengq
+  rotate: true
+  xy: 2352, 1543
+  size: 265, 214
+  orig: 265, 214
+  offset: 0, 0
+  index: -1
+sik
+  rotate: true
+  xy: 2352, 804
+  size: 245, 176
+  orig: 245, 176
+  offset: 0, 0
+  index: -1
+wq1
+  rotate: false
+  xy: 2, 406
+  size: 2348, 3388
+  orig: 2348, 3388
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 2352, 1051
+  size: 251, 192
+  orig: 251, 192
+  offset: 0, 0
+  index: -1
+yans
+  rotate: false
+  xy: 2568, 1428
+  size: 253, 187
+  orig: 253, 187
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jq_lihui_nanna.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 0, 358
+  size: 1287, 2050
+  orig: 1287, 2050
+  offset: 0, 0
+  index: -1
+deyi
+  rotate: false
+  xy: 369, 0
+  size: 367, 358
+  orig: 367, 358
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 736, 0
+  size: 367, 358
+  orig: 367, 358
+  offset: 0, 0
+  index: -1
+huaixiao
+  rotate: false
+  xy: 0, 0
+  size: 369, 358
+  orig: 369, 358
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1103, 0
+  size: 367, 358
+  orig: 367, 358
+  offset: 0, 0
+  index: -1
+tanqi
+  rotate: false
+  xy: 1287, 2070
+  size: 344, 338
+  orig: 344, 338
+  offset: 0, 0
+  index: -1

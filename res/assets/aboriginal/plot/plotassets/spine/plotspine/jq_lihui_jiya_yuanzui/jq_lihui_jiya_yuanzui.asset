@@ -1,0 +1,122 @@
+{
+"skeleton": {
+	"hash": "F9EKy3g5hWEkFkQnLzqSrtfBb/A",
+	"spine": "3.8.99",
+	"x": -527.52,
+	"y": -2.24,
+	"width": 1220,
+	"height": 1209,
+	"images": "./images/",
+	"audio": "C:/Users/110/Desktop/新建文件夹 (3)"
+},
+"bones": [
+	{ "name": "root", "x": -52.33, "y": -3.69 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "sheng qi", "bone": "root", "attachment": "sheng qi" },
+	{ "name": "wei xiao", "bone": "root", "attachment": "wei xiao" },
+	{ "name": "bi yan", "bone": "root", "attachment": "bi yan" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bi yan": {
+				"bi yan": { "x": 79.8, "y": 772.96, "width": 162, "height": 147 }
+			},
+			"body": {
+				"body": { "x": 134.8, "y": 605.96, "width": 1220, "height": 1209 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 74.3, "y": 771.46, "width": 163, "height": 148 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 74.3, "y": 773.46, "width": 163, "height": 146 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 74.3, "y": 772.96, "width": 163, "height": 147 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"bi yan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

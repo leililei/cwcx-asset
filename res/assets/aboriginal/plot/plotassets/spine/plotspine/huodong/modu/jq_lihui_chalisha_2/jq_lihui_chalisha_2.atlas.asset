@@ -1,0 +1,41 @@
+
+jq_lihui_chalisha_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 691
+  size: 1263, 1242
+  orig: 1263, 1242
+  offset: 0, 0
+  index: -1
+cheng mo
+  rotate: false
+  xy: 1263, 1756
+  size: 670, 177
+  orig: 670, 177
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 1263, 1596
+  size: 670, 160
+  orig: 670, 160
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1263, 1200
+  size: 296, 238
+  orig: 296, 238
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 1263, 1438
+  size: 670, 158
+  orig: 670, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+{
+"skeleton": {
+	"hash": "z1HJ6G7wEwrGLXIAuUSJsKrASyo",
+	"spine": "3.8.99",
+	"x": -673.89,
+	"y": -5.17,
+	"width": 1380,
+	"height": 1660,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/弗兰卡战损"
+},
+"bones": [
+	{ "name": "root", "x": -696.89, "y": 1653.83 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 713, "y": -829, "width": 1380, "height": 1660 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {}
+}
+}

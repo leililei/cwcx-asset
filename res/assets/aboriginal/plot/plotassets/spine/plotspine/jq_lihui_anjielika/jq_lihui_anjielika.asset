@@ -1,0 +1,166 @@
+{
+"skeleton": {
+	"hash": "CBXmrdYgC+fkVXNQK83J/gL/XfQ",
+	"spine": "3.8.99",
+	"x": -477.36,
+	"y": 1.36,
+	"width": 1358,
+	"height": 1129,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/第三防卫班-安洁莉卡"
+},
+"bones": [
+	{ "name": "root", "x": -476.36, "y": 1129.36 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "yan su", "bone": "root" },
+	{ "name": "wei xiao", "bone": "root" },
+	{ "name": "wei xiao2", "bone": "root" },
+	{ "name": "bei shang", "bone": "root" },
+	{ "name": "xin wei", "bone": "root" },
+	{ "name": "ku xiao", "bone": "root" },
+	{ "name": "ku qi", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 482.5, "y": -246.5, "width": 209, "height": 159 }
+			},
+			"body": {
+				"body": { "x": 678, "y": -563.5, "width": 1358, "height": 1129 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 482.5, "y": -254, "width": 209, "height": 150 }
+			},
+			"ku qi": {
+				"ku qi": { "x": 482.5, "y": -271.5, "width": 209, "height": 191 }
+			},
+			"ku xiao": {
+				"ku xiao": { "x": 482.5, "y": -248, "width": 209, "height": 162 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 482.5, "y": -255.5, "width": 209, "height": 157 }
+			},
+			"wei xiao2": {
+				"wei xiao2": { "x": 481, "y": -251.5, "width": 248, "height": 155 }
+			},
+			"xin wei": {
+				"xin wei": { "x": 481.5, "y": -254, "width": 193, "height": 150 }
+			},
+			"yan su": {
+				"yan su": { "x": 482.5, "y": -252.5, "width": 209, "height": 145 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"kuqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku qi": {
+				"attachment": [
+					{ "name": "ku qi" }
+				]
+			}
+		}
+	},
+	"kuxiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"ku xiao": {
+				"attachment": [
+					{ "name": "ku xiao" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": "wei xiao2" }
+				]
+			}
+		}
+	},
+	"xinwei": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xin wei": {
+				"attachment": [
+					{ "name": "xin wei" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": "yan su" }
+				]
+			}
+		}
+	}
+}
+}

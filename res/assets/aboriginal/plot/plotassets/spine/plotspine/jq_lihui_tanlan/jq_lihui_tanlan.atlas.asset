@@ -1,0 +1,41 @@
+
+jq_lihui_tanlan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 337
+  size: 2030, 1514
+  orig: 2030, 1514
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 0, 1878
+  size: 263, 152
+  orig: 263, 152
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 792, 1851
+  size: 263, 179
+  orig: 263, 179
+  offset: 0, 0
+  index: -1
+shi wang
+  rotate: false
+  xy: 263, 1865
+  size: 266, 165
+  orig: 266, 165
+  offset: 0, 0
+  index: -1
+yu kuai
+  rotate: false
+  xy: 529, 1857
+  size: 263, 173
+  orig: 263, 173
+  offset: 0, 0
+  index: -1

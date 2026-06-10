@@ -1,0 +1,112 @@
+{
+"skeleton": {
+	"hash": "GzGt5M2nU/6VNy6sZY7tADALKbE",
+	"spine": "3.8.99",
+	"x": -457.15,
+	"y": -1391.22,
+	"width": 1277,
+	"height": 2761,
+	"images": "G:\\魔都精兵活动spine处理\\PSD源文件\\ning\\images",
+	"audio": "G:\\魔都精兵活动spine处理\\PSD源文件\\ning"
+},
+"bones": [
+	{ "name": "root", "x": -1069.15, "y": 1680.78 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "ganga", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "body2", "bone": "root", "attachment": "body2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1073, "y": -572.5, "width": 384, "height": 339 }
+			},
+			"body": {
+				"body": { "x": 1250.5, "y": -1705.5, "width": 1277, "height": 2733 }
+			},
+			"body2": {
+				"body2": { "x": 1064.5, "y": -773.5, "width": 787, "height": 925 }
+			},
+			"daiji": {
+				"daiji": { "x": 1073, "y": -649, "width": 384, "height": 232 }
+			},
+			"ganga": {
+				"ganga": { "x": 1073, "y": -639, "width": 384, "height": 206 }
+			},
+			"jingya": {
+				"jingya": { "x": 1073, "y": -637.5, "width": 384, "height": 209 }
+			},
+			"sad": {
+				"sad": { "x": 1073.5, "y": -640.5, "width": 383, "height": 203 }
+			},
+			"shy": {
+				"shy": { "x": 1073.5, "y": -634.5, "width": 383, "height": 215 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"ganga": {
+		"slots": {
+			"ganga": {
+				"attachment": [
+					{ "name": "ganga" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	}
+}
+}

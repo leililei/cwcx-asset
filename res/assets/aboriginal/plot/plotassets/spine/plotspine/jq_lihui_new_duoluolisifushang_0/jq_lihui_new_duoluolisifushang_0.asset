@@ -1,0 +1,120 @@
+{
+"skeleton": {
+	"hash": "NGPF2WvDyIox9b0ba19M4Au5OSE",
+	"spine": "3.8.99",
+	"x": -455.54,
+	"y": -1057.23,
+	"width": 972,
+	"height": 1935,
+	"images": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）duoluolisifushang_0\\temp@not\\images",
+	"audio": "C:\\Users\\GUNDAM\\Desktop\\spine（3.899）\\jq_lihui_（new）duoluolisifushang_0\\temp@not"
+},
+"bones": [
+	{ "name": "root", "x": -520.54, "y": 946.77 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "shishen", "bone": "root" },
+	{ "name": "tongku", "bone": "root" },
+	{ "name": "tongku2", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "beishang", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 462, "y": -360.5, "width": 198, "height": 147 }
+			},
+			"body": {
+				"body": { "x": 551, "y": -1036.5, "width": 972, "height": 1935 }
+			},
+			"daiji": {
+				"daiji": { "x": 460.5, "y": -363.5, "width": 201, "height": 143 }
+			},
+			"shishen": {
+				"shishen": { "x": 461.5, "y": -364, "width": 199, "height": 138 }
+			},
+			"tongku": {
+				"tongku": { "x": 470, "y": -360.5, "width": 196, "height": 145 }
+			},
+			"tongku2": {
+				"tongku2": { "x": 470, "y": -360.5, "width": 196, "height": 145 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"shishen": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shishen": {
+				"attachment": [
+					{ "name": "shishen" }
+				]
+			}
+		}
+	},
+	"tongku": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"tongku": {
+				"attachment": [
+					{ "name": "tongku" }
+				]
+			}
+		}
+	},
+	"tongku2": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"tongku2": {
+				"attachment": [
+					{ "name": "tongku2" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,65 @@
+{
+"skeleton": {
+	"hash": "lmf7duovd6AXhrcyhByL8Q/6ytg",
+	"spine": "3.8.99",
+	"x": -833.38,
+	"y": -0.32,
+	"width": 1922,
+	"height": 1371,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/朱利乌斯拔刀"
+},
+"bones": [
+	{ "name": "root", "x": -832.38, "y": 1370.68 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "bi zui", "bone": "root", "attachment": "bi zui" },
+	{ "name": "zhang zui", "bone": "root", "attachment": "zhang zui" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bi zui": {
+				"bi zui": { "x": 1388, "y": -513, "width": 44, "height": 48 }
+			},
+			"body": {
+				"body": { "x": 960, "y": -685.5, "width": 1922, "height": 1371 }
+			},
+			"zhang zui": {
+				"zhang zui": { "x": 1388, "y": -512, "width": 42, "height": 52 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {
+		"slots": {
+			"zhang zui": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"2": {
+		"slots": {
+			"bi zui": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"zhang zui": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

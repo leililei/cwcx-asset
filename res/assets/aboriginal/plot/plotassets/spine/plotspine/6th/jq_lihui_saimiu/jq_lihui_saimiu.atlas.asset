@@ -1,0 +1,125 @@
+
+jq_lihui_saimiu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 2711, 3832
+  size: 341, 248
+  orig: 341, 248
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 0, 3860
+  size: 340, 220
+  orig: 340, 220
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1356
+  size: 1768, 3872
+  orig: 1768, 3872
+  offset: 0, 0
+  index: -1
+buman
+  rotate: false
+  xy: 723, 3543
+  size: 388, 307
+  orig: 388, 307
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1022, 3850
+  size: 341, 230
+  orig: 341, 230
+  offset: 0, 0
+  index: -1
+gaoxiao
+  rotate: false
+  xy: 2045, 3844
+  size: 325, 236
+  orig: 325, 236
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 3393, 3826
+  size: 355, 254
+  orig: 355, 254
+  offset: 0, 0
+  index: -1
+heihua
+  rotate: false
+  xy: 340, 3852
+  size: 341, 228
+  orig: 341, 228
+  offset: 0, 0
+  index: -1
+jiujie
+  rotate: false
+  xy: 2370, 3843
+  size: 341, 237
+  orig: 341, 237
+  offset: 0, 0
+  index: -1
+ku
+  rotate: false
+  xy: 3748, 3822
+  size: 332, 258
+  orig: 332, 258
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 0, 3600
+  size: 334, 260
+  orig: 334, 260
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 1111, 3124
+  size: 722, 896
+  orig: 722, 896
+  offset: 0, 0
+  index: -1
+wink
+  rotate: false
+  xy: 1363, 3846
+  size: 341, 234
+  orig: 341, 234
+  offset: 0, 0
+  index: -1
+wubiaoqing
+  rotate: false
+  xy: 681, 3852
+  size: 341, 228
+  orig: 341, 228
+  offset: 0, 0
+  index: -1
+wuyu
+  rotate: false
+  xy: 3052, 3831
+  size: 341, 249
+  orig: 341, 249
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1704, 3846
+  size: 341, 234
+  orig: 341, 234
+  offset: 0, 0
+  index: -1
+zhenjing
+  rotate: false
+  xy: 334, 3560
+  size: 389, 292
+  orig: 389, 292
+  offset: 0, 0
+  index: -1

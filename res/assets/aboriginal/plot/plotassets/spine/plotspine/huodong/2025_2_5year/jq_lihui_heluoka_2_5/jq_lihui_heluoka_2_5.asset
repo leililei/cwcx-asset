@@ -1,0 +1,277 @@
+{
+"skeleton": {
+	"hash": "+cmssmo9xL7TR5QacLp22k0FDbI",
+	"spine": "3.8.99",
+	"x": -1013,
+	"y": -1368,
+	"width": 1899,
+	"height": 2878,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\heluoka\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\heluoka"
+},
+"bones": [
+	{ "name": "root", "x": -1212, "y": 1920 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "badsmile", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "wink", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "haqi", "bone": "root" },
+	{ "name": "rennai", "bone": "root" },
+	{ "name": "body2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1285.5, "y": -895, "width": 313, "height": 342 }
+			},
+			"badsmile": {
+				"badsmile": { "x": 1289, "y": -956, "width": 306, "height": 220 }
+			},
+			"body": {
+				"body": { "x": 1148.5, "y": -1849, "width": 1899, "height": 2878 }
+			},
+			"body2": {
+				"body2": { "x": 1299, "y": -1506, "width": 780, "height": 1166 }
+			},
+			"daiji": {
+				"daiji": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			},
+			"haqi": {
+				"haqi": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			},
+			"jingya": {
+				"jingya": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			},
+			"rennai": {
+				"rennai": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			},
+			"sad": {
+				"sad": { "x": 1290, "y": -958.5, "width": 304, "height": 215 }
+			},
+			"smile": {
+				"smile": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			},
+			"wink": {
+				"wink": { "x": 1285.5, "y": -946, "width": 313, "height": 240 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"angry2": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"badsmile": {
+		"slots": {
+			"badsmile": {
+				"attachment": [
+					{ "name": "badsmile" }
+				]
+			}
+		}
+	},
+	"badsmile2": {
+		"slots": {
+			"badsmile": {
+				"attachment": [
+					{ "name": "badsmile" }
+				]
+			},
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"haqi": {
+		"slots": {
+			"haqi": {
+				"attachment": [
+					{ "name": "haqi" }
+				]
+			}
+		}
+	},
+	"haqi2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"haqi": {
+				"attachment": [
+					{ "name": "haqi" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"jingya2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"rennai": {
+		"slots": {
+			"rennai": {
+				"attachment": [
+					{ "name": "rennai" }
+				]
+			}
+		}
+	},
+	"rennai2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"rennai": {
+				"attachment": [
+					{ "name": "rennai" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"sad2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"smile2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	},
+	"wink": {
+		"slots": {
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	},
+	"wink2": {
+		"slots": {
+			"body2": {
+				"attachment": [
+					{ "name": "body2" }
+				]
+			},
+			"wink": {
+				"attachment": [
+					{ "name": "wink" }
+				]
+			}
+		}
+	}
+}
+}

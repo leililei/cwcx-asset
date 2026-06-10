@@ -1,0 +1,41 @@
+
+jq_lihui_aodesai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 0, 1804
+  size: 123, 163
+  orig: 125, 165
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 222
+  size: 1580, 1927
+  orig: 1582, 1929
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 163, 1804
+  size: 123, 158
+  orig: 125, 160
+  offset: 1, 1
+  index: -1
+smile
+  rotate: true
+  xy: 321, 1803
+  size: 124, 179
+  orig: 126, 181
+  offset: 1, 1
+  index: -1
+yansu
+  rotate: true
+  xy: 500, 1802
+  size: 125, 165
+  orig: 127, 167
+  offset: 1, 1
+  index: -1

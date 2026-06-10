@@ -1,0 +1,156 @@
+{
+"skeleton": {
+	"hash": "NS+Sim3rBH0GfEB6fayHWRVktJ4",
+	"spine": "3.8.99",
+	"x": -941.02,
+	"y": -1387.75,
+	"width": 2109,
+	"height": 2420,
+	"images": "D:\\工作文件\\演出\\冬活\\特薇尔达-日常\\images",
+	"audio": "D:\\工作文件\\演出\\冬活\\特薇尔达-日常"
+},
+"bones": [
+	{ "name": "root", "x": -1678.02, "y": 1246.25 }
+],
+"slots": [
+	{ "name": "yanjing yy", "bone": "root", "attachment": "yanjing yy" },
+	{ "name": "mor  bq1", "bone": "root" },
+	{ "name": "xiao  bq2", "bone": "root" },
+	{ "name": "bunai  bq3", "bone": "root" },
+	{ "name": "shengqi  bq4", "bone": "root" },
+	{ "name": "yansu  bq5", "bone": "root" },
+	{ "name": "dengyan  bq6", "bone": "root" },
+	{ "name": "xbzy  bq7", "bone": "root" },
+	{ "name": "xiaxiao  bq8", "bone": "root" },
+	{ "name": "fs1", "bone": "root", "attachment": "fs1" },
+	{ "name": "xiaxiao1fenn", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bunai  bq3": {
+				"bunai  bq3": { "x": 1630, "y": -511, "width": 202, "height": 152 }
+			},
+			"dengyan  bq6": {
+				"dengyan  bq6": { "x": 1630, "y": -512.5, "width": 202, "height": 157 }
+			},
+			"fs1": {
+				"fs1": { "x": 1882.5, "y": -568, "width": 833, "height": 708 }
+			},
+			"mor  bq1": {
+				"mor  bq1": { "x": 1630, "y": -513.5, "width": 202, "height": 159 }
+			},
+			"shengqi  bq4": {
+				"shengqi  bq4": { "x": 1629.5, "y": -511.5, "width": 201, "height": 163 }
+			},
+			"xbzy  bq7": {
+				"xbzy  bq7": { "x": 1630.5, "y": -515, "width": 203, "height": 156 }
+			},
+			"xiao  bq2": {
+				"xiao  bq2": { "x": 1630, "y": -511.5, "width": 202, "height": 155 }
+			},
+			"xiaxiao1fenn": {
+				"xiaxiao1fenn": { "x": 1563.5, "y": -362, "width": 49, "height": 46 }
+			},
+			"xiaxiao  bq8": {
+				"xiaxiao  bq8": { "x": 1632, "y": -511, "width": 198, "height": 152 }
+			},
+			"yanjing yy": {
+				"yanjing yy": { "x": 1791.5, "y": -1445.5, "width": 2109, "height": 2377 }
+			},
+			"yansu  bq5": {
+				"yansu  bq5": { "x": 1629.5, "y": -511.5, "width": 201, "height": 163 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"mor  bq1": {
+				"attachment": [
+					{ "name": "mor  bq1" }
+				]
+			}
+		}
+	},
+	"dengyan": {
+		"slots": {
+			"dengyan  bq6": {
+				"attachment": [
+					{ "name": "dengyan  bq6" }
+				]
+			}
+		}
+	},
+	"jiaxiao": {
+		"slots": {
+			"xiaxiao  bq8": {
+				"attachment": [
+					{ "name": "xiaxiao  bq8" }
+				]
+			}
+		}
+	},
+	"jiaxiaonu": {
+		"slots": {
+			"xiaxiao1fenn": {
+				"attachment": [
+					{ "name": "xiaxiao1fenn" }
+				]
+			},
+			"xiaxiao  bq8": {
+				"attachment": [
+					{ "name": "xiaxiao  bq8" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi  bq4": {
+				"attachment": [
+					{ "name": "shengqi  bq4" }
+				]
+			}
+		}
+	},
+	"wunai": {
+		"slots": {
+			"bunai  bq3": {
+				"attachment": [
+					{ "name": "bunai  bq3" }
+				]
+			}
+		}
+	},
+	"xiao": {
+		"slots": {
+			"xiao  bq2": {
+				"attachment": [
+					{ "name": "xiao  bq2" }
+				]
+			}
+		}
+	},
+	"xingbuzaiyan": {
+		"slots": {
+			"xbzy  bq7": {
+				"attachment": [
+					{ "name": "xbzy  bq7" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu  bq5": {
+				"attachment": [
+					{ "name": "yansu  bq5" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,55 @@
+
+jq_lihui_luodeniya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amazing
+  rotate: true
+  xy: 2343, 1737
+  size: 148, 119
+  orig: 150, 121
+  offset: 1, 1
+  index: -1
+angry
+  rotate: true
+  xy: 2343, 1591
+  size: 146, 116
+  orig: 148, 118
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 821
+  size: 2343, 1664
+  orig: 2345, 1666
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 2343, 2033
+  size: 148, 122
+  orig: 150, 124
+  offset: 1, 1
+  index: -1
+happy
+  rotate: true
+  xy: 2343, 2181
+  size: 151, 125
+  orig: 153, 127
+  offset: 1, 1
+  index: -1
+sad
+  rotate: false
+  xy: 2343, 2332
+  size: 142, 153
+  orig: 144, 155
+  offset: 1, 1
+  index: -1
+shy
+  rotate: true
+  xy: 2343, 1885
+  size: 148, 122
+  orig: 150, 124
+  offset: 1, 1
+  index: -1

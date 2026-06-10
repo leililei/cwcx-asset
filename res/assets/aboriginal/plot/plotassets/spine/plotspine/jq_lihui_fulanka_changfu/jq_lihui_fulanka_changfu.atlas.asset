@@ -1,0 +1,90 @@
+
+jq_lihui_fulanka_changfu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 351, 478
+  size: 199, 136
+  orig: 199, 136
+  offset: 0, 0
+  index: -1
+bei shang2
+  rotate: true
+  xy: 298, 614
+  size: 204, 137
+  orig: 204, 137
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 818
+  size: 705, 1165
+  orig: 705, 1165
+  offset: 0, 0
+  index: -1
+chi jing
+  rotate: true
+  xy: 0, 407
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 142, 206
+  size: 201, 144
+  orig: 201, 144
+  offset: 0, 0
+  index: -1
+hai xiu
+  rotate: true
+  xy: 286, 244
+  size: 221, 124
+  orig: 221, 124
+  offset: 0, 0
+  index: -1
+kun huo
+  rotate: false
+  xy: 150, 465
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1
+mian qiang
+  rotate: true
+  xy: 151, 7
+  size: 199, 138
+  orig: 199, 138
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: true
+  xy: 0, 196
+  size: 211, 142
+  orig: 211, 142
+  offset: 0, 0
+  index: -1
+sheng qi2
+  rotate: true
+  xy: 0, 607
+  size: 211, 154
+  orig: 211, 154
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: true
+  xy: 154, 622
+  size: 196, 144
+  orig: 196, 144
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: true
+  xy: 0, 0
+  size: 196, 151
+  orig: 196, 151
+  offset: 0, 0
+  index: -1

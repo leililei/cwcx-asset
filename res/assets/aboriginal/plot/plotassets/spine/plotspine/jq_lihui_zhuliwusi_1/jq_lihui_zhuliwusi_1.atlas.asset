@@ -1,0 +1,27 @@
+
+jq_lihui_zhuliwusi_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi zui
+  rotate: false
+  xy: 1922, 1918
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 595
+  size: 1922, 1371
+  orig: 1922, 1371
+  offset: 0, 0
+  index: -1
+zhang zui
+  rotate: false
+  xy: 1922, 1866
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1

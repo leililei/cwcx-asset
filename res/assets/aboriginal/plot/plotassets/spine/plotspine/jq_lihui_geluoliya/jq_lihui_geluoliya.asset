@@ -1,0 +1,82 @@
+{
+"skeleton": {
+	"hash": "Q+IKvhi5gubIH8nhcX25t3mYX94",
+	"spine": "3.8.99",
+	"x": -1035.27,
+	"y": -1171.22,
+	"width": 2050,
+	"height": 2048,
+	"images": "C:\\Users\\Plan123\\Desktop\\geluoliya\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\geluoliya"
+},
+"bones": [
+	{ "name": "root", "x": -1034.27, "y": 877.78 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "smile", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "shy", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 979.5, "y": -237.5, "width": 155, "height": 135 }
+			},
+			"body": {
+				"body": { "x": 1024, "y": -1025, "width": 2050, "height": 2048 }
+			},
+			"daiji": {
+				"daiji": { "x": 981.5, "y": -241.5, "width": 151, "height": 127 }
+			},
+			"shy": {
+				"shy": { "x": 980, "y": -242.5, "width": 154, "height": 125 }
+			},
+			"smile": {
+				"smile": { "x": 981.5, "y": -242, "width": 151, "height": 128 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"smile": {
+		"slots": {
+			"smile": {
+				"attachment": [
+					{ "name": "smile" }
+				]
+			}
+		}
+	}
+}
+}

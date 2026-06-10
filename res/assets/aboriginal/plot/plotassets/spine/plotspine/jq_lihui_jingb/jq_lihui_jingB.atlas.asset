@@ -1,0 +1,62 @@
+
+jq_lihui_jingB.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 818
+  size: 910, 1960
+  orig: 912, 1962
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 245, 1780
+  size: 232, 180
+  orig: 234, 182
+  offset: 1, 1
+  index: -1
+ganga
+  rotate: true
+  xy: 913, 1728
+  size: 232, 251
+  orig: 234, 253
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 0, 1847
+  size: 245, 113
+  orig: 247, 115
+  offset: 1, 1
+  index: -1
+joke
+  rotate: false
+  xy: 695, 1768
+  size: 218, 192
+  orig: 220, 194
+  offset: 1, 1
+  index: -1
+smile
+  rotate: true
+  xy: 1164, 1728
+  size: 232, 248
+  orig: 234, 250
+  offset: 1, 1
+  index: -1
+surprise
+  rotate: true
+  xy: 1412, 1728
+  size: 232, 258
+  orig: 234, 260
+  offset: 1, 1
+  index: -1
+wink
+  rotate: false
+  xy: 477, 1780
+  size: 218, 180
+  orig: 220, 182
+  offset: 1, 1
+  index: -1

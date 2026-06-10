@@ -1,0 +1,76 @@
+
+jq_lihui_qianqiu1.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 1030, 2137
+  size: 261, 149
+  orig: 261, 149
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 1291, 2136
+  size: 234, 150
+  orig: 234, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 225
+  size: 1873, 2050
+  orig: 1873, 2050
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 256, 2143
+  size: 256, 143
+  orig: 256, 143
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1525, 2122
+  size: 267, 164
+  orig: 267, 164
+  offset: 0, 0
+  index: -1
+jixiao
+  rotate: false
+  xy: 2025, 2098
+  size: 261, 188
+  orig: 261, 188
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1792, 2105
+  size: 233, 181
+  orig: 233, 181
+  offset: 0, 0
+  index: -1
+lenku
+  rotate: false
+  xy: 512, 2142
+  size: 257, 144
+  orig: 257, 144
+  offset: 0, 0
+  index: -1
+lenmo
+  rotate: false
+  xy: 0, 2147
+  size: 256, 139
+  orig: 256, 139
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 769, 2138
+  size: 261, 148
+  orig: 261, 148
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,143 @@
+{
+"skeleton": {
+	"hash": "umS+Sr7uOIiD+IBnuBOH0Z3Xd0A",
+	"spine": "3.8.99",
+	"x": -2434.51,
+	"y": -2622.61,
+	"width": 4520,
+	"height": 4742,
+	"images": "F:\\art\\原画\\立绘\\完成稿\\平心社\\朝雾\\images",
+	"audio": "F:\\art\\原画\\立绘\\完成稿\\平心社\\朝雾"
+},
+"bones": [
+	{ "name": "root", "x": -2728.51, "y": 2136.39 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "kun", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "xiao", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "sad", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 2769, "y": -1075.5, "width": 324, "height": 309 }
+			},
+			"biyan": {
+				"biyan": { "x": 2767, "y": -1110.5, "width": 292, "height": 235 }
+			},
+			"body": {
+				"body": { "x": 2554, "y": -2388, "width": 4520, "height": 4742 }
+			},
+			"daiji": {
+				"daiji": { "x": 2776, "y": -1074.5, "width": 310, "height": 307 }
+			},
+			"kun": {
+				"kun": { "x": 2776, "y": -1077, "width": 310, "height": 312 }
+			},
+			"sad": {
+				"sad": { "x": 2777, "y": -1072, "width": 312, "height": 302 }
+			},
+			"shy": {
+				"shy": { "x": 2777, "y": -1071.5, "width": 312, "height": 301 }
+			},
+			"xiao": {
+				"xiao": { "x": 2776, "y": -1073.5, "width": 310, "height": 305 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"kun": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"kun": {
+				"attachment": [
+					{ "name": "kun" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"xaio": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"xiao": {
+				"attachment": [
+					{ "name": "xiao" }
+				]
+			}
+		}
+	}
+}
+}

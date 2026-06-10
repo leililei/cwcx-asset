@@ -1,0 +1,55 @@
+
+jq_lihui_new_yingcao.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 169
+  size: 2702, 3021
+  orig: 2702, 3021
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 0
+  size: 225, 169
+  orig: 225, 169
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: false
+  xy: 1110, 15
+  size: 225, 154
+  orig: 225, 154
+  offset: 0, 0
+  index: -1
+nanguo
+  rotate: false
+  xy: 885, 14
+  size: 225, 155
+  orig: 225, 155
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 225, 2
+  size: 217, 167
+  orig: 217, 167
+  offset: 0, 0
+  index: -1
+tiaodou
+  rotate: false
+  xy: 667, 9
+  size: 218, 160
+  orig: 218, 160
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 442, 9
+  size: 225, 160
+  orig: 225, 160
+  offset: 0, 0
+  index: -1

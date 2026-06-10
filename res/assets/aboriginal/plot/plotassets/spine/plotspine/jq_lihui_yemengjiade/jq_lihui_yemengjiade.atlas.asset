@@ -1,0 +1,46 @@
+
+jq_lihui_yemengjiade.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 0, 1282
+  size: 890, 760
+  orig: 890, 760
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 890, 1039
+  size: 1003, 1152
+  orig: 1003, 1152
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yemengjiade2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: false
+  xy: 0, 65
+  size: 1114, 1049
+  orig: 1114, 1049
+  offset: 0, 0
+  index: -1
+
+jq_lihui_yemengjiade3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 766
+  size: 2048, 1282
+  orig: 2048, 1282
+  offset: 0, 0
+  index: -1

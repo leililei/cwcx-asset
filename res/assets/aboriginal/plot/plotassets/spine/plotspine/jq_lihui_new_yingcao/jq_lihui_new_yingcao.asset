@@ -1,0 +1,108 @@
+{
+"skeleton": {
+	"hash": "fAifTwCGJZDr4qhcFjjvCBblVMM",
+	"spine": "3.8.99",
+	"x": -1449.43,
+	"y": -1109.67,
+	"width": 2702,
+	"height": 3021,
+	"images": "C:\\Users\\tingzhou\\Desktop\\PlotSpine\\images",
+	"audio": "C:\\Users\\tingzhou\\Desktop\\PlotSpine"
+},
+"bones": [
+	{ "name": "root", "x": -1448.43, "y": 1910.33 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "tiaodou", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "kaixin", "bone": "root" },
+	{ "name": "nanguo", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1350, "y": -1509.5, "width": 2702, "height": 3021 }
+			},
+			"daiji": {
+				"daiji": { "x": 1414.5, "y": -945.5, "width": 225, "height": 169 }
+			},
+			"kaixin": {
+				"kaixin": { "x": 1414.5, "y": -953, "width": 225, "height": 154 }
+			},
+			"nanguo": {
+				"nanguo": { "x": 1414.5, "y": -953.5, "width": 225, "height": 155 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1412.5, "y": -940.5, "width": 217, "height": 167 }
+			},
+			"tiaodou": {
+				"tiaodou": { "x": 1412, "y": -937, "width": 218, "height": 160 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1414.5, "y": -951, "width": 225, "height": 160 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"kaixin": {
+		"slots": {
+			"kaixin": {
+				"attachment": [
+					{ "name": "kaixin" }
+				]
+			}
+		}
+	},
+	"nanguo": {
+		"slots": {
+			"nanguo": {
+				"attachment": [
+					{ "name": "nanguo" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"tiaodou": {
+		"slots": {
+			"tiaodou": {
+				"attachment": [
+					{ "name": "tiaodou" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

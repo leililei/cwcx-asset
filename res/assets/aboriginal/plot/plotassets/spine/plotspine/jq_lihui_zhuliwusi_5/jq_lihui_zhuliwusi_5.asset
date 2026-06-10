@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "zzB7N2maE7pWNyIRfkUKLFbHdLk",
+	"spine": "3.8.99",
+	"x": -442.68,
+	"y": -6.55,
+	"width": 1077,
+	"height": 1265,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/朱利乌斯负伤"
+},
+"bones": [
+	{ "name": "root", "x": -447.68, "y": 1257.45 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 543.5, "y": -631.5, "width": 1077, "height": 1265 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {},
+	"daiji": {}
+}
+}

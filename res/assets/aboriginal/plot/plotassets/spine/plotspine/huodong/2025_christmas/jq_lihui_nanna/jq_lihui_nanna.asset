@@ -1,0 +1,96 @@
+{
+"skeleton": {
+	"hash": "qyboiicx8RyZMGZd5pUkwsrvFr8",
+	"spine": "3.8.99",
+	"x": -553.92,
+	"y": -1254.68,
+	"width": 1287,
+	"height": 2050,
+	"images": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_nanna\\images",
+	"audio": "D:\\活动资源相关\\2025.4+6月\\二周年相关\\二周年立绘\\jq_lihui_nanna"
+},
+"bones": [
+	{ "name": "root", "x": -552.92, "y": 794.32 }
+],
+"slots": [
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "tanqi", "bone": "root" },
+	{ "name": "deyi", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "huaixiao", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"daiji": {
+				"daiji": { "x": 642.5, "y": -1024, "width": 1287, "height": 2050 }
+			},
+			"deyi": {
+				"deyi": { "x": 573.5, "y": -179, "width": 367, "height": 358 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 573.5, "y": -179, "width": 367, "height": 358 }
+			},
+			"huaixiao": {
+				"huaixiao": { "x": 573.5, "y": -179, "width": 369, "height": 358 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 573.5, "y": -179, "width": 367, "height": 358 }
+			},
+			"tanqi": {
+				"tanqi": { "x": 573, "y": -168, "width": 344, "height": 338 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"deyi": {
+		"slots": {
+			"deyi": {
+				"attachment": [
+					{ "name": "deyi" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"huaixiao": {
+		"slots": {
+			"huaixiao": {
+				"attachment": [
+					{ "name": "huaixiao" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"tanqi": {
+		"slots": {
+			"tanqi": {
+				"attachment": [
+					{ "name": "tanqi" }
+				]
+			}
+		}
+	}
+}
+}

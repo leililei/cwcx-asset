@@ -1,0 +1,132 @@
+
+jq_lihui_hongboshi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan1
+  rotate: true
+  xy: 495, 996
+  size: 211, 163
+  orig: 211, 163
+  offset: 0, 0
+  index: -1
+biyan2
+  rotate: true
+  xy: 304, 44
+  size: 211, 161
+  orig: 211, 161
+  offset: 0, 0
+  index: -1
+biyan3
+  rotate: true
+  xy: 340, 525
+  size: 226, 162
+  orig: 226, 162
+  offset: 0, 0
+  index: -1
+biyan4
+  rotate: true
+  xy: 479, 754
+  size: 226, 162
+  orig: 226, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1207
+  size: 1260, 2820
+  orig: 1260, 2820
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 185, 978
+  size: 229, 152
+  orig: 229, 152
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 0, 237
+  size: 238, 145
+  orig: 238, 145
+  offset: 0, 0
+  index: -1
+happy
+  rotate: true
+  xy: 292, 255
+  size: 226, 172
+  orig: 226, 172
+  offset: 0, 0
+  index: -1
+kuangxiao1
+  rotate: true
+  xy: 0, 951
+  size: 256, 185
+  orig: 256, 185
+  offset: 0, 0
+  index: -1
+kuangxiao2
+  rotate: true
+  xy: 160, 481
+  size: 232, 180
+  orig: 232, 180
+  offset: 0, 0
+  index: -1
+wenhe
+  rotate: true
+  xy: 145, 239
+  size: 236, 147
+  orig: 236, 147
+  offset: 0, 0
+  index: -1
+xianqi
+  rotate: true
+  xy: 0, 0
+  size: 237, 160
+  orig: 237, 160
+  offset: 0, 0
+  index: -1
+xiao1
+  rotate: true
+  xy: 164, 722
+  size: 229, 157
+  orig: 229, 157
+  offset: 0, 0
+  index: -1
+xiao2
+  rotate: true
+  xy: 321, 751
+  size: 227, 158
+  orig: 227, 158
+  offset: 0, 0
+  index: -1
+yansu1
+  rotate: true
+  xy: 337, 980
+  size: 227, 158
+  orig: 227, 158
+  offset: 0, 0
+  index: -1
+yansu2
+  rotate: true
+  xy: 160, 12
+  size: 227, 144
+  orig: 227, 144
+  offset: 0, 0
+  index: -1
+zixin1
+  rotate: true
+  xy: 0, 475
+  size: 238, 160
+  orig: 238, 160
+  offset: 0, 0
+  index: -1
+zixin2
+  rotate: true
+  xy: 0, 713
+  size: 238, 164
+  orig: 238, 164
+  offset: 0, 0
+  index: -1

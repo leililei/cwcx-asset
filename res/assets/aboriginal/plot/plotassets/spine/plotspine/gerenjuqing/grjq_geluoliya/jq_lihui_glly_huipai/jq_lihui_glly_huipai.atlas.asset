@@ -1,0 +1,83 @@
+
+jq_lihui_glly_huipai.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 3887
+  size: 313, 205
+  orig: 313, 205
+  offset: 0, 0
+  index: -1
+biyanxiao
+  rotate: false
+  xy: 313, 3875
+  size: 325, 217
+  orig: 325, 217
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1409
+  size: 2429, 4092
+  orig: 2429, 4092
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 1670, 3869
+  size: 342, 223
+  orig: 342, 223
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 638, 3871
+  size: 342, 221
+  orig: 342, 221
+  offset: 0, 0
+  index: -1
+haixiu2
+  rotate: false
+  xy: 980, 3870
+  size: 348, 222
+  orig: 348, 222
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 2012, 3865
+  size: 348, 227
+  orig: 348, 227
+  offset: 0, 0
+  index: -1
+shangxin
+  rotate: false
+  xy: 2702, 3859
+  size: 342, 233
+  orig: 342, 233
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 3044, 3838
+  size: 348, 254
+  orig: 348, 254
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1328, 3870
+  size: 342, 222
+  orig: 342, 222
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 2360, 3862
+  size: 342, 230
+  orig: 342, 230
+  offset: 0, 0
+  index: -1

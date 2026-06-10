@@ -1,0 +1,82 @@
+{
+"skeleton": {
+	"hash": "0LzDrYnarzrgz3uRydXOkBhXjzI",
+	"spine": "3.8.99",
+	"x": -682.91,
+	"y": -2317.22,
+	"width": 1393,
+	"height": 4092,
+	"images": "E:/工作/2026冬活NPC立绘/jq_lihui_weiketuoliya/images/",
+	"audio": "E:\\工作\\2026冬活NPC立绘\\jq_lihui_weiketuoliya"
+},
+"bones": [
+	{ "name": "root", "x": -681.91, "y": 1773.78 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "jingya2", "bone": "root" },
+	{ "name": "chhensi", "bone": "root" },
+	{ "name": "daiji", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 695.5, "y": -2045, "width": 1393, "height": 4092 }
+			},
+			"chhensi": {
+				"chhensi": { "x": 688, "y": -376, "width": 292, "height": 240 }
+			},
+			"daiji": {
+				"daiji": { "x": 688, "y": -390.5, "width": 292, "height": 211 }
+			},
+			"jingya": {
+				"jingya": { "x": 690, "y": -381, "width": 296, "height": 220 }
+			},
+			"jingya2": {
+				"jingya2": { "x": 688, "y": -389.5, "width": 292, "height": 213 }
+			}
+		}
+	}
+],
+"animations": {
+	"chensi": {
+		"slots": {
+			"chhensi": {
+				"attachment": [
+					{ "name": "chhensi" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"jingya2": {
+		"slots": {
+			"jingya2": {
+				"attachment": [
+					{ "name": "jingya2" }
+				]
+			}
+		}
+	}
+}
+}

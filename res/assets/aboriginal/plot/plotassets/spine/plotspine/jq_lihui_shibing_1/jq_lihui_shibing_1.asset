@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "WSSNAIWJZBFHPSPwsMBuBS+dBJk",
+	"spine": "3.8.99",
+	"x": -364.22,
+	"y": -5.11,
+	"width": 864,
+	"height": 1168,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/士兵-攻击"
+},
+"bones": [
+	{ "name": "root", "x": -363.22, "y": 1161.89 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 431, "y": -583, "width": 864, "height": 1168 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {},
+	"daiji": {}
+}
+}

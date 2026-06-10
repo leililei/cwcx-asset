@@ -1,0 +1,41 @@
+
+jq_lihui_weiketuoliya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 2459
+  size: 1393, 4092
+  orig: 1393, 4092
+  offset: 0, 0
+  index: -1
+chhensi
+  rotate: false
+  xy: 880, 3852
+  size: 292, 240
+  orig: 292, 240
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 0, 3881
+  size: 292, 211
+  orig: 292, 211
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 584, 3872
+  size: 296, 220
+  orig: 296, 220
+  offset: 0, 0
+  index: -1
+jingya2
+  rotate: false
+  xy: 292, 3879
+  size: 292, 213
+  orig: 292, 213
+  offset: 0, 0
+  index: -1

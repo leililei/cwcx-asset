@@ -1,0 +1,55 @@
+
+jq_lihui_nimoxini.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 0, 2262
+  size: 367, 216
+  orig: 369, 218
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 1085, 2231
+  size: 354, 247
+  orig: 356, 249
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 0, 889
+  size: 1314, 2478
+  orig: 1316, 2480
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: false
+  xy: 367, 2250
+  size: 367, 228
+  orig: 369, 230
+  offset: 1, 1
+  index: -1
+haha
+  rotate: false
+  xy: 1806, 2203
+  size: 351, 275
+  orig: 353, 277
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 1439, 2225
+  size: 367, 253
+  orig: 369, 255
+  offset: 1, 1
+  index: -1
+xixi
+  rotate: false
+  xy: 734, 2233
+  size: 351, 245
+  orig: 353, 247
+  offset: 1, 1
+  index: -1

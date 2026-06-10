@@ -1,0 +1,137 @@
+
+jq_lihui_emo_fulanka.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 0, 3661
+  size: 286, 168
+  orig: 286, 168
+  offset: 0, 0
+  index: -1
+chensi
+  rotate: false
+  xy: 814, 3656
+  size: 286, 173
+  orig: 286, 173
+  offset: 0, 0
+  index: -1
+cixiaogui
+  rotate: false
+  xy: 2206, 3640
+  size: 264, 189
+  orig: 264, 189
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 550, 3658
+  size: 264, 171
+  orig: 264, 171
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 1389, 3649
+  size: 264, 180
+  orig: 264, 180
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 1653, 3645
+  size: 289, 184
+  orig: 289, 184
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 1100, 3654
+  size: 289, 175
+  orig: 289, 175
+  offset: 0, 0
+  index: -1
+kanlaji
+  rotate: false
+  xy: 2998, 3624
+  size: 264, 205
+  orig: 264, 205
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 2470, 3640
+  size: 264, 189
+  orig: 264, 189
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 0, 2776
+  size: 922, 880
+  orig: 922, 880
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 3262, 3420
+  size: 409, 567
+  orig: 409, 567
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 286, 3660
+  size: 264, 169
+  orig: 264, 169
+  offset: 0, 0
+  index: -1
+wp
+  rotate: true
+  xy: 0, 1883
+  size: 893, 3698
+  orig: 893, 3698
+  offset: 0, 0
+  index: -1
+xiaozhang
+  rotate: false
+  xy: 2734, 3629
+  size: 264, 200
+  orig: 264, 200
+  offset: 0, 0
+  index: -1
+zaogao
+  rotate: false
+  xy: 1942, 3641
+  size: 264, 188
+  orig: 264, 188
+  offset: 0, 0
+  index: -1
+
+jq_lihui_emo_fulanka2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ts
+  rotate: true
+  xy: 0, 621
+  size: 2601, 3222
+  orig: 2601, 3222
+  offset: 0, 0
+  index: -1
+
+jq_lihui_emo_fulanka3.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 2792, 3207
+  orig: 2792, 3207
+  offset: 0, 0
+  index: -1

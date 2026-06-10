@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "txX+NUvpDh+2rWaeWdo5Vix8H/0",
+	"spine": "3.8.99",
+	"x": -547.39,
+	"y": -1569.33,
+	"width": 1116,
+	"height": 3062,
+	"images": "G:\\文案的活2\\5月spine\\kexueguan\\images",
+	"audio": "G:\\文案的活2\\5月spine\\kexueguan"
+},
+"bones": [
+	{ "name": "root", "x": -672.39, "y": 1548.67 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "jingya", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 683, "y": -1587, "width": 1116, "height": 3062 }
+			},
+			"jingya": {
+				"jingya": { "x": 690, "y": -395.5, "width": 120, "height": 193 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	}
+}
+}

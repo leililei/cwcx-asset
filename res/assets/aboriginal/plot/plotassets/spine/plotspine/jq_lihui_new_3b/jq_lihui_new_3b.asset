@@ -1,0 +1,129 @@
+{
+"skeleton": {
+	"hash": "BV5dV5UeV/78gbiPaqXkZhd3SJY",
+	"spine": "3.8.99",
+	"x": -451.34,
+	"y": -1252.14,
+	"width": 905,
+	"height": 2214,
+	"images": "C:\\Users\\Plan123\\Desktop\\spine修改\\新建文件夹\\jq_lihui_new_3b\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\spine修改\\新建文件夹\\jq_lihui_new_3b"
+},
+"bones": [
+	{ "name": "root", "x": -570.34, "y": 972.86 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "daku", "bone": "root" },
+	{ "name": "ku", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 557, "y": -250, "width": 208, "height": 216 }
+			},
+			"body": {
+				"body": { "x": 571.5, "y": -1118, "width": 905, "height": 2214 }
+			},
+			"daiji": {
+				"daiji": { "x": 564.5, "y": -231.5, "width": 259, "height": 253 }
+			},
+			"daku": {
+				"daku": { "x": 559.5, "y": -255, "width": 233, "height": 218 }
+			},
+			"ku": {
+				"ku": { "x": 559.5, "y": -255, "width": 233, "height": 218 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 564.5, "y": -231.5, "width": 259, "height": 253 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daku": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daku": {
+				"attachment": [
+					{ "name": "daku" }
+				]
+			}
+		}
+	},
+	"ku": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"ku": {
+				"attachment": [
+					{ "name": "ku" }
+				]
+			}
+		}
+	},
+	"tanqi": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			}
+		}
+	}
+}
+}

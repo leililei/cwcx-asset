@@ -1,0 +1,61 @@
+{
+"skeleton": {
+	"hash": "8N+GOUoD/37TXjqWvsZT4HwATyA",
+	"spine": "3.8.99",
+	"x": -456.43,
+	"y": -6.27,
+	"width": 988,
+	"height": 1235,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/内桌区的男性"
+},
+"bones": [
+	{ "name": "root", "x": -466.43, "y": 1241.73 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "kun rao", "bone": "root", "attachment": "kun rao" },
+	{ "name": "yan jing", "bone": "root", "attachment": "yan jing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 504, "y": -630.5, "width": 988, "height": 1235 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 450.5, "y": -276.5, "width": 149, "height": 153 }
+			},
+			"kun rao": {
+				"kun rao": { "x": 451.5, "y": -287, "width": 159, "height": 160 }
+			},
+			"yan jing": {
+				"yan jing": { "x": 472.5, "y": -253, "width": 249, "height": 80 }
+			}
+		}
+	}
+],
+"animations": {
+	"1": {
+		"slots": {
+			"kun rao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {}
+}
+}

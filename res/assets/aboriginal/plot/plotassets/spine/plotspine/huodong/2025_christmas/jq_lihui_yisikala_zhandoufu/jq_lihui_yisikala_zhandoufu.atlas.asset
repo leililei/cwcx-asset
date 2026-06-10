@@ -1,0 +1,90 @@
+
+jq_lihui_yisikala_zhandoufu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: true
+  xy: 1354, 70
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+bunaifan
+  rotate: false
+  xy: 2, 2
+  size: 167, 160
+  orig: 167, 160
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 329, 63
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: true
+  xy: 722, 63
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+haixiu
+  rotate: false
+  xy: 171, 25
+  size: 156, 137
+  orig: 156, 137
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1099, 66
+  size: 96, 122
+  orig: 96, 122
+  offset: 0, 0
+  index: -1
+lengdan
+  rotate: true
+  xy: 460, 63
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+rw
+  rotate: false
+  xy: 2, 164
+  size: 1861, 2252
+  orig: 1861, 2252
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 591, 63
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+sikao
+  rotate: true
+  xy: 1223, 69
+  size: 93, 129
+  orig: 93, 129
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 844, 63
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+wunai
+  rotate: true
+  xy: 959, 65
+  size: 97, 138
+  orig: 97, 138
+  offset: 0, 0
+  index: -1

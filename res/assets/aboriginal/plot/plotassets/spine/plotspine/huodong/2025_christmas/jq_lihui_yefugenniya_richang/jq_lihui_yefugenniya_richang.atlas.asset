@@ -1,0 +1,76 @@
+
+jq_lihui_yefugenniya_richang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 498, 3213
+  size: 252, 177
+  orig: 252, 177
+  offset: 0, 0
+  index: -1
+biyanx
+  rotate: false
+  xy: 1007, 3199
+  size: 254, 191
+  orig: 254, 191
+  offset: 0, 0
+  index: -1
+changt
+  rotate: false
+  xy: 2, 3214
+  size: 247, 176
+  orig: 247, 176
+  offset: 0, 0
+  index: -1
+haix
+  rotate: false
+  xy: 1516, 3194
+  size: 296, 196
+  orig: 296, 196
+  offset: 0, 0
+  index: -1
+hlyyw
+  rotate: false
+  xy: 2081, 2272
+  size: 1165, 1118
+  orig: 1165, 1118
+  offset: 0, 0
+  index: -1
+shengq
+  rotate: false
+  xy: 1814, 3176
+  size: 265, 214
+  orig: 265, 214
+  offset: 0, 0
+  index: -1
+sik
+  rotate: false
+  xy: 251, 3214
+  size: 245, 176
+  orig: 245, 176
+  offset: 0, 0
+  index: -1
+xiao
+  rotate: false
+  xy: 1263, 3198
+  size: 251, 192
+  orig: 251, 192
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 2, 715
+  size: 1555, 3388
+  orig: 1555, 3388
+  offset: 0, 0
+  index: -1
+yans
+  rotate: false
+  xy: 752, 3203
+  size: 253, 187
+  orig: 253, 187
+  offset: 0, 0
+  index: -1

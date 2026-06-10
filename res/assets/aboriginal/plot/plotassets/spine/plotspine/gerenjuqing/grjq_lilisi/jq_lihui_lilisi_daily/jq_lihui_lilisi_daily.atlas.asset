@@ -1,0 +1,55 @@
+
+jq_lihui_lilisi_daily.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 1164, 2691
+  size: 216, 193
+  orig: 216, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1431
+  size: 1260, 2884
+  orig: 1260, 2884
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 640, 2699
+  size: 216, 185
+  orig: 216, 185
+  offset: 0, 0
+  index: -1
+danxin
+  rotate: false
+  xy: 0, 2717
+  size: 216, 167
+  orig: 216, 167
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 421, 2700
+  size: 219, 184
+  orig: 219, 184
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 856, 2698
+  size: 308, 186
+  orig: 308, 186
+  offset: 0, 0
+  index: -1
+wunai
+  rotate: false
+  xy: 216, 2713
+  size: 205, 171
+  orig: 205, 171
+  offset: 0, 0
+  index: -1

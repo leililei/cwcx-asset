@@ -1,0 +1,117 @@
+
+jq_lihui_new_linghang.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishang
+  rotate: false
+  xy: 1232, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 1232, 1232
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1230
+  size: 1232, 2722
+  orig: 1232, 2722
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 0, 309
+  size: 1923, 921
+  orig: 1923, 921
+  offset: 0, 0
+  index: -1
+chijing
+  rotate: true
+  xy: 1923, 488
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 3208, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 1976, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+
+jq_lihui_new_linghang2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haixiu
+  rotate: false
+  xy: 0, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 0, 0
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 744, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+shuohua
+  rotate: false
+  xy: 744, 0
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+weixaio5
+  rotate: false
+  xy: 2232, 10
+  size: 742, 1966
+  orig: 742, 1966
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 1488, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+weixiao3
+  rotate: false
+  xy: 1488, 0
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 2232, 1976
+  size: 744, 1976
+  orig: 744, 1976
+  offset: 0, 0
+  index: -1

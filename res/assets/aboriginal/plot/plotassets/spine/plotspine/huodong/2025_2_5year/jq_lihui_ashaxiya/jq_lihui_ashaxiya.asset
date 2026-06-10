@@ -1,0 +1,99 @@
+{
+"skeleton": {
+	"hash": "teKRnGaA2Ro/Zz0JSCC3SEE4uYg",
+	"spine": "3.8.99",
+	"x": -453.93,
+	"y": -1376.85,
+	"width": 1333,
+	"height": 2738,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\ashaxiya\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\ashaxiya"
+},
+"bones": [
+	{ "name": "root", "x": -1478.93, "y": 1546.15 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "chaoxiao", "bone": "root" },
+	{ "name": "yansu", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "carzy", "bone": "root" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1513, "y": -439, "width": 154, "height": 172 }
+			},
+			"body": {
+				"body": { "x": 1691.5, "y": -1554, "width": 1333, "height": 2738 }
+			},
+			"carzy": {
+				"carzy": { "x": 1513, "y": -439, "width": 154, "height": 178 }
+			},
+			"chaoxiao": {
+				"chaoxiao": { "x": 1513, "y": -441, "width": 154, "height": 160 }
+			},
+			"daiji": {
+				"daiji": { "x": 1513, "y": -439, "width": 154, "height": 156 }
+			},
+			"hair": {
+				"hair": { "x": 1503.5, "y": -436.5, "width": 161, "height": 107 }
+			},
+			"yansu": {
+				"yansu": { "x": 1513, "y": -438.5, "width": 154, "height": 157 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"carzy": {
+		"slots": {
+			"carzy": {
+				"attachment": [
+					{ "name": "carzy" }
+				]
+			}
+		}
+	},
+	"chaoxiao": {
+		"slots": {
+			"chaoxiao": {
+				"attachment": [
+					{ "name": "chaoxiao" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"yansu": {
+				"attachment": [
+					{ "name": "yansu" }
+				]
+			}
+		}
+	}
+}
+}

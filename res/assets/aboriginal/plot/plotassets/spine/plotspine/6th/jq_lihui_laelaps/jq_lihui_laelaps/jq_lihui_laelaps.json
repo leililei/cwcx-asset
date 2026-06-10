@@ -1,0 +1,56 @@
+{
+"skeleton": {
+	"hash": "H8GNoUyURCRLgvr6I0iPt2IaA8o",
+	"spine": "3.8.99",
+	"x": -658.69,
+	"y": -599.98,
+	"width": 1776,
+	"height": 2018,
+	"images": "C:/Users/wxk/Desktop/洛根往事立绘/images/",
+	"audio": "C:\\Users\\wxk\\Desktop\\洛根往事立绘"
+},
+"bones": [
+	{ "name": "root", "x": -657.69, "y": 1417.02 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "angry", "bone": "root", "attachment": "angry" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 620, "y": -575.5, "width": 304, "height": 525 }
+			},
+			"body": {
+				"body": { "x": 887, "y": -1008, "width": 1776, "height": 2018 }
+			},
+			"daiji": {
+				"daiji": { "x": 841, "y": -653, "width": 886, "height": 676 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,138 @@
+{
+"skeleton": {
+	"hash": "pmbq5gOsE3LRO9TdeGEUOS1yN2w",
+	"spine": "3.8.99",
+	"x": -717.03,
+	"y": -1403.48,
+	"width": 1260,
+	"height": 2884,
+	"images": "C:\\Users\\GUNDAM\\Desktop\\images",
+	"audio": "C:\\Users\\GUNDAM\\Desktop"
+},
+"bones": [
+	{ "name": "root", "x": -860.03, "y": 1502.52 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "wunai", "bone": "root" },
+	{ "name": "shy", "bone": "root" },
+	{ "name": "happy", "bone": "root" },
+	{ "name": "danxin", "bone": "root" },
+	{ "name": "angry", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 883, "y": -319.5, "width": 216, "height": 193 }
+			},
+			"body": {
+				"body": { "x": 773, "y": -1464, "width": 1260, "height": 2884 }
+			},
+			"daiji": {
+				"daiji": { "x": 883, "y": -323.5, "width": 216, "height": 185 }
+			},
+			"danxin": {
+				"danxin": { "x": 883, "y": -332.5, "width": 216, "height": 167 }
+			},
+			"happy": {
+				"happy": { "x": 884.5, "y": -324, "width": 219, "height": 184 }
+			},
+			"shy": {
+				"shy": { "x": 860, "y": -333, "width": 308, "height": 186 }
+			},
+			"wunai": {
+				"wunai": { "x": 882.5, "y": -330.5, "width": 205, "height": 171 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			},
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"danxin": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"danxin": {
+				"attachment": [
+					{ "name": "danxin" }
+				]
+			}
+		}
+	},
+	"happy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"happy": {
+				"attachment": [
+					{ "name": "happy" }
+				]
+			}
+		}
+	},
+	"shy": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"shy": {
+				"attachment": [
+					{ "name": "shy" }
+				]
+			}
+		}
+	},
+	"wunai": {
+		"slots": {
+			"body": {
+				"attachment": [
+					{ "name": "body" }
+				]
+			},
+			"wunai": {
+				"attachment": [
+					{ "name": "wunai" }
+				]
+			}
+		}
+	}
+}
+}

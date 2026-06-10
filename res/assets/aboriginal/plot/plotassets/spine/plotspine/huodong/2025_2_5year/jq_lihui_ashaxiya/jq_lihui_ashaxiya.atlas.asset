@@ -1,0 +1,55 @@
+
+jq_lihui_ashaxiya.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 182, 2
+  size: 154, 172
+  orig: 154, 172
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 158
+  size: 1333, 2738
+  orig: 1333, 2738
+  offset: 0, 0
+  index: -1
+carzy
+  rotate: true
+  xy: 2, 2
+  size: 154, 178
+  orig: 154, 178
+  offset: 0, 0
+  index: -1
+chaoxiao
+  rotate: true
+  xy: 356, 2
+  size: 154, 160
+  orig: 154, 160
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 677, 2
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 835, 49
+  size: 161, 107
+  orig: 161, 107
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 518, 2
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1

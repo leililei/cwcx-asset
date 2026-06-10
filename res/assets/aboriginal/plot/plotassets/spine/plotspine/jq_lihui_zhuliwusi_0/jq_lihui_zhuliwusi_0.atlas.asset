@@ -1,0 +1,83 @@
+
+jq_lihui_zhuliwusi_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei shang
+  rotate: false
+  xy: 0, 1581
+  size: 166, 150
+  orig: 166, 150
+  offset: 0, 0
+  index: -1
+bi yan
+  rotate: false
+  xy: 690, 1569
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 145
+  size: 1730, 1417
+  orig: 1730, 1417
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: false
+  xy: 1381, 1564
+  size: 175, 167
+  orig: 175, 167
+  offset: 0, 0
+  index: -1
+gan ga
+  rotate: false
+  xy: 1208, 1565
+  size: 173, 166
+  orig: 173, 166
+  offset: 0, 0
+  index: -1
+jing ya
+  rotate: false
+  xy: 1556, 1562
+  size: 175, 169
+  orig: 175, 169
+  offset: 0, 0
+  index: -1
+jing ya2
+  rotate: false
+  xy: 515, 1571
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+sheng qi
+  rotate: false
+  xy: 1038, 1568
+  size: 170, 163
+  orig: 170, 163
+  offset: 0, 0
+  index: -1
+wei xiao
+  rotate: false
+  xy: 166, 1572
+  size: 170, 159
+  orig: 170, 159
+  offset: 0, 0
+  index: -1
+wei xiao2
+  rotate: false
+  xy: 336, 1572
+  size: 179, 159
+  orig: 179, 159
+  offset: 0, 0
+  index: -1
+yan su
+  rotate: false
+  xy: 863, 1569
+  size: 175, 162
+  orig: 175, 162
+  offset: 0, 0
+  index: -1

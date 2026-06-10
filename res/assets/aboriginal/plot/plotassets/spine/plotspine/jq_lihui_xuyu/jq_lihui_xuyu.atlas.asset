@@ -1,0 +1,62 @@
+
+jq_lihui_xuyu.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2401, 1964
+  size: 155, 154
+  orig: 157, 156
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 0, 302
+  size: 2401, 2260
+  orig: 2403, 2262
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 2401, 1499
+  size: 155, 137
+  orig: 157, 139
+  offset: 1, 1
+  index: -1
+glass
+  rotate: true
+  xy: 2401, 2275
+  size: 287, 161
+  orig: 289, 163
+  offset: 1, 1
+  index: -1
+happy
+  rotate: true
+  xy: 2401, 1809
+  size: 155, 140
+  orig: 157, 142
+  offset: 1, 1
+  index: -1
+jingya
+  rotate: false
+  xy: 2401, 2119
+  size: 155, 156
+  orig: 157, 158
+  offset: 1, 1
+  index: -1
+sad
+  rotate: true
+  xy: 2401, 1344
+  size: 155, 136
+  orig: 157, 138
+  offset: 1, 1
+  index: -1
+worry
+  rotate: true
+  xy: 2401, 1654
+  size: 155, 138
+  orig: 157, 140
+  offset: 1, 1
+  index: -1

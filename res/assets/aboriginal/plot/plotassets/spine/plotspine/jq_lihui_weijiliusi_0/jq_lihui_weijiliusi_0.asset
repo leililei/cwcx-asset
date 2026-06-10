@@ -1,0 +1,300 @@
+{
+"skeleton": {
+	"hash": "1QqJNGY7a989kmooIbCqyBcjzJ0",
+	"spine": "3.8.99",
+	"x": -620.44,
+	"y": -1.42,
+	"width": 1179,
+	"height": 1352,
+	"images": "./images/",
+	"audio": "F:/新建文件夹/剧情用spine/维吉留斯"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "图层 33" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "biyan", "bone": "root", "attachment": "biyan" },
+	{ "name": "yuyue", "bone": "root", "attachment": "yuyue" },
+	{ "name": "chijing", "bone": "root", "attachment": "chijing" },
+	{ "name": "weixiao", "bone": "root", "attachment": "weixiao" },
+	{ "name": "zhoumei", "bone": "root", "attachment": "zhoumei" },
+	{ "name": "jianxiao", "bone": "root", "attachment": "jianxiao" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": -9.94, "y": 1068.58, "width": 155, "height": 164 }
+			},
+			"body": {
+				"图层 33": { "x": -30.94, "y": 674.58, "width": 1179, "height": 1352 }
+			},
+			"chijing": {
+				"chijing": { "x": -8.44, "y": 1068.08, "width": 166, "height": 169 }
+			},
+			"daiji": {
+				"daiji": { "x": -8.44, "y": 1067.58, "width": 166, "height": 154 }
+			},
+			"hair": {
+				"hair": { "x": -15.44, "y": 1086.08, "width": 308, "height": 211 }
+			},
+			"jianxiao": {
+				"jianxiao": { "x": -8.44, "y": 1068.08, "width": 166, "height": 163 }
+			},
+			"weixiao": {
+				"weixiao": { "x": -8.44, "y": 1070.08, "width": 166, "height": 159 }
+			},
+			"yuyue": {
+				"yuyue": { "x": -8.44, "y": 1068.08, "width": 166, "height": 169 }
+			},
+			"zhoumei": {
+				"zhoumei": { "x": -8.44, "y": 1069.58, "width": 166, "height": 158 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"chijing": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jianxiao": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"yuyue": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhoumei": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"zhoumei": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"chijing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jianxiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yuyue": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

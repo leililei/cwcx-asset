@@ -1,0 +1,27 @@
+
+jq_lihui_niai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 572
+  size: 1845, 1468
+  orig: 1845, 1468
+  offset: 0, 0
+  index: -1
+dai ji
+  rotate: true
+  xy: 1845, 1591
+  size: 228, 157
+  orig: 228, 157
+  offset: 0, 0
+  index: -1
+feng nu
+  rotate: true
+  xy: 1845, 1819
+  size: 221, 195
+  orig: 221, 195
+  offset: 0, 0
+  index: -1

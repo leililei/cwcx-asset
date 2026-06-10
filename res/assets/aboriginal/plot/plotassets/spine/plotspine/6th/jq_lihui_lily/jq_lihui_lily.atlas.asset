@@ -1,0 +1,54 @@
+
+jq_lihui_lily.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 0, 1277
+  size: 286, 203
+  orig: 286, 203
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 286, 1277
+  size: 293, 203
+  orig: 293, 203
+  offset: 0, 0
+  index: -1
+huaixiao
+  rotate: false
+  xy: 1182, 1220
+  size: 298, 260
+  orig: 298, 260
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 889, 1240
+  size: 293, 240
+  orig: 293, 240
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 579, 1260
+  size: 310, 220
+  orig: 310, 220
+  offset: 0, 0
+  index: -1
+
+jq_lihui_lily2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 2022, 2042
+  orig: 2022, 2042
+  offset: 0, 0
+  index: -1

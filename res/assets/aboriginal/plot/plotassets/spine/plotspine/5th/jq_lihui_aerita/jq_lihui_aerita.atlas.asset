@@ -1,0 +1,55 @@
+
+jq_lihui_aerita.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 105
+  size: 1107, 2394
+  orig: 1107, 2394
+  offset: 0, 0
+  index: -1
+close
+  rotate: true
+  xy: 261, 0
+  size: 105, 129
+  orig: 105, 129
+  offset: 0, 0
+  index: -1
+cry
+  rotate: true
+  xy: 519, 0
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: true
+  xy: 0, 0
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+peace
+  rotate: true
+  xy: 390, 0
+  size: 105, 129
+  orig: 105, 129
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 131, 0
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 645, 0
+  size: 105, 123
+  orig: 105, 123
+  offset: 0, 0
+  index: -1

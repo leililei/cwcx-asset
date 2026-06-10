@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "4+fHbu3R7o76KHav+EpQ/5oKpJA",
+	"spine": "3.8.99",
+	"x": -568.55,
+	"y": -1177.54,
+	"width": 1047,
+	"height": 2458,
+	"images": "G:\\文案的活2\\5月spine\\tongxunguan\\images",
+	"audio": "G:\\文案的活2\\5月spine\\tongxunguan"
+},
+"bones": [
+	{ "name": "root", "x": -915.55, "y": 1390.46 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "speak", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 870.5, "y": -1339, "width": 1047, "height": 2458 }
+			},
+			"speak": {
+				"speak": { "x": 894.5, "y": -404.5, "width": 65, "height": 35 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"speak": {
+				"attachment": [
+					{ "name": "speak" }
+				]
+			}
+		}
+	},
+	"smile": {}
+}
+}

@@ -1,0 +1,40 @@
+
+jq_lihui_suobeike.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 0, 1259
+  size: 1185, 656
+  orig: 1185, 656
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: false
+  xy: 0, 535
+  size: 847, 724
+  orig: 847, 724
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 1185, 1207
+  size: 708, 730
+  orig: 708, 730
+  offset: 0, 0
+  index: -1
+
+jq_lihui_suobeike2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 986
+  size: 2034, 1048
+  orig: 2034, 1048
+  offset: 0, 0
+  index: -1

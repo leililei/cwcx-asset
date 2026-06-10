@@ -1,0 +1,69 @@
+{
+"skeleton": {
+	"hash": "VTBX9TuhOD5uIfCkgiz2xvTBMr0",
+	"spine": "3.8.99",
+	"x": -402.85,
+	"y": -1120.45,
+	"width": 932,
+	"height": 2042,
+	"images": "D:\\活动资源相关\\2026.1 个人剧情及皮肤相关资源\\剧情切图\\立绘\\女保镖\\images",
+	"audio": "D:\\活动资源相关\\2026.1 个人剧情及皮肤相关资源\\剧情切图\\立绘\\女保镖"
+},
+"bones": [
+	{ "name": "root", "x": -401.85, "y": 920.55 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "gaoxing", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 465, "y": -1020, "width": 932, "height": 2042 }
+			},
+			"daiji": {
+				"daiji": { "x": 413, "y": -223, "width": 144, "height": 122 }
+			},
+			"gaoxing": {
+				"gaoxing": { "x": 413, "y": -222.5, "width": 144, "height": 121 }
+			},
+			"jingya": {
+				"jingya": { "x": 413, "y": -224.5, "width": 144, "height": 125 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"gaoxing": {
+		"slots": {
+			"gaoxing": {
+				"attachment": [
+					{ "name": "gaoxing" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	}
+}
+}

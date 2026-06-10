@@ -1,0 +1,331 @@
+{
+"skeleton": {
+	"hash": "0FYUccd3uzOqCgsIMBlldE1ElnI",
+	"spine": "3.8.99",
+	"x": -1447,
+	"y": -2117,
+	"width": 2388,
+	"height": 4092,
+	"images": "D:\\活动资源相关\\2026.1 个人剧情及皮肤相关资源\\剧情切图\\立绘\\法尔奈斯\\images",
+	"audio": "D:\\活动资源相关\\2026.1 个人剧情及皮肤相关资源\\剧情切图\\立绘\\法尔奈斯"
+},
+"bones": [
+	{ "name": "root", "x": -1446, "y": 1974 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "nu", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "haixiu2", "bone": "root" },
+	{ "name": "shangxin", "bone": "root" },
+	{ "name": "deyi", "bone": "root" },
+	{ "name": "biyan", "bone": "root" },
+	{ "name": "kaixinxiao", "bone": "root" },
+	{ "name": "zhuai", "bone": "root" },
+	{ "name": "jingya", "bone": "root" },
+	{ "name": "yanjing", "bone": "root", "attachment": "yanjing" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyan": {
+				"biyan": { "x": 1418, "y": -417, "width": 296, "height": 228 }
+			},
+			"body": {
+				"body": { "x": 1193, "y": -2045, "width": 2388, "height": 4092 }
+			},
+			"daiji": {
+				"daiji": { "x": 1423, "y": -417, "width": 308, "height": 236 }
+			},
+			"deyi": {
+				"deyi": { "x": 1423, "y": -415, "width": 308, "height": 232 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1427.5, "y": -419.5, "width": 343, "height": 241 }
+			},
+			"haixiu2": {
+				"haixiu2": { "x": 1427.5, "y": -415, "width": 343, "height": 232 }
+			},
+			"jingya": {
+				"jingya": { "x": 1423, "y": -415, "width": 308, "height": 232 }
+			},
+			"kaixinxiao": {
+				"kaixinxiao": { "x": 1417.5, "y": -419.5, "width": 297, "height": 241 }
+			},
+			"nu": {
+				"nu": { "x": 1421.5, "y": -421, "width": 311, "height": 246 }
+			},
+			"shangxin": {
+				"shangxin": { "x": 1423, "y": -419, "width": 308, "height": 220 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 1421.5, "y": -413.5, "width": 311, "height": 231 }
+			},
+			"yanjing": {
+				"yanjing": { "x": 1456, "y": -536.5, "width": 394, "height": 361 }
+			},
+			"zhuai": {
+				"zhuai": { "x": 1422.5, "y": -419.5, "width": 309, "height": 241 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyan": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			}
+		}
+	},
+	"biyan_y": {
+		"slots": {
+			"biyan": {
+				"attachment": [
+					{ "name": "biyan" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji_y": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"deyi": {
+		"slots": {
+			"deyi": {
+				"attachment": [
+					{ "name": "deyi" }
+				]
+			}
+		}
+	},
+	"deyi_y": {
+		"slots": {
+			"deyi": {
+				"attachment": [
+					{ "name": "deyi" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"haixiu2_y": {
+		"slots": {
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu_y": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			}
+		}
+	},
+	"jingya_y": {
+		"slots": {
+			"jingya": {
+				"attachment": [
+					{ "name": "jingya" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"kaixinxiao": {
+		"slots": {
+			"kaixinxiao": {
+				"attachment": [
+					{ "name": "kaixinxiao" }
+				]
+			}
+		}
+	},
+	"kaixinxiao_y": {
+		"slots": {
+			"kaixinxiao": {
+				"attachment": [
+					{ "name": "kaixinxiao" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"nu": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			}
+		}
+	},
+	"nu_y": {
+		"slots": {
+			"nu": {
+				"attachment": [
+					{ "name": "nu" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shangxin": {
+		"slots": {
+			"shangxin": {
+				"attachment": [
+					{ "name": "shangxin" }
+				]
+			}
+		}
+	},
+	"shangxin_y": {
+		"slots": {
+			"shangxin": {
+				"attachment": [
+					{ "name": "shangxin" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"shengqi_y": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			},
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"zhuai": {
+		"slots": {
+			"zhuai": {
+				"attachment": [
+					{ "name": "zhuai" }
+				]
+			}
+		}
+	},
+	"zhuai_y": {
+		"slots": {
+			"yanjing": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"zhuai": {
+				"attachment": [
+					{ "name": "zhuai" }
+				]
+			}
+		}
+	}
+}
+}

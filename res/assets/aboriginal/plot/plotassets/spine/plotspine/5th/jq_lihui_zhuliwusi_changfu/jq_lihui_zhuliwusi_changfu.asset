@@ -1,0 +1,197 @@
+{
+"skeleton": {
+	"hash": "7YI0QOOOD1/wdYjmWGZNcdWpTkU",
+	"spine": "3.8.99",
+	"x": -550.61,
+	"y": -1.27,
+	"width": 937,
+	"height": 1374,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/朱利乌斯-常服"
+},
+"bones": [
+	{ "name": "root", "x": -549.61, "y": 1371.73 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "wei xiao", "bone": "root" },
+	{ "name": "wei xiao2", "bone": "root" },
+	{ "name": "yan su", "bone": "root" },
+	{ "name": "bei shang", "bone": "root" },
+	{ "name": "sheng qi", "bone": "root" },
+	{ "name": "gan ga", "bone": "root" },
+	{ "name": "jing ya", "bone": "root" },
+	{ "name": "bi yan", "bone": "root" },
+	{ "name": "bi yan2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 532.5, "y": -332.5, "width": 211, "height": 137 }
+			},
+			"bi yan": {
+				"bi yan": { "x": 531.5, "y": -338.5, "width": 197, "height": 125 }
+			},
+			"bi yan2": {
+				"bi yan2": { "x": 531.5, "y": -338.5, "width": 197, "height": 125 }
+			},
+			"body": {
+				"body": { "x": 467.5, "y": -686, "width": 937, "height": 1374 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 532.5, "y": -327, "width": 211, "height": 148 }
+			},
+			"gan ga": {
+				"gan ga": { "x": 532.5, "y": -331, "width": 211, "height": 150 }
+			},
+			"jing ya": {
+				"jing ya": { "x": 532.5, "y": -329, "width": 211, "height": 146 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 532.5, "y": -333.5, "width": 211, "height": 145 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 532.5, "y": -329.5, "width": 211, "height": 153 }
+			},
+			"wei xiao2": {
+				"wei xiao2": { "x": 528.5, "y": -333.5, "width": 199, "height": 135 }
+			},
+			"yan su": {
+				"yan su": { "x": 532.5, "y": -327, "width": 211, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan": {
+		"slots": {
+			"bi yan": {
+				"attachment": [
+					{ "name": "bi yan" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"biyan2": {
+		"slots": {
+			"bi yan2": {
+				"attachment": [
+					{ "name": "bi yan2" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"ganga": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"gan ga": {
+				"attachment": [
+					{ "name": "gan ga" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": "jing ya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": "sheng qi" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": "wei xiao2" }
+				]
+			}
+		}
+	},
+	"yansu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yan su": {
+				"attachment": [
+					{ "name": "yan su" }
+				]
+			}
+		}
+	}
+}
+}

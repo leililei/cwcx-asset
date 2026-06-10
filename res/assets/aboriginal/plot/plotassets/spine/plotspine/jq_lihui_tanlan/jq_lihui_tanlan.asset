@@ -1,0 +1,104 @@
+{
+"skeleton": {
+	"hash": "6fOzBBM+wTAb4Af6XDwYsuw6hKc",
+	"spine": "3.8.99",
+	"x": -911.53,
+	"y": 10.72,
+	"width": 2050,
+	"height": 1529,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/贪婪"
+},
+"bones": [
+	{ "name": "root", "x": -910.53, "y": 1538.72 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "yu kuai", "bone": "root", "attachment": "yu kuai" },
+	{ "name": "shi wang", "bone": "root", "attachment": "shi wang" },
+	{ "name": "sheng qi", "bone": "root", "attachment": "sheng qi" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1024, "y": -763.5, "width": 2050, "height": 1529 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 1018, "y": -381, "width": 266, "height": 154 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 1018, "y": -384.5, "width": 266, "height": 181 }
+			},
+			"shi wang": {
+				"shi wang": { "x": 1020.5, "y": -395.5, "width": 269, "height": 167 }
+			},
+			"yu kuai": {
+				"yu kuai": { "x": 1018, "y": -391.5, "width": 266, "height": 175 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"gaoxing": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shi wang": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"shi wang": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yu kuai": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"shiwang": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yu kuai": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

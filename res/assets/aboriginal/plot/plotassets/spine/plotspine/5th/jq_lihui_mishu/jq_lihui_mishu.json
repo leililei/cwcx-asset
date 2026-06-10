@@ -1,0 +1,82 @@
+{
+"skeleton": {
+	"hash": "oT5EHNVF/BBJVljwuKSpE4EEfIA",
+	"spine": "3.8.99",
+	"x": -367.78,
+	"y": -1642.32,
+	"width": 627,
+	"height": 2836,
+	"images": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\mishu\\images",
+	"audio": "C:\\Users\\Plan123\\Desktop\\第四卷立绘\\mishu"
+},
+"bones": [
+	{ "name": "root", "x": -1064.78, "y": 1358.68 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "speak", "bone": "root" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "angry", "bone": "root" },
+	{ "name": "sad", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"angry": {
+				"angry": { "x": 1049, "y": -596.5, "width": 300, "height": 257 }
+			},
+			"body": {
+				"body": { "x": 1010.5, "y": -1583, "width": 627, "height": 2836 }
+			},
+			"daiji": {
+				"daiji": { "x": 1050, "y": -603, "width": 302, "height": 244 }
+			},
+			"sad": {
+				"sad": { "x": 1045, "y": -600.5, "width": 292, "height": 249 }
+			},
+			"speak": {
+				"speak": { "x": 1050, "y": -615.5, "width": 302, "height": 219 }
+			}
+		}
+	}
+],
+"animations": {
+	"angry": {
+		"slots": {
+			"angry": {
+				"attachment": [
+					{ "name": "angry" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"sad": {
+		"slots": {
+			"sad": {
+				"attachment": [
+					{ "name": "sad" }
+				]
+			}
+		}
+	},
+	"speak": {
+		"slots": {
+			"speak": {
+				"attachment": [
+					{ "name": "speak" }
+				]
+			}
+		}
+	}
+}
+}

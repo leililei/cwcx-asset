@@ -1,0 +1,220 @@
+{
+"skeleton": {
+	"hash": "K9b3B75hUd1UUlOt1urAuZTVvsg",
+	"spine": "3.8.99",
+	"x": -336.28,
+	"y": -5.42,
+	"width": 699,
+	"height": 1173,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/查理莎-常服"
+},
+"bones": [
+	{ "name": "root", "x": -335.28, "y": 1166.58 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "jing ya", "bone": "root" },
+	{ "name": "hai xiu", "bone": "root" },
+	{ "name": "hai xiu2", "bone": "root" },
+	{ "name": "hai xiu3", "bone": "root" },
+	{ "name": "hai xiu4", "bone": "root" },
+	{ "name": "bei shang", "bone": "root" },
+	{ "name": "sheng qi", "bone": "root" },
+	{ "name": "sheng qi2", "bone": "root" },
+	{ "name": "wei xiao", "bone": "root" },
+	{ "name": "wei xiao2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bei shang": {
+				"bei shang": { "x": 322.5, "y": -331, "width": 209, "height": 128 }
+			},
+			"body": {
+				"body": { "x": 348.5, "y": -585.5, "width": 699, "height": 1173 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 322.5, "y": -329, "width": 209, "height": 146 }
+			},
+			"hai xiu": {
+				"hai xiu": { "x": 324.5, "y": -325, "width": 213, "height": 152 }
+			},
+			"hai xiu2": {
+				"hai xiu2": { "x": 324.5, "y": -339, "width": 213, "height": 140 }
+			},
+			"hai xiu3": {
+				"hai xiu3": { "x": 324.5, "y": -338, "width": 213, "height": 142 }
+			},
+			"hai xiu4": {
+				"hai xiu4": { "x": 325.5, "y": -334, "width": 215, "height": 134 }
+			},
+			"jing ya": {
+				"jing ya": { "x": 322.5, "y": -329, "width": 209, "height": 160 }
+			},
+			"sheng qi": {
+				"sheng qi": { "x": 322.5, "y": -334, "width": 209, "height": 156 }
+			},
+			"sheng qi2": {
+				"sheng qi2": { "x": 322.5, "y": -327, "width": 209, "height": 136 }
+			},
+			"wei xiao": {
+				"wei xiao": { "x": 322.5, "y": -328.5, "width": 209, "height": 139 }
+			},
+			"wei xiao2": {
+				"wei xiao2": { "x": 319, "y": -336, "width": 196, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"bei shang": {
+				"attachment": [
+					{ "name": "bei shang" }
+				]
+			},
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"haixiu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu": {
+				"attachment": [
+					{ "name": "hai xiu" }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu2": {
+				"attachment": [
+					{ "name": "hai xiu2" }
+				]
+			}
+		}
+	},
+	"haixiu3": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu3": {
+				"attachment": [
+					{ "name": "hai xiu3" }
+				]
+			}
+		}
+	},
+	"haixiu4": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hai xiu4": {
+				"attachment": [
+					{ "name": "hai xiu4" }
+				]
+			}
+		}
+	},
+	"jingya": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"jing ya": {
+				"attachment": [
+					{ "name": "jing ya" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi": {
+				"attachment": [
+					{ "name": "sheng qi" }
+				]
+			}
+		}
+	},
+	"shengqi2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"sheng qi2": {
+				"attachment": [
+					{ "name": "sheng qi2" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao": {
+				"attachment": [
+					{ "name": "wei xiao" }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"wei xiao2": {
+				"attachment": [
+					{ "name": "wei xiao2" }
+				]
+			}
+		}
+	}
+}
+}

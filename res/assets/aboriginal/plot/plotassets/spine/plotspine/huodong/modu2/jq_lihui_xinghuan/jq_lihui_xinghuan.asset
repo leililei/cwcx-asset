@@ -1,0 +1,203 @@
+{
+"skeleton": {
+	"hash": "eIhqO8VgrhBDZfmamudjqV7+DmA",
+	"spine": "3.8.99",
+	"x": -790.52,
+	"y": -1896.46,
+	"width": 1502,
+	"height": 3637,
+	"images": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\星环\\images",
+	"audio": "D:\\活动资源相关\\2026.3 魔都精兵的奴隶联动二期\\魔都精兵的奴隶二期联动演出素材\\立绘\\星环"
+},
+"bones": [
+	{ "name": "root", "x": -789.52, "y": 1739.54 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "biyanxiao", "bone": "root" },
+	{ "name": "chensi", "bone": "root" },
+	{ "name": "huaixiao", "bone": "root" },
+	{ "name": "shengqi", "bone": "root" },
+	{ "name": "wuyu", "bone": "root" },
+	{ "name": "wubiaoqing", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "hongyan", "bone": "root" },
+	{ "name": "shouji", "bone": "root", "attachment": "shouji" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"biyanxiao": {
+				"biyanxiao": { "x": 925.5, "y": -472, "width": 297, "height": 250 }
+			},
+			"body": {
+				"body": { "x": 750, "y": -1817.5, "width": 1502, "height": 3637 }
+			},
+			"chensi": {
+				"chensi": { "x": 928.5, "y": -470.5, "width": 293, "height": 253 }
+			},
+			"daiji": {
+				"daiji": { "x": 928.5, "y": -472, "width": 303, "height": 250 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 944.5, "y": -472, "width": 331, "height": 250 }
+			},
+			"hongyan": {
+				"hongyan": { "x": 942, "y": -445, "width": 212, "height": 88 }
+			},
+			"huaixiao": {
+				"huaixiao": { "x": 932.5, "y": -470.5, "width": 295, "height": 253 }
+			},
+			"shengqi": {
+				"shengqi": { "x": 932.5, "y": -465, "width": 295, "height": 264 }
+			},
+			"shouji": {
+				"shouji": { "x": 650.5, "y": -613, "width": 241, "height": 172 }
+			},
+			"wubiaoqing": {
+				"wubiaoqing": { "x": 929, "y": -476.5, "width": 302, "height": 241 }
+			},
+			"wuyu": {
+				"wuyu": { "x": 929.5, "y": -472, "width": 301, "height": 250 }
+			}
+		}
+	}
+],
+"animations": {
+	"biyanxiao": {
+		"slots": {
+			"biyanxiao": {
+				"attachment": [
+					{ "name": "biyanxiao" }
+				]
+			}
+		}
+	},
+	"chensi": {
+		"slots": {
+			"chensi": {
+				"attachment": [
+					{ "name": "chensi" }
+				]
+			}
+		}
+	},
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			},
+			"hongyan": {
+				"attachment": [
+					{ "name": "hongyan" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"haixiu": {
+				"attachment": [
+					{ "name": "haixiu" }
+				]
+			},
+			"hongyan": {
+				"attachment": [
+					{ "name": "hongyan" }
+				]
+			}
+		}
+	},
+	"huaixiao": {
+		"slots": {
+			"huaixiao": {
+				"attachment": [
+					{ "name": "huaixiao" }
+				]
+			}
+		}
+	},
+	"huaixiao2": {
+		"slots": {
+			"hongyan": {
+				"attachment": [
+					{ "name": "hongyan" }
+				]
+			},
+			"huaixiao": {
+				"attachment": [
+					{ "name": "huaixiao" }
+				]
+			}
+		}
+	},
+	"shengqi": {
+		"slots": {
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"shengqi2": {
+		"slots": {
+			"hongyan": {
+				"attachment": [
+					{ "name": "hongyan" }
+				]
+			},
+			"shengqi": {
+				"attachment": [
+					{ "name": "shengqi" }
+				]
+			}
+		}
+	},
+	"wubiaoqing": {
+		"slots": {
+			"wubiaoqing": {
+				"attachment": [
+					{ "name": "wubiaoqing" }
+				]
+			}
+		}
+	},
+	"wubiaoqing2": {
+		"slots": {
+			"hongyan": {
+				"attachment": [
+					{ "name": "hongyan" }
+				]
+			},
+			"wubiaoqing": {
+				"attachment": [
+					{ "name": "wubiaoqing" }
+				]
+			}
+		}
+	}
+}
+}

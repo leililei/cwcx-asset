@@ -1,0 +1,84 @@
+{
+"skeleton": {
+	"hash": "VfiY5J5W+cej7Gws+4SlRasCl68",
+	"spine": "3.8.99",
+	"x": -259.22,
+	"y": -1.2,
+	"width": 602,
+	"height": 1098,
+	"images": "./images/",
+	"audio": "F:/新建文件夹/剧情用spine/飓风突击队受伤的NPC"
+},
+"bones": [
+	{ "name": "root", "y": -1.07 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "weixiao2", "bone": "root", "attachment": "weixiao2" },
+	{ "name": "weixiao", "bone": "root", "attachment": "weixiao" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 41.78, "y": 548.87, "width": 602, "height": 1098 }
+			},
+			"daiji": {
+				"daiji": { "x": 1.28, "y": 803.37, "width": 225, "height": 183 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 6.28, "y": 829.37, "width": 203, "height": 131 }
+			},
+			"weixiao2": {
+				"weixiao2": { "x": 1.28, "y": 803.37, "width": 225, "height": 183 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

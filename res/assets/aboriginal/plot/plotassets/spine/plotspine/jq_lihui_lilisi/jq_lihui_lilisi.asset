@@ -1,0 +1,212 @@
+{
+"skeleton": {
+	"hash": "m9xymu557UA",
+	"spine": "3.8-from-4.0.56",
+	"x": -1000.78,
+	"y": -2.32,
+	"width": 2048,
+	"height": 1311,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/月冕-莉莉丝"
+},
+"bones": [
+	{ "name": "root", "x": -1000.78, "y": 1307.68 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "daiji2", "bone": "root" },
+	{ "name": "haixiu2", "bone": "root" },
+	{ "name": "haixiu", "bone": "root" },
+	{ "name": "beishang2", "bone": "root" },
+	{ "name": "beishang", "bone": "root" },
+	{ "name": "weixiao2", "bone": "root" },
+	{ "name": "weixiao", "bone": "root" },
+	{ "name": "fennu2", "bone": "root" },
+	{ "name": "fennu", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"beishang": {
+				"beishang": { "x": 1038, "y": -480, "width": 194, "height": 148 }
+			},
+			"beishang2": {
+				"beishang2": { "x": 1038, "y": -480, "width": 194, "height": 148 }
+			},
+			"body": {
+				"body": { "x": 1024, "y": -654.5, "width": 2048, "height": 1311 }
+			},
+			"daiji": {
+				"daiji": { "x": 1038.5, "y": -471, "width": 195, "height": 170 }
+			},
+			"daiji2": {
+				"daiji2": { "x": 1002, "y": -471, "width": 276, "height": 170 }
+			},
+			"fennu": {
+				"fennu": { "x": 1038, "y": -471.5, "width": 194, "height": 165 }
+			},
+			"fennu2": {
+				"fennu2": { "x": 1002, "y": -472, "width": 276, "height": 166 }
+			},
+			"haixiu": {
+				"haixiu": { "x": 1002, "y": -472, "width": 276, "height": 170 }
+			},
+			"haixiu2": {
+				"haixiu2": { "x": 1003.5, "y": -471, "width": 273, "height": 168 }
+			},
+			"weixiao": {
+				"weixiao": { "x": 1038, "y": -470, "width": 194, "height": 166 }
+			},
+			"weixiao2": {
+				"weixiao2": { "x": 1002, "y": -474, "width": 276, "height": 162 }
+			}
+		}
+	}
+],
+"animations": {
+	"beishang": {
+		"slots": {
+			"beishang": {
+				"attachment": [
+					{ "name": "beishang" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"beishang2": {
+		"slots": {
+			"beishang2": {
+				"attachment": [
+					{ "name": "beishang2" }
+				]
+			},
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"daiji": {},
+	"daiji2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"daiji2": {
+				"attachment": [
+					{ "name": "daiji2" }
+				]
+			}
+		}
+	},
+	"fennu": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"fennu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"fennu2": {
+				"attachment": [
+					{ "name": "fennu2" }
+				]
+			}
+		}
+	},
+	"fennu2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"fennu2": {
+				"attachment": [
+					{ "name": "fennu2" }
+				]
+			}
+		}
+	},
+	"haixiu": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"haixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"haixiu2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"haixiu2": {
+				"attachment": [
+					{ "name": "haixiu2" }
+				]
+			}
+		}
+	},
+	"weixiao": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao": {
+				"attachment": [
+					{ "name": "weixiao" }
+				]
+			},
+			"weixiao2": {
+				"attachment": [
+					{ "name": "weixiao2" }
+				]
+			}
+		}
+	},
+	"weixiao2": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"weixiao2": {
+				"attachment": [
+					{ "name": "weixiao2" }
+				]
+			}
+		}
+	}
+}
+}

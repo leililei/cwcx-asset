@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "pai7L3YRpjb+5zjM+zLE4f+2gkg",
+	"spine": "3.8.99",
+	"x": -2892.66,
+	"y": -982.94,
+	"width": 3882,
+	"height": 2971,
+	"images": "./images/",
+	"audio": "D:/活动资源相关/2025.4+6月/六月份相关/第六章《穷途末路》/jq_lihui_baoshi"
+},
+"bones": [
+	{ "name": "root", "x": -2891.66, "y": 1987.06 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root" },
+	{ "name": "fennu", "bone": "root" },
+	{ "name": "kongju", "bone": "root" },
+	{ "name": "yaoya", "bone": "root" },
+	{ "name": "koushui", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1940, "y": -1484.5, "width": 3882, "height": 2971 }
+			},
+			"daiji": {
+				"daiji": { "x": 3016.5, "y": -1442.5, "width": 331, "height": 259 }
+			},
+			"fennu": {
+				"fennu": { "x": 2170, "y": -1936.5, "width": 2024, "height": 1351 }
+			},
+			"kongju": {
+				"kongju": { "x": 3020, "y": -1436.5, "width": 332, "height": 267 }
+			},
+			"koushui": {
+				"koushui": { "x": 2841, "y": -1560, "width": 682, "height": 632 }
+			},
+			"yaoya": {
+				"yaoya": { "x": 3016.5, "y": -1446.5, "width": 331, "height": 237 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": "daiji" }
+				]
+			}
+		}
+	},
+	"fennu": {
+		"slots": {
+			"fennu": {
+				"attachment": [
+					{ "name": "fennu" }
+				]
+			}
+		}
+	},
+	"kongju": {
+		"slots": {
+			"kongju": {
+				"attachment": [
+					{ "name": "kongju" }
+				]
+			}
+		}
+	},
+	"koushui": {
+		"slots": {
+			"koushui": {
+				"attachment": [
+					{ "name": "koushui" }
+				]
+			}
+		}
+	},
+	"yaoya": {
+		"slots": {
+			"yaoya": {
+				"attachment": [
+					{ "name": "yaoya" }
+				]
+			}
+		}
+	}
+}
+}

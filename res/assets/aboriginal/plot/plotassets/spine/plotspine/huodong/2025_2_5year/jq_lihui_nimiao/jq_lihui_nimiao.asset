@@ -1,0 +1,71 @@
+{
+"skeleton": {
+	"hash": "5Ec83FGmWGKny76oXs1LyYso6pM",
+	"spine": "3.8.99",
+	"x": -468,
+	"y": -1422,
+	"width": 955,
+	"height": 2978,
+	"images": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\nimiao\\images",
+	"audio": "E:\\文案的活\\2.5周年活动文件\\spine处理\\psd原文件\\nimiao"
+},
+"bones": [
+	{ "name": "root", "x": -1620, "y": 1926 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "daiji", "bone": "root", "attachment": "daiji" },
+	{ "name": "yihuo", "bone": "root" },
+	{ "name": "tanqi", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 1629.5, "y": -1859, "width": 955, "height": 2978 }
+			},
+			"daiji": {
+				"daiji": { "x": 1525.5, "y": -921.5, "width": 311, "height": 225 }
+			},
+			"tanqi": {
+				"tanqi": { "x": 1518.5, "y": -931.5, "width": 301, "height": 217 }
+			},
+			"yihuo": {
+				"yihuo": { "x": 1521.5, "y": -923.5, "width": 319, "height": 215 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {},
+	"tanqi": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tanqi": {
+				"attachment": [
+					{ "name": "tanqi" }
+				]
+			}
+		}
+	},
+	"yihuo": {
+		"slots": {
+			"daiji": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yihuo": {
+				"attachment": [
+					{ "name": "yihuo" }
+				]
+			}
+		}
+	}
+}
+}

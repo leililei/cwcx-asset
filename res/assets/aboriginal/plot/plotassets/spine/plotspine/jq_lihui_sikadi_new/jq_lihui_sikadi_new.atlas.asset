@@ -1,0 +1,110 @@
+
+jq_lihui_sikadi_new.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 0, 2132
+  size: 3396, 1963
+  orig: 3396, 1963
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 3638, 3488
+  size: 217, 179
+  orig: 217, 179
+  offset: 0, 0
+  index: -1
+dajiao
+  rotate: false
+  xy: 3855, 3327
+  size: 217, 169
+  orig: 217, 169
+  offset: 0, 0
+  index: -1
+danyou
+  rotate: false
+  xy: 3613, 3334
+  size: 217, 154
+  orig: 217, 154
+  offset: 0, 0
+  index: -1
+ganga
+  rotate: false
+  xy: 3855, 3496
+  size: 217, 171
+  orig: 217, 171
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 3396, 3667
+  size: 653, 428
+  orig: 653, 428
+  offset: 0, 0
+  index: -1
+han
+  rotate: false
+  xy: 4049, 4075
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 3824, 3166
+  size: 202, 161
+  orig: 202, 161
+  offset: 0, 0
+  index: -1
+manzu
+  rotate: false
+  xy: 3396, 3182
+  size: 214, 166
+  orig: 214, 166
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: true
+  xy: 4026, 3252
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 3396, 3504
+  size: 242, 163
+  orig: 242, 163
+  offset: 0, 0
+  index: -1
+sisuo
+  rotate: false
+  xy: 3610, 3186
+  size: 214, 148
+  orig: 214, 148
+  offset: 0, 0
+  index: -1
+wunai
+  rotate: false
+  xy: 3396, 3348
+  size: 217, 156
+  orig: 217, 156
+  offset: 0, 0
+  index: -1
+
+jq_lihui_sikadi_new2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 159
+  size: 3192, 3033
+  orig: 3192, 3033
+  offset: 0, 0
+  index: -1

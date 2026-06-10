@@ -1,0 +1,56 @@
+{
+"skeleton": {
+	"hash": "cHFd56dGTjKEKccBHFpYY7cZdFA",
+	"spine": "3.8.99",
+	"x": -931.84,
+	"y": -2.86,
+	"width": 1845,
+	"height": 1468,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/逆爱"
+},
+"bones": [
+	{ "name": "root", "x": -930.84, "y": 1464.14 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "dai ji", "bone": "root", "attachment": "dai ji" },
+	{ "name": "feng nu", "bone": "root", "attachment": "feng nu" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 921.5, "y": -733, "width": 1845, "height": 1468 }
+			},
+			"dai ji": {
+				"dai ji": { "x": 974, "y": -472.5, "width": 228, "height": 157 }
+			},
+			"feng nu": {
+				"feng nu": { "x": 976.5, "y": -473.5, "width": 221, "height": 195 }
+			}
+		}
+	}
+],
+"animations": {
+	"daiji": {
+		"slots": {
+			"feng nu": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"fennu": {
+		"slots": {
+			"dai ji": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

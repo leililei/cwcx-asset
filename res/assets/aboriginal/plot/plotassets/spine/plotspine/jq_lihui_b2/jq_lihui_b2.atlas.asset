@@ -1,0 +1,20 @@
+
+jq_lihui_b2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 395
+  size: 2656, 2329
+  orig: 2658, 2331
+  offset: 1, 1
+  index: -1
+daiji
+  rotate: true
+  xy: 2656, 2571
+  size: 153, 68
+  orig: 155, 70
+  offset: 1, 1
+  index: -1

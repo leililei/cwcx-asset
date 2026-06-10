@@ -1,0 +1,32 @@
+{
+"skeleton": {
+	"hash": "muCOd7ywKc6gKXL1G0U/H/g2b+E",
+	"spine": "3.8.99",
+	"x": -254.27,
+	"y": -5.96,
+	"width": 786,
+	"height": 1178,
+	"images": "./images/",
+	"audio": "E:/SVN-创罪艾吉斯/美术/原画/立绘/完成稿/spine/士兵-受伤"
+},
+"bones": [
+	{ "name": "root", "x": -253.27, "y": 1171.04 }
+],
+"slots": [
+	{ "name": "body", "bone": "root", "attachment": "body" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"body": {
+				"body": { "x": 392, "y": -588, "width": 786, "height": 1178 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {},
+	"daiji": {}
+}
+}

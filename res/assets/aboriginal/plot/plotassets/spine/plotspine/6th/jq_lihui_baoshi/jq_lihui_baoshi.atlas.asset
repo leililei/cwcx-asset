@@ -1,0 +1,54 @@
+
+jq_lihui_baoshi.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji
+  rotate: false
+  xy: 331, 3441
+  size: 331, 259
+  orig: 331, 259
+  offset: 0, 0
+  index: -1
+fennu
+  rotate: false
+  xy: 1676, 2349
+  size: 2024, 1351
+  orig: 2024, 1351
+  offset: 0, 0
+  index: -1
+kongju
+  rotate: false
+  xy: 662, 3433
+  size: 332, 267
+  orig: 332, 267
+  offset: 0, 0
+  index: -1
+koushui
+  rotate: false
+  xy: 994, 3068
+  size: 682, 632
+  orig: 682, 632
+  offset: 0, 0
+  index: -1
+yaoya
+  rotate: false
+  xy: 0, 3463
+  size: 331, 237
+  orig: 331, 237
+  offset: 0, 0
+  index: -1
+
+jq_lihui_baoshi2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 911
+  size: 3882, 2971
+  orig: 3882, 2971
+  offset: 0, 0
+  index: -1

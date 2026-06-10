@@ -1,0 +1,27 @@
+
+jq_lihui_duoluolisi_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi zui
+  rotate: true
+  xy: 1771, 1543
+  size: 195, 147
+  orig: 195, 147
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 793
+  size: 1771, 1140
+  orig: 1771, 1140
+  offset: 0, 0
+  index: -1
+zhang zui
+  rotate: true
+  xy: 1771, 1738
+  size: 195, 162
+  orig: 195, 162
+  offset: 0, 0
+  index: -1

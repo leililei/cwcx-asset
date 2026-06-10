@@ -1,0 +1,62 @@
+
+jq_lihui_shanchenglian.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanxiao
+  rotate: false
+  xy: 1424, 3854
+  size: 335, 228
+  orig: 335, 228
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 0, 1961
+  size: 1685, 4082
+  orig: 1685, 4082
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 356, 3864
+  size: 356, 218
+  orig: 356, 218
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 1759, 3842
+  size: 353, 240
+  orig: 353, 240
+  offset: 0, 0
+  index: -1
+shuohua
+  rotate: false
+  xy: 1068, 3855
+  size: 356, 227
+  orig: 356, 227
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 2112, 3646
+  size: 436, 592
+  orig: 436, 592
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: false
+  xy: 0, 3870
+  size: 356, 212
+  orig: 356, 212
+  offset: 0, 0
+  index: -1
+zixin
+  rotate: false
+  xy: 712, 3859
+  size: 356, 223
+  orig: 356, 223
+  offset: 0, 0
+  index: -1

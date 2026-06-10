@@ -1,0 +1,33 @@
+
+jq_lihui_laelaps.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 0, 1107
+  size: 304, 525
+  orig: 304, 525
+  offset: 0, 0
+  index: -1
+daiji
+  rotate: false
+  xy: 525, 735
+  size: 886, 676
+  orig: 886, 676
+  offset: 0, 0
+  index: -1
+
+jq_lihui_laelaps2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 0
+  size: 1776, 2018
+  orig: 1776, 2018
+  offset: 0, 0
+  index: -1
